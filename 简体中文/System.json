@@ -1,0 +1,4268 @@
+﻿[
+  {
+    "Text": "是",
+    "StartAddress": 370928,
+    "EndAddress": 370935,
+    "MaxLength": 8
+  },
+  {
+    "Text": "否",
+    "StartAddress": 370936,
+    "EndAddress": 370943,
+    "MaxLength": 8
+  },
+  {
+    "Text": "好",
+    "StartAddress": 370944,
+    "EndAddress": 370951,
+    "MaxLength": 8
+  },
+  {
+    "Text": "真",
+    "StartAddress": 370952,
+    "EndAddress": 370959,
+    "MaxLength": 8
+  },
+  {
+    "Text": "假",
+    "StartAddress": 370960,
+    "EndAddress": 370967,
+    "MaxLength": 8
+  },
+  {
+    "Text": "你收到了",
+    "StartAddress": 370968,
+    "EndAddress": 370983,
+    "MaxLength": 16
+  },
+  {
+    "Text": "你给了",
+    "StartAddress": 370984,
+    "EndAddress": 370999,
+    "MaxLength": 16
+  },
+  {
+    "Text": "你使用了",
+    "StartAddress": 371000,
+    "EndAddress": 371015,
+    "MaxLength": 16
+  },
+  {
+    "Text": "你获得了\n<1>%s怪兽卡%s</1>",
+    "StartAddress": 371016,
+    "EndAddress": 371055,
+    "MaxLength": 40
+  },
+  {
+    "Text": "怪兽卡",
+    "StartAddress": 371056,
+    "EndAddress": 371071,
+    "MaxLength": 16
+  },
+  {
+    "Text": "你找到了<1>怪兽卡</1>!",
+    "StartAddress": 371072,
+    "EndAddress": 371103,
+    "MaxLength": 32
+  },
+  {
+    "Text": "在子屏幕上能<1>看</1>你收藏，\n或<1>裝備</1>卡牌！",
+    "StartAddress": 371104,
+    "EndAddress": 371175,
+    "MaxLength": 72
+  },
+  {
+    "Text": "按下跳过去",
+    "StartAddress": 371176,
+    "EndAddress": 371191,
+    "MaxLength": 16
+  },
+  {
+    "Text": "Press <IB action=Pause offsety=0.20/> to Skip",
+    "StartAddress": 371192,
+    "EndAddress": 371239,
+    "MaxLength": 48
+  },
+  {
+    "Text": "你交了一个\n%s!",
+    "StartAddress": 371240,
+    "EndAddress": 371263,
+    "MaxLength": 24
+  },
+  {
+    "Text": "控制器断线了。请重新连线，或点按继续来换成触控控制。",
+    "StartAddress": 371264,
+    "EndAddress": 371343,
+    "MaxLength": 80
+  },
+  {
+    "Text": "控制器断线了。重新连线来回复游戏。",
+    "StartAddress": 371344,
+    "EndAddress": 371399,
+    "MaxLength": 56
+  },
+  {
+    "Text": "继续",
+    "StartAddress": 371400,
+    "EndAddress": 371407,
+    "MaxLength": 8
+  },
+  {
+    "Text": "特级二",
+    "StartAddress": 371408,
+    "EndAddress": 371423,
+    "MaxLength": 16
+  },
+  {
+    "Text": "攻击",
+    "StartAddress": 371424,
+    "EndAddress": 371431,
+    "MaxLength": 8
+  },
+  {
+    "Text": "能力",
+    "StartAddress": 371432,
+    "EndAddress": 371439,
+    "MaxLength": 8
+  },
+  {
+    "Text": "确认",
+    "StartAddress": 371440,
+    "EndAddress": 371447,
+    "MaxLength": 8
+  },
+  {
+    "Text": "跳舞",
+    "StartAddress": 371448,
+    "EndAddress": 371455,
+    "MaxLength": 8
+  },
+  {
+    "Text": "特级三",
+    "StartAddress": 371456,
+    "EndAddress": 371471,
+    "MaxLength": 16
+  },
+  {
+    "Text": "下",
+    "StartAddress": 371472,
+    "EndAddress": 371479,
+    "MaxLength": 8
+  },
+  {
+    "Text": "魔法",
+    "StartAddress": 371480,
+    "EndAddress": 371487,
+    "MaxLength": 8
+  },
+  {
+    "Text": "跳",
+    "StartAddress": 371488,
+    "EndAddress": 371495,
+    "MaxLength": 8
+  },
+  {
+    "Text": "左",
+    "StartAddress": 371496,
+    "EndAddress": 371503,
+    "MaxLength": 8
+  },
+  {
+    "Text": "右循环",
+    "StartAddress": 371504,
+    "EndAddress": 371519,
+    "MaxLength": 16
+  },
+  {
+    "Text": "暂停",
+    "StartAddress": 371520,
+    "EndAddress": 371527,
+    "MaxLength": 8
+  },
+  {
+    "Text": "左循环",
+    "StartAddress": 371528,
+    "EndAddress": 371543,
+    "MaxLength": 16
+  },
+  {
+    "Text": "右",
+    "StartAddress": 371544,
+    "EndAddress": 371551,
+    "MaxLength": 8
+  },
+  {
+    "Text": "上",
+    "StartAddress": 371552,
+    "EndAddress": 371559,
+    "MaxLength": 8
+  },
+  {
+    "Text": "快冲",
+    "StartAddress": 371560,
+    "EndAddress": 371567,
+    "MaxLength": 8
+  },
+  {
+    "Text": "踩",
+    "StartAddress": 371568,
+    "EndAddress": 371575,
+    "MaxLength": 8
+  },
+  {
+    "Text": "子屏幕",
+    "StartAddress": 371576,
+    "EndAddress": 371591,
+    "MaxLength": 16
+  },
+  {
+    "Text": "装载中",
+    "StartAddress": 371592,
+    "EndAddress": 371607,
+    "MaxLength": 16
+  },
+  {
+    "Text": "<IB action=Confirm scale=1.75/>",
+    "StartAddress": 371608,
+    "EndAddress": 371639,
+    "MaxLength": 32
+  },
+  {
+    "Text": "选择",
+    "StartAddress": 371640,
+    "EndAddress": 371647,
+    "MaxLength": 8
+  },
+  {
+    "Text": "目前是否想前进到商店？",
+    "StartAddress": 371648,
+    "EndAddress": 371687,
+    "MaxLength": 40
+  },
+  {
+    "Text": "目前是否想前进到Xbox游戏店？",
+    "StartAddress": 371688,
+    "EndAddress": 371735,
+    "MaxLength": 48
+  },
+  {
+    "Text": "目前是否想前进到 PlayStation®店？",
+    "StartAddress": 371736,
+    "EndAddress": 371783,
+    "MaxLength": 48
+  },
+  {
+    "Text": "目前是否想前进到任天堂网店？",
+    "StartAddress": 371784,
+    "EndAddress": 371831,
+    "MaxLength": 48
+  },
+  {
+    "Text": "新装备了可下载内容：",
+    "StartAddress": 371832,
+    "EndAddress": 371863,
+    "MaxLength": 32
+  },
+  {
+    "Text": "按<IB action=Confirm scale=1.5/>",
+    "StartAddress": 371864,
+    "EndAddress": 371903,
+    "MaxLength": 40
+  },
+  {
+    "Text": "继续 <IB action=Confirm scale=0.8f/>",
+    "StartAddress": 371904,
+    "EndAddress": 371943,
+    "MaxLength": 40
+  },
+  {
+    "Text": "© 2020 WayForward Technologies. Shantae and the Shantae logo ™ Bozon.",
+    "StartAddress": 371944,
+    "EndAddress": 372023,
+    "MaxLength": 80
+  },
+  {
+    "Text": "按<IB action=Confirm scale=0.8f/>",
+    "StartAddress": 372024,
+    "EndAddress": 372063,
+    "MaxLength": 40
+  },
+  {
+    "Text": "触摸开始",
+    "StartAddress": 372064,
+    "EndAddress": 372079,
+    "MaxLength": 16
+  },
+  {
+    "Text": "确定想退出游戏吗？",
+    "StartAddress": 372080,
+    "EndAddress": 372111,
+    "MaxLength": 32
+  },
+  {
+    "Text": "开始",
+    "StartAddress": 372112,
+    "EndAddress": 372119,
+    "MaxLength": 8
+  },
+  {
+    "Text": "退出",
+    "StartAddress": 372120,
+    "EndAddress": 372127,
+    "MaxLength": 8
+  },
+  {
+    "Text": "开始",
+    "StartAddress": 372128,
+    "EndAddress": 372135,
+    "MaxLength": 8
+  },
+  {
+    "Text": "选项",
+    "StartAddress": 372136,
+    "EndAddress": 372143,
+    "MaxLength": 8
+  },
+  {
+    "Text": "额外选择",
+    "StartAddress": 372144,
+    "EndAddress": 372159,
+    "MaxLength": 16
+  },
+  {
+    "Text": "登出",
+    "StartAddress": 372160,
+    "EndAddress": 372167,
+    "MaxLength": 8
+  },
+  {
+    "Text": "想复制哪个档案？",
+    "StartAddress": 372168,
+    "EndAddress": 372199,
+    "MaxLength": 32
+  },
+  {
+    "Text": "复制到哪儿？",
+    "StartAddress": 372200,
+    "EndAddress": 372223,
+    "MaxLength": 24
+  },
+  {
+    "Text": "想删除哪个档案？",
+    "StartAddress": 372224,
+    "EndAddress": 372255,
+    "MaxLength": 32
+  },
+  {
+    "Text": "复制",
+    "StartAddress": 372256,
+    "EndAddress": 372263,
+    "MaxLength": 8
+  },
+  {
+    "Text": "删除",
+    "StartAddress": 372264,
+    "EndAddress": 372271,
+    "MaxLength": 8
+  },
+  {
+    "Text": "选项",
+    "StartAddress": 372272,
+    "EndAddress": 372279,
+    "MaxLength": 8
+  },
+  {
+    "Text": "额外选择",
+    "StartAddress": 372280,
+    "EndAddress": 372295,
+    "MaxLength": 16
+  },
+  {
+    "Text": "新游戏",
+    "StartAddress": 372296,
+    "EndAddress": 372311,
+    "MaxLength": 16
+  },
+  {
+    "Text": "确定要删除档案？",
+    "StartAddress": 372312,
+    "EndAddress": 372343,
+    "MaxLength": 32
+  },
+  {
+    "Text": "确定要复制档案？",
+    "StartAddress": 372344,
+    "EndAddress": 372375,
+    "MaxLength": 32
+  },
+  {
+    "Text": "档案%d",
+    "StartAddress": 372376,
+    "EndAddress": 372391,
+    "MaxLength": 16
+  },
+  {
+    "Text": "无法连线到云服务器\n使用本地存档\n注意覆盖",
+    "StartAddress": 372392,
+    "EndAddress": 372455,
+    "MaxLength": 64
+  },
+  {
+    "Text": "00 : 00",
+    "StartAddress": 372456,
+    "EndAddress": 372463,
+    "MaxLength": 8
+  },
+  {
+    "Text": "模式选择",
+    "StartAddress": 372464,
+    "EndAddress": 372479,
+    "MaxLength": 16
+  },
+  {
+    "Text": "原本",
+    "StartAddress": 372480,
+    "EndAddress": 372487,
+    "MaxLength": 8
+  },
+  {
+    "Text": "玩游戏的原式！",
+    "StartAddress": 372488,
+    "EndAddress": 372511,
+    "MaxLength": 24
+  },
+  {
+    "Text": "新游戏+",
+    "StartAddress": 372512,
+    "EndAddress": 372527,
+    "MaxLength": 16
+  },
+  {
+    "Text": "更多魔法，但少点防御！",
+    "StartAddress": 372528,
+    "EndAddress": 372567,
+    "MaxLength": 40
+  },
+  {
+    "Text": "第一段",
+    "StartAddress": 372568,
+    "EndAddress": 372583,
+    "MaxLength": 16
+  },
+  {
+    "Text": "欢迎！",
+    "StartAddress": 372584,
+    "EndAddress": 372599,
+    "MaxLength": 16
+  },
+  {
+    "Text": "您将要享受桑塔与七赛莲第一段。\n\n在第一段的结局，您的游戏进度会被存档为了能\n装载进第二段，将在未来更新免费提供。\n\n我们希望您玩桑塔与七赛莲玩得愉快！",
+    "StartAddress": 372600,
+    "EndAddress": 372823,
+    "MaxLength": 224
+  },
+  {
+    "Text": "第二段",
+    "StartAddress": 372824,
+    "EndAddress": 372839,
+    "MaxLength": 16
+  },
+  {
+    "Text": "欢迎回来！",
+    "StartAddress": 372840,
+    "EndAddress": 372855,
+    "MaxLength": 16
+  },
+  {
+    "Text": "\n你第一段的游戏进度已装载了！\n\n准备体验桑塔与七赛莲刺激的结局！",
+    "StartAddress": 372856,
+    "EndAddress": 372951,
+    "MaxLength": 96
+  },
+  {
+    "Text": "第一段结束",
+    "StartAddress": 372952,
+    "EndAddress": 372967,
+    "MaxLength": 16
+  },
+  {
+    "Text": "谢谢玩桑塔与七赛莲第一段！\n\n你的探险已存档了。可以继续使用目前档案探索\n游戏世界。\n\n收集的任何项目都将能带进将来\n免费更新版的第二段。好好享受！",
+    "StartAddress": 372968,
+    "EndAddress": 373183,
+    "MaxLength": 216
+  },
+  {
+    "Text": "电影模式",
+    "StartAddress": 373184,
+    "EndAddress": 373207,
+    "MaxLength": 24
+  },
+  {
+    "Text": "???",
+    "StartAddress": 373208,
+    "EndAddress": 373215,
+    "MaxLength": 8
+  },
+  {
+    "Text": "100%项目！",
+    "StartAddress": 373216,
+    "EndAddress": 373231,
+    "MaxLength": 16
+  },
+  {
+    "Text": "拥有百分之百的项目而使用任何速度完成游戏。",
+    "StartAddress": 373232,
+    "EndAddress": 373295,
+    "MaxLength": 64
+  },
+  {
+    "Text": "赢家！",
+    "StartAddress": 373296,
+    "EndAddress": 373311,
+    "MaxLength": 16
+  },
+  {
+    "Text": "拥有任何百分比的项目而使用任何速度完成游戏。",
+    "StartAddress": 373312,
+    "EndAddress": 373383,
+    "MaxLength": 72
+  },
+  {
+    "Text": "100%项目，快速！",
+    "StartAddress": 373384,
+    "EndAddress": 373407,
+    "MaxLength": 24
+  },
+  {
+    "Text": "拥有百分之百项目而使用高速度完成游戏。",
+    "StartAddress": 373408,
+    "EndAddress": 373471,
+    "MaxLength": 64
+  },
+  {
+    "Text": "最高速度！",
+    "StartAddress": 373472,
+    "EndAddress": 373487,
+    "MaxLength": 16
+  },
+  {
+    "Text": "拥有任何百分比而使用极高速度完成游戏。",
+    "StartAddress": 373488,
+    "EndAddress": 373551,
+    "MaxLength": 64
+  },
+  {
+    "Text": "额外选择",
+    "StartAddress": 373552,
+    "EndAddress": 373567,
+    "MaxLength": 16
+  },
+  {
+    "Text": "获奖屏幕",
+    "StartAddress": 373568,
+    "EndAddress": 373583,
+    "MaxLength": 16
+  },
+  {
+    "Text": "电影模式",
+    "StartAddress": 373584,
+    "EndAddress": 373599,
+    "MaxLength": 16
+  },
+  {
+    "Text": "工作人员",
+    "StartAddress": 373600,
+    "EndAddress": 373615,
+    "MaxLength": 16
+  },
+  {
+    "Text": "成绩",
+    "StartAddress": 373616,
+    "EndAddress": 373623,
+    "MaxLength": 8
+  },
+  {
+    "Text": "档案",
+    "StartAddress": 373624,
+    "EndAddress": 373631,
+    "MaxLength": 8
+  },
+  {
+    "Text": "继续",
+    "StartAddress": 373632,
+    "EndAddress": 373639,
+    "MaxLength": 8
+  },
+  {
+    "Text": "新游戏",
+    "StartAddress": 373640,
+    "EndAddress": 373679,
+    "MaxLength": 40
+  },
+  {
+    "Text": "选项",
+    "StartAddress": 373680,
+    "EndAddress": 373687,
+    "MaxLength": 8
+  },
+  {
+    "Text": "音效",
+    "StartAddress": 373688,
+    "EndAddress": 373695,
+    "MaxLength": 8
+  },
+  {
+    "Text": "音乐",
+    "StartAddress": 373696,
+    "EndAddress": 373703,
+    "MaxLength": 8
+  },
+  {
+    "Text": "音量",
+    "StartAddress": 373704,
+    "EndAddress": 373711,
+    "MaxLength": 8
+  },
+  {
+    "Text": "分辨率",
+    "StartAddress": 373712,
+    "EndAddress": 373727,
+    "MaxLength": 16
+  },
+  {
+    "Text": "屏幕模式",
+    "StartAddress": 373728,
+    "EndAddress": 373743,
+    "MaxLength": 16
+  },
+  {
+    "Text": "视窗模式",
+    "StartAddress": 373744,
+    "EndAddress": 373759,
+    "MaxLength": 16
+  },
+  {
+    "Text": "全屏",
+    "StartAddress": 373760,
+    "EndAddress": 373767,
+    "MaxLength": 8
+  },
+  {
+    "Text": "控制",
+    "StartAddress": 373768,
+    "EndAddress": 373775,
+    "MaxLength": 8
+  },
+  {
+    "Text": "遥控配置",
+    "StartAddress": 373776,
+    "EndAddress": 373791,
+    "MaxLength": 16
+  },
+  {
+    "Text": "应用",
+    "StartAddress": 373792,
+    "EndAddress": 373799,
+    "MaxLength": 8
+  },
+  {
+    "Text": "取消",
+    "StartAddress": 373800,
+    "EndAddress": 373807,
+    "MaxLength": 8
+  },
+  {
+    "Text": "分辨率存档了。游戏得重新启动新设定才能有效。现在重新启动？",
+    "StartAddress": 373808,
+    "EndAddress": 373895,
+    "MaxLength": 88
+  },
+  {
+    "Text": "档案",
+    "StartAddress": 373896,
+    "EndAddress": 373903,
+    "MaxLength": 8
+  },
+  {
+    "Text": "帮组",
+    "StartAddress": 373904,
+    "EndAddress": 373911,
+    "MaxLength": 8
+  },
+  {
+    "Text": "抗混叠",
+    "StartAddress": 373912,
+    "EndAddress": 373927,
+    "MaxLength": 16
+  },
+  {
+    "Text": "开",
+    "StartAddress": 373928,
+    "EndAddress": 373935,
+    "MaxLength": 8
+  },
+  {
+    "Text": "关",
+    "StartAddress": 373936,
+    "EndAddress": 373943,
+    "MaxLength": 8
+  },
+  {
+    "Text": "动态",
+    "StartAddress": 373944,
+    "EndAddress": 373951,
+    "MaxLength": 8
+  },
+  {
+    "Text": "亮度",
+    "StartAddress": 373952,
+    "EndAddress": 373959,
+    "MaxLength": 8
+  },
+  {
+    "Text": "震动",
+    "StartAddress": 373960,
+    "EndAddress": 373967,
+    "MaxLength": 8
+  },
+  {
+    "Text": "开",
+    "StartAddress": 373968,
+    "EndAddress": 373975,
+    "MaxLength": 8
+  },
+  {
+    "Text": "关",
+    "StartAddress": 373976,
+    "EndAddress": 373983,
+    "MaxLength": 8
+  },
+  {
+    "Text": "语言",
+    "StartAddress": 373984,
+    "EndAddress": 373991,
+    "MaxLength": 8
+  },
+  {
+    "Text": "预设",
+    "StartAddress": 373992,
+    "EndAddress": 373999,
+    "MaxLength": 8
+  },
+  {
+    "Text": "工作人员",
+    "StartAddress": 374000,
+    "EndAddress": 374015,
+    "MaxLength": 16
+  },
+  {
+    "Text": "英语",
+    "StartAddress": 374016,
+    "EndAddress": 374023,
+    "MaxLength": 8
+  },
+  {
+    "Text": "法语",
+    "StartAddress": 374024,
+    "EndAddress": 374031,
+    "MaxLength": 8
+  },
+  {
+    "Text": "意大利语",
+    "StartAddress": 374032,
+    "EndAddress": 374047,
+    "MaxLength": 16
+  },
+  {
+    "Text": "德语",
+    "StartAddress": 374048,
+    "EndAddress": 374055,
+    "MaxLength": 8
+  },
+  {
+    "Text": "西班牙语",
+    "StartAddress": 374056,
+    "EndAddress": 374071,
+    "MaxLength": 16
+  },
+  {
+    "Text": "葡萄牙语",
+    "StartAddress": 374072,
+    "EndAddress": 374087,
+    "MaxLength": 16
+  },
+  {
+    "Text": "荷兰语",
+    "StartAddress": 374088,
+    "EndAddress": 374103,
+    "MaxLength": 16
+  },
+  {
+    "Text": "俄语",
+    "StartAddress": 374104,
+    "EndAddress": 374111,
+    "MaxLength": 8
+  },
+  {
+    "Text": "土耳其语",
+    "StartAddress": 374112,
+    "EndAddress": 374127,
+    "MaxLength": 16
+  },
+  {
+    "Text": "阿拉伯语",
+    "StartAddress": 374128,
+    "EndAddress": 374143,
+    "MaxLength": 16
+  },
+  {
+    "Text": "日语",
+    "StartAddress": 374144,
+    "EndAddress": 374151,
+    "MaxLength": 8
+  },
+  {
+    "Text": "韩语",
+    "StartAddress": 374152,
+    "EndAddress": 374159,
+    "MaxLength": 8
+  },
+  {
+    "Text": "简体",
+    "StartAddress": 374160,
+    "EndAddress": 374167,
+    "MaxLength": 8
+  },
+  {
+    "Text": "繁体",
+    "StartAddress": 374168,
+    "EndAddress": 374175,
+    "MaxLength": 8
+  },
+  {
+    "Text": "细节层次",
+    "StartAddress": 374176,
+    "EndAddress": 374191,
+    "MaxLength": 16
+  },
+  {
+    "Text": "高",
+    "StartAddress": 374192,
+    "EndAddress": 374199,
+    "MaxLength": 8
+  },
+  {
+    "Text": "中",
+    "StartAddress": 374200,
+    "EndAddress": 374207,
+    "MaxLength": 8
+  },
+  {
+    "Text": "低",
+    "StartAddress": 374208,
+    "EndAddress": 374215,
+    "MaxLength": 8
+  },
+  {
+    "Text": "触控利手",
+    "StartAddress": 374216,
+    "EndAddress": 374231,
+    "MaxLength": 16
+  },
+  {
+    "Text": "左利手",
+    "StartAddress": 374232,
+    "EndAddress": 374247,
+    "MaxLength": 16
+  },
+  {
+    "Text": "右利手",
+    "StartAddress": 374248,
+    "EndAddress": 374263,
+    "MaxLength": 16
+  },
+  {
+    "Text": "触控配置",
+    "StartAddress": 374264,
+    "EndAddress": 374279,
+    "MaxLength": 16
+  },
+  {
+    "Text": "电影字幕",
+    "StartAddress": 374280,
+    "EndAddress": 374295,
+    "MaxLength": 16
+  },
+  {
+    "Text": "配置",
+    "StartAddress": 374296,
+    "EndAddress": 374303,
+    "MaxLength": 8
+  },
+  {
+    "Text": "取消",
+    "StartAddress": 374304,
+    "EndAddress": 374311,
+    "MaxLength": 8
+  },
+  {
+    "Text": "预设",
+    "StartAddress": 374312,
+    "EndAddress": 374319,
+    "MaxLength": 8
+  },
+  {
+    "Text": "应用",
+    "StartAddress": 374320,
+    "EndAddress": 374327,
+    "MaxLength": 8
+  },
+  {
+    "Text": "键盘",
+    "StartAddress": 374328,
+    "EndAddress": 374335,
+    "MaxLength": 8
+  },
+  {
+    "Text": "手柄",
+    "StartAddress": 374336,
+    "EndAddress": 374343,
+    "MaxLength": 8
+  },
+  {
+    "Text": "按任何按键",
+    "StartAddress": 374344,
+    "EndAddress": 374359,
+    "MaxLength": 16
+  },
+  {
+    "Text": "设定绑定为：",
+    "StartAddress": 374360,
+    "EndAddress": 374383,
+    "MaxLength": 24
+  },
+  {
+    "Text": "无绑定！",
+    "StartAddress": 374384,
+    "EndAddress": 374399,
+    "MaxLength": 16
+  },
+  {
+    "Text": "确定想失去触控控制的改变吗？",
+    "StartAddress": 374400,
+    "EndAddress": 374447,
+    "MaxLength": 48
+  },
+  {
+    "Text": "比例：",
+    "StartAddress": 374448,
+    "EndAddress": 374463,
+    "MaxLength": 16
+  },
+  {
+    "Text": "不透明度：",
+    "StartAddress": 374464,
+    "EndAddress": 374479,
+    "MaxLength": 16
+  },
+  {
+    "Text": "点按按钮来调整大小，而点击并拖动按钮来调整位置。",
+    "StartAddress": 374480,
+    "EndAddress": 374559,
+    "MaxLength": 80
+  },
+  {
+    "Text": "是否想存档进度？",
+    "StartAddress": 374560,
+    "EndAddress": 374591,
+    "MaxLength": 32
+  },
+  {
+    "Text": "存档中…",
+    "StartAddress": 374592,
+    "EndAddress": 374607,
+    "MaxLength": 16
+  },
+  {
+    "Text": "存档完成！",
+    "StartAddress": 374608,
+    "EndAddress": 374623,
+    "MaxLength": 16
+  },
+  {
+    "Text": "存档失败。",
+    "StartAddress": 374624,
+    "EndAddress": 374639,
+    "MaxLength": 16
+  },
+  {
+    "Text": "游戏暂停",
+    "StartAddress": 374640,
+    "EndAddress": 374655,
+    "MaxLength": 16
+  },
+  {
+    "Text": "恢复",
+    "StartAddress": 374656,
+    "EndAddress": 374663,
+    "MaxLength": 8
+  },
+  {
+    "Text": "退出",
+    "StartAddress": 374664,
+    "EndAddress": 374671,
+    "MaxLength": 8
+  },
+  {
+    "Text": "选项",
+    "StartAddress": 374672,
+    "EndAddress": 374679,
+    "MaxLength": 8
+  },
+  {
+    "Text": "阶段选择",
+    "StartAddress": 374680,
+    "EndAddress": 374695,
+    "MaxLength": 16
+  },
+  {
+    "Text": "切过教程",
+    "StartAddress": 374696,
+    "EndAddress": 374711,
+    "MaxLength": 16
+  },
+  {
+    "Text": "任何未存档的进度将会消失掉。\n确定想退出吗？",
+    "StartAddress": 374712,
+    "EndAddress": 374783,
+    "MaxLength": 72
+  },
+  {
+    "Text": "切过剩下的教程？",
+    "StartAddress": 374784,
+    "EndAddress": 374815,
+    "MaxLength": 32
+  },
+  {
+    "Text": "地图",
+    "StartAddress": 374816,
+    "EndAddress": 374823,
+    "MaxLength": 8
+  },
+  {
+    "Text": "卡牌",
+    "StartAddress": 374824,
+    "EndAddress": 374831,
+    "MaxLength": 8
+  },
+  {
+    "Text": "按下<IB action=PreviousItem scale=0.5f/>或 <IB action=NextItem scale=0.5f/>交换面板。",
+    "StartAddress": 374832,
+    "EndAddress": 374927,
+    "MaxLength": 96
+  },
+  {
+    "Text": "选项",
+    "StartAddress": 374928,
+    "EndAddress": 374935,
+    "MaxLength": 8
+  },
+  {
+    "Text": "退出",
+    "StartAddress": 374936,
+    "EndAddress": 374943,
+    "MaxLength": 8
+  },
+  {
+    "Text": "遗址",
+    "StartAddress": 374944,
+    "EndAddress": 374951,
+    "MaxLength": 8
+  },
+  {
+    "Text": "舞蹈",
+    "StartAddress": 374952,
+    "EndAddress": 374959,
+    "MaxLength": 8
+  },
+  {
+    "Text": "存货",
+    "StartAddress": 374960,
+    "EndAddress": 374967,
+    "MaxLength": 8
+  },
+  {
+    "Text": "关键项目",
+    "StartAddress": 374968,
+    "EndAddress": 374983,
+    "MaxLength": 16
+  },
+  {
+    "Text": "融合",
+    "StartAddress": 374984,
+    "EndAddress": 374991,
+    "MaxLength": 8
+  },
+  {
+    "Text": "卡牌",
+    "StartAddress": 374992,
+    "EndAddress": 374999,
+    "MaxLength": 8
+  },
+  {
+    "Text": "项目",
+    "StartAddress": 375000,
+    "EndAddress": 375007,
+    "MaxLength": 8
+  },
+  {
+    "Text": "地图",
+    "StartAddress": 375008,
+    "EndAddress": 375015,
+    "MaxLength": 8
+  },
+  {
+    "Text": "系统",
+    "StartAddress": 375016,
+    "EndAddress": 375023,
+    "MaxLength": 8
+  },
+  {
+    "Text": "使用",
+    "StartAddress": 375024,
+    "EndAddress": 375031,
+    "MaxLength": 8
+  },
+  {
+    "Text": "取消",
+    "StartAddress": 375032,
+    "EndAddress": 375039,
+    "MaxLength": 8
+  },
+  {
+    "Text": "<IB action=Dance/>地区地图",
+    "StartAddress": 375040,
+    "EndAddress": 375071,
+    "MaxLength": 32
+  },
+  {
+    "Text": "<IB action=Dance/>世界地图",
+    "StartAddress": 375072,
+    "EndAddress": 375103,
+    "MaxLength": 32
+  },
+  {
+    "Text": "<IB action=Attack/>放大",
+    "StartAddress": 375104,
+    "EndAddress": 375135,
+    "MaxLength": 32
+  },
+  {
+    "Text": "<IB action=Attack/>缩小",
+    "StartAddress": 375136,
+    "EndAddress": 375167,
+    "MaxLength": 32
+  },
+  {
+    "Text": "世界地图",
+    "StartAddress": 375168,
+    "EndAddress": 375183,
+    "MaxLength": 16
+  },
+  {
+    "Text": "半精灵",
+    "StartAddress": 375184,
+    "EndAddress": 375199,
+    "MaxLength": 16
+  },
+  {
+    "Text": "存档",
+    "StartAddress": 375200,
+    "EndAddress": 375207,
+    "MaxLength": 8
+  },
+  {
+    "Text": "扭曲房",
+    "StartAddress": 375208,
+    "EndAddress": 375223,
+    "MaxLength": 16
+  },
+  {
+    "Text": "迷宫",
+    "StartAddress": 375224,
+    "EndAddress": 375231,
+    "MaxLength": 8
+  },
+  {
+    "Text": "大头目",
+    "StartAddress": 375232,
+    "EndAddress": 375247,
+    "MaxLength": 16
+  },
+  {
+    "Text": "乡村",
+    "StartAddress": 375248,
+    "EndAddress": 375255,
+    "MaxLength": 8
+  },
+  {
+    "Text": "实验室入口",
+    "StartAddress": 375256,
+    "EndAddress": 375271,
+    "MaxLength": 16
+  },
+  {
+    "Text": "怪兽卡",
+    "StartAddress": 375272,
+    "EndAddress": 375287,
+    "MaxLength": 16
+  },
+  {
+    "Text": "返回",
+    "StartAddress": 375288,
+    "EndAddress": 375295,
+    "MaxLength": 8
+  },
+  {
+    "Text": "项目",
+    "StartAddress": 375296,
+    "EndAddress": 375303,
+    "MaxLength": 8
+  },
+  {
+    "Text": "是",
+    "StartAddress": 375304,
+    "EndAddress": 375311,
+    "MaxLength": 8
+  },
+  {
+    "Text": "否",
+    "StartAddress": 375312,
+    "EndAddress": 375319,
+    "MaxLength": 8
+  },
+  {
+    "Text": "卖光了！",
+    "StartAddress": 375320,
+    "EndAddress": 375335,
+    "MaxLength": 16
+  },
+  {
+    "Text": "不好意思，不够宝石！",
+    "StartAddress": 375336,
+    "EndAddress": 375367,
+    "MaxLength": 32
+  },
+  {
+    "Text": "购买 <I anim=ui_game:hud.anb seq=gem scale=0.75f offsety=0.3f offsetx=0.2f width=0.5f/>%03d ?",
+    "StartAddress": 375368,
+    "EndAddress": 375463,
+    "MaxLength": 96
+  },
+  {
+    "Text": "退出商店！",
+    "StartAddress": 375464,
+    "EndAddress": 375479,
+    "MaxLength": 16
+  },
+  {
+    "Text": "游戏结束！",
+    "StartAddress": 375480,
+    "EndAddress": 375495,
+    "MaxLength": 16
+  },
+  {
+    "Text": "继续",
+    "StartAddress": 375496,
+    "EndAddress": 375503,
+    "MaxLength": 8
+  },
+  {
+    "Text": "退出",
+    "StartAddress": 375504,
+    "EndAddress": 375511,
+    "MaxLength": 8
+  },
+  {
+    "Text": "游戏时间",
+    "StartAddress": 375512,
+    "EndAddress": 375527,
+    "MaxLength": 16
+  },
+  {
+    "Text": "项目收藏",
+    "StartAddress": 375528,
+    "EndAddress": 375543,
+    "MaxLength": 16
+  },
+  {
+    "Text": "按",
+    "StartAddress": 375544,
+    "EndAddress": 375551,
+    "MaxLength": 8
+  },
+  {
+    "Text": "红利图像～游戏通过，最快时间记录！",
+    "StartAddress": 375552,
+    "EndAddress": 375607,
+    "MaxLength": 56
+  },
+  {
+    "Text": "红利图像～最快时间记录，百分之百！",
+    "StartAddress": 375608,
+    "EndAddress": 375663,
+    "MaxLength": 56
+  },
+  {
+    "Text": "红利图像～百分之百通过！",
+    "StartAddress": 375664,
+    "EndAddress": 375703,
+    "MaxLength": 40
+  },
+  {
+    "Text": "红利图像～游戏通过！",
+    "StartAddress": 375704,
+    "EndAddress": 375735,
+    "MaxLength": 32
+  },
+  {
+    "Text": "玩",
+    "StartAddress": 375736,
+    "EndAddress": 375743,
+    "MaxLength": 8
+  },
+  {
+    "Text": "规则",
+    "StartAddress": 375744,
+    "EndAddress": 375751,
+    "MaxLength": 8
+  },
+  {
+    "Text": "一、十颗宝石",
+    "StartAddress": 375752,
+    "EndAddress": 375775,
+    "MaxLength": 24
+  },
+  {
+    "Text": "二、十八颗宝石",
+    "StartAddress": 375776,
+    "EndAddress": 375799,
+    "MaxLength": 24
+  },
+  {
+    "Text": "三、二十五颗宝石",
+    "StartAddress": 375800,
+    "EndAddress": 375831,
+    "MaxLength": 32
+  },
+  {
+    "Text": "全通过！获得%s红利宝石",
+    "StartAddress": 375832,
+    "EndAddress": 375871,
+    "MaxLength": 40
+  },
+  {
+    "Text": "不足够宝石继续玩！",
+    "StartAddress": 375872,
+    "EndAddress": 375903,
+    "MaxLength": 32
+  },
+  {
+    "Text": "宝石总额",
+    "StartAddress": 375904,
+    "EndAddress": 375919,
+    "MaxLength": 16
+  },
+  {
+    "Text": "弹丸",
+    "StartAddress": 375920,
+    "EndAddress": 375927,
+    "MaxLength": 8
+  },
+  {
+    "Text": "开始！",
+    "StartAddress": 375928,
+    "EndAddress": 375943,
+    "MaxLength": 16
+  },
+  {
+    "Text": "玩的方式",
+    "StartAddress": 375944,
+    "EndAddress": 375959,
+    "MaxLength": 16
+  },
+  {
+    "Text": "懂了！",
+    "StartAddress": 375960,
+    "EndAddress": 375975,
+    "MaxLength": 16
+  },
+  {
+    "Text": "动",
+    "StartAddress": 375976,
+    "EndAddress": 375983,
+    "MaxLength": 8
+  },
+  {
+    "Text": "跳",
+    "StartAddress": 375984,
+    "EndAddress": 375991,
+    "MaxLength": 8
+  },
+  {
+    "Text": "攻击",
+    "StartAddress": 375992,
+    "EndAddress": 375999,
+    "MaxLength": 8
+  },
+  {
+    "Text": "使用",
+    "StartAddress": 376000,
+    "EndAddress": 376007,
+    "MaxLength": 8
+  },
+  {
+    "Text": "循环",
+    "StartAddress": 376008,
+    "EndAddress": 376015,
+    "MaxLength": 8
+  },
+  {
+    "Text": "跳舞",
+    "StartAddress": 376016,
+    "EndAddress": 376023,
+    "MaxLength": 8
+  },
+  {
+    "Text": "选单",
+    "StartAddress": 376024,
+    "EndAddress": 376031,
+    "MaxLength": 8
+  },
+  {
+    "Text": "你获得了玩家指南！",
+    "StartAddress": 376032,
+    "EndAddress": 376063,
+    "MaxLength": 32
+  },
+  {
+    "Text": "若想看玩法的提示，在存货里点按此项目。",
+    "StartAddress": 376064,
+    "EndAddress": 376127,
+    "MaxLength": 64
+  },
+  {
+    "Text": "目前显示预设控制。控制可以在选项屏幕里定制。",
+    "StartAddress": 376128,
+    "EndAddress": 376199,
+    "MaxLength": 72
+  },
+  {
+    "Text": "您在云端和设备上的保存数据不同。",
+    "StartAddress": 376200,
+    "EndAddress": 376255,
+    "MaxLength": 56
+  },
+  {
+    "Text": "请选择一个来保留。",
+    "StartAddress": 376256,
+    "EndAddress": 376287,
+    "MaxLength": 32
+  },
+  {
+    "Text": "另一个将被扔弃。",
+    "StartAddress": 376288,
+    "EndAddress": 376319,
+    "MaxLength": 32
+  },
+  {
+    "Text": "您的GameCenter ID是: %s",
+    "StartAddress": 376320,
+    "EndAddress": 376351,
+    "MaxLength": 32
+  },
+  {
+    "Text": "设备:",
+    "StartAddress": 376352,
+    "EndAddress": 376359,
+    "MaxLength": 8
+  },
+  {
+    "Text": "设备: %s\n最后保存:\n%s ",
+    "StartAddress": 376360,
+    "EndAddress": 376391,
+    "MaxLength": 32
+  },
+  {
+    "Text": "最后保存:",
+    "StartAddress": 376392,
+    "EndAddress": 376407,
+    "MaxLength": 16
+  },
+  {
+    "Text": "设备:\n%s\n最后保存:\n%s",
+    "StartAddress": 376408,
+    "EndAddress": 376439,
+    "MaxLength": 32
+  },
+  {
+    "Text": "本地",
+    "StartAddress": 376440,
+    "EndAddress": 376447,
+    "MaxLength": 8
+  },
+  {
+    "Text": "iCloud",
+    "StartAddress": 376448,
+    "EndAddress": 376455,
+    "MaxLength": 8
+  },
+  {
+    "Text": "保留",
+    "StartAddress": 376456,
+    "EndAddress": 376463,
+    "MaxLength": 8
+  },
+  {
+    "Text": "未知",
+    "StartAddress": 376464,
+    "EndAddress": 376471,
+    "MaxLength": 8
+  },
+  {
+    "Text": "警告：选择一个将会洗掉另一个",
+    "StartAddress": 376472,
+    "EndAddress": 376519,
+    "MaxLength": 48
+  },
+  {
+    "Text": "警告：选择本地将会把两个都覆写。选择云来装载而返回首页。",
+    "StartAddress": 376520,
+    "EndAddress": 376607,
+    "MaxLength": 88
+  },
+  {
+    "Text": "半精灵奥秘地消失了……",
+    "StartAddress": 376608,
+    "EndAddress": 376647,
+    "MaxLength": 40
+  },
+  {
+    "Text": "……而就这样，节庆就结束了。",
+    "StartAddress": 376648,
+    "EndAddress": 376695,
+    "MaxLength": 48
+  },
+  {
+    "Text": "隔天早上……",
+    "StartAddress": 376696,
+    "EndAddress": 376719,
+    "MaxLength": 24
+  },
+  {
+    "Text": "…….情况被拯救了！",
+    "StartAddress": 376720,
+    "EndAddress": 376751,
+    "MaxLength": 32
+  },
+  {
+    "Text": "不久，到了该回家的时间……",
+    "StartAddress": 376752,
+    "EndAddress": 376791,
+    "MaxLength": 40
+  },
+  {
+    "Text": "人物选择",
+    "StartAddress": 376792,
+    "EndAddress": 376807,
+    "MaxLength": 16
+  },
+  {
+    "Text": "档案选择",
+    "StartAddress": 376808,
+    "EndAddress": 376823,
+    "MaxLength": 16
+  },
+  {
+    "Text": "选项",
+    "StartAddress": 376824,
+    "EndAddress": 376831,
+    "MaxLength": 8
+  },
+  {
+    "Text": "世界过关！",
+    "StartAddress": 376832,
+    "EndAddress": 376847,
+    "MaxLength": 16
+  },
+  {
+    "Text": "准备？",
+    "StartAddress": 376848,
+    "EndAddress": 376863,
+    "MaxLength": 16
+  },
+  {
+    "Text": "游戏结束",
+    "StartAddress": 376864,
+    "EndAddress": 376879,
+    "MaxLength": 16
+  },
+  {
+    "Text": "五十宝石",
+    "StartAddress": 376880,
+    "EndAddress": 376895,
+    "MaxLength": 16
+  },
+  {
+    "Text": "一百宝石",
+    "StartAddress": 376896,
+    "EndAddress": 376911,
+    "MaxLength": 16
+  },
+  {
+    "Text": "吸引",
+    "StartAddress": 376912,
+    "EndAddress": 376919,
+    "MaxLength": 8
+  },
+  {
+    "Text": "超级吸引",
+    "StartAddress": 376920,
+    "EndAddress": 376935,
+    "MaxLength": 16
+  },
+  {
+    "Text": "极大吸引",
+    "StartAddress": 376936,
+    "EndAddress": 376951,
+    "MaxLength": 16
+  },
+  {
+    "Text": "自动神药",
+    "StartAddress": 376952,
+    "EndAddress": 376967,
+    "MaxLength": 16
+  },
+  {
+    "Text": "后快冲",
+    "StartAddress": 376968,
+    "EndAddress": 376983,
+    "MaxLength": 16
+  },
+  {
+    "Text": "平滑藤壶",
+    "StartAddress": 376984,
+    "EndAddress": 376999,
+    "MaxLength": 16
+  },
+  {
+    "Text": "藤壶",
+    "StartAddress": 377000,
+    "EndAddress": 377007,
+    "MaxLength": 8
+  },
+  {
+    "Text": "块状藤壶",
+    "StartAddress": 377008,
+    "EndAddress": 377023,
+    "MaxLength": 16
+  },
+  {
+    "Text": "老板键",
+    "StartAddress": 377024,
+    "EndAddress": 377039,
+    "MaxLength": 16
+  },
+  {
+    "Text": "布烂松娃娃",
+    "StartAddress": 377040,
+    "EndAddress": 377055,
+    "MaxLength": 16
+  },
+  {
+    "Text": "罐头吞拿鱼",
+    "StartAddress": 377056,
+    "EndAddress": 377071,
+    "MaxLength": 16
+  },
+  {
+    "Text": "清单",
+    "StartAddress": 377072,
+    "EndAddress": 377079,
+    "MaxLength": 8
+  },
+  {
+    "Text": "编码簿",
+    "StartAddress": 377080,
+    "EndAddress": 377095,
+    "MaxLength": 16
+  },
+  {
+    "Text": "完成的清单",
+    "StartAddress": 377096,
+    "EndAddress": 377111,
+    "MaxLength": 16
+  },
+  {
+    "Text": "节拍器",
+    "StartAddress": 377112,
+    "EndAddress": 377127,
+    "MaxLength": 16
+  },
+  {
+    "Text": "狗狗颈圈",
+    "StartAddress": 377128,
+    "EndAddress": 377143,
+    "MaxLength": 16
+  },
+  {
+    "Text": "钻蟹",
+    "StartAddress": 377144,
+    "EndAddress": 377151,
+    "MaxLength": 8
+  },
+  {
+    "Text": "棒克乌龟",
+    "StartAddress": 377152,
+    "EndAddress": 377167,
+    "MaxLength": 16
+  },
+  {
+    "Text": "朋友",
+    "StartAddress": 377168,
+    "EndAddress": 377175,
+    "MaxLength": 8
+  },
+  {
+    "Text": "海蛙",
+    "StartAddress": 377176,
+    "EndAddress": 377183,
+    "MaxLength": 8
+  },
+  {
+    "Text": "融合手环",
+    "StartAddress": 377184,
+    "EndAddress": 377199,
+    "MaxLength": 16
+  },
+  {
+    "Text": "金块",
+    "StartAddress": 377200,
+    "EndAddress": 377207,
+    "MaxLength": 8
+  },
+  {
+    "Text": "金块",
+    "StartAddress": 377208,
+    "EndAddress": 377215,
+    "MaxLength": 8
+  },
+  {
+    "Text": "被口水沾到的娃娃",
+    "StartAddress": 377216,
+    "EndAddress": 377247,
+    "MaxLength": 32
+  },
+  {
+    "Text": "恐怖娃娃",
+    "StartAddress": 377248,
+    "EndAddress": 377263,
+    "MaxLength": 16
+  },
+  {
+    "Text": "黄金螃蟹",
+    "StartAddress": 377264,
+    "EndAddress": 377279,
+    "MaxLength": 16
+  },
+  {
+    "Text": "手柄",
+    "StartAddress": 377280,
+    "EndAddress": 377287,
+    "MaxLength": 8
+  },
+  {
+    "Text": "喷射章鱼",
+    "StartAddress": 377288,
+    "EndAddress": 377303,
+    "MaxLength": 16
+  },
+  {
+    "Text": "健康神药",
+    "StartAddress": 377304,
+    "EndAddress": 377319,
+    "MaxLength": 16
+  },
+  {
+    "Text": "生命心容器",
+    "StartAddress": 377320,
+    "EndAddress": 377335,
+    "MaxLength": 16
+  },
+  {
+    "Text": "爱心鱿鱼",
+    "StartAddress": 377336,
+    "EndAddress": 377351,
+    "MaxLength": 16
+  },
+  {
+    "Text": "如何玩",
+    "StartAddress": 377352,
+    "EndAddress": 377367,
+    "MaxLength": 16
+  },
+  {
+    "Text": "生命值拯救",
+    "StartAddress": 377368,
+    "EndAddress": 377383,
+    "MaxLength": 16
+  },
+  {
+    "Text": "钥匙",
+    "StartAddress": 377384,
+    "EndAddress": 377391,
+    "MaxLength": 8
+  },
+  {
+    "Text": "左手环",
+    "StartAddress": 377392,
+    "EndAddress": 377407,
+    "MaxLength": 16
+  },
+  {
+    "Text": "手环",
+    "StartAddress": 377408,
+    "EndAddress": 377415,
+    "MaxLength": 8
+  },
+  {
+    "Text": "融合石",
+    "StartAddress": 377416,
+    "EndAddress": 377431,
+    "MaxLength": 16
+  },
+  {
+    "Text": "魔法神药",
+    "StartAddress": 377432,
+    "EndAddress": 377447,
+    "MaxLength": 16
+  },
+  {
+    "Text": "壮男娃娃",
+    "StartAddress": 377448,
+    "EndAddress": 377463,
+    "MaxLength": 16
+  },
+  {
+    "Text": "地图",
+    "StartAddress": 377464,
+    "EndAddress": 377471,
+    "MaxLength": 8
+  },
+  {
+    "Text": "幸运护身符",
+    "StartAddress": 377472,
+    "EndAddress": 377487,
+    "MaxLength": 16
+  },
+  {
+    "Text": "美人鱼壳",
+    "StartAddress": 377488,
+    "EndAddress": 377503,
+    "MaxLength": 16
+  },
+  {
+    "Text": "美人鱼壳",
+    "StartAddress": 377504,
+    "EndAddress": 377519,
+    "MaxLength": 16
+  },
+  {
+    "Text": "快冲水蜥",
+    "StartAddress": 377520,
+    "EndAddress": 377535,
+    "MaxLength": 16
+  },
+  {
+    "Text": "魔法值拯救",
+    "StartAddress": 377536,
+    "EndAddress": 377551,
+    "MaxLength": 16
+  },
+  {
+    "Text": "大哥龙珠",
+    "StartAddress": 377552,
+    "EndAddress": 377567,
+    "MaxLength": 16
+  },
+  {
+    "Text": "大哥龙珠",
+    "StartAddress": 377568,
+    "EndAddress": 377583,
+    "MaxLength": 16
+  },
+  {
+    "Text": "橘子",
+    "StartAddress": 377584,
+    "EndAddress": 377591,
+    "MaxLength": 8
+  },
+  {
+    "Text": "矿石",
+    "StartAddress": 377592,
+    "EndAddress": 377599,
+    "MaxLength": 8
+  },
+  {
+    "Text": "夏威夷腌生鱼拌饭",
+    "StartAddress": 377600,
+    "EndAddress": 377631,
+    "MaxLength": 32
+  },
+  {
+    "Text": "洗发乳",
+    "StartAddress": 377632,
+    "EndAddress": 377647,
+    "MaxLength": 16
+  },
+  {
+    "Text": "特级洗发乳",
+    "StartAddress": 377648,
+    "EndAddress": 377663,
+    "MaxLength": 16
+  },
+  {
+    "Text": "超级洗发乳",
+    "StartAddress": 377664,
+    "EndAddress": 377679,
+    "MaxLength": 16
+  },
+  {
+    "Text": "烟熏手撕猪肉三明治",
+    "StartAddress": 377680,
+    "EndAddress": 377711,
+    "MaxLength": 32
+  },
+  {
+    "Text": "螺母和螺钉",
+    "StartAddress": 377712,
+    "EndAddress": 377727,
+    "MaxLength": 16
+  },
+  {
+    "Text": "右手环",
+    "StartAddress": 377728,
+    "EndAddress": 377743,
+    "MaxLength": 16
+  },
+  {
+    "Text": "烧烤",
+    "StartAddress": 377744,
+    "EndAddress": 377751,
+    "MaxLength": 8
+  },
+  {
+    "Text": "烧烤凤梨",
+    "StartAddress": 377752,
+    "EndAddress": 377767,
+    "MaxLength": 16
+  },
+  {
+    "Text": "无用品",
+    "StartAddress": 377768,
+    "EndAddress": 377783,
+    "MaxLength": 16
+  },
+  {
+    "Text": "鲑鱼卵",
+    "StartAddress": 377784,
+    "EndAddress": 377799,
+    "MaxLength": 16
+  },
+  {
+    "Text": "柔滑霜",
+    "StartAddress": 377800,
+    "EndAddress": 377815,
+    "MaxLength": 16
+  },
+  {
+    "Text": "特级柔滑霜",
+    "StartAddress": 377816,
+    "EndAddress": 377831,
+    "MaxLength": 16
+  },
+  {
+    "Text": "超级柔滑霜",
+    "StartAddress": 377832,
+    "EndAddress": 377847,
+    "MaxLength": 16
+  },
+  {
+    "Text": "鱿鱼",
+    "StartAddress": 377848,
+    "EndAddress": 377855,
+    "MaxLength": 8
+  },
+  {
+    "Text": "超级神药",
+    "StartAddress": 377856,
+    "EndAddress": 377871,
+    "MaxLength": 16
+  },
+  {
+    "Text": "梅尔巴吐司",
+    "StartAddress": 377872,
+    "EndAddress": 377887,
+    "MaxLength": 16
+  },
+  {
+    "Text": "充过电的棒子",
+    "StartAddress": 377888,
+    "EndAddress": 377911,
+    "MaxLength": 24
+  },
+  {
+    "Text": "没电的棒子",
+    "StartAddress": 377912,
+    "EndAddress": 377927,
+    "MaxLength": 16
+  },
+  {
+    "Text": "自动吸引附近宝石和生命心！",
+    "StartAddress": 377928,
+    "EndAddress": 377967,
+    "MaxLength": 40
+  },
+  {
+    "Text": "从更远的距离自动吸引附近宝石和生命心！",
+    "StartAddress": 377968,
+    "EndAddress": 378031,
+    "MaxLength": 64
+  },
+  {
+    "Text": "从非常大的距离自动吸引附近宝石和生命心！",
+    "StartAddress": 378032,
+    "EndAddress": 378095,
+    "MaxLength": 64
+  },
+  {
+    "Text": "生命值光了会生效的神药！",
+    "StartAddress": 378096,
+    "EndAddress": 378135,
+    "MaxLength": 40
+  },
+  {
+    "Text": "大家最喜爱的疗伤神药的超值包！",
+    "StartAddress": 378136,
+    "EndAddress": 378183,
+    "MaxLength": 48
+  },
+  {
+    "Text": "快速地<1>躲避</1>敌人攻击！按<IB action=Dodge scale=0.5 />快冲！",
+    "StartAddress": 378184,
+    "EndAddress": 378263,
+    "MaxLength": 80
+  },
+  {
+    "Text": "科学证据证明...某某东西！",
+    "StartAddress": 378264,
+    "EndAddress": 378303,
+    "MaxLength": 40
+  },
+  {
+    "Text": "我们也许能从海学很多呢！",
+    "StartAddress": 378304,
+    "EndAddress": 378343,
+    "MaxLength": 40
+  },
+  {
+    "Text": "NA-老板键",
+    "StartAddress": 378344,
+    "EndAddress": 378359,
+    "MaxLength": 16
+  },
+  {
+    "Text": "亮片世界最有名的超人布兰松的玩偶！",
+    "StartAddress": 378360,
+    "EndAddress": 378415,
+    "MaxLength": 56
+  },
+  {
+    "Text": "加工食品能恢复小力量。",
+    "StartAddress": 378416,
+    "EndAddress": 378455,
+    "MaxLength": 40
+  },
+  {
+    "Text": "五位必须找出的半精灵名单！到处找喔！",
+    "StartAddress": 378456,
+    "EndAddress": 378511,
+    "MaxLength": 56
+  },
+  {
+    "Text": "再跟四位半精灵自我介绍！",
+    "StartAddress": 378512,
+    "EndAddress": 378551,
+    "MaxLength": 40
+  },
+  {
+    "Text": "再跟三位半精灵自我介绍！",
+    "StartAddress": 378552,
+    "EndAddress": 378591,
+    "MaxLength": 40
+  },
+  {
+    "Text": "再跟两位半精灵自我介绍！",
+    "StartAddress": 378592,
+    "EndAddress": 378631,
+    "MaxLength": 40
+  },
+  {
+    "Text": "再跟一位半精灵自我介绍！",
+    "StartAddress": 378632,
+    "EndAddress": 378671,
+    "MaxLength": 40
+  },
+  {
+    "Text": "阿谋尔男爵送场馆村市长的礼物！",
+    "StartAddress": 378672,
+    "EndAddress": 378719,
+    "MaxLength": 48
+  },
+  {
+    "Text": "成功了！带会给场馆村市长！",
+    "StartAddress": 378720,
+    "EndAddress": 378759,
+    "MaxLength": 40
+  },
+  {
+    "Text": "加快<1>变形舞</1>的速度！",
+    "StartAddress": 378760,
+    "EndAddress": 378799,
+    "MaxLength": 40
+  },
+  {
+    "Text": "沉船附近的鬼长辈该看这个！",
+    "StartAddress": 378800,
+    "EndAddress": 378839,
+    "MaxLength": 40
+  },
+  {
+    "Text": "钻蟹",
+    "StartAddress": 378840,
+    "EndAddress": 378847,
+    "MaxLength": 8
+  },
+  {
+    "Text": "钻透泥土！\n顶着<1>软平面</1>来<1>钻</1>！",
+    "StartAddress": 378848,
+    "EndAddress": 378903,
+    "MaxLength": 56
+  },
+  {
+    "Text": "钻透泥土！\n使用<IB action=LSTICK scale=0.75/>顶着<1>软平面</1>来<1>钻</1>！",
+    "StartAddress": 378904,
+    "EndAddress": 378999,
+    "MaxLength": 96
+  },
+  {
+    "Text": "棒克乌龟",
+    "StartAddress": 379000,
+    "EndAddress": 379015,
+    "MaxLength": 16
+  },
+  {
+    "Text": "从半空中下刷屏幕来从天上踩下来。也可以充值而释放 <I anim=ui_global:ios_button_attack.anb scale=0.15/>来执行有破坏性的<1>旋转快冲</1>！",
+    "StartAddress": 379016,
+    "EndAddress": 379191,
+    "MaxLength": 176
+  },
+  {
+    "Text": "从半空中按<IB action=Stomp scale=0.75/>来从天上<1>踩</1>下来。也可以充值而释放<IB action=Attack scale=0.75/>来执行有破坏性的<1>旋转快冲</1>！",
+    "StartAddress": 379192,
+    "EndAddress": 379367,
+    "MaxLength": 176
+  },
+  {
+    "Text": "海蛙",
+    "StartAddress": 379368,
+    "EndAddress": 379375,
+    "MaxLength": 8
+  },
+  {
+    "Text": "在海底游泳！按住<I anim=ui_global:ios_button_attack.anb scale=0.15/>来游更慢！",
+    "StartAddress": 379376,
+    "EndAddress": 379471,
+    "MaxLength": 96
+  },
+  {
+    "Text": "使用<IB action=LSTICK scale=0.75/>在海底移动！按住<IB action=Attack scale=0.75/>来游更慢！",
+    "StartAddress": 379472,
+    "EndAddress": 379583,
+    "MaxLength": 112
+  },
+  {
+    "Text": "融合手环",
+    "StartAddress": 379584,
+    "EndAddress": 379599,
+    "MaxLength": 16
+  },
+  {
+    "Text": "非常受欢迎的宝石，这岛屿的特产！",
+    "StartAddress": 379600,
+    "EndAddress": 379655,
+    "MaxLength": 56
+  },
+  {
+    "Text": "把这可怕的娃娃还给鬼长辈。",
+    "StartAddress": 379656,
+    "EndAddress": 379695,
+    "MaxLength": 40
+  },
+  {
+    "Text": "这娃娃的服装暗示它可能来自护甲村。",
+    "StartAddress": 379696,
+    "EndAddress": 379751,
+    "MaxLength": 56
+  },
+  {
+    "Text": "传奇的食物能恢复巨多力量。",
+    "StartAddress": 379752,
+    "EndAddress": 379791,
+    "MaxLength": 40
+  },
+  {
+    "Text": "看起来应该街上附近什么东西！",
+    "StartAddress": 379792,
+    "EndAddress": 379839,
+    "MaxLength": 48
+  },
+  {
+    "Text": "喷射章鱼",
+    "StartAddress": 379840,
+    "EndAddress": 379855,
+    "MaxLength": 16
+  },
+  {
+    "Text": "在半空中按<I anim=ui_global:ios_button_jump.anb scale=0.15/>來<1>二段</1>或<1>三段</1>跳！",
+    "StartAddress": 379856,
+    "EndAddress": 379959,
+    "MaxLength": 104
+  },
+  {
+    "Text": "在半空中按<IB action=Jump scale=0.75/>來<1>二段</1>或<1>三段</1>跳！",
+    "StartAddress": 379960,
+    "EndAddress": 380047,
+    "MaxLength": 88
+  },
+  {
+    "Text": "使用这好用的神药充值<1>生命值</1>!",
+    "StartAddress": 380048,
+    "EndAddress": 380095,
+    "MaxLength": 48
+  },
+  {
+    "Text": "生更多钱的超值包神药！",
+    "StartAddress": 380096,
+    "EndAddress": 380135,
+    "MaxLength": 40
+  },
+  {
+    "Text": "增加<1>生命值容量</1>！",
+    "StartAddress": 380136,
+    "EndAddress": 380167,
+    "MaxLength": 32
+  },
+  {
+    "Text": "带这去你附近的<1>鱿鱼匠</1>!",
+    "StartAddress": 380168,
+    "EndAddress": 380207,
+    "MaxLength": 40
+  },
+  {
+    "Text": "某种说明书。没有用的。",
+    "StartAddress": 380208,
+    "EndAddress": 380247,
+    "MaxLength": 40
+  },
+  {
+    "Text": "喷上护甲让你减少百分之二十五的损害！",
+    "StartAddress": 380248,
+    "EndAddress": 380303,
+    "MaxLength": 56
+  },
+  {
+    "Text": "用来开锁的门！",
+    "StartAddress": 380304,
+    "EndAddress": 380327,
+    "MaxLength": 24
+  },
+  {
+    "Text": "拿去还给可爱小狗狗！",
+    "StartAddress": 380328,
+    "EndAddress": 380359,
+    "MaxLength": 32
+  },
+  {
+    "Text": "普林克在后台等这个！",
+    "StartAddress": 380360,
+    "EndAddress": 380391,
+    "MaxLength": 32
+  },
+  {
+    "Text": "使用这好用的神药充值<1>魔法值</1>!",
+    "StartAddress": 380392,
+    "EndAddress": 380439,
+    "MaxLength": 48
+  },
+  {
+    "Text": "省宝石！大量购买！",
+    "StartAddress": 380440,
+    "EndAddress": 380471,
+    "MaxLength": 32
+  },
+  {
+    "Text": "手工的软娃娃，上面有扣子。",
+    "StartAddress": 380472,
+    "EndAddress": 380511,
+    "MaxLength": 40
+  },
+  {
+    "Text": "目前地点的地图！",
+    "StartAddress": 380512,
+    "EndAddress": 380543,
+    "MaxLength": 32
+  },
+  {
+    "Text": "<1>薇拉</1>不是在找这种东西吗？",
+    "StartAddress": 380544,
+    "EndAddress": 380591,
+    "MaxLength": 48
+  },
+  {
+    "Text": "带<1>六颗贝壳</1>给科学家！再收集五颗！",
+    "StartAddress": 380592,
+    "EndAddress": 380647,
+    "MaxLength": 56
+  },
+  {
+    "Text": "带<1>六颗贝壳</1>给科学家！再收集四颗！",
+    "StartAddress": 380648,
+    "EndAddress": 380703,
+    "MaxLength": 56
+  },
+  {
+    "Text": "带<1>六颗贝壳</1>给科学家！再收集三颗！",
+    "StartAddress": 380704,
+    "EndAddress": 380759,
+    "MaxLength": 56
+  },
+  {
+    "Text": "带<1>六颗贝壳</1>给科学家！再收集两颗！",
+    "StartAddress": 380760,
+    "EndAddress": 380815,
+    "MaxLength": 56
+  },
+  {
+    "Text": "带<1>六颗贝壳</1>给科学家！再收集一颗！",
+    "StartAddress": 380816,
+    "EndAddress": 380871,
+    "MaxLength": 56
+  },
+  {
+    "Text": "你找到全部<1>六颗贝壳</1>了！带去给科学家！",
+    "StartAddress": 380872,
+    "EndAddress": 380935,
+    "MaxLength": 64
+  },
+  {
+    "Text": "快冲水蜥",
+    "StartAddress": 380936,
+    "EndAddress": 380951,
+    "MaxLength": 16
+  },
+  {
+    "Text": "变成水蜥来快冲和爬墙！\n在空中按<I anim=ui_global:ios_button_fusion.anb scale=0.25/>来<1>快冲</1>。",
+    "StartAddress": 380952,
+    "EndAddress": 381071,
+    "MaxLength": 120
+  },
+  {
+    "Text": "变成水蜥来快冲和爬墙！\n在空中按<IB action=Dash scale=0.75/>来<1>快冲</1>。",
+    "StartAddress": 381072,
+    "EndAddress": 381167,
+    "MaxLength": 96
+  },
+  {
+    "Text": "减少<1>魔法</1>消耗量。",
+    "StartAddress": 381168,
+    "EndAddress": 381199,
+    "MaxLength": 32
+  },
+  {
+    "Text": "只有传奇之大王能找出<1>三个大哥龙珠</1>！专利申请中。",
+    "StartAddress": 381200,
+    "EndAddress": 381279,
+    "MaxLength": 80
+  },
+  {
+    "Text": "好吃的食物能恢复力量。",
+    "StartAddress": 381280,
+    "EndAddress": 381319,
+    "MaxLength": 40
+  },
+  {
+    "Text": "给阿谋尔男爵的金属矿石！他需要三块。",
+    "StartAddress": 381320,
+    "EndAddress": 381375,
+    "MaxLength": 56
+  },
+  {
+    "Text": "精心準備的食物能恢复不少力量。",
+    "StartAddress": 381376,
+    "EndAddress": 381423,
+    "MaxLength": 48
+  },
+  {
+    "Text": "加强头发<1>损害力</1>!",
+    "StartAddress": 381424,
+    "EndAddress": 381455,
+    "MaxLength": 32
+  },
+  {
+    "Text": "加强头发<1>损害力</1>!",
+    "StartAddress": 381456,
+    "EndAddress": 381487,
+    "MaxLength": 32
+  },
+  {
+    "Text": "加强头发<1>损害力</1>!",
+    "StartAddress": 381488,
+    "EndAddress": 381519,
+    "MaxLength": 32
+  },
+  {
+    "Text": "把这带去控制室。鬼狗知道路！",
+    "StartAddress": 381520,
+    "EndAddress": 381567,
+    "MaxLength": 48
+  },
+  {
+    "Text": "扑鼻食物能恢复多量力量。",
+    "StartAddress": 381568,
+    "EndAddress": 381607,
+    "MaxLength": 40
+  },
+  {
+    "Text": "备件，能拿来修理故障的电机器。",
+    "StartAddress": 381608,
+    "EndAddress": 381655,
+    "MaxLength": 48
+  },
+  {
+    "Text": "拿去还给可爱小狗狗！",
+    "StartAddress": 381656,
+    "EndAddress": 381687,
+    "MaxLength": 32
+  },
+  {
+    "Text": "恢复力量的好吃食物。",
+    "StartAddress": 381688,
+    "EndAddress": 381719,
+    "MaxLength": 32
+  },
+  {
+    "Text": "烧烤水果能恢复中度力量。",
+    "StartAddress": 381720,
+    "EndAddress": 381759,
+    "MaxLength": 40
+  },
+  {
+    "Text": "上面刻写了“西舱口”。",
+    "StartAddress": 381760,
+    "EndAddress": 381799,
+    "MaxLength": 40
+  },
+  {
+    "Text": "专家准备的食物能恢复很多力量。",
+    "StartAddress": 381800,
+    "EndAddress": 381847,
+    "MaxLength": 48
+  },
+  {
+    "Text": "加强头发<1>甩速度</1>!",
+    "StartAddress": 381848,
+    "EndAddress": 381879,
+    "MaxLength": 32
+  },
+  {
+    "Text": "加强头发<1>甩速度</1>!",
+    "StartAddress": 381880,
+    "EndAddress": 381911,
+    "MaxLength": 32
+  },
+  {
+    "Text": "加强头发<1>甩速度</1>!",
+    "StartAddress": 381912,
+    "EndAddress": 381943,
+    "MaxLength": 32
+  },
+  {
+    "Text": "把这些带回去给城市里的鱿鱼匠！",
+    "StartAddress": 381944,
+    "EndAddress": 381991,
+    "MaxLength": 48
+  },
+  {
+    "Text": "充值<1>生命值和魔法值</1>!真划算！",
+    "StartAddress": 381992,
+    "EndAddress": 382039,
+    "MaxLength": 48
+  },
+  {
+    "Text": "大批购买！一口吞下去充值生命值和魔法值！",
+    "StartAddress": 382040,
+    "EndAddress": 382103,
+    "MaxLength": 64
+  },
+  {
+    "Text": "被踩过的脆吐司。菠萝最喜欢的。",
+    "StartAddress": 382104,
+    "EndAddress": 382151,
+    "MaxLength": 48
+  },
+  {
+    "Text": "某种能源导体。但目前没电。",
+    "StartAddress": 382152,
+    "EndAddress": 382191,
+    "MaxLength": 40
+  },
+  {
+    "Text": "蝙蝠",
+    "StartAddress": 382192,
+    "EndAddress": 382199,
+    "MaxLength": 8
+  },
+  {
+    "Text": "螃蟹",
+    "StartAddress": 382200,
+    "EndAddress": 382207,
+    "MaxLength": 8
+  },
+  {
+    "Text": "粘液",
+    "StartAddress": 382208,
+    "EndAddress": 382215,
+    "MaxLength": 8
+  },
+  {
+    "Text": "树巨魔",
+    "StartAddress": 382216,
+    "EndAddress": 382231,
+    "MaxLength": 16
+  },
+  {
+    "Text": "粘液奇才",
+    "StartAddress": 382232,
+    "EndAddress": 382247,
+    "MaxLength": 16
+  },
+  {
+    "Text": "赛莲男",
+    "StartAddress": 382248,
+    "EndAddress": 382263,
+    "MaxLength": 16
+  },
+  {
+    "Text": "射手",
+    "StartAddress": 382264,
+    "EndAddress": 382271,
+    "MaxLength": 8
+  },
+  {
+    "Text": "水晶螃蟹",
+    "StartAddress": 382272,
+    "EndAddress": 382287,
+    "MaxLength": 16
+  },
+  {
+    "Text": "半兽人",
+    "StartAddress": 382288,
+    "EndAddress": 382303,
+    "MaxLength": 16
+  },
+  {
+    "Text": "蛇",
+    "StartAddress": 382304,
+    "EndAddress": 382311,
+    "MaxLength": 8
+  },
+  {
+    "Text": "老鹰人炸弹杀手",
+    "StartAddress": 382312,
+    "EndAddress": 382335,
+    "MaxLength": 24
+  },
+  {
+    "Text": "青蛙嘴",
+    "StartAddress": 382336,
+    "EndAddress": 382351,
+    "MaxLength": 16
+  },
+  {
+    "Text": "捏者",
+    "StartAddress": 382352,
+    "EndAddress": 382359,
+    "MaxLength": 8
+  },
+  {
+    "Text": "那伽",
+    "StartAddress": 382360,
+    "EndAddress": 382367,
+    "MaxLength": 8
+  },
+  {
+    "Text": "仙人掌",
+    "StartAddress": 382368,
+    "EndAddress": 382383,
+    "MaxLength": 16
+  },
+  {
+    "Text": "蝎子女",
+    "StartAddress": 382384,
+    "EndAddress": 382399,
+    "MaxLength": 16
+  },
+  {
+    "Text": "蝎子男",
+    "StartAddress": 382400,
+    "EndAddress": 382415,
+    "MaxLength": 16
+  },
+  {
+    "Text": "骨架鱼",
+    "StartAddress": 382416,
+    "EndAddress": 382431,
+    "MaxLength": 16
+  },
+  {
+    "Text": "湿男",
+    "StartAddress": 382432,
+    "EndAddress": 382439,
+    "MaxLength": 8
+  },
+  {
+    "Text": "湿女",
+    "StartAddress": 382440,
+    "EndAddress": 382447,
+    "MaxLength": 8
+  },
+  {
+    "Text": "美人鱼",
+    "StartAddress": 382448,
+    "EndAddress": 382463,
+    "MaxLength": 16
+  },
+  {
+    "Text": "水母",
+    "StartAddress": 382464,
+    "EndAddress": 382471,
+    "MaxLength": 8
+  },
+  {
+    "Text": "龙虾慢跑者",
+    "StartAddress": 382472,
+    "EndAddress": 382487,
+    "MaxLength": 16
+  },
+  {
+    "Text": "天花板虫",
+    "StartAddress": 382488,
+    "EndAddress": 382503,
+    "MaxLength": 16
+  },
+  {
+    "Text": "魔像",
+    "StartAddress": 382504,
+    "EndAddress": 382511,
+    "MaxLength": 8
+  },
+  {
+    "Text": "火箭射手",
+    "StartAddress": 382512,
+    "EndAddress": 382527,
+    "MaxLength": 16
+  },
+  {
+    "Text": "粪土女",
+    "StartAddress": 382528,
+    "EndAddress": 382543,
+    "MaxLength": 16
+  },
+  {
+    "Text": "粪土男",
+    "StartAddress": 382544,
+    "EndAddress": 382559,
+    "MaxLength": 16
+  },
+  {
+    "Text": "阶段强快冲者",
+    "StartAddress": 382560,
+    "EndAddress": 382583,
+    "MaxLength": 24
+  },
+  {
+    "Text": "蜘蛛",
+    "StartAddress": 382584,
+    "EndAddress": 382591,
+    "MaxLength": 8
+  },
+  {
+    "Text": "泥土爬者",
+    "StartAddress": 382592,
+    "EndAddress": 382607,
+    "MaxLength": 16
+  },
+  {
+    "Text": "弹跳眼睛",
+    "StartAddress": 382608,
+    "EndAddress": 382623,
+    "MaxLength": 16
+  },
+  {
+    "Text": "恶魔",
+    "StartAddress": 382624,
+    "EndAddress": 382631,
+    "MaxLength": 8
+  },
+  {
+    "Text": "骷髅骑士",
+    "StartAddress": 382632,
+    "EndAddress": 382647,
+    "MaxLength": 16
+  },
+  {
+    "Text": "病恹恹蠹鱼",
+    "StartAddress": 382648,
+    "EndAddress": 382663,
+    "MaxLength": 16
+  },
+  {
+    "Text": "蝙蝠女",
+    "StartAddress": 382664,
+    "EndAddress": 382679,
+    "MaxLength": 16
+  },
+  {
+    "Text": "龙头",
+    "StartAddress": 382680,
+    "EndAddress": 382687,
+    "MaxLength": 8
+  },
+  {
+    "Text": "蹦跳青蛙",
+    "StartAddress": 382688,
+    "EndAddress": 382703,
+    "MaxLength": 16
+  },
+  {
+    "Text": "墙壁快冲者",
+    "StartAddress": 382704,
+    "EndAddress": 382719,
+    "MaxLength": 16
+  },
+  {
+    "Text": "马戏团鱿鱼",
+    "StartAddress": 382720,
+    "EndAddress": 382735,
+    "MaxLength": 16
+  },
+  {
+    "Text": "拾荒人",
+    "StartAddress": 382736,
+    "EndAddress": 382751,
+    "MaxLength": 16
+  },
+  {
+    "Text": "铁熔渣",
+    "StartAddress": 382752,
+    "EndAddress": 382767,
+    "MaxLength": 16
+  },
+  {
+    "Text": "赛莲兵",
+    "StartAddress": 382768,
+    "EndAddress": 382783,
+    "MaxLength": 16
+  },
+  {
+    "Text": "莲花赛莲",
+    "StartAddress": 382784,
+    "EndAddress": 382799,
+    "MaxLength": 16
+  },
+  {
+    "Text": "珊瑚赛莲",
+    "StartAddress": 382800,
+    "EndAddress": 382815,
+    "MaxLength": 16
+  },
+  {
+    "Text": "管虫赛莲",
+    "StartAddress": 382816,
+    "EndAddress": 382831,
+    "MaxLength": 16
+  },
+  {
+    "Text": "𩽾𩾌目赛莲",
+    "StartAddress": 382832,
+    "EndAddress": 382855,
+    "MaxLength": 24
+  },
+  {
+    "Text": "八脚赛莲",
+    "StartAddress": 382856,
+    "EndAddress": 382871,
+    "MaxLength": 16
+  },
+  {
+    "Text": "皇后",
+    "StartAddress": 382872,
+    "EndAddress": 382879,
+    "MaxLength": 8
+  },
+  {
+    "Text": "龙虾女",
+    "StartAddress": 382880,
+    "EndAddress": 382895,
+    "MaxLength": 16
+  },
+  {
+    "Text": "装备之卡",
+    "StartAddress": 382896,
+    "EndAddress": 382911,
+    "MaxLength": 16
+  },
+  {
+    "Text": "收集之卡",
+    "StartAddress": 382912,
+    "EndAddress": 382927,
+    "MaxLength": 16
+  },
+  {
+    "Text": "爬速度+",
+    "StartAddress": 382928,
+    "EndAddress": 382943,
+    "MaxLength": 16
+  },
+  {
+    "Text": "比之前爬得更快！",
+    "StartAddress": 382944,
+    "EndAddress": 382975,
+    "MaxLength": 32
+  },
+  {
+    "Text": "游泳速度＋",
+    "StartAddress": 382976,
+    "EndAddress": 382991,
+    "MaxLength": 16
+  },
+  {
+    "Text": "超快速度游泳！",
+    "StartAddress": 382992,
+    "EndAddress": 383015,
+    "MaxLength": 24
+  },
+  {
+    "Text": "绳速度＋",
+    "StartAddress": 383016,
+    "EndAddress": 383031,
+    "MaxLength": 16
+  },
+  {
+    "Text": "增加爬的速度！",
+    "StartAddress": 383032,
+    "EndAddress": 383055,
+    "MaxLength": 24
+  },
+  {
+    "Text": "无洞损害",
+    "StartAddress": 383056,
+    "EndAddress": 383071,
+    "MaxLength": 16
+  },
+  {
+    "Text": "掉进洞时不受任何损害！",
+    "StartAddress": 383072,
+    "EndAddress": 383111,
+    "MaxLength": 40
+  },
+  {
+    "Text": "无尖头损害",
+    "StartAddress": 383112,
+    "EndAddress": 383127,
+    "MaxLength": 16
+  },
+  {
+    "Text": "碰到尖头不受损害！",
+    "StartAddress": 383128,
+    "EndAddress": 383159,
+    "MaxLength": 32
+  },
+  {
+    "Text": "甩头发＋",
+    "StartAddress": 383160,
+    "EndAddress": 383175,
+    "MaxLength": 16
+  },
+  {
+    "Text": "甩头发的攻击有更大的损害力！",
+    "StartAddress": 383176,
+    "EndAddress": 383223,
+    "MaxLength": 48
+  },
+  {
+    "Text": "受损害－",
+    "StartAddress": 383224,
+    "EndAddress": 383239,
+    "MaxLength": 16
+  },
+  {
+    "Text": "减少从敌人攻击收到的损害！",
+    "StartAddress": 383240,
+    "EndAddress": 383279,
+    "MaxLength": 40
+  },
+  {
+    "Text": "魔法复生",
+    "StartAddress": 383280,
+    "EndAddress": 383295,
+    "MaxLength": 16
+  },
+  {
+    "Text": "魔法值过久会充值！",
+    "StartAddress": 383296,
+    "EndAddress": 383327,
+    "MaxLength": 32
+  },
+  {
+    "Text": "食物能源＋",
+    "StartAddress": 383328,
+    "EndAddress": 383343,
+    "MaxLength": 16
+  },
+  {
+    "Text": "所有吃下的食物恢复力量增加！",
+    "StartAddress": 383344,
+    "EndAddress": 383391,
+    "MaxLength": 48
+  },
+  {
+    "Text": "吸引距离＋",
+    "StartAddress": 383392,
+    "EndAddress": 383407,
+    "MaxLength": 16
+  },
+  {
+    "Text": "宝物自动从更远距离拉入！",
+    "StartAddress": 383408,
+    "EndAddress": 383447,
+    "MaxLength": 40
+  },
+  {
+    "Text": "快冲损害＋",
+    "StartAddress": 383448,
+    "EndAddress": 383463,
+    "MaxLength": 16
+  },
+  {
+    "Text": "使用水蜥快冲时给出更大损害！",
+    "StartAddress": 383464,
+    "EndAddress": 383511,
+    "MaxLength": 48
+  },
+  {
+    "Text": "快冲距离＋",
+    "StartAddress": 383512,
+    "EndAddress": 383527,
+    "MaxLength": 16
+  },
+  {
+    "Text": "增加水蜥快冲能飞的距离！",
+    "StartAddress": 383528,
+    "EndAddress": 383567,
+    "MaxLength": 40
+  },
+  {
+    "Text": "快冲速度＋",
+    "StartAddress": 383568,
+    "EndAddress": 383583,
+    "MaxLength": 16
+  },
+  {
+    "Text": "水蜥快冲时使用超级速度！",
+    "StartAddress": 383584,
+    "EndAddress": 383623,
+    "MaxLength": 40
+  },
+  {
+    "Text": "水蜥爬＋",
+    "StartAddress": 383624,
+    "EndAddress": 383639,
+    "MaxLength": 16
+  },
+  {
+    "Text": "当水蜥时，肆无忌惮地冲上墙壁！",
+    "StartAddress": 383640,
+    "EndAddress": 383687,
+    "MaxLength": 48
+  },
+  {
+    "Text": "钻速度＋",
+    "StartAddress": 383688,
+    "EndAddress": 383703,
+    "MaxLength": 16
+  },
+  {
+    "Text": "比之前更快地钻透泥土！",
+    "StartAddress": 383704,
+    "EndAddress": 383743,
+    "MaxLength": 40
+  },
+  {
+    "Text": "打砸损害＋",
+    "StartAddress": 383744,
+    "EndAddress": 383759,
+    "MaxLength": 16
+  },
+  {
+    "Text": "乌龟打砸攻击损伤比之前更厉害！",
+    "StartAddress": 383760,
+    "EndAddress": 383807,
+    "MaxLength": 48
+  },
+  {
+    "Text": "踩损害＋",
+    "StartAddress": 383808,
+    "EndAddress": 383823,
+    "MaxLength": 16
+  },
+  {
+    "Text": "使用超强乌龟踩跺给敌人更大损伤！",
+    "StartAddress": 383824,
+    "EndAddress": 383879,
+    "MaxLength": 56
+  },
+  {
+    "Text": "充值时间－",
+    "StartAddress": 383880,
+    "EndAddress": 383895,
+    "MaxLength": 16
+  },
+  {
+    "Text": "乌龟充值时间减少！",
+    "StartAddress": 383896,
+    "EndAddress": 383927,
+    "MaxLength": 32
+  },
+  {
+    "Text": "青蛙速度＋",
+    "StartAddress": 383928,
+    "EndAddress": 383943,
+    "MaxLength": 16
+  },
+  {
+    "Text": "青蛙速度激烈的增加速度！",
+    "StartAddress": 383944,
+    "EndAddress": 383983,
+    "MaxLength": 40
+  },
+  {
+    "Text": "先见者价－",
+    "StartAddress": 383984,
+    "EndAddress": 383999,
+    "MaxLength": 16
+  },
+  {
+    "Text": "减少先见者舞消耗的魔法！",
+    "StartAddress": 384000,
+    "EndAddress": 384039,
+    "MaxLength": 40
+  },
+  {
+    "Text": "刷新价－",
+    "StartAddress": 384040,
+    "EndAddress": 384055,
+    "MaxLength": 16
+  },
+  {
+    "Text": "使用刷新舞消耗更少魔法！",
+    "StartAddress": 384056,
+    "EndAddress": 384095,
+    "MaxLength": 40
+  },
+  {
+    "Text": "刷新疗养＋",
+    "StartAddress": 384096,
+    "EndAddress": 384111,
+    "MaxLength": 16
+  },
+  {
+    "Text": "刷新舞恢复比之前多空心！",
+    "StartAddress": 384112,
+    "EndAddress": 384151,
+    "MaxLength": 40
+  },
+  {
+    "Text": "刷新损害＋",
+    "StartAddress": 384152,
+    "EndAddress": 384167,
+    "MaxLength": 16
+  },
+  {
+    "Text": "刷新舞给病弱与未死的敌人更大的损伤！",
+    "StartAddress": 384168,
+    "EndAddress": 384223,
+    "MaxLength": 56
+  },
+  {
+    "Text": "电价－",
+    "StartAddress": 384224,
+    "EndAddress": 384239,
+    "MaxLength": 16
+  },
+  {
+    "Text": "减少火花舞消耗的魔法！",
+    "StartAddress": 384240,
+    "EndAddress": 384279,
+    "MaxLength": 40
+  },
+  {
+    "Text": "电力量＋",
+    "StartAddress": 384280,
+    "EndAddress": 384295,
+    "MaxLength": 16
+  },
+  {
+    "Text": "火花舞给敌人更大的损伤！",
+    "StartAddress": 384296,
+    "EndAddress": 384335,
+    "MaxLength": 40
+  },
+  {
+    "Text": "震撼价－",
+    "StartAddress": 384336,
+    "EndAddress": 384351,
+    "MaxLength": 16
+  },
+  {
+    "Text": "减少震撼舞消耗的魔法！",
+    "StartAddress": 384352,
+    "EndAddress": 384391,
+    "MaxLength": 40
+  },
+  {
+    "Text": "震撼力量＋",
+    "StartAddress": 384392,
+    "EndAddress": 384407,
+    "MaxLength": 16
+  },
+  {
+    "Text": "震撼舞给敌人更大的损伤！",
+    "StartAddress": 384408,
+    "EndAddress": 384447,
+    "MaxLength": 40
+  },
+  {
+    "Text": "火箭损害＋",
+    "StartAddress": 384448,
+    "EndAddress": 384463,
+    "MaxLength": 16
+  },
+  {
+    "Text": "火箭舞给目标更大的损伤！",
+    "StartAddress": 384464,
+    "EndAddress": 384503,
+    "MaxLength": 40
+  },
+  {
+    "Text": "火箭速度＋",
+    "StartAddress": 384504,
+    "EndAddress": 384519,
+    "MaxLength": 16
+  },
+  {
+    "Text": "火箭追赶目标的速度加快！",
+    "StartAddress": 384520,
+    "EndAddress": 384559,
+    "MaxLength": 40
+  },
+  {
+    "Text": "火箭价－",
+    "StartAddress": 384560,
+    "EndAddress": 384575,
+    "MaxLength": 16
+  },
+  {
+    "Text": "减少火箭消耗的魔法！",
+    "StartAddress": 384576,
+    "EndAddress": 384607,
+    "MaxLength": 32
+  },
+  {
+    "Text": "超级球＋",
+    "StartAddress": 384608,
+    "EndAddress": 384623,
+    "MaxLength": 16
+  },
+  {
+    "Text": "增加拍超级球武器的损害！",
+    "StartAddress": 384624,
+    "EndAddress": 384663,
+    "MaxLength": 40
+  },
+  {
+    "Text": "超级球速度＋",
+    "StartAddress": 384664,
+    "EndAddress": 384687,
+    "MaxLength": 24
+  },
+  {
+    "Text": "超级球速度比之前更快！",
+    "StartAddress": 384688,
+    "EndAddress": 384727,
+    "MaxLength": 40
+  },
+  {
+    "Text": "超级球价－",
+    "StartAddress": 384728,
+    "EndAddress": 384743,
+    "MaxLength": 16
+  },
+  {
+    "Text": "减少超级球消耗的魔法！",
+    "StartAddress": 384744,
+    "EndAddress": 384783,
+    "MaxLength": 40
+  },
+  {
+    "Text": "火球损害＋",
+    "StartAddress": 384784,
+    "EndAddress": 384799,
+    "MaxLength": 16
+  },
+  {
+    "Text": "增加火球魔法给出的损伤！",
+    "StartAddress": 384800,
+    "EndAddress": 384839,
+    "MaxLength": 40
+  },
+  {
+    "Text": "火球－",
+    "StartAddress": 384840,
+    "EndAddress": 384855,
+    "MaxLength": 16
+  },
+  {
+    "Text": "减少火球消耗的魔法！",
+    "StartAddress": 384856,
+    "EndAddress": 384887,
+    "MaxLength": 32
+  },
+  {
+    "Text": "盾价－",
+    "StartAddress": 384888,
+    "EndAddress": 384903,
+    "MaxLength": 16
+  },
+  {
+    "Text": "减少盾消耗的魔法！",
+    "StartAddress": 384904,
+    "EndAddress": 384935,
+    "MaxLength": 32
+  },
+  {
+    "Text": "回飞棒损害＋",
+    "StartAddress": 384936,
+    "EndAddress": 384959,
+    "MaxLength": 24
+  },
+  {
+    "Text": "回飞棒比之前给出更大损伤！",
+    "StartAddress": 384960,
+    "EndAddress": 384999,
+    "MaxLength": 40
+  },
+  {
+    "Text": "回飞棒速度＋",
+    "StartAddress": 385000,
+    "EndAddress": 385023,
+    "MaxLength": 24
+  },
+  {
+    "Text": "回飞棒丢着超快速度！",
+    "StartAddress": 385024,
+    "EndAddress": 385055,
+    "MaxLength": 32
+  },
+  {
+    "Text": "回飞棒价－",
+    "StartAddress": 385056,
+    "EndAddress": 385071,
+    "MaxLength": 16
+  },
+  {
+    "Text": "减少回飞棒消耗的魔法！",
+    "StartAddress": 385072,
+    "EndAddress": 385111,
+    "MaxLength": 40
+  },
+  {
+    "Text": "尖球损害＋",
+    "StartAddress": 385112,
+    "EndAddress": 385127,
+    "MaxLength": 16
+  },
+  {
+    "Text": "尖球武器分类给敌人更大的损伤！",
+    "StartAddress": 385128,
+    "EndAddress": 385175,
+    "MaxLength": 48
+  },
+  {
+    "Text": "尖球价－",
+    "StartAddress": 385176,
+    "EndAddress": 385191,
+    "MaxLength": 16
+  },
+  {
+    "Text": "减少尖球消耗的魔法！",
+    "StartAddress": 385192,
+    "EndAddress": 385223,
+    "MaxLength": 32
+  },
+  {
+    "Text": "爱心幸运＋",
+    "StartAddress": 385224,
+    "EndAddress": 385239,
+    "MaxLength": 16
+  },
+  {
+    "Text": "增加收集生命心的几率！",
+    "StartAddress": 385240,
+    "EndAddress": 385279,
+    "MaxLength": 40
+  },
+  {
+    "Text": "食物幸运＋",
+    "StartAddress": 385280,
+    "EndAddress": 385295,
+    "MaxLength": 16
+  },
+  {
+    "Text": "增加收集食物的几率！",
+    "StartAddress": 385296,
+    "EndAddress": 385327,
+    "MaxLength": 32
+  },
+  {
+    "Text": "捡宝石增加",
+    "StartAddress": 385328,
+    "EndAddress": 385343,
+    "MaxLength": 16
+  },
+  {
+    "Text": "增加收集宝石的几率！",
+    "StartAddress": 385344,
+    "EndAddress": 385375,
+    "MaxLength": 32
+  },
+  {
+    "Text": "捡魔法增加",
+    "StartAddress": 385376,
+    "EndAddress": 385391,
+    "MaxLength": 16
+  },
+  {
+    "Text": "增加从打倒的敌人获得魔法的机会！",
+    "StartAddress": 385392,
+    "EndAddress": 385447,
+    "MaxLength": 56
+  },
+  {
+    "Text": "会员卡",
+    "StartAddress": 385448,
+    "EndAddress": 385463,
+    "MaxLength": 16
+  },
+  {
+    "Text": "在任何商店获得折扣价钱。",
+    "StartAddress": 385464,
+    "EndAddress": 385503,
+    "MaxLength": 40
+  },
+  {
+    "Text": "捏者力量",
+    "StartAddress": 385504,
+    "EndAddress": 385519,
+    "MaxLength": 16
+  },
+  {
+    "Text": "获得裂贝壳力量能打败捏者怪兽！",
+    "StartAddress": 385520,
+    "EndAddress": 385567,
+    "MaxLength": 48
+  },
+  {
+    "Text": "破壶者",
+    "StartAddress": 385568,
+    "EndAddress": 385583,
+    "MaxLength": 16
+  },
+  {
+    "Text": "走进壶自动打破！",
+    "StartAddress": 385584,
+    "EndAddress": 385615,
+    "MaxLength": 32
+  },
+  {
+    "Text": "红宝石转换",
+    "StartAddress": 385616,
+    "EndAddress": 385631,
+    "MaxLength": 16
+  },
+  {
+    "Text": "使用甩头发能力把红宝石转换成生命心！",
+    "StartAddress": 385632,
+    "EndAddress": 385687,
+    "MaxLength": 56
+  },
+  {
+    "Text": "绿宝石转换",
+    "StartAddress": 385688,
+    "EndAddress": 385703,
+    "MaxLength": 16
+  },
+  {
+    "Text": "使用甩头发能力把绿宝石转换成魔法！",
+    "StartAddress": 385704,
+    "EndAddress": 385759,
+    "MaxLength": 56
+  },
+  {
+    "Text": "目前无法辨认这卡！",
+    "StartAddress": 385760,
+    "EndAddress": 385791,
+    "MaxLength": 32
+  },
+  {
+    "Text": "这卡的能力仍然是奥秘！",
+    "StartAddress": 385792,
+    "EndAddress": 385831,
+    "MaxLength": 40
+  },
+  {
+    "Text": "扫描舞",
+    "StartAddress": 385832,
+    "EndAddress": 385847,
+    "MaxLength": 16
+  },
+  {
+    "Text": "刷新舞",
+    "StartAddress": 385848,
+    "EndAddress": 385863,
+    "MaxLength": 16
+  },
+  {
+    "Text": "震撼舞",
+    "StartAddress": 385864,
+    "EndAddress": 385879,
+    "MaxLength": 16
+  },
+  {
+    "Text": "火花舞",
+    "StartAddress": 385880,
+    "EndAddress": 385895,
+    "MaxLength": 16
+  },
+  {
+    "Text": "这神秘的舞能显示肉眼看不见的东西！在不同地方使用看看!",
+    "StartAddress": 385896,
+    "EndAddress": 385975,
+    "MaxLength": 80
+  },
+  {
+    "Text": "大自然的力量可以复兴疲劳和疗养病人，以及同时充值空的生命心！",
+    "StartAddress": 385976,
+    "EndAddress": 386071,
+    "MaxLength": 96
+  },
+  {
+    "Text": "召唤出有力的震感把环境摇匀！这舞能给出重大的损伤，也能更改环境...",
+    "StartAddress": 386072,
+    "EndAddress": 386175,
+    "MaxLength": 104
+  },
+  {
+    "Text": "使用这电力舞电击敌人。也可能影响到其他实物…",
+    "StartAddress": 386176,
+    "EndAddress": 386247,
+    "MaxLength": 72
+  },
+  {
+    "Text": "泡泡",
+    "StartAddress": 386248,
+    "EndAddress": 386255,
+    "MaxLength": 8
+  },
+  {
+    "Text": "火球",
+    "StartAddress": 386256,
+    "EndAddress": 386263,
+    "MaxLength": 8
+  },
+  {
+    "Text": "喷火器",
+    "StartAddress": 386264,
+    "EndAddress": 386279,
+    "MaxLength": 16
+  },
+  {
+    "Text": "尖球",
+    "StartAddress": 386280,
+    "EndAddress": 386287,
+    "MaxLength": 8
+  },
+  {
+    "Text": "超级尖球",
+    "StartAddress": 386288,
+    "EndAddress": 386303,
+    "MaxLength": 16
+  },
+  {
+    "Text": "三倍火球",
+    "StartAddress": 386304,
+    "EndAddress": 386319,
+    "MaxLength": 16
+  },
+  {
+    "Text": "弯刀",
+    "StartAddress": 386320,
+    "EndAddress": 386327,
+    "MaxLength": 8
+  },
+  {
+    "Text": "镜子盾",
+    "StartAddress": 386328,
+    "EndAddress": 386343,
+    "MaxLength": 16
+  },
+  {
+    "Text": "无敌性",
+    "StartAddress": 386344,
+    "EndAddress": 386359,
+    "MaxLength": 16
+  },
+  {
+    "Text": "超级球一",
+    "StartAddress": 386360,
+    "EndAddress": 386375,
+    "MaxLength": 16
+  },
+  {
+    "Text": "超级球二",
+    "StartAddress": 386376,
+    "EndAddress": 386391,
+    "MaxLength": 16
+  },
+  {
+    "Text": "超级球三",
+    "StartAddress": 386392,
+    "EndAddress": 386407,
+    "MaxLength": 16
+  },
+  {
+    "Text": "导引火箭一",
+    "StartAddress": 386408,
+    "EndAddress": 386423,
+    "MaxLength": 16
+  },
+  {
+    "Text": "导引火箭二",
+    "StartAddress": 386424,
+    "EndAddress": 386439,
+    "MaxLength": 16
+  },
+  {
+    "Text": "导引火箭三",
+    "StartAddress": 386440,
+    "EndAddress": 386455,
+    "MaxLength": 16
+  },
+  {
+    "Text": "回飞棒",
+    "StartAddress": 386456,
+    "EndAddress": 386471,
+    "MaxLength": 16
+  },
+  {
+    "Text": "双倍回飞棒",
+    "StartAddress": 386472,
+    "EndAddress": 386487,
+    "MaxLength": 16
+  },
+  {
+    "Text": "三倍回飞棒",
+    "StartAddress": 386488,
+    "EndAddress": 386503,
+    "MaxLength": 16
+  },
+  {
+    "Text": "使用<1>泡泡</1>盾保护自己防敌人抛体！",
+    "StartAddress": 386504,
+    "EndAddress": 386559,
+    "MaxLength": 56
+  },
+  {
+    "Text": "花<1>魔法值</1>从<1>远程</1>烧烤敌人！",
+    "StartAddress": 386560,
+    "EndAddress": 386615,
+    "MaxLength": 56
+  },
+  {
+    "Text": "使用重型<1>火力</1>带来点<1>热量</1>！会消耗<1>魔法值</1>。",
+    "StartAddress": 386616,
+    "EndAddress": 386695,
+    "MaxLength": 80
+  },
+  {
+    "Text": "保护身体<1>围绕的球</1>！会消耗<1>魔法值</1>。",
+    "StartAddress": 386696,
+    "EndAddress": 386759,
+    "MaxLength": 64
+  },
+  {
+    "Text": "三个<1>钢铁球</1>围绕着身体！会消耗<1>魔法值</1>。",
+    "StartAddress": 386760,
+    "EndAddress": 386831,
+    "MaxLength": 72
+  },
+  {
+    "Text": "比之前<1>火球</1>覆盖率更多！会消耗<1>魔法值</1>。",
+    "StartAddress": 386832,
+    "EndAddress": 386903,
+    "MaxLength": 72
+  },
+  {
+    "Text": "使用围绕的<1>弯刀</1>神奇力量武装自己！",
+    "StartAddress": 386904,
+    "EndAddress": 386959,
+    "MaxLength": 56
+  },
+  {
+    "Text": "使用这强力的盾防御攻击！",
+    "StartAddress": 386960,
+    "EndAddress": 386999,
+    "MaxLength": 40
+  },
+  {
+    "Text": "使用完全的无敌性摆脱敌人攻击！",
+    "StartAddress": 387000,
+    "EndAddress": 387047,
+    "MaxLength": 48
+  },
+  {
+    "Text": "发射会反弹的抛体用异常角度打击敌人！啵嘤！",
+    "StartAddress": 387048,
+    "EndAddress": 387111,
+    "MaxLength": 64
+  },
+  {
+    "Text": "一次丢两个强力、弹力的球！",
+    "StartAddress": 387112,
+    "EndAddress": 387151,
+    "MaxLength": 40
+  },
+  {
+    "Text": "一次丢三个弹力球！敌人无处可逃！",
+    "StartAddress": 387152,
+    "EndAddress": 387207,
+    "MaxLength": 56
+  },
+  {
+    "Text": "发射自动寻找目标的致死性抛体！",
+    "StartAddress": 387208,
+    "EndAddress": 387255,
+    "MaxLength": 48
+  },
+  {
+    "Text": "增加这寻热武器的数量、速度、以及损伤力！",
+    "StartAddress": 387256,
+    "EndAddress": 387319,
+    "MaxLength": 64
+  },
+  {
+    "Text": "使用火箭尽可能多的速度和损害！",
+    "StartAddress": 387320,
+    "EndAddress": 387367,
+    "MaxLength": 48
+  },
+  {
+    "Text": "丢出会回归的木头抛体！",
+    "StartAddress": 387368,
+    "EndAddress": 387407,
+    "MaxLength": 40
+  },
+  {
+    "Text": "一次广泛地丢出两个回飞棒。",
+    "StartAddress": 387408,
+    "EndAddress": 387447,
+    "MaxLength": 40
+  },
+  {
+    "Text": "三倍娱乐！扫出一片回飞棒把敌人切成碎片！",
+    "StartAddress": 387448,
+    "EndAddress": 387511,
+    "MaxLength": 64
+  },
+  {
+    "Text": "是否想扭曲到%s?",
+    "StartAddress": 387512,
+    "EndAddress": 387535,
+    "MaxLength": 24
+  },
+  {
+    "Text": "解锁了秘密画廊图像！",
+    "StartAddress": 387536,
+    "EndAddress": 387567,
+    "MaxLength": 32
+  },
+  {
+    "Text": "解锁了秘密画廊图像！",
+    "StartAddress": 387568,
+    "EndAddress": 387599,
+    "MaxLength": 32
+  },
+  {
+    "Text": "解锁了秘密画廊图像！",
+    "StartAddress": 387600,
+    "EndAddress": 387631,
+    "MaxLength": 32
+  },
+  {
+    "Text": "解锁了秘密画廊图像！",
+    "StartAddress": 387632,
+    "EndAddress": 387663,
+    "MaxLength": 32
+  },
+  {
+    "Text": "解锁了新模式！",
+    "StartAddress": 387664,
+    "EndAddress": 387687,
+    "MaxLength": 24
+  },
+  {
+    "Text": "瑞士起靴子",
+    "StartAddress": 387688,
+    "EndAddress": 387703,
+    "MaxLength": 16
+  },
+  {
+    "Text": "七海之女王",
+    "StartAddress": 387704,
+    "EndAddress": 387719,
+    "MaxLength": 16
+  },
+  {
+    "Text": "莲花赛莲",
+    "StartAddress": 387720,
+    "EndAddress": 387735,
+    "MaxLength": 16
+  },
+  {
+    "Text": "晒太阳之海藻",
+    "StartAddress": 387736,
+    "EndAddress": 387759,
+    "MaxLength": 24
+  },
+  {
+    "Text": "管虫赛莲",
+    "StartAddress": 387760,
+    "EndAddress": 387775,
+    "MaxLength": 16
+  },
+  {
+    "Text": "爱宠寄生物公主",
+    "StartAddress": 387776,
+    "EndAddress": 387799,
+    "MaxLength": 24
+  },
+  {
+    "Text": "八脚赛莲",
+    "StartAddress": 387800,
+    "EndAddress": 387815,
+    "MaxLength": 16
+  },
+  {
+    "Text": "八倍的恐怖",
+    "StartAddress": 387816,
+    "EndAddress": 387831,
+    "MaxLength": 16
+  },
+  {
+    "Text": "珊瑚赛莲",
+    "StartAddress": 387832,
+    "EndAddress": 387847,
+    "MaxLength": 16
+  },
+  {
+    "Text": "专家钻者",
+    "StartAddress": 387848,
+    "EndAddress": 387863,
+    "MaxLength": 16
+  },
+  {
+    "Text": "𩽾𩾌目赛莲",
+    "StartAddress": 387864,
+    "EndAddress": 387887,
+    "MaxLength": 24
+  },
+  {
+    "Text": "深海怪兽",
+    "StartAddress": 387888,
+    "EndAddress": 387903,
+    "MaxLength": 16
+  },
+  {
+    "Text": "皇后赛莲",
+    "StartAddress": 387904,
+    "EndAddress": 387919,
+    "MaxLength": 16
+  },
+  {
+    "Text": "七赛莲之女王",
+    "StartAddress": 387920,
+    "EndAddress": 387943,
+    "MaxLength": 24
+  },
+  {
+    "Text": "皇后赛莲",
+    "StartAddress": 387944,
+    "EndAddress": 387959,
+    "MaxLength": 16
+  },
+  {
+    "Text": "七赛莲之女王",
+    "StartAddress": 387960,
+    "EndAddress": 387983,
+    "MaxLength": 24
+  },
+  {
+    "Text": "瑞士起靴子！",
+    "StartAddress": 387984,
+    "EndAddress": 388007,
+    "MaxLength": 24
+  },
+  {
+    "Text": "打败",
+    "StartAddress": 388008,
+    "EndAddress": 388015,
+    "MaxLength": 8
+  },
+  {
+    "Text": "场馆村",
+    "StartAddress": 388016,
+    "EndAddress": 388031,
+    "MaxLength": 16
+  },
+  {
+    "Text": "护甲村",
+    "StartAddress": 388032,
+    "EndAddress": 388047,
+    "MaxLength": 16
+  },
+  {
+    "Text": "深海领域",
+    "StartAddress": 388048,
+    "EndAddress": 388063,
+    "MaxLength": 16
+  },
+  {
+    "Text": "沉没船厂",
+    "StartAddress": 388064,
+    "EndAddress": 388079,
+    "MaxLength": 16
+  },
+  {
+    "Text": "采矿场",
+    "StartAddress": 388080,
+    "EndAddress": 388095,
+    "MaxLength": 16
+  },
+  {
+    "Text": "生苔生物群落",
+    "StartAddress": 388096,
+    "EndAddress": 388119,
+    "MaxLength": 24
+  },
+  {
+    "Text": "实验室",
+    "StartAddress": 388120,
+    "EndAddress": 388135,
+    "MaxLength": 16
+  },
+  {
+    "Text": "服务地区",
+    "StartAddress": 388136,
+    "EndAddress": 388151,
+    "MaxLength": 16
+  },
+  {
+    "Text": "游览路线",
+    "StartAddress": 388152,
+    "EndAddress": 388167,
+    "MaxLength": 16
+  },
+  {
+    "Text": "莲花窝",
+    "StartAddress": 388168,
+    "EndAddress": 388183,
+    "MaxLength": 16
+  },
+  {
+    "Text": "珊瑚矿",
+    "StartAddress": 388184,
+    "EndAddress": 388199,
+    "MaxLength": 16
+  },
+  {
+    "Text": "海底热泉实验室",
+    "StartAddress": 388200,
+    "EndAddress": 388223,
+    "MaxLength": 24
+  },
+  {
+    "Text": "锅炉",
+    "StartAddress": 388224,
+    "EndAddress": 388231,
+    "MaxLength": 8
+  },
+  {
+    "Text": "鱿鱼洞",
+    "StartAddress": 388232,
+    "EndAddress": 388247,
+    "MaxLength": 16
+  },
+  {
+    "Text": "飞行堡",
+    "StartAddress": 388248,
+    "EndAddress": 388263,
+    "MaxLength": 16
+  },
+  {
+    "Text": "西岛",
+    "StartAddress": 388264,
+    "EndAddress": 388271,
+    "MaxLength": 8
+  },
+  {
+    "Text": "东岛",
+    "StartAddress": 388272,
+    "EndAddress": 388279,
+    "MaxLength": 8
+  },
+  {
+    "Text": "树村",
+    "StartAddress": 388280,
+    "EndAddress": 388287,
+    "MaxLength": 8
+  },
+  {
+    "Text": "第一段完成！",
+    "StartAddress": 388288,
+    "EndAddress": 388311,
+    "MaxLength": 24
+  },
+  {
+    "Text": "树村",
+    "StartAddress": 388312,
+    "EndAddress": 388319,
+    "MaxLength": 8
+  },
+  {
+    "Text": "能源收集塔一号",
+    "StartAddress": 388320,
+    "EndAddress": 388343,
+    "MaxLength": 24
+  },
+  {
+    "Text": "阳光虹吸筒仓",
+    "StartAddress": 388344,
+    "EndAddress": 388367,
+    "MaxLength": 24
+  },
+  {
+    "Text": "能源收集塔二号",
+    "StartAddress": 388368,
+    "EndAddress": 388391,
+    "MaxLength": 24
+  },
+  {
+    "Text": "阳光虹吸筒仓",
+    "StartAddress": 388392,
+    "EndAddress": 388415,
+    "MaxLength": 24
+  },
+  {
+    "Text": "能源收集塔三号",
+    "StartAddress": 388416,
+    "EndAddress": 388439,
+    "MaxLength": 24
+  },
+  {
+    "Text": "阳光虹吸筒仓",
+    "StartAddress": 388440,
+    "EndAddress": 388463,
+    "MaxLength": 24
+  },
+  {
+    "Text": "能源收集塔四号",
+    "StartAddress": 388464,
+    "EndAddress": 388487,
+    "MaxLength": 24
+  },
+  {
+    "Text": "阳光虹吸筒仓",
+    "StartAddress": 388488,
+    "EndAddress": 388511,
+    "MaxLength": 24
+  },
+  {
+    "Text": "开场影片",
+    "StartAddress": 388512,
+    "EndAddress": 388527,
+    "MaxLength": 16
+  },
+  {
+    "Text": "来到岛屿",
+    "StartAddress": 388528,
+    "EndAddress": 388543,
+    "MaxLength": 16
+  },
+  {
+    "Text": "舞台上的困难",
+    "StartAddress": 388544,
+    "EndAddress": 388567,
+    "MaxLength": 24
+  },
+  {
+    "Text": "跌进城市",
+    "StartAddress": 388568,
+    "EndAddress": 388583,
+    "MaxLength": 16
+  },
+  {
+    "Text": "莲花赛莲",
+    "StartAddress": 388584,
+    "EndAddress": 388599,
+    "MaxLength": 16
+  },
+  {
+    "Text": "珊瑚赛莲",
+    "StartAddress": 388600,
+    "EndAddress": 388615,
+    "MaxLength": 16
+  },
+  {
+    "Text": "管虫赛莲",
+    "StartAddress": 388616,
+    "EndAddress": 388631,
+    "MaxLength": 16
+  },
+  {
+    "Text": "𩽾𩾌鱼赛莲",
+    "StartAddress": 388632,
+    "EndAddress": 388655,
+    "MaxLength": 24
+  },
+  {
+    "Text": "八脚赛莲",
+    "StartAddress": 388656,
+    "EndAddress": 388671,
+    "MaxLength": 16
+  },
+  {
+    "Text": "塔楼升起",
+    "StartAddress": 388672,
+    "EndAddress": 388687,
+    "MaxLength": 16
+  },
+  {
+    "Text": "起飞",
+    "StartAddress": 388688,
+    "EndAddress": 388695,
+    "MaxLength": 8
+  },
+  {
+    "Text": "摔成碎片",
+    "StartAddress": 388696,
+    "EndAddress": 388711,
+    "MaxLength": 16
+  },
+  {
+    "Text": "热情告别",
+    "StartAddress": 388712,
+    "EndAddress": 388727,
+    "MaxLength": 16
+  },
+  {
+    "Text": "保存数据",
+    "StartAddress": 388728,
+    "EndAddress": 388743,
+    "MaxLength": 16
+  },
+  {
+    "Text": "控制器断线了。",
+    "StartAddress": 388744,
+    "EndAddress": 388767,
+    "MaxLength": 24
+  },
+  {
+    "Text": "请重新连线控制器。",
+    "StartAddress": 388768,
+    "EndAddress": 388799,
+    "MaxLength": 32
+  },
+  {
+    "Text": "天堂岛",
+    "StartAddress": 388800,
+    "EndAddress": 388815,
+    "MaxLength": 16
+  },
+  {
+    "Text": "扭曲回场馆村？",
+    "StartAddress": 388816,
+    "EndAddress": 388839,
+    "MaxLength": 24
+  },
+  {
+    "Text": "砸破在护甲村等着获取一个向这样的项目！",
+    "StartAddress": 388840,
+    "EndAddress": 388903,
+    "MaxLength": 64
+  },
+  {
+    "Text": "哈莫尼正在找这种东西！",
+    "StartAddress": 388904,
+    "EndAddress": 388943,
+    "MaxLength": 40
+  },
+  {
+    "Text": "三倍火球",
+    "StartAddress": 388944,
+    "EndAddress": 388959,
+    "MaxLength": 16
+  },
+  {
+    "Text": "超级尖球",
+    "StartAddress": 388960,
+    "EndAddress": 388975,
+    "MaxLength": 16
+  },
+  {
+    "Text": "导引火箭一",
+    "StartAddress": 388976,
+    "EndAddress": 388991,
+    "MaxLength": 16
+  },
+  {
+    "Text": "导引火箭二",
+    "StartAddress": 388992,
+    "EndAddress": 389007,
+    "MaxLength": 16
+  },
+  {
+    "Text": "导引火箭三",
+    "StartAddress": 389008,
+    "EndAddress": 389023,
+    "MaxLength": 16
+  },
+  {
+    "Text": "特级柔滑霜",
+    "StartAddress": 389024,
+    "EndAddress": 389039,
+    "MaxLength": 16
+  },
+  {
+    "Text": "超级柔滑霜",
+    "StartAddress": 389040,
+    "EndAddress": 389055,
+    "MaxLength": 16
+  },
+  {
+    "Text": "双倍回飞棒",
+    "StartAddress": 389056,
+    "EndAddress": 389071,
+    "MaxLength": 16
+  },
+  {
+    "Text": "三倍回飞棒",
+    "StartAddress": 389072,
+    "EndAddress": 389087,
+    "MaxLength": 16
+  },
+  {
+    "Text": "极大吸引",
+    "StartAddress": 389088,
+    "EndAddress": 389103,
+    "MaxLength": 16
+  },
+  {
+    "Text": "魔法值拯救",
+    "StartAddress": 389104,
+    "EndAddress": 389119,
+    "MaxLength": 16
+  },
+  {
+    "Text": "超",
+    "StartAddress": 389120,
+    "EndAddress": 389127,
+    "MaxLength": 8
+  },
+  {
+    "Text": "神奇！",
+    "StartAddress": 389128,
+    "EndAddress": 389143,
+    "MaxLength": 16
+  },
+  {
+    "Text": "在新游戏中完成游戏。",
+    "StartAddress": 389144,
+    "EndAddress": 389175,
+    "MaxLength": 32
+  },
+  {
+    "Text": "解锁了秘密画廊图像！",
+    "StartAddress": 389176,
+    "EndAddress": 389207,
+    "MaxLength": 32
+  },
+  {
+    "Text": "奖励图片-新游戏加！",
+    "StartAddress": 389208,
+    "EndAddress": 389239,
+    "MaxLength": 32
+  },
+  {
+    "Text": "点按来继续",
+    "StartAddress": 389240,
+    "EndAddress": 389271,
+    "MaxLength": 32
+  },
+  {
+    "Text": "没有Game Center帐户",
+    "StartAddress": 389272,
+    "EndAddress": 389295,
+    "MaxLength": 24
+  }
+]
