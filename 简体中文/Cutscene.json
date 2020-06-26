@@ -1,471 +1,471 @@
-﻿[
+[
   {
     "Text": "我们英雄从飞船登岸到热带岛屿上的砖头飞机降坪。",
     "OriginalText": "The heroes disembark from a flying ship, and onto a lofted brick landing pad on a tropical island",
     "StartAddress": 4735520,
-    "EndAddress": 4735591,
-    "MaxLength": 72
+    "EndAddress": 4735590,
+    "MaxLength": 71
   },
   {
     "Text": "啊～！这就像样。我来躺一躺来休息吧！",
     "OriginalText": "Ahhhhh! This is the place. Time to kick back and relax!",
     "StartAddress": 4735592,
-    "EndAddress": 4735647,
-    "MaxLength": 56
+    "EndAddress": 4735646,
+    "MaxLength": 55
   },
   {
     "Text": "哇～！！啊～～！！这里真是天堂！",
     "OriginalText": "Whoa-HAAAAH!! EEEEEEEE!!!!! This place is a paradise!",
     "StartAddress": 4735648,
-    "EndAddress": 4735703,
-    "MaxLength": 56
+    "EndAddress": 4735702,
+    "MaxLength": 55
   },
   {
     "Text": "我们可以待一整个礼拜！你能相信吗？",
     "OriginalText": "We get to stay here for a whole week! Can you believe it?",
     "StartAddress": 4735704,
-    "EndAddress": 4735759,
-    "MaxLength": 56
+    "EndAddress": 4735758,
+    "MaxLength": 55
   },
   {
     "Text": "什么～一个礼拜？！",
     "OriginalText": "Wha - a week?!",
     "StartAddress": 4735760,
-    "EndAddress": 4735791,
-    "MaxLength": 32
+    "EndAddress": 4735790,
+    "MaxLength": 31
   },
   {
     "Text": "你带了一整月的东西来！",
     "OriginalText": "You packed enough for a month!",
     "StartAddress": 4735792,
-    "EndAddress": 4735831,
-    "MaxLength": 40
+    "EndAddress": 4735830,
+    "MaxLength": 39
   },
   {
     "Text": "嘿！我参加节庆必须带哪些东西！",
     "OriginalText": "Hey! I need all that stuff for the festival!",
     "StartAddress": 4735832,
-    "EndAddress": 4735879,
-    "MaxLength": 48
+    "EndAddress": 4735878,
+    "MaxLength": 47
   },
   {
     "Text": "而我从我实验室带了一些未完成的项目！",
     "OriginalText": "And I brought some unfinished projects from my lab!",
     "StartAddress": 4735880,
-    "EndAddress": 4735935,
-    "MaxLength": 56
+    "EndAddress": 4735934,
+    "MaxLength": 55
   },
   {
     "Text": "唉。走吧。越快入住，就能越快休息呢。",
     "OriginalText": "Ugh. Come on. The sooner we check in, the sooner we can relax.",
     "StartAddress": 4735936,
-    "EndAddress": 4735999,
-    "MaxLength": 64
+    "EndAddress": 4735998,
+    "MaxLength": 63
   },
   {
     "Text": "各位女士们，先生们！",
     "OriginalText": "Ladies and gentlemen, boys and girls!",
     "StartAddress": 4736000,
-    "EndAddress": 4736031,
-    "MaxLength": 32
+    "EndAddress": 4736030,
+    "MaxLength": 31
   },
   {
     "Text": "欢迎光临！来到第一届半精灵节庆！",
     "OriginalText": " Welcome! To the first ever Half-Genie Festival!",
     "StartAddress": 4736032,
-    "EndAddress": 4736087,
-    "MaxLength": 56
+    "EndAddress": 4736086,
+    "MaxLength": 55
   },
   {
     "Text": "现在来到舞台上",
     "OriginalText": "Now taking the stage ",
     "StartAddress": 4736088,
-    "EndAddress": 4736111,
-    "MaxLength": 24
+    "EndAddress": 4736110,
+    "MaxLength": 23
   },
   {
     "Text": "来自遥远的地方",
     "OriginalText": "From parts beyond ",
     "StartAddress": 4736112,
-    "EndAddress": 4736135,
-    "MaxLength": 24
+    "EndAddress": 4736134,
+    "MaxLength": 23
   },
   {
     "Text": "半人。半魔法。",
     "OriginalText": "Part human. Part magic.",
     "StartAddress": 4736136,
-    "EndAddress": 4736159,
-    "MaxLength": 24
+    "EndAddress": 4736158,
+    "MaxLength": 23
   },
   {
     "Text": "今晚焕发的明星",
     "OriginalText": "The shimmering stars of the evening",
     "StartAddress": 4736160,
-    "EndAddress": 4736183,
-    "MaxLength": 24
+    "EndAddress": 4736182,
+    "MaxLength": 23
   },
   {
     "Text": "她们就是你们的……壮观半精灵巨星！",
     "OriginalText": "They are your… Spectacular Half-Genie Superstars!",
     "StartAddress": 4736184,
-    "EndAddress": 4736239,
-    "MaxLength": 56
+    "EndAddress": 4736238,
+    "MaxLength": 55
   },
   {
     "Text": "喂？！",
     "OriginalText": "Hello?!",
     "StartAddress": 4736240,
-    "EndAddress": 4736263,
-    "MaxLength": 24
+    "EndAddress": 4736262,
+    "MaxLength": 23
   },
   {
     "Text": "哎呀～！！",
     "OriginalText": "Yeeeeeeeeeek!",
     "StartAddress": 4736264,
-    "EndAddress": 4736287,
-    "MaxLength": 24
+    "EndAddress": 4736286,
+    "MaxLength": 23
   },
   {
     "Text": "（大笑）",
     "OriginalText": "(laughing)",
     "StartAddress": 4736288,
-    "EndAddress": 4736303,
-    "MaxLength": 16
+    "EndAddress": 4736302,
+    "MaxLength": 15
   },
   {
     "Text": "（低声的喃喃声）",
     "OriginalText": "(murmuring sounds)",
     "StartAddress": 4736304,
-    "EndAddress": 4736343,
-    "MaxLength": 40
+    "EndAddress": 4736342,
+    "MaxLength": 39
   },
   {
     "Text": "大家看！",
     "OriginalText": "Guys look!",
     "StartAddress": 4736344,
-    "EndAddress": 4736359,
-    "MaxLength": 16
+    "EndAddress": 4736358,
+    "MaxLength": 15
   },
   {
     "Text": "我们已经来不及了！",
     "OriginalText": "We're already too late!",
     "StartAddress": 4736360,
-    "EndAddress": 4736391,
-    "MaxLength": 32
+    "EndAddress": 4736390,
+    "MaxLength": 31
   },
   {
     "Text": "船快要～",
     "OriginalText": "The ship is about to - ",
     "StartAddress": 4736392,
-    "EndAddress": 4736407,
-    "MaxLength": 16
+    "EndAddress": 4736406,
+    "MaxLength": 15
   },
   {
     "Text": "（尖叫）",
     "OriginalText": "(screams)",
     "StartAddress": 4736408,
-    "EndAddress": 4736423,
-    "MaxLength": 16
+    "EndAddress": 4736422,
+    "MaxLength": 15
   },
   {
     "Text": "成功了！",
     "OriginalText": "It worked!",
     "StartAddress": 4736424,
-    "EndAddress": 4736439,
-    "MaxLength": 16
+    "EndAddress": 4736438,
+    "MaxLength": 15
   },
   {
     "Text": "赛莲的能力现在属于我的！",
     "OriginalText": "The power of the Sirens belongs to me!",
     "StartAddress": 4736440,
-    "EndAddress": 4736479,
-    "MaxLength": 40
+    "EndAddress": 4736478,
+    "MaxLength": 39
   },
   {
     "Text": "她在充值武器系统",
     "OriginalText": "She's charging up the weapons systems",
     "StartAddress": 4736480,
-    "EndAddress": 4736511,
-    "MaxLength": 32
+    "EndAddress": 4736510,
+    "MaxLength": 31
   },
   {
     "Text": "她要把整个岛屿爆破！",
     "OriginalText": "She's gonna blow up the entire island!",
     "StartAddress": 4736512,
-    "EndAddress": 4736551,
-    "MaxLength": 40
+    "EndAddress": 4736550,
+    "MaxLength": 39
   },
   {
     "Text": "桑塔在哪儿？",
     "OriginalText": "Where's Shantae?",
     "StartAddress": 4736552,
-    "EndAddress": 4736575,
-    "MaxLength": 24
+    "EndAddress": 4736574,
+    "MaxLength": 23
   },
   {
     "Text": "你觉得她是不是……",
     "OriginalText": "Do you think she's....",
     "StartAddress": 4736576,
-    "EndAddress": 4736607,
-    "MaxLength": 32
+    "EndAddress": 4736606,
+    "MaxLength": 31
   },
   {
     "Text": "嘿！下面这里！",
     "OriginalText": "Hey! Down here!",
     "StartAddress": 4736608,
-    "EndAddress": 4736631,
-    "MaxLength": 24
+    "EndAddress": 4736630,
+    "MaxLength": 23
   },
   {
     "Text": "那听起来像……?",
     "OriginalText": "That sounds like...?",
     "StartAddress": 4736632,
-    "EndAddress": 4736655,
-    "MaxLength": 24
+    "EndAddress": 4736654,
+    "MaxLength": 23
   },
   {
     "Text": "幸好！",
     "OriginalText": "Phew!",
     "StartAddress": 4736656,
-    "EndAddress": 4736679,
-    "MaxLength": 24
+    "EndAddress": 4736678,
+    "MaxLength": 23
   },
   {
     "Text": "第一次度假而言，这真是麻烦！",
     "OriginalText": "For a first vacation, it sure was a doozy!",
     "StartAddress": 4736680,
-    "EndAddress": 4736727,
-    "MaxLength": 48
+    "EndAddress": 4736726,
+    "MaxLength": 47
   },
   {
     "Text": "我真的会很想你们大家。",
     "OriginalText": "I'll miss you all so much.",
     "StartAddress": 4736728,
-    "EndAddress": 4736767,
-    "MaxLength": 40
+    "EndAddress": 4736766,
+    "MaxLength": 39
   },
   {
     "Text": "啊？",
     "OriginalText": "Huh?",
     "StartAddress": 4736768,
-    "EndAddress": 4736775,
-    "MaxLength": 8
+    "EndAddress": 4736774,
+    "MaxLength": 7
   },
   {
     "Text": "你当前还有很大的任务呢！",
     "OriginalText": "You have a big job ahead of you!",
     "StartAddress": 4736776,
-    "EndAddress": 4736815,
-    "MaxLength": 40
+    "EndAddress": 4736814,
+    "MaxLength": 39
   },
   {
     "Text": "大家都需要你的帮忙来重建！",
     "OriginalText": "Everyone here needs your help to rebuild!",
     "StartAddress": 4736816,
-    "EndAddress": 4736855,
-    "MaxLength": 40
+    "EndAddress": 4736854,
+    "MaxLength": 39
   },
   {
     "Text": "永远尽力哦！",
     "OriginalText": "So always do your very best!",
     "StartAddress": 4736856,
-    "EndAddress": 4736879,
-    "MaxLength": 24
+    "EndAddress": 4736878,
+    "MaxLength": 23
   },
   {
     "Text": "唉（开心，充满希望）",
     "OriginalText": "Sigh (happy, hopeful)",
     "StartAddress": 4736880,
-    "EndAddress": 4736911,
-    "MaxLength": 32
+    "EndAddress": 4736910,
+    "MaxLength": 31
   },
   {
     "Text": "你走以前，",
     "OriginalText": "Before you go",
     "StartAddress": 4736912,
-    "EndAddress": 4736927,
-    "MaxLength": 16
+    "EndAddress": 4736926,
+    "MaxLength": 15
   },
   {
     "Text": "拿着。",
     "OriginalText": "Here.",
     "StartAddress": 4736928,
-    "EndAddress": 4736943,
-    "MaxLength": 16
+    "EndAddress": 4736942,
+    "MaxLength": 15
   },
   {
     "Text": "这要给你。",
     "OriginalText": "This is for you",
     "StartAddress": 4736944,
-    "EndAddress": 4736959,
-    "MaxLength": 16
+    "EndAddress": 4736958,
+    "MaxLength": 15
   },
   {
     "Text": "这是什么啊？",
     "OriginalText": "What's this?",
     "StartAddress": 4736960,
-    "EndAddress": 4736983,
-    "MaxLength": 24
+    "EndAddress": 4736982,
+    "MaxLength": 23
   },
   {
     "Text": "你母亲的剪贴簿……",
     "OriginalText": "Your mother's scrapbook...",
     "StartAddress": 4736984,
-    "EndAddress": 4737015,
-    "MaxLength": 32
+    "EndAddress": 4737014,
+    "MaxLength": 31
   },
   {
     "Text": "这我不能接受呢！",
     "OriginalText": "I can't accept this!",
     "StartAddress": 4737016,
-    "EndAddress": 4737047,
-    "MaxLength": 32
+    "EndAddress": 4737046,
+    "MaxLength": 31
   },
   {
     "Text": "一路顺风！",
     "OriginalText": "Safe travels!",
     "StartAddress": 4737048,
-    "EndAddress": 4737063,
-    "MaxLength": 16
+    "EndAddress": 4737062,
+    "MaxLength": 15
   },
   {
     "Text": "哎呀，我们可以快走了吗？",
     "OriginalText": "Ugh, can we just go already?",
     "StartAddress": 4737064,
-    "EndAddress": 4737103,
-    "MaxLength": 40
+    "EndAddress": 4737102,
+    "MaxLength": 39
   },
   {
     "Text": "你可以给她一分钟吗？",
     "OriginalText": "Can you at least give her a moment?",
     "StartAddress": 4737104,
-    "EndAddress": 4737135,
-    "MaxLength": 32
+    "EndAddress": 4737134,
+    "MaxLength": 31
   },
   {
     "Text": "她想告别呢！",
     "OriginalText": "She's trying to say goodbye!",
     "StartAddress": 4737136,
-    "EndAddress": 4737159,
-    "MaxLength": 24
+    "EndAddress": 4737158,
+    "MaxLength": 23
   },
   {
     "Text": "谁死了让你做老板呢？",
     "OriginalText": "Who died and put you in charge?",
     "StartAddress": 4737160,
-    "EndAddress": 4737191,
-    "MaxLength": 32
+    "EndAddress": 4737190,
+    "MaxLength": 31
   },
   {
     "Text": "啊！独裁者！",
     "OriginalText": "Owww! Tyrant!",
     "StartAddress": 4737192,
-    "EndAddress": 4737215,
-    "MaxLength": 24
+    "EndAddress": 4737214,
+    "MaxLength": 23
   },
   {
     "Text": "啊～！！那是我头发呢！",
     "OriginalText": "Agghh! That's my hair!",
     "StartAddress": 4737216,
-    "EndAddress": 4737255,
-    "MaxLength": 40
+    "EndAddress": 4737254,
+    "MaxLength": 39
   },
   {
     "Text": "鸟脑！",
     "OriginalText": "Bird brain!",
     "StartAddress": 4737256,
-    "EndAddress": 4737271,
-    "MaxLength": 16
+    "EndAddress": 4737270,
+    "MaxLength": 15
   },
   {
     "Text": "你们两位行不行～",
     "OriginalText": "Can't you two try to get along for a ch- ",
     "StartAddress": 4737272,
-    "EndAddress": 4737303,
-    "MaxLength": 32
+    "EndAddress": 4737302,
+    "MaxLength": 31
   },
   {
     "Text": "别来凑热闹！",
     "OriginalText": "Stay out of this!",
     "StartAddress": 4737304,
-    "EndAddress": 4737327,
-    "MaxLength": 24
+    "EndAddress": 4737326,
+    "MaxLength": 23
   },
   {
     "Text": "看看你觉得怎样！",
     "OriginalText": "Let's see how you like it!",
     "StartAddress": 4737328,
-    "EndAddress": 4737359,
-    "MaxLength": 32
+    "EndAddress": 4737358,
+    "MaxLength": 31
   },
   {
     "Text": "我超爱的！",
     "OriginalText": "I love it!",
     "StartAddress": 4737360,
-    "EndAddress": 4737375,
-    "MaxLength": 16
+    "EndAddress": 4737374,
+    "MaxLength": 15
   },
   {
     "Text": "你有病呢！",
     "OriginalText": "You sick SICK person!",
     "StartAddress": 4737376,
-    "EndAddress": 4737391,
-    "MaxLength": 16
+    "EndAddress": 4737390,
+    "MaxLength": 15
   },
   {
     "Text": "看看你觉得怎样！",
     "OriginalText": "Let's see how you like it!",
     "StartAddress": 4737392,
-    "EndAddress": 4737423,
-    "MaxLength": 32
+    "EndAddress": 4737422,
+    "MaxLength": 31
   },
   {
     "Text": "啊～！",
     "OriginalText": "Ahhh!",
     "StartAddress": 4737424,
-    "EndAddress": 4737439,
-    "MaxLength": 16
+    "EndAddress": 4737438,
+    "MaxLength": 15
   },
   {
     "Text": "我要把你脸吃掉！",
     "OriginalText": "I'll eat your face!",
     "StartAddress": 4737440,
-    "EndAddress": 4737471,
-    "MaxLength": 32
+    "EndAddress": 4737470,
+    "MaxLength": 31
   },
   {
     "Text": "噁心的爱吸脑讨厌鬼！",
     "OriginalText": "Disgusting brain-sucking slob!",
     "StartAddress": 4737472,
-    "EndAddress": 4737503,
-    "MaxLength": 32
+    "EndAddress": 4737502,
+    "MaxLength": 31
   },
   {
     "Text": "再见！",
     "OriginalText": "So long!",
     "StartAddress": 4737504,
-    "EndAddress": 4737519,
-    "MaxLength": 16
+    "EndAddress": 4737518,
+    "MaxLength": 15
   },
   {
     "Text": "一路平安！",
     "OriginalText": "Have a safe trip home!",
     "StartAddress": 4737520,
-    "EndAddress": 4737535,
-    "MaxLength": 16
+    "EndAddress": 4737534,
+    "MaxLength": 15
   },
   {
     "Text": "谢谢一切！",
     "OriginalText": "Thank you for everything!",
     "StartAddress": 4737536,
-    "EndAddress": 4737551,
-    "MaxLength": 16
+    "EndAddress": 4737550,
+    "MaxLength": 15
   },
   {
     "Text": "我会想你们大家！",
     "OriginalText": "I'll miss you all!",
     "StartAddress": 4737552,
-    "EndAddress": 4737583,
-    "MaxLength": 32
+    "EndAddress": 4737582,
+    "MaxLength": 31
   }
 ]
