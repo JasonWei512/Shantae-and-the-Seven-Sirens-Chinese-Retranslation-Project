@@ -77,7 +77,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "现在登上舞台的是",
+    "Text": "现在登台的是",
     "OriginalText": "Now taking the stage ",
     "StartAddress": 4736088,
     "EndAddress": 4736110,
@@ -231,7 +231,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "对第一次度假而言，这还真是独特！",
+    "Text": "对首次度假而言，这还真是独特！",
     "OriginalText": "For a first vacation, it sure was a doozy!",
     "StartAddress": 4736680,
     "EndAddress": 4736726,
@@ -273,7 +273,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "唉（开心，充满希望）",
+    "Text": "哎（开心，充满希望）",
     "OriginalText": "Sigh (happy, hopeful)",
     "StartAddress": 4736880,
     "EndAddress": 4736910,
