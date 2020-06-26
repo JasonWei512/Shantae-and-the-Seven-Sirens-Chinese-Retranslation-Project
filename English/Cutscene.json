@@ -1,434 +1,434 @@
-﻿[
+[
   {
     "Text": "The heroes disembark from a flying ship, and onto a lofted brick landing pad on a tropical island",
     "StartAddress": 4708352,
-    "EndAddress": 4708455,
-    "MaxLength": 104
+    "EndAddress": 4708454,
+    "MaxLength": 103
   },
   {
     "Text": "Ahhhhh! This is the place. Time to kick back and relax!",
     "StartAddress": 4708456,
-    "EndAddress": 4708511,
-    "MaxLength": 56
+    "EndAddress": 4708510,
+    "MaxLength": 55
   },
   {
     "Text": "Whoa-HAAAAH!! EEEEEEEE!!!!! This place is a paradise!",
     "StartAddress": 4708512,
-    "EndAddress": 4708567,
-    "MaxLength": 56
+    "EndAddress": 4708566,
+    "MaxLength": 55
   },
   {
     "Text": "We get to stay here for a whole week! Can you believe it?",
     "StartAddress": 4708568,
-    "EndAddress": 4708631,
-    "MaxLength": 64
+    "EndAddress": 4708630,
+    "MaxLength": 63
   },
   {
     "Text": "Wha - a week?!",
     "StartAddress": 4708632,
-    "EndAddress": 4708647,
-    "MaxLength": 16
+    "EndAddress": 4708646,
+    "MaxLength": 15
   },
   {
     "Text": "You packed enough for a month!",
     "StartAddress": 4708648,
-    "EndAddress": 4708679,
-    "MaxLength": 32
+    "EndAddress": 4708678,
+    "MaxLength": 31
   },
   {
     "Text": "Hey! I need all that stuff for the festival!",
     "StartAddress": 4708680,
-    "EndAddress": 4708727,
-    "MaxLength": 48
+    "EndAddress": 4708726,
+    "MaxLength": 47
   },
   {
     "Text": "And I brought some unfinished projects from my lab!",
     "StartAddress": 4708728,
-    "EndAddress": 4708783,
-    "MaxLength": 56
+    "EndAddress": 4708782,
+    "MaxLength": 55
   },
   {
     "Text": "Ugh. Come on. The sooner we check in, the sooner we can relax.",
     "StartAddress": 4708784,
-    "EndAddress": 4708855,
-    "MaxLength": 72
+    "EndAddress": 4708854,
+    "MaxLength": 71
   },
   {
     "Text": "Ladies and gentlemen, boys and girls!",
     "StartAddress": 4708856,
-    "EndAddress": 4708895,
-    "MaxLength": 40
+    "EndAddress": 4708894,
+    "MaxLength": 39
   },
   {
     "Text": " Welcome! To the first ever Half-Genie Festival!",
     "StartAddress": 4708896,
-    "EndAddress": 4708951,
-    "MaxLength": 56
+    "EndAddress": 4708950,
+    "MaxLength": 55
   },
   {
     "Text": "Now taking the stage ",
     "StartAddress": 4708952,
-    "EndAddress": 4708975,
-    "MaxLength": 24
+    "EndAddress": 4708974,
+    "MaxLength": 23
   },
   {
     "Text": "From parts beyond ",
     "StartAddress": 4708976,
-    "EndAddress": 4708999,
-    "MaxLength": 24
+    "EndAddress": 4708998,
+    "MaxLength": 23
   },
   {
     "Text": "Part human. Part magic.",
     "StartAddress": 4709000,
-    "EndAddress": 4709023,
-    "MaxLength": 24
+    "EndAddress": 4709022,
+    "MaxLength": 23
   },
   {
     "Text": "The shimmering stars of the evening",
     "StartAddress": 4709024,
-    "EndAddress": 4709063,
-    "MaxLength": 40
+    "EndAddress": 4709062,
+    "MaxLength": 39
   },
   {
     "Text": "They are your… Spectacular Half-Genie Superstars!",
     "StartAddress": 4709064,
-    "EndAddress": 4709119,
-    "MaxLength": 56
+    "EndAddress": 4709118,
+    "MaxLength": 55
   },
   {
     "Text": "Hello?!",
     "StartAddress": 4709120,
-    "EndAddress": 4709127,
-    "MaxLength": 8
+    "EndAddress": 4709126,
+    "MaxLength": 7
   },
   {
     "Text": "Shantae falls into a pit",
     "StartAddress": 4709128,
-    "EndAddress": 4709159,
-    "MaxLength": 32
+    "EndAddress": 4709158,
+    "MaxLength": 31
   },
   {
     "Text": "Yeeeeeeeeeek!",
     "StartAddress": 4709160,
-    "EndAddress": 4709175,
-    "MaxLength": 16
+    "EndAddress": 4709174,
+    "MaxLength": 15
   },
   {
     "Text": "towers erput from the ground, causing an earthquake",
     "StartAddress": 4709176,
-    "EndAddress": 4709231,
-    "MaxLength": 56
+    "EndAddress": 4709230,
+    "MaxLength": 55
   },
   {
     "Text": "(laughing)",
     "StartAddress": 4709232,
-    "EndAddress": 4709247,
-    "MaxLength": 16
+    "EndAddress": 4709246,
+    "MaxLength": 15
   },
   {
     "Text": "(murmuring sounds)",
     "StartAddress": 4709248,
-    "EndAddress": 4709271,
-    "MaxLength": 24
+    "EndAddress": 4709270,
+    "MaxLength": 23
   },
   {
     "Text": "A huge flying ship splits the island in half, and rises into the air",
     "StartAddress": 4709272,
-    "EndAddress": 4709343,
-    "MaxLength": 72
+    "EndAddress": 4709342,
+    "MaxLength": 71
   },
   {
     "Text": "Guys look!",
     "StartAddress": 4709344,
-    "EndAddress": 4709359,
-    "MaxLength": 16
+    "EndAddress": 4709358,
+    "MaxLength": 15
   },
   {
     "Text": "We're already too late!",
     "StartAddress": 4709360,
-    "EndAddress": 4709383,
-    "MaxLength": 24
+    "EndAddress": 4709382,
+    "MaxLength": 23
   },
   {
     "Text": "The ship is about to - ",
     "StartAddress": 4709384,
-    "EndAddress": 4709407,
-    "MaxLength": 24
+    "EndAddress": 4709406,
+    "MaxLength": 23
   },
   {
     "Text": "(screams)",
     "StartAddress": 4709408,
-    "EndAddress": 4709423,
-    "MaxLength": 16
+    "EndAddress": 4709422,
+    "MaxLength": 15
   },
   {
     "Text": "It worked!",
     "StartAddress": 4709424,
-    "EndAddress": 4709439,
-    "MaxLength": 16
+    "EndAddress": 4709438,
+    "MaxLength": 15
   },
   {
     "Text": "The power of the Sirens belongs to me!",
     "StartAddress": 4709440,
-    "EndAddress": 4709479,
-    "MaxLength": 40
+    "EndAddress": 4709478,
+    "MaxLength": 39
   },
   {
     "Text": "She's charging up the weapons systems",
     "StartAddress": 4709480,
-    "EndAddress": 4709519,
-    "MaxLength": 40
+    "EndAddress": 4709518,
+    "MaxLength": 39
   },
   {
     "Text": "She's gonna blow up the entire island!",
     "StartAddress": 4709520,
-    "EndAddress": 4709559,
-    "MaxLength": 40
+    "EndAddress": 4709558,
+    "MaxLength": 39
   },
   {
     "Text": "The huge ship is on fire, and falls into the ocean while worried friends wait to see if Shantae made it.",
     "StartAddress": 4709560,
-    "EndAddress": 4709671,
-    "MaxLength": 112
+    "EndAddress": 4709670,
+    "MaxLength": 111
   },
   {
     "Text": "Where's Shantae?",
     "StartAddress": 4709672,
-    "EndAddress": 4709695,
-    "MaxLength": 24
+    "EndAddress": 4709694,
+    "MaxLength": 23
   },
   {
     "Text": "Do you think she's....",
     "StartAddress": 4709696,
-    "EndAddress": 4709719,
-    "MaxLength": 24
+    "EndAddress": 4709718,
+    "MaxLength": 23
   },
   {
     "Text": "Hey! Down here!",
     "StartAddress": 4709720,
-    "EndAddress": 4709735,
-    "MaxLength": 16
+    "EndAddress": 4709734,
+    "MaxLength": 15
   },
   {
     "Text": "That sounds like...?",
     "StartAddress": 4709736,
-    "EndAddress": 4709759,
-    "MaxLength": 24
+    "EndAddress": 4709758,
+    "MaxLength": 23
   },
   {
     "Text": "Phew!",
     "StartAddress": 4709760,
-    "EndAddress": 4709767,
-    "MaxLength": 8
+    "EndAddress": 4709766,
+    "MaxLength": 7
   },
   {
     "Text": "The friends stand at the airport runway, ready to take off",
     "StartAddress": 4709768,
-    "EndAddress": 4709831,
-    "MaxLength": 64
+    "EndAddress": 4709830,
+    "MaxLength": 63
   },
   {
     "Text": "For a first vacation, it sure was a doozy!",
     "StartAddress": 4709832,
-    "EndAddress": 4709879,
-    "MaxLength": 48
+    "EndAddress": 4709878,
+    "MaxLength": 47
   },
   {
     "Text": "I'll miss you all so much.",
     "StartAddress": 4709880,
-    "EndAddress": 4709911,
-    "MaxLength": 32
+    "EndAddress": 4709910,
+    "MaxLength": 31
   },
   {
     "Text": "Huh?",
     "StartAddress": 4709912,
-    "EndAddress": 4709919,
-    "MaxLength": 8
+    "EndAddress": 4709918,
+    "MaxLength": 7
   },
   {
     "Text": "You have a big job ahead of you!",
     "StartAddress": 4709920,
-    "EndAddress": 4709959,
-    "MaxLength": 40
+    "EndAddress": 4709958,
+    "MaxLength": 39
   },
   {
     "Text": "Everyone here needs your help to rebuild!",
     "StartAddress": 4709960,
-    "EndAddress": 4710007,
-    "MaxLength": 48
+    "EndAddress": 4710006,
+    "MaxLength": 47
   },
   {
     "Text": "So always do your very best!",
     "StartAddress": 4710008,
-    "EndAddress": 4710039,
-    "MaxLength": 32
+    "EndAddress": 4710038,
+    "MaxLength": 31
   },
   {
     "Text": "Sigh (happy, hopeful)",
     "StartAddress": 4710040,
-    "EndAddress": 4710063,
-    "MaxLength": 24
+    "EndAddress": 4710062,
+    "MaxLength": 23
   },
   {
     "Text": "Before you go",
     "StartAddress": 4710064,
-    "EndAddress": 4710079,
-    "MaxLength": 16
+    "EndAddress": 4710078,
+    "MaxLength": 15
   },
   {
     "Text": "Here.",
     "StartAddress": 4710080,
-    "EndAddress": 4710087,
-    "MaxLength": 8
+    "EndAddress": 4710086,
+    "MaxLength": 7
   },
   {
     "Text": "This is for you",
     "StartAddress": 4710088,
-    "EndAddress": 4710103,
-    "MaxLength": 16
+    "EndAddress": 4710102,
+    "MaxLength": 15
   },
   {
     "Text": "What's this?",
     "StartAddress": 4710104,
-    "EndAddress": 4710119,
-    "MaxLength": 16
+    "EndAddress": 4710118,
+    "MaxLength": 15
   },
   {
     "Text": "Your mother's scrapbook...",
     "StartAddress": 4710120,
-    "EndAddress": 4710151,
-    "MaxLength": 32
+    "EndAddress": 4710150,
+    "MaxLength": 31
   },
   {
     "Text": "I can't accept this!",
     "StartAddress": 4710152,
-    "EndAddress": 4710175,
-    "MaxLength": 24
+    "EndAddress": 4710174,
+    "MaxLength": 23
   },
   {
     "Text": "Safe travels!",
     "StartAddress": 4710176,
-    "EndAddress": 4710191,
-    "MaxLength": 16
+    "EndAddress": 4710190,
+    "MaxLength": 15
   },
   {
     "Text": "Ugh, can we just go already?",
     "StartAddress": 4710192,
-    "EndAddress": 4710223,
-    "MaxLength": 32
+    "EndAddress": 4710222,
+    "MaxLength": 31
   },
   {
     "Text": "Can you at least give her a moment?",
     "StartAddress": 4710224,
-    "EndAddress": 4710263,
-    "MaxLength": 40
+    "EndAddress": 4710262,
+    "MaxLength": 39
   },
   {
     "Text": "She's trying to say goodbye!",
     "StartAddress": 4710264,
-    "EndAddress": 4710295,
-    "MaxLength": 32
+    "EndAddress": 4710294,
+    "MaxLength": 31
   },
   {
     "Text": "Who died and put you in charge?",
     "StartAddress": 4710296,
-    "EndAddress": 4710327,
-    "MaxLength": 32
+    "EndAddress": 4710326,
+    "MaxLength": 31
   },
   {
     "Text": "Owww! Tyrant!",
     "StartAddress": 4710328,
-    "EndAddress": 4710343,
-    "MaxLength": 16
+    "EndAddress": 4710342,
+    "MaxLength": 15
   },
   {
     "Text": "Agghh! That's my hair!",
     "StartAddress": 4710344,
-    "EndAddress": 4710367,
-    "MaxLength": 24
+    "EndAddress": 4710366,
+    "MaxLength": 23
   },
   {
     "Text": "Bird brain!",
     "StartAddress": 4710368,
-    "EndAddress": 4710383,
-    "MaxLength": 16
+    "EndAddress": 4710382,
+    "MaxLength": 15
   },
   {
     "Text": "Can't you two try to get along for a ch- ",
     "StartAddress": 4710384,
-    "EndAddress": 4710431,
-    "MaxLength": 48
+    "EndAddress": 4710430,
+    "MaxLength": 47
   },
   {
     "Text": "Stay out of this!",
     "StartAddress": 4710432,
-    "EndAddress": 4710455,
-    "MaxLength": 24
+    "EndAddress": 4710454,
+    "MaxLength": 23
   },
   {
     "Text": "Let's see how you like it!",
     "StartAddress": 4710456,
-    "EndAddress": 4710487,
-    "MaxLength": 32
+    "EndAddress": 4710486,
+    "MaxLength": 31
   },
   {
     "Text": "I love it!",
     "StartAddress": 4710488,
-    "EndAddress": 4710503,
-    "MaxLength": 16
+    "EndAddress": 4710502,
+    "MaxLength": 15
   },
   {
     "Text": "You sick SICK person!",
     "StartAddress": 4710504,
-    "EndAddress": 4710527,
-    "MaxLength": 24
+    "EndAddress": 4710526,
+    "MaxLength": 23
   },
   {
     "Text": "Let's see how you like it!",
     "StartAddress": 4710528,
-    "EndAddress": 4710559,
-    "MaxLength": 32
+    "EndAddress": 4710558,
+    "MaxLength": 31
   },
   {
     "Text": "Ahhh!",
     "StartAddress": 4710560,
-    "EndAddress": 4710567,
-    "MaxLength": 8
+    "EndAddress": 4710566,
+    "MaxLength": 7
   },
   {
     "Text": "I'll eat your face!",
     "StartAddress": 4710568,
-    "EndAddress": 4710591,
-    "MaxLength": 24
+    "EndAddress": 4710590,
+    "MaxLength": 23
   },
   {
     "Text": "Disgusting brain-sucking slob!",
     "StartAddress": 4710592,
-    "EndAddress": 4710623,
-    "MaxLength": 32
+    "EndAddress": 4710622,
+    "MaxLength": 31
   },
   {
     "Text": "So long!",
     "StartAddress": 4710624,
-    "EndAddress": 4710639,
-    "MaxLength": 16
+    "EndAddress": 4710638,
+    "MaxLength": 15
   },
   {
     "Text": "Have a safe trip home!",
     "StartAddress": 4710640,
-    "EndAddress": 4710663,
-    "MaxLength": 24
+    "EndAddress": 4710662,
+    "MaxLength": 23
   },
   {
     "Text": "Thank you for everything!",
     "StartAddress": 4710664,
-    "EndAddress": 4710695,
-    "MaxLength": 32
+    "EndAddress": 4710694,
+    "MaxLength": 31
   },
   {
     "Text": "I'll miss you all!",
     "StartAddress": 4710696,
-    "EndAddress": 4710719,
-    "MaxLength": 24
+    "EndAddress": 4710718,
+    "MaxLength": 23
   }
 ]
