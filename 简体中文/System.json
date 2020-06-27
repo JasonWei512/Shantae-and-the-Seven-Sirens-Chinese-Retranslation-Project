@@ -2149,7 +2149,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "魔法神药",
+    "Text": "魔法药水",
     "OriginalText": "Magic Potion",
     "StartAddress": 377432,
     "EndAddress": 377446,
@@ -2387,7 +2387,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "生命用光时自动生效的药水！",
+    "Text": "生命耗尽时自动生效的药水！",
     "OriginalText": "A potion that kicks in when your Hearts run dry!",
     "StartAddress": 378096,
     "EndAddress": 378134,
@@ -2436,7 +2436,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "能恢复少许健康的加工食品。",
+    "Text": "加工食品，能恢复少量健康。",
     "OriginalText": "Processed food that restores small amount of health.",
     "StartAddress": 378416,
     "EndAddress": 378454,
@@ -2597,7 +2597,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "传说食物能恢复极多健康。",
+    "Text": "传说食物，能恢复巨量健康。",
     "OriginalText": "Legendary food that restores massive amounts of health.",
     "StartAddress": 379752,
     "EndAddress": 379790,
@@ -2821,7 +2821,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "恢复大量健康的精心准备的食物。",
+    "Text": "精心料理的食物，恢复大量健康。",
     "OriginalText": "Well-prepared food that restores a good amount of health.",
     "StartAddress": 381376,
     "EndAddress": 381422,
@@ -2856,7 +2856,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "能恢复大量健康的扑鼻食物。",
+    "Text": "香气扑鼻，能恢复大量健康。",
     "OriginalText": "Tangy food that restores a lot of health.",
     "StartAddress": 381568,
     "EndAddress": 381606,
@@ -4067,7 +4067,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "这神秘的舞能显示肉眼看不见的东西！到处试试看看！",
+    "Text": "这神秘的舞蹈能显示肉眼看不见的东西！到处试试看看！",
     "OriginalText": "This mysterious dance can reveal things that are hidden from the naked eye! Try using it in a variety of places! ",
     "StartAddress": 385896,
     "EndAddress": 385974,
@@ -4256,7 +4256,7 @@
     "MaxLength": 71
   },
   {
-    "Text": "比之前<1>火球</1>覆盖面更多！会消耗<1>魔法值</1>。",
+    "Text": "比之前<1>火球</1>覆盖面更广！会消耗<1>魔法值</1>。",
     "OriginalText": "Even more <1>FIREBALL</1> coverage than before! Consumes <1>MAGIC</1>.",
     "StartAddress": 386832,
     "EndAddress": 386902,
@@ -4634,7 +4634,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "树镇",
+    "Text": "树村",
     "OriginalText": "Tree Town",
     "StartAddress": 388280,
     "EndAddress": 388286,
@@ -4648,7 +4648,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "树镇",
+    "Text": "树村",
     "OriginalText": "Tree Town",
     "StartAddress": 388312,
     "EndAddress": 388318,
