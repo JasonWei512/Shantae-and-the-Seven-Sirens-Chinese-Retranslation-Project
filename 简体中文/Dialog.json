@@ -427,7 +427,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "附近有一件<1>存档屋</1)。",
+    "Text": "附近有一间<1>存档屋</1)。",
     "OriginalText": "There's a <1>SAVE ROOM</1> nearby. ",
     "StartAddress": 3848488,
     "EndAddress": 3848526,
@@ -441,7 +441,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "欢迎来到<1>场馆镇</1>，半精灵节的场地。",
+    "Text": "欢迎来到<1>场馆镇</1>，半精灵庆典主场。",
     "OriginalText": "Welcome to <1>ARENA TOWN</1>, home of the Half-Genie Festival!",
     "StartAddress": 3848584,
     "EndAddress": 3848638,
@@ -455,56 +455,56 @@
     "MaxLength": 55
   },
   {
-    "Text": "谢谢，祝你愉快的留宿！",
+    "Text": "谢谢，祝您留宿愉快！",
     "OriginalText": "Thank you, and have a festive stay!",
     "StartAddress": 3848696,
     "EndAddress": 3848750,
     "MaxLength": 55
   },
   {
-    "Text": "一件安全注意...",
+    "Text": "安全注意事项...",
     "OriginalText": "As a safety reminder... ",
     "StartAddress": 3848752,
     "EndAddress": 3848774,
     "MaxLength": 23
   },
   {
-    "Text": "离开度假区时请小心脚步。",
+    "Text": "离开度假区时请小心。",
     "OriginalText": "Please watch your step when exiting the resort area.",
     "StartAddress": 3848776,
     "EndAddress": 3848814,
     "MaxLength": 39
   },
   {
-    "Text": "这岛屿住了许多凶恶的怪兽！",
+    "Text": "这岛上有许多凶恶的怪兽！",
     "OriginalText": "This island is home to many hostile monsters! ",
     "StartAddress": 3848816,
     "EndAddress": 3848854,
     "MaxLength": 39
   },
   {
-    "Text": "谢谢，祝你愉快的留宿！",
+    "Text": "谢谢，祝您留宿愉快！",
     "OriginalText": "Thank you, and have a festive stay!",
     "StartAddress": 3848856,
     "EndAddress": 3848910,
     "MaxLength": 55
   },
   {
-    "Text": "这区目前是禁地。",
+    "Text": "此区域目前禁止入内。",
     "OriginalText": "This area is off limits for now. ",
     "StartAddress": 3848912,
     "EndAddress": 3848942,
     "MaxLength": 31
   },
   {
-    "Text": "对此给您带来的不便，我们表示歉意！",
+    "Text": "对此给您带来的不便，我们深表歉意！",
     "OriginalText": "We apologize for the inconvenience!",
     "StartAddress": 3848944,
     "EndAddress": 3848998,
     "MaxLength": 55
   },
   {
-    "Text": "祝你愉快的留宿！",
+    "Text": "祝您留宿愉快！",
     "OriginalText": "Have a festive stay!",
     "StartAddress": 3849000,
     "EndAddress": 3849046,
@@ -567,14 +567,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "...就职的<1>半精灵节</1>！",
+    "Text": "...首届<1>半精灵庆典</1>！",
     "OriginalText": "...the inaugural <1>HALF-GENIE FESTIVAL</1>!",
     "StartAddress": 3849264,
     "EndAddress": 3849302,
     "MaxLength": 39
   },
   {
-    "Text": "我主办这节庆是为了表现我对像你一样少见，神奇人物的赏识。",
+    "Text": "我主办这庆典是为了表达对像你一样少见、神奇的人物的赏识。",
     "OriginalText": "I created the festival to demonstrate my appreciation of rare, magical beings like yourself.",
     "StartAddress": 3849304,
     "EndAddress": 3849390,
@@ -588,7 +588,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "这样他们才能更了解他们半人，半精灵的邻居！",
+    "Text": "这样他们才能更了解他们的半人、半精灵邻居！",
     "OriginalText": "That way they can better understand their half-human, half-genie neighbors!",
     "StartAddress": 3849456,
     "EndAddress": 3849518,
@@ -602,7 +602,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "这美丽的岛屿作为很棒的背景主办活动！",
+    "Text": "这美丽的岛屿是个很棒的活动举办地！",
     "OriginalText": "This beautiful island makes a dandy backdrop for the event!",
     "StartAddress": 3849528,
     "EndAddress": 3849582,
@@ -616,7 +616,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "看来为生意倒是个好事。",
+    "Text": "看起来很有商业价值。",
     "OriginalText": "Certainly seems good for business.",
     "StartAddress": 3849640,
     "EndAddress": 3849678,
@@ -637,35 +637,35 @@
     "MaxLength": 47
   },
   {
-    "Text": "是啊，我们招出的人群真是蛮不错的！",
+    "Text": "是啊，我们招来了不少人！",
     "OriginalText": "Why yes, we have managed to muster quite a crowd! ",
     "StartAddress": 3849760,
     "EndAddress": 3849814,
     "MaxLength": 55
   },
   {
-    "Text": "当然，售票的钱是拿去支持当地商业…",
+    "Text": "当然，大部分收入被用以支持当地商业…",
     "OriginalText": "Of course most of the ticket money goes to support local businesses...",
     "StartAddress": 3849816,
     "EndAddress": 3849870,
     "MaxLength": 55
   },
   {
-    "Text": "...也提供免费飞机票和旅馆住宿给我们的半精灵明星！",
+    "Text": "...以及给我们的半精灵明星提供免费飞机票和旅馆住宿！",
     "OriginalText": "...and provides a free flight and hotel stay for each of our Half-Genie super stars!",
     "StartAddress": 3849872,
     "EndAddress": 3849950,
     "MaxLength": 79
   },
   {
-    "Text": "但不只他们！",
+    "Text": "但不只是她们！",
     "OriginalText": "But not just them!",
     "StartAddress": 3849952,
     "EndAddress": 3849974,
     "MaxLength": 23
   },
   {
-    "Text": "也加上家人！",
+    "Text": "还加上家人！",
     "OriginalText": "Their families, too!",
     "StartAddress": 3849976,
     "EndAddress": 3849998,
@@ -686,21 +686,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "...他们答应作为我<1>伟大演出</1>的<1>明星</1>…",
+    "Text": "...她们答应做我<1>盛大演出</1>的<1>明星</1>…",
     "OriginalText": "...they agree to be the <1>STARS</1> in my <1>GRAND PERFORMANCE</1>...",
     "StartAddress": 3850040,
     "EndAddress": 3850102,
     "MaxLength": 63
   },
   {
-    "Text": "…<1>半精灵壮观场</1>！",
+    "Text": "…<1>半精灵奇观秀</1>！",
     "OriginalText": "...the <1>HALF-GENIE SUPERSTAR SPECTACULAR</1>!",
     "StartAddress": 3850104,
     "EndAddress": 3850142,
     "MaxLength": 39
   },
   {
-    "Text": "好棒！（拍拍拍）",
+    "Text": "好棒！（拍手）",
     "OriginalText": "Yee! (clap clap clap)",
     "StartAddress": 3850144,
     "EndAddress": 3850174,
@@ -714,7 +714,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "所以我今晚想放你在舞台上参与试演活动！",
+    "Text": "所以我想让你今晚上台参与试演活动！",
     "OriginalText": "That's why I want you up on that stage for the sneak-peek preview event - tonight! ",
     "StartAddress": 3850208,
     "EndAddress": 3850270,
@@ -742,7 +742,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "我还没学会舞步耶。",
+    "Text": "我还不了解流程。",
     "OriginalText": "I don't even know the routine yet.",
     "StartAddress": 3850304,
     "EndAddress": 3850334,
@@ -791,21 +791,21 @@
     "MaxLength": 7
   },
   {
-    "Text": "那提醒le我…",
+    "Text": "那倒提醒了我…",
     "OriginalText": "That reminds me...",
     "StartAddress": 3850488,
     "EndAddress": 3850510,
     "MaxLength": 23
   },
   {
-    "Text": "我另外也请了<1>五</1>位半精灵跟你一起表演！",
+    "Text": "我也请了另外<1>五</1>位半精灵跟你一起表演！",
     "OriginalText": "I've invited <1>FIVE</1> other Half-Genies to perform with you! ",
     "StartAddress": 3850512,
     "EndAddress": 3850574,
     "MaxLength": 63
   },
   {
-    "Text": "他们现在已经在岛屿上了。",
+    "Text": "她们现在已经在岛上了。",
     "OriginalText": "They're here on the island now.",
     "StartAddress": 3850576,
     "EndAddress": 3850614,
@@ -868,42 +868,42 @@
     "MaxLength": 39
   },
   {
-    "Text": "他在靠你，孩子！",
+    "Text": "他靠你了，孩子！",
     "OriginalText": "He's counting on you, kiddo!",
     "StartAddress": 3850856,
     "EndAddress": 3850902,
     "MaxLength": 47
   },
   {
-    "Text": "在<1>子屏幕</1>能找到像那<1>清单</1>之类的项目。",
+    "Text": "在<1>子屏幕</1>能找到像那个<1>清单</1>之类的道具。",
     "OriginalText": "Items like that <1>CHECKLIST</1> can be found on your <1>SUBSCREEN</1>.",
     "StartAddress": 3850904,
     "EndAddress": 3850974,
     "MaxLength": 71
   },
   {
-    "Text": "若忘记要怎么做，开出<1>子屏幕</1>翻看项目找出暗示。",
+    "Text": "如果忘记要做什么，打开<1>子屏幕</1>翻看项目找出提示。",
     "OriginalText": "If you ever forget what to do, open the <1>SUBSCREEN</1> and browse through your items for hints.",
     "StartAddress": 3850976,
     "EndAddress": 3851054,
     "MaxLength": 79
   },
   {
-    "Text": "简单翻了！",
+    "Text": "非常简单。",
     "OriginalText": "Easy peasy.",
     "StartAddress": 3851056,
     "EndAddress": 3851070,
     "MaxLength": 15
   },
   {
-    "Text": "现在先去跟<1>全部五位半精灵</1>自我介绍！",
+    "Text": "现在先去跟岛上<1>全部五位半精灵</1>自我介绍！",
     "OriginalText": "For now, please introduce yourself to <1>ALL FIVE HALF-GENIES</1> on the island!",
     "StartAddress": 3851072,
     "EndAddress": 3851150,
     "MaxLength": 79
   },
   {
-    "Text": "嘿，时间恰好！",
+    "Text": "嘿，时机恰好！",
     "OriginalText": "Hey, perfect timing!",
     "StartAddress": 3851152,
     "EndAddress": 3851174,
@@ -924,7 +924,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "你恐怕要赶快！",
+    "Text": "你恐怕得赶快！",
     "OriginalText": "You might want to hurry!",
     "StartAddress": 3851232,
     "EndAddress": 3851254,
@@ -938,7 +938,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "演出快开始了！其他人已经在后台了！尽快点！",
+    "Text": "演出快开始了！其他人已经在后台了！快一点！",
     "OriginalText": "The show’s about to start! The others are already backstage! Please hurry!",
     "StartAddress": 3851288,
     "EndAddress": 3851366,
@@ -952,7 +952,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "我真的觉得这里感觉有点怪。",
+    "Text": "我真的感觉这里有点怪。",
     "OriginalText": "I definitely sense something odd in this place. ",
     "StartAddress": 3851376,
     "EndAddress": 3851414,
@@ -980,7 +980,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "我名字叫普林克。",
+    "Text": "我的名字叫普林克。",
     "OriginalText": "My name's Plink. ",
     "StartAddress": 3851504,
     "EndAddress": 3851534,
@@ -994,7 +994,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我来这岛屿是为了表演节庆节目。",
+    "Text": "我来这岛屿是为了表演庆典节目。",
     "OriginalText": "I came to this island to perform in the festival.",
     "StartAddress": 3851552,
     "EndAddress": 3851598,
@@ -1064,28 +1064,28 @@
     "MaxLength": 31
   },
   {
-    "Text": "记得认识到其他的半精灵哦！",
+    "Text": "记得见见其他的半精灵哦！",
     "OriginalText": "Make sure you meet the other Half-Genies!",
     "StartAddress": 3851904,
     "EndAddress": 3851958,
     "MaxLength": 55
   },
   {
-    "Text": "你认识到全部的<1>半精灵</1>了吗？戏快开始了。快去跟市长报告！",
+    "Text": "你见到全部的<1>半精灵</1>了吗？表演快开始了。快去跟市长报告！",
     "OriginalText": "You’ve met all the <1>HALF-GENIES</1>? The show is starting soon. You’d better report back to the mayor!",
     "StartAddress": 3851960,
     "EndAddress": 3852070,
     "MaxLength": 111
   },
   {
-    "Text": "哎哟！",
+    "Text": "哟！",
     "OriginalText": "Yo!",
     "StartAddress": 3852072,
     "EndAddress": 3852086,
     "MaxLength": 15
   },
   {
-    "Text": "喔，你好！",
+    "Text": "哦，你好！",
     "OriginalText": "Oh, hi!",
     "StartAddress": 3852088,
     "EndAddress": 3852102,
@@ -1099,7 +1099,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "…来精灵季表演？",
+    "Text": "…来庆典表演的？",
     "OriginalText": "...Here to perform for the festival?",
     "StartAddress": 3852136,
     "EndAddress": 3852166,
@@ -1120,21 +1120,21 @@
     "MaxLength": 23
   },
   {
-    "Text": "我家乡就在这岛上！",
+    "Text": "我家就在这岛上！",
     "OriginalText": "My town is right here on the island!",
     "StartAddress": 3852208,
     "EndAddress": 3852238,
     "MaxLength": 31
   },
   {
-    "Text": "这么多观光客，我们通常都躲起来，不太爱出来。",
+    "Text": "来了这么多观光客，我们通常都躲起来。",
     "OriginalText": "With all the tourists around, my people tend to keep hidden away.",
     "StartAddress": 3852240,
     "EndAddress": 3852310,
     "MaxLength": 71
   },
   {
-    "Text": "但我想支持我同伴的半精灵们，好好使用我<1>刷新</1>的魔法。",
+    "Text": "但我想支持我的半精灵同伴们，好好使用我<1>刷新</1>魔法。",
     "OriginalText": "But I wanted to support my fellow Half-Genies and put my <1>REFRESH</1> magic to good use. ",
     "StartAddress": 3852312,
     "EndAddress": 3852398,
@@ -1148,14 +1148,14 @@
     "MaxLength": 7
   },
   {
-    "Text": "谁想到有那么多种魔法呢？",
+    "Text": "谁想得到有那么多种魔法呢？",
     "OriginalText": "Who knew there were so many different forms of magic?",
     "StartAddress": 3852408,
     "EndAddress": 3852446,
     "MaxLength": 39
   },
   {
-    "Text": "在今晚的演出里你全部都能看得到！",
+    "Text": "在今晚的演出里你能全部看到！",
     "OriginalText": "You'll get to see them all in tonight's big show!",
     "StartAddress": 3852448,
     "EndAddress": 3852502,
@@ -1197,14 +1197,14 @@
     "MaxLength": 63
   },
   {
-    "Text": "你认识到全部的<1>半精灵</1>了吗？戏快开始了。快去跟市长报告！",
+    "Text": "你见到全部的<1>半精灵</1>了吗？表演快开始了。快去跟市长报告！",
     "OriginalText": "You’ve met all the <1>HALF-GENIES</1>? The show is starting soon. You’d better report back to the mayor!",
     "StartAddress": 3852672,
     "EndAddress": 3852782,
     "MaxLength": 111
   },
   {
-    "Text": "喔，你好。",
+    "Text": "哦，你好。",
     "OriginalText": "Oh, hey.",
     "StartAddress": 3852784,
     "EndAddress": 3852798,
@@ -1218,7 +1218,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "又来个半精灵。",
+    "Text": "又一个半精灵。",
     "OriginalText": "Another Half-Genie.",
     "StartAddress": 3852816,
     "EndAddress": 3852838,
@@ -1232,7 +1232,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我从遥远的天窗镇飞来！",
+    "Text": "我是从遥远的天窗镇飞来的！",
     "OriginalText": "I flew in all the way from Scuttle Town!",
     "StartAddress": 3852856,
     "EndAddress": 3852894,
@@ -1253,7 +1253,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "真是很不同。",
+    "Text": "真的非常不同。",
     "OriginalText": "It sure is different. ",
     "StartAddress": 3852952,
     "EndAddress": 3852974,
@@ -1274,7 +1274,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "...你信任吗？",
+    "Text": "...是真的吗？",
     "OriginalText": "...Think it's real?",
     "StartAddress": 3853032,
     "EndAddress": 3853054,
@@ -1295,7 +1295,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "我有点想插进这里其中个端子。",
+    "Text": "我有点想插上这里的接线柱。",
     "OriginalText": "I'm half tempted to plug into one of these terminals. ",
     "StartAddress": 3853120,
     "EndAddress": 3853166,
@@ -1309,7 +1309,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "插进？",
+    "Text": "插上？",
     "OriginalText": "Plug in?",
     "StartAddress": 3853232,
     "EndAddress": 3853246,
@@ -1323,21 +1323,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "我魔法是跟电有关的。",
+    "Text": "我的魔法跟电有关。",
     "OriginalText": "My magic is electricity-based.",
     "StartAddress": 3853280,
     "EndAddress": 3853310,
     "MaxLength": 31
   },
   {
-    "Text": "有诅咒～～～！！",
+    "Text": "诅咒之力～～～！！",
     "OriginalText": "IT'S CURRRRRRSED!!",
     "StartAddress": 3853312,
     "EndAddress": 3853342,
     "MaxLength": 31
   },
   {
-    "Text": "哎呀！！",
+    "Text": "啊啊啊！",
     "OriginalText": "YEEEEEEK!",
     "StartAddress": 3853344,
     "EndAddress": 3853358,
@@ -1351,14 +1351,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "我故意给你休克一下。",
+    "Text": "让你感受一下冲击。",
     "OriginalText": "I said that for <1>SHOCK VALUE</1>.",
     "StartAddress": 3853376,
     "EndAddress": 3853406,
     "MaxLength": 31
   },
   {
-    "Text": "我不懂。",
+    "Text": "Get不到。",
     "OriginalText": "I don't get it.",
     "StartAddress": 3853408,
     "EndAddress": 3853422,
@@ -1372,7 +1372,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "我跳舞时，我就可以…",
+    "Text": "我跳舞时，可以…",
     "OriginalText": "When I dance, I can... ",
     "StartAddress": 3853464,
     "EndAddress": 3853494,
@@ -1400,28 +1400,28 @@
     "MaxLength": 39
   },
   {
-    "Text": "哇，我从来没这样去想过…",
+    "Text": "哇，我从来没这么想过…",
     "OriginalText": "Gosh, I never even thought of that...",
     "StartAddress": 3853592,
     "EndAddress": 3853630,
     "MaxLength": 39
   },
   {
-    "Text": "那什么呢？像很多肌肉的超人，或是会喷火的龙吗？",
+    "Text": "那比如呢？像是肌肉超人，或者会喷火的龙呢？",
     "OriginalText": "Then what, like a muscly superhero or a fire-breathing dragon or something?",
     "StartAddress": 3853632,
     "EndAddress": 3853702,
     "MaxLength": 71
   },
   {
-    "Text": "啊，我通常会变成猴子爬来爬去。",
+    "Text": "额，我通常会变成猴子爬来爬去。",
     "OriginalText": "Um, usually I turn into a monkey and climb around. ",
     "StartAddress": 3853704,
     "EndAddress": 3853750,
     "MaxLength": 47
   },
   {
-    "Text": "若是我不会这么选。",
+    "Text": "是我就不会这么选。",
     "OriginalText": "That’s not what I would choose.",
     "StartAddress": 3853752,
     "EndAddress": 3853782,
@@ -1449,49 +1449,49 @@
     "MaxLength": 15
   },
   {
-    "Text": "好吧，演出不准迟到哦。",
+    "Text": "好吧，演出不要迟到。",
     "OriginalText": "Ok, well don’t be late for the performance.",
     "StartAddress": 3853848,
     "EndAddress": 3853902,
     "MaxLength": 55
   },
   {
-    "Text": "要记得认识到其他半精灵哦！",
+    "Text": "要记得见见其他半精灵哦！",
     "OriginalText": "Make sure you meet the other Half-Genies!",
     "StartAddress": 3853904,
     "EndAddress": 3853958,
     "MaxLength": 55
   },
   {
-    "Text": "你认识到全部的<1>半精灵</1>了吗？戏快开始了。快去跟市长报告！",
+    "Text": "你见到全部的<1>半精灵</1>了吗？表演快开始了。快去跟市长报告！",
     "OriginalText": "You’ve met all the <1>HALF-GENIES</1>? The show is starting soon. You’d better report back to the mayor!",
     "StartAddress": 3853960,
     "EndAddress": 3854070,
     "MaxLength": 111
   },
   {
-    "Text": "香缇！很高兴终于认识到了你！",
+    "Text": "香缇！很高兴终于见到了你！",
     "OriginalText": "Shantae! It’s so nice to finally meet you!",
     "StartAddress": 3854072,
     "EndAddress": 3854118,
     "MaxLength": 47
   },
   {
-    "Text": "你知道我的名字啊？",
+    "Text": "你知道我的名字？",
     "OriginalText": "You know my name?",
     "StartAddress": 3854120,
     "EndAddress": 3854150,
     "MaxLength": 31
   },
   {
-    "Text": "当然哦！",
+    "Text": "当然！",
     "OriginalText": "Of course!",
     "StartAddress": 3854152,
     "EndAddress": 3854166,
     "MaxLength": 15
   },
   {
-    "Text": "我叫<1>哈莫尼</1>，我是半精灵之中最老的。",
+    "Text": "我叫<1>哈莫尼</1>，是半精灵之中最年长的。",
     "OriginalText": "I’m <1>HARMONY</1>, the oldest of the Half-Genies.",
     "StartAddress": 3854168,
     "EndAddress": 3854230,
@@ -1512,14 +1512,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "是的，我是最先生于人类的父亲和精灵的母亲。",
+    "Text": "是的，我是第一个人类父亲和精灵母亲的孩子。",
     "OriginalText": "Yes, I was the <1>VERY FIRST</1> to be born of a human father and a genie mother.",
     "StartAddress": 3854288,
     "EndAddress": 3854350,
     "MaxLength": 63
   },
   {
-    "Text": "那让你惊讶吗？",
+    "Text": "惊讶吗？",
     "OriginalText": "Does that surprise you?",
     "StartAddress": 3854352,
     "EndAddress": 3854374,
@@ -1533,7 +1533,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "你看起来太年轻了，不可能是任何东西的最老吧！",
+    "Text": "你看起来太年轻了，和最年长完全搭不上边！",
     "OriginalText": "You look too young to be the oldest anything!",
     "StartAddress": 3854392,
     "EndAddress": 3854462,
@@ -1575,7 +1575,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "喔！我从来没想过。",
+    "Text": "哇！我从来没想过。",
     "OriginalText": "Gosh! I never thought of that.",
     "StartAddress": 3854664,
     "EndAddress": 3854694,
@@ -1596,7 +1596,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "啊！当然啊！",
+    "Text": "啊！当然！",
     "OriginalText": "Ahh! You're right!",
     "StartAddress": 3854776,
     "EndAddress": 3854798,
@@ -1617,7 +1617,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "就是记得要尽力，好吗？",
+    "Text": "记得永远要尽全力，好吗？",
     "OriginalText": "Just remember to always give it your best, ok?",
     "StartAddress": 3854864,
     "EndAddress": 3854918,
@@ -1645,7 +1645,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "什么怪东东啊？！",
+    "Text": "什么鬼？！",
     "OriginalText": "What the buns?!",
     "StartAddress": 3855040,
     "EndAddress": 3855070,
@@ -1687,21 +1687,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "一点也没什么好可疑的！",
+    "Text": "这没什么可疑的！",
     "OriginalText": "It’s not suspicious!",
     "StartAddress": 3855176,
     "EndAddress": 3855214,
     "MaxLength": 39
   },
   {
-    "Text": "我没有说什么可疑，我只是问一问。",
+    "Text": "我没有说可疑，我只是问一问。",
     "OriginalText": "I didn't say it was, I’m just asking.",
     "StartAddress": 3855216,
     "EndAddress": 3855270,
     "MaxLength": 55
   },
   {
-    "Text": "这种东西为什么存在啊？",
+    "Text": "为什么，有这种东西吗？",
     "OriginalText": "Why, is there such a thing?",
     "StartAddress": 3855272,
     "EndAddress": 3855310,
@@ -1722,21 +1722,21 @@
     "MaxLength": 23
   },
   {
-    "Text": "那就好！",
+    "Text": "那就有！",
     "OriginalText": "Then YES!",
     "StartAddress": 3855352,
     "EndAddress": 3855366,
     "MaxLength": 15
   },
   {
-    "Text": "我们该从头开始。",
+    "Text": "我们得重来一遍。",
     "OriginalText": "We should start over.",
     "StartAddress": 3855368,
     "EndAddress": 3855398,
     "MaxLength": 31
   },
   {
-    "Text": "我名字叫香缇。",
+    "Text": "我叫香缇。",
     "OriginalText": "My name's Shantae.",
     "StartAddress": 3855400,
     "EndAddress": 3855422,
@@ -1750,35 +1750,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "喔。",
+    "Text": "哦。",
     "OriginalText": "Oh.",
     "StartAddress": 3855440,
     "EndAddress": 3855446,
     "MaxLength": 7
   },
   {
-    "Text": "是…",
+    "Text": "我…",
     "OriginalText": "It's...",
     "StartAddress": 3855448,
     "EndAddress": 3855454,
     "MaxLength": 7
   },
   {
-    "Text": "...填。",
+    "Text": "叫…",
     "OriginalText": "...Fillin.",
     "StartAddress": 3855456,
     "EndAddress": 3855470,
     "MaxLength": 15
   },
   {
-    "Text": "填…",
+    "Text": "布…",
     "OriginalText": "Fillin The...",
     "StartAddress": 3855472,
     "EndAddress": 3855478,
     "MaxLength": 7
   },
   {
-    "Text": "……空。",
+    "Text": "…布织稻。",
     "OriginalText": "...Blank.",
     "StartAddress": 3855480,
     "EndAddress": 3855494,
@@ -1799,7 +1799,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "呵。你得快去找出其他像我这样的半精灵！",
+    "Text": "嘿。你得快去找出其他像我这样的半精灵！",
     "OriginalText": "Heh. Better go find all the other Half-Genies, like me!",
     "StartAddress": 3855552,
     "EndAddress": 3855630,
@@ -1827,28 +1827,28 @@
     "MaxLength": 79
   },
   {
-    "Text": "喔！",
+    "Text": "哦！",
     "OriginalText": "Oh!",
     "StartAddress": 3855856,
     "EndAddress": 3855862,
     "MaxLength": 7
   },
   {
-    "Text": "你的游戏尚未存档！",
+    "Text": "你还没存档！",
     "OriginalText": "You haven't saved your game yet!",
     "StartAddress": 3855864,
     "EndAddress": 3855894,
     "MaxLength": 31
   },
   {
-    "Text": "存档房就在附近…",
+    "Text": "存档屋就在附近…",
     "OriginalText": "The <1>SAVE ROOM</1> is nearby...",
     "StartAddress": 3855896,
     "EndAddress": 3855926,
     "MaxLength": 31
   },
   {
-    "Text": "存档之后请再来跟我说话。",
+    "Text": "请存档后请再来跟我谈话。",
     "OriginalText": "Please come talk to me after you've saved.",
     "StartAddress": 3855928,
     "EndAddress": 3855990,
@@ -1869,7 +1869,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "你不觉得你把时间留得太紧了吗？",
+    "Text": "你不觉得你把时间掐得太紧了吗？",
     "OriginalText": "Cuttin' it close, aren't ya?",
     "StartAddress": 3856040,
     "EndAddress": 3856094,
@@ -1883,7 +1883,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "看台怎么都是满堂呢？！",
+    "Text": "看台怎么全是人呢？！",
     "OriginalText": "Why are the stands so packed?!",
     "StartAddress": 3856128,
     "EndAddress": 3856174,
@@ -1897,7 +1897,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "处罚新的女孩！",
+    "Text": "处罚新来的！",
     "OriginalText": "Punish the new girl!",
     "StartAddress": 3856200,
     "EndAddress": 3856222,
@@ -1911,7 +1911,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "大家放轻松啦。",
+    "Text": "大家放轻松。",
     "OriginalText": "Everyone relax.",
     "StartAddress": 3856240,
     "EndAddress": 3856262,
@@ -1925,14 +1925,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "半精灵魔法是你们最擅长的。",
+    "Text": "你们最擅长半精灵魔法了。",
     "OriginalText": "Half-Genie magic is what you're best at.",
     "StartAddress": 3856288,
     "EndAddress": 3856326,
     "MaxLength": 39
   },
   {
-    "Text": "是全部这些人来看的。",
+    "Text": "这些人都是为它而来。",
     "OriginalText": "It's what these people came to see.",
     "StartAddress": 3856328,
     "EndAddress": 3856358,
@@ -1981,7 +1981,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "继续笑。",
+    "Text": "保持微笑。",
     "OriginalText": "Keep smiling.",
     "StartAddress": 3856416,
     "EndAddress": 3856430,
