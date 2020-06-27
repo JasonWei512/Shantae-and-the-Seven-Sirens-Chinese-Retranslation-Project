@@ -77,14 +77,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "在子屏幕上能<1>看</1>你收藏，\n或<1>裝備</1>卡牌！",
+    "Text": "在子屏幕上能<1>查看</1>收藏，\n或<1>装备</1>卡牌！",
     "OriginalText": "You can <1>VIEW</1> your collection,\n or <1>EQUIP</1> cards on your <1>SUBSCREEN</1>!",
     "StartAddress": 371104,
     "EndAddress": 371174,
     "MaxLength": 71
   },
   {
-    "Text": "按下跳过去",
+    "Text": "按住跳过",
     "OriginalText": "Hold to Skip",
     "StartAddress": 371176,
     "EndAddress": 371190,
@@ -105,14 +105,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "控制器断线了。请重新连线，或点按继续来换成触控控制。",
+    "Text": "手柄断线了。请重新连线，或点击继续来换成触控控制。",
     "OriginalText": "Controller disconnected. Reconnect controller, or tap Continue to switch to touch controls.",
     "StartAddress": 371264,
     "EndAddress": 371342,
     "MaxLength": 79
   },
   {
-    "Text": "控制器断线了。重新连线来回复游戏。",
+    "Text": "手柄断线了。重新连线来回复游戏。",
     "OriginalText": "Controller disconnected. Reconnect controller to resume.",
     "StartAddress": 371344,
     "EndAddress": 371398,
@@ -126,7 +126,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "特级二",
+    "Text": "特技二",
     "OriginalText": "Special 2",
     "StartAddress": 371408,
     "EndAddress": 371422,
@@ -161,7 +161,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "特级三",
+    "Text": "特技三",
     "OriginalText": "Special 3",
     "StartAddress": 371456,
     "EndAddress": 371470,
@@ -231,7 +231,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "快冲",
+    "Text": "冲刺",
     "OriginalText": "Dash",
     "StartAddress": 371560,
     "EndAddress": 371566,
@@ -252,7 +252,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "装载中",
+    "Text": "加载中",
     "OriginalText": "Loading",
     "StartAddress": 371592,
     "EndAddress": 371606,
@@ -273,35 +273,35 @@
     "MaxLength": 7
   },
   {
-    "Text": "目前是否想前进到商店？",
+    "Text": "是否想前往商店？",
     "OriginalText": "Would you like to go to the shop now?",
     "StartAddress": 371648,
     "EndAddress": 371686,
     "MaxLength": 39
   },
   {
-    "Text": "目前是否想前进到Xbox游戏店？",
+    "Text": "是否想前往Xbox游戏商店？",
     "OriginalText": "Would you like to go to the Xbox Games Store now?",
     "StartAddress": 371688,
     "EndAddress": 371734,
     "MaxLength": 47
   },
   {
-    "Text": "目前是否想前进到 PlayStation®店？",
+    "Text": "是否想前往PlayStation®商店？",
     "OriginalText": "Would you like to go to the PlayStation®Store now?",
     "StartAddress": 371736,
     "EndAddress": 371782,
     "MaxLength": 47
   },
   {
-    "Text": "目前是否想前进到任天堂网店？",
+    "Text": "是否想前往任天堂eShop商店？",
     "OriginalText": "Would you like to go to the Nintendo eShop now?",
     "StartAddress": 371784,
     "EndAddress": 371830,
     "MaxLength": 47
   },
   {
-    "Text": "新装备了可下载内容：",
+    "Text": "安装了可下载内容：",
     "OriginalText": "New DLC installed:",
     "StartAddress": 371832,
     "EndAddress": 371862,
@@ -336,7 +336,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "触摸开始",
+    "Text": "点击开始",
     "OriginalText": "Touch to Start",
     "StartAddress": 372064,
     "EndAddress": 372078,
@@ -378,35 +378,35 @@
     "MaxLength": 7
   },
   {
-    "Text": "额外选择",
+    "Text": "额外内容",
     "OriginalText": "EXTRAS",
     "StartAddress": 372144,
     "EndAddress": 372158,
     "MaxLength": 15
   },
   {
-    "Text": "登出",
+    "Text": "退出",
     "OriginalText": "QUIT",
     "StartAddress": 372160,
     "EndAddress": 372166,
     "MaxLength": 7
   },
   {
-    "Text": "想复制哪个档案？",
+    "Text": "想复制哪个存档？",
     "OriginalText": "Which file would you like to copy?",
     "StartAddress": 372168,
     "EndAddress": 372198,
     "MaxLength": 31
   },
   {
-    "Text": "复制到哪儿？",
+    "Text": "复制到哪里？",
     "OriginalText": "Copy file to where?",
     "StartAddress": 372200,
     "EndAddress": 372222,
     "MaxLength": 23
   },
   {
-    "Text": "想删除哪个档案？",
+    "Text": "想删除哪个存档？",
     "OriginalText": "Which file would you like to erase?",
     "StartAddress": 372224,
     "EndAddress": 372254,
@@ -434,7 +434,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "额外选择",
+    "Text": "额外内容",
     "OriginalText": "Extras",
     "StartAddress": 372280,
     "EndAddress": 372294,
@@ -448,21 +448,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "确定要删除档案？",
+    "Text": "确定要删除存档？",
     "OriginalText": "Are you sure you want to erase this file?",
     "StartAddress": 372312,
     "EndAddress": 372342,
     "MaxLength": 31
   },
   {
-    "Text": "确定要复制档案？",
+    "Text": "确定要复制存档？",
     "OriginalText": "Are you sure you want to copy this file?",
     "StartAddress": 372344,
     "EndAddress": 372374,
     "MaxLength": 31
   },
   {
-    "Text": "档案%d",
+    "Text": "存档%d",
     "OriginalText": "File %d",
     "StartAddress": 372376,
     "EndAddress": 372390,
@@ -490,14 +490,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "原本",
+    "Text": "原版",
     "OriginalText": "Original",
     "StartAddress": 372480,
     "EndAddress": 372486,
     "MaxLength": 7
   },
   {
-    "Text": "玩游戏的原式！",
+    "Text": "玩原版模式！",
     "OriginalText": "Play the game in its original mode!",
     "StartAddress": 372488,
     "EndAddress": 372510,
@@ -511,14 +511,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "更多魔法，但少点防御！",
+    "Text": "更多魔法，但更少防御！",
     "OriginalText": "More magic, but less defense!",
     "StartAddress": 372528,
     "EndAddress": 372566,
     "MaxLength": 39
   },
   {
-    "Text": "第一段",
+    "Text": "第一部分",
     "OriginalText": "Part One",
     "StartAddress": 372568,
     "EndAddress": 372582,
@@ -532,14 +532,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "您将要享受桑塔与七赛莲第一段。\n\n在第一段的结局，您的游戏进度会被存档为了能\n装载进第二段，将在未来更新免费提供。\n\n我们希望您玩桑塔与七赛莲玩得愉快！",
+    "Text": "您将要游玩香缇与七海妖的第一部分。\n\n在第一部分的结局，您的游戏进度将被保存，以供\n在未来免费更新的第二部分中读取。\n\n我们希望您享受香缇与七海妖！",
     "OriginalText": "You are about to enjoy Shantae and the Seven Sirens PART 1.\n\nAt the conclusion of PART 1, your game progress will be saved so it can be\nloaded into PART 2, which will arrive via a future free update.\n\nWe hope you will enjoy Shantae and the Seven Sirens!",
     "StartAddress": 372600,
     "EndAddress": 372822,
     "MaxLength": 223
   },
   {
-    "Text": "第二段",
+    "Text": "第二部分",
     "OriginalText": "Part Two",
     "StartAddress": 372824,
     "EndAddress": 372838,
@@ -553,21 +553,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "\n你第一段的游戏进度已装载了！\n\n准备体验桑塔与七赛莲刺激的结局！",
+    "Text": "\n已加载第一部分的游戏进度！\n\n准备好体验香缇与七海妖刺激的结局！",
     "OriginalText": "\nYour game progress from PART 1 has been loaded!\n\nGet ready for the exciting conclusion to Shantae and the Seven Sirens!",
     "StartAddress": 372856,
     "EndAddress": 372950,
     "MaxLength": 95
   },
   {
-    "Text": "第一段结束",
+    "Text": "第一部分完",
     "OriginalText": "End of Part One",
     "StartAddress": 372952,
     "EndAddress": 372966,
     "MaxLength": 15
   },
   {
-    "Text": "谢谢玩桑塔与七赛莲第一段！\n\n你的探险已存档了。可以继续使用目前档案探索\n游戏世界。\n\n收集的任何项目都将能带进将来\n免费更新版的第二段。好好享受！",
+    "Text": "感谢玩香缇与七海妖第一部分！\n\n您的冒险已存档。可以使用目前的存档继续探索\n游戏世界。\n\n收集的任何道具都将能带进未来\n免费更新的第二部分。玩得愉快！",
     "OriginalText": "Thank you for playing PART 1 of Shantae and the Seven Sirens!\n\nYour adventure has been saved. You may continue to explore the\ngame world using the current Save File!\n\nAny new items you collect will be carried over when the\nfree update containing PART 2 arrives. Enjoy!",
     "StartAddress": 372968,
     "EndAddress": 373182,
@@ -588,14 +588,14 @@
     "MaxLength": 7
   },
   {
-    "Text": "100%项目！",
+    "Text": "100%收集！",
     "OriginalText": "100% Items!",
     "StartAddress": 373216,
     "EndAddress": 373230,
     "MaxLength": 15
   },
   {
-    "Text": "拥有百分之百的项目而使用任何速度完成游戏。",
+    "Text": "以任何速度集齐所有道具通关",
     "OriginalText": "Complete the game with 100% items at any speed.",
     "StartAddress": 373232,
     "EndAddress": 373294,
@@ -609,21 +609,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "拥有任何百分比的项目而使用任何速度完成游戏。",
+    "Text": "以任何速度收集任意数量道具通关",
     "OriginalText": "Complete the game with any % items at any speed.",
     "StartAddress": 373312,
     "EndAddress": 373382,
     "MaxLength": 71
   },
   {
-    "Text": "100%项目，快速！",
+    "Text": "100%收集，快！",
     "OriginalText": "100% Items, Fast!",
     "StartAddress": 373384,
     "EndAddress": 373406,
     "MaxLength": 23
   },
   {
-    "Text": "拥有百分之百项目而使用高速度完成游戏。",
+    "Text": "快速集齐所有道具通关",
     "OriginalText": "Complete the game with 100% items at high speed.",
     "StartAddress": 373408,
     "EndAddress": 373470,
@@ -637,21 +637,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "拥有任何百分比而使用极高速度完成游戏。",
+    "Text": "以极快速度集齐所有道具通关",
     "OriginalText": "Complete the game at any % at extremely high speed.",
     "StartAddress": 373488,
     "EndAddress": 373550,
     "MaxLength": 63
   },
   {
-    "Text": "额外选择",
+    "Text": "额外内容",
     "OriginalText": "Extras",
     "StartAddress": 373552,
     "EndAddress": 373566,
     "MaxLength": 15
   },
   {
-    "Text": "获奖屏幕",
+    "Text": "通关画面",
     "OriginalText": "Win Screens",
     "StartAddress": 373568,
     "EndAddress": 373582,
@@ -665,21 +665,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "工作人员",
+    "Text": "制作人员",
     "OriginalText": "Credits",
     "StartAddress": 373600,
     "EndAddress": 373614,
     "MaxLength": 15
   },
   {
-    "Text": "成绩",
+    "Text": "成就",
     "OriginalText": "Achievements",
     "StartAddress": 373616,
     "EndAddress": 373622,
     "MaxLength": 7
   },
   {
-    "Text": "档案",
+    "Text": "存档",
     "OriginalText": "File",
     "StartAddress": 373624,
     "EndAddress": 373630,
@@ -742,7 +742,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "视窗模式",
+    "Text": "窗口模式",
     "OriginalText": "Windowed",
     "StartAddress": 373744,
     "EndAddress": 373758,
@@ -763,7 +763,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "遥控配置",
+    "Text": "手柄配置",
     "OriginalText": "Controller Configuration",
     "StartAddress": 373776,
     "EndAddress": 373790,
@@ -784,7 +784,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "分辨率存档了。游戏得重新启动新设定才能有效。现在重新启动？",
+    "Text": "分辨率已保存。需重新启动游戏以使新设定生效。现在重新启动？",
     "OriginalText": "Resolution saved. You must restart the game for the settings to take effect. Restart now?",
     "StartAddress": 373808,
     "EndAddress": 373894,
@@ -798,14 +798,14 @@
     "MaxLength": 7
   },
   {
-    "Text": "帮组",
+    "Text": "帮助",
     "OriginalText": "Help",
     "StartAddress": 373904,
     "EndAddress": 373910,
     "MaxLength": 7
   },
   {
-    "Text": "抗混叠",
+    "Text": "抗锯齿",
     "OriginalText": "Anti-Aliasing",
     "StartAddress": 373912,
     "EndAddress": 373926,
@@ -875,7 +875,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "工作人员",
+    "Text": "制作人员",
     "OriginalText": "Credits",
     "StartAddress": 374000,
     "EndAddress": 374014,
@@ -980,7 +980,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "细节层次",
+    "Text": "细节等级",
     "OriginalText": "Level of Detail",
     "StartAddress": 374176,
     "EndAddress": 374190,
@@ -1127,7 +1127,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "点按按钮来调整大小，而点击并拖动按钮来调整位置。",
+    "Text": "点击按钮来调整大小，按住并拖动按钮来调整位置。",
     "OriginalText": "Tap a button to resize, click and drag the button to adjust the positioning.",
     "StartAddress": 374480,
     "EndAddress": 374558,
@@ -1197,7 +1197,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "切过教程",
+    "Text": "跳过教程",
     "OriginalText": "Skip Tutorial",
     "StartAddress": 374696,
     "EndAddress": 374710,
@@ -1211,7 +1211,7 @@
     "MaxLength": 71
   },
   {
-    "Text": "切过剩下的教程？",
+    "Text": "跳过剩下的教程？",
     "OriginalText": "Skip the remaining tutorials?",
     "StartAddress": 374784,
     "EndAddress": 374814,
@@ -1253,7 +1253,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "遗址",
+    "Text": "遗迹",
     "OriginalText": "Relics",
     "StartAddress": 374944,
     "EndAddress": 374950,
@@ -1274,7 +1274,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "关键项目",
+    "Text": "关键道具",
     "OriginalText": "Key Items",
     "StartAddress": 374968,
     "EndAddress": 374982,
@@ -1295,7 +1295,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "项目",
+    "Text": "道具",
     "OriginalText": "Items",
     "StartAddress": 375000,
     "EndAddress": 375006,
@@ -1330,7 +1330,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "<IB action=Dance/>地区地图",
+    "Text": "<IB action=Dance/>区域地图",
     "OriginalText": "<IB action=Dance/> Area Map",
     "StartAddress": 375040,
     "EndAddress": 375070,
@@ -1379,7 +1379,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "扭曲房",
+    "Text": "传送屋",
     "OriginalText": "Warp Room",
     "StartAddress": 375208,
     "EndAddress": 375222,
@@ -1400,7 +1400,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "乡村",
+    "Text": "城镇",
     "OriginalText": "Town",
     "StartAddress": 375248,
     "EndAddress": 375254,
@@ -1428,7 +1428,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "项目",
+    "Text": "商店",
     "OriginalText": "Item Shop",
     "StartAddress": 375296,
     "EndAddress": 375302,
@@ -1456,7 +1456,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "不好意思，不够宝石！",
+    "Text": "不好意思，宝石不够！",
     "OriginalText": "Sorry, not enough gems!",
     "StartAddress": 375336,
     "EndAddress": 375366,
@@ -1505,7 +1505,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "项目收藏",
+    "Text": "道具收藏",
     "OriginalText": "Item Collection",
     "StartAddress": 375528,
     "EndAddress": 375542,
@@ -1519,28 +1519,28 @@
     "MaxLength": 7
   },
   {
-    "Text": "红利图像～游戏通过，最快时间记录！",
+    "Text": "奖励图像～游戏通关，最快时间记录！",
     "OriginalText": "Bonus image - Game Clear, Fastest time!",
     "StartAddress": 375552,
     "EndAddress": 375606,
     "MaxLength": 55
   },
   {
-    "Text": "红利图像～最快时间记录，百分之百！",
+    "Text": "奖励图像～最快时间记录，百分之百！",
     "OriginalText": "Bonus image - Fastest time, 100%!",
     "StartAddress": 375608,
     "EndAddress": 375662,
     "MaxLength": 55
   },
   {
-    "Text": "红利图像～百分之百通过！",
+    "Text": "奖励图像～百分之百通关！",
     "OriginalText": "Bonus image - 100% clear!",
     "StartAddress": 375664,
     "EndAddress": 375702,
     "MaxLength": 39
   },
   {
-    "Text": "红利图像～游戏通过！",
+    "Text": "奖励图像～游戏通关！",
     "OriginalText": "Bonus image - Game Clear!",
     "StartAddress": 375704,
     "EndAddress": 375734,
@@ -1582,14 +1582,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "全通过！获得%s红利宝石",
+    "Text": "全通过！获得%s奖励宝石",
     "OriginalText": "ALL CLEAR! YOU GET %s BONUS GEMS",
     "StartAddress": 375832,
     "EndAddress": 375870,
     "MaxLength": 39
   },
   {
-    "Text": "不足够宝石继续玩！",
+    "Text": "没有足够宝石继续玩！",
     "OriginalText": "You don't have enough gems to continue playing!",
     "StartAddress": 375872,
     "EndAddress": 375902,
@@ -1617,7 +1617,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "玩的方式",
+    "Text": "玩法",
     "OriginalText": "How To Play",
     "StartAddress": 375944,
     "EndAddress": 375958,
@@ -1673,7 +1673,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "选单",
+    "Text": "菜单",
     "OriginalText": "MENU",
     "StartAddress": 376024,
     "EndAddress": 376030,
@@ -1715,7 +1715,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "另一个将被扔弃。",
+    "Text": "另一个将被丢弃。",
     "OriginalText": "The other will be discarded.",
     "StartAddress": 376288,
     "EndAddress": 376318,
@@ -1785,7 +1785,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "警告：选择一个将会洗掉另一个",
+    "Text": "警告：选择一个将会删掉另一个",
     "OriginalText": "Warning: Choosing one save will delete the other",
     "StartAddress": 376472,
     "EndAddress": 376518,
@@ -1799,21 +1799,21 @@
     "MaxLength": 87
   },
   {
-    "Text": "半精灵奥秘地消失了……",
+    "Text": "半精灵神秘地消失了……",
     "OriginalText": "The Half-Genies mysteriously disappeared...",
     "StartAddress": 376608,
     "EndAddress": 376646,
     "MaxLength": 39
   },
   {
-    "Text": "……而就这样，节庆就结束了。",
+    "Text": "……而就这样，庆典结束了。",
     "OriginalText": "...And just like that, the festival was over.",
     "StartAddress": 376648,
     "EndAddress": 376694,
     "MaxLength": 47
   },
   {
-    "Text": "隔天早上……",
+    "Text": "第二天早上……",
     "OriginalText": "The next morning...",
     "StartAddress": 376696,
     "EndAddress": 376718,
@@ -1904,21 +1904,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "极大吸引",
+    "Text": "最大吸引",
     "OriginalText": "Max Attract",
     "StartAddress": 376936,
     "EndAddress": 376950,
     "MaxLength": 15
   },
   {
-    "Text": "自动神药",
+    "Text": "自动药水",
     "OriginalText": "Auto Potion",
     "StartAddress": 376952,
     "EndAddress": 376966,
     "MaxLength": 15
   },
   {
-    "Text": "后快冲",
+    "Text": "后冲",
     "OriginalText": "Backdash",
     "StartAddress": 376968,
     "EndAddress": 376982,
@@ -1953,7 +1953,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "布烂松娃娃",
+    "Text": "布兰松娃娃",
     "OriginalText": "Bran-Son Doll",
     "StartAddress": 377040,
     "EndAddress": 377054,
@@ -2086,14 +2086,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "健康神药",
+    "Text": "健康药水",
     "OriginalText": "Health Potion",
     "StartAddress": 377304,
     "EndAddress": 377318,
     "MaxLength": 15
   },
   {
-    "Text": "生命心容器",
+    "Text": "心心容器",
     "OriginalText": "Heart Holder",
     "StartAddress": 377320,
     "EndAddress": 377334,
@@ -2107,14 +2107,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "如何玩",
+    "Text": "玩法",
     "OriginalText": "How To Play",
     "StartAddress": 377352,
     "EndAddress": 377366,
     "MaxLength": 15
   },
   {
-    "Text": "生命值拯救",
+    "Text": "生命节省器",
     "OriginalText": "HP Saver",
     "StartAddress": 377368,
     "EndAddress": 377382,
@@ -2156,7 +2156,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "壮男娃娃",
+    "Text": "猛男娃娃",
     "OriginalText": "Manly Doll",
     "StartAddress": 377448,
     "EndAddress": 377462,
@@ -2177,14 +2177,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "美人鱼壳",
+    "Text": "美人鱼贝壳",
     "OriginalText": "Mermaid Shell",
     "StartAddress": 377488,
     "EndAddress": 377502,
     "MaxLength": 15
   },
   {
-    "Text": "美人鱼壳",
+    "Text": "美人鱼贝壳",
     "OriginalText": "Mermaid Shells",
     "StartAddress": 377504,
     "EndAddress": 377518,
@@ -2198,21 +2198,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "魔法值拯救",
+    "Text": "魔法节省器",
     "OriginalText": "MP Saver",
     "StartAddress": 377536,
     "EndAddress": 377550,
     "MaxLength": 15
   },
   {
-    "Text": "大哥龙珠",
+    "Text": "聋珠",
     "OriginalText": "Dagron Ball",
     "StartAddress": 377552,
     "EndAddress": 377566,
     "MaxLength": 15
   },
   {
-    "Text": "大哥龙珠",
+    "Text": "聋珠",
     "OriginalText": "Dagron Balls",
     "StartAddress": 377568,
     "EndAddress": 377582,
@@ -2289,7 +2289,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "烧烤凤梨",
+    "Text": "烤菠萝",
     "OriginalText": "Roasted Pineapple",
     "StartAddress": 377752,
     "EndAddress": 377766,
@@ -2303,7 +2303,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "鲑鱼卵",
+    "Text": "三文鱼",
     "OriginalText": "Salmon",
     "StartAddress": 377784,
     "EndAddress": 377798,
@@ -2317,14 +2317,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "特级柔滑霜",
+    "Text": "超级柔滑霜",
     "OriginalText": "Super Silky Cream",
     "StartAddress": 377816,
     "EndAddress": 377830,
     "MaxLength": 15
   },
   {
-    "Text": "超级柔滑霜",
+    "Text": "究极柔滑霜",
     "OriginalText": "Mega Silky Cream",
     "StartAddress": 377832,
     "EndAddress": 377846,
@@ -2338,14 +2338,14 @@
     "MaxLength": 7
   },
   {
-    "Text": "超级神药",
+    "Text": "超级药水",
     "OriginalText": "Super Potion",
     "StartAddress": 377856,
     "EndAddress": 377870,
     "MaxLength": 15
   },
   {
-    "Text": "梅尔巴吐司",
+    "Text": "脆烤面包",
     "OriginalText": "Melba Toast",
     "StartAddress": 377872,
     "EndAddress": 377886,
@@ -2366,56 +2366,56 @@
     "MaxLength": 15
   },
   {
-    "Text": "自动吸引附近宝石和生命心！",
+    "Text": "自动吸引附近宝石和心心！",
     "OriginalText": "Automatically draws in nearby Gems and Hearts! ",
     "StartAddress": 377928,
     "EndAddress": 377966,
     "MaxLength": 39
   },
   {
-    "Text": "从更远的距离自动吸引附近宝石和生命心！",
+    "Text": "从更远的距离自动吸引附近宝石和心心！",
     "OriginalText": "Automatically draws in Gems and Hearts from a greater distance!",
     "StartAddress": 377968,
     "EndAddress": 378030,
     "MaxLength": 63
   },
   {
-    "Text": "从非常大的距离自动吸引附近宝石和生命心！",
+    "Text": "从极远的距离自动吸引附近宝石和心心！",
     "OriginalText": "Automatically draws in Gems and Hearts from a significant distance!",
     "StartAddress": 378032,
     "EndAddress": 378094,
     "MaxLength": 63
   },
   {
-    "Text": "生命值光了会生效的神药！",
+    "Text": "生命用光时自动生效的药水！",
     "OriginalText": "A potion that kicks in when your Hearts run dry!",
     "StartAddress": 378096,
     "EndAddress": 378134,
     "MaxLength": 39
   },
   {
-    "Text": "大家最喜爱的疗伤神药的超值包！",
+    "Text": "大家最喜爱的疗伤道具的超值包！",
     "OriginalText": "A value pack of everyone's favorite healing item!",
     "StartAddress": 378136,
     "EndAddress": 378182,
     "MaxLength": 47
   },
   {
-    "Text": "快速地<1>躲避</1>敌人攻击！按<IB action=Dodge scale=0.5 />快冲！",
+    "Text": "快速<1>躲避</1>敌人攻击！按<IB action=Dodge scale=0.5 />冲刺！",
     "OriginalText": "Quickly <1>DODGE</1> enemy attacks! Press <IB action=Dodge scale=0.5 /> to dash!",
     "StartAddress": 378184,
     "EndAddress": 378262,
     "MaxLength": 79
   },
   {
-    "Text": "科学证据证明...某某东西！",
+    "Text": "证明...某某东西的科学证据！",
     "OriginalText": "Scientific evidence that proves... something!",
     "StartAddress": 378264,
     "EndAddress": 378302,
     "MaxLength": 39
   },
   {
-    "Text": "我们也许能从海学很多呢！",
+    "Text": "我们也许能从海学到很多呢！",
     "OriginalText": "We can learn a lot from the ocean, perhaps!",
     "StartAddress": 378304,
     "EndAddress": 378342,
@@ -2429,63 +2429,63 @@
     "MaxLength": 15
   },
   {
-    "Text": "亮片世界最有名的超人布兰松的玩偶！",
+    "Text": "亮片大陆最有名的超人布兰松可动玩偶！",
     "OriginalText": "An action figure based on Sequin Land's most famous superhero Bran-Son!",
     "StartAddress": 378360,
     "EndAddress": 378414,
     "MaxLength": 55
   },
   {
-    "Text": "加工食品能恢复小力量。",
+    "Text": "能恢复少许健康的加工食品。",
     "OriginalText": "Processed food that restores small amount of health.",
     "StartAddress": 378416,
     "EndAddress": 378454,
     "MaxLength": 39
   },
   {
-    "Text": "五位必须找出的半精灵名单！到处找喔！",
+    "Text": "五位必须找到的半精灵名单！仔细找哦！",
     "OriginalText": "A list of <1>FIVE HALF-GENIES</1> who must be found! Check everywhere!",
     "StartAddress": 378456,
     "EndAddress": 378510,
     "MaxLength": 55
   },
   {
-    "Text": "再跟四位半精灵自我介绍！",
+    "Text": "还需跟四位半精灵自我介绍！",
     "OriginalText": "Introduce yourself to four more Half-Genie performers!",
     "StartAddress": 378512,
     "EndAddress": 378550,
     "MaxLength": 39
   },
   {
-    "Text": "再跟三位半精灵自我介绍！",
+    "Text": "还需跟三位半精灵自我介绍！",
     "OriginalText": "Introduce yourself to three more Half-Genie performers!",
     "StartAddress": 378552,
     "EndAddress": 378590,
     "MaxLength": 39
   },
   {
-    "Text": "再跟两位半精灵自我介绍！",
+    "Text": "还需跟两位半精灵自我介绍！",
     "OriginalText": "Introduce yourself to two more Half-Genie performers!",
     "StartAddress": 378592,
     "EndAddress": 378630,
     "MaxLength": 39
   },
   {
-    "Text": "再跟一位半精灵自我介绍！",
+    "Text": "还需跟一位半精灵自我介绍！",
     "OriginalText": "Introduce yourself to one more Half-Genie performer!",
     "StartAddress": 378632,
     "EndAddress": 378670,
     "MaxLength": 39
   },
   {
-    "Text": "阿谋尔男爵送场馆村市长的礼物！",
+    "Text": "护甲男爵送场馆镇市长的礼物！",
     "OriginalText": "A gift from the Armor Baron to the mayor of Arena Town!",
     "StartAddress": 378672,
     "EndAddress": 378718,
     "MaxLength": 47
   },
   {
-    "Text": "成功了！带会给场馆村市长！",
+    "Text": "成功了！带回给场馆镇市长！",
     "OriginalText": "Success! Take it back to Arena Town's Mayor!",
     "StartAddress": 378720,
     "EndAddress": 378758,
@@ -2499,7 +2499,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "沉船附近的鬼长辈该看这个！",
+    "Text": "得给沉船边的鬼长辈看看！",
     "OriginalText": "The Ghost Elder near the sunken ships should see this!",
     "StartAddress": 378800,
     "EndAddress": 378838,
@@ -2513,14 +2513,14 @@
     "MaxLength": 7
   },
   {
-    "Text": "钻透泥土！\n顶着<1>软平面</1>来<1>钻</1>！",
+    "Text": "钻透泥土！\n移向<1>软平面</1>来<1>钻</1>！",
     "OriginalText": "Drill through the dirt!\nMove against a <1>SOFT SURFACE</1> to <1>DRILL</1>!",
     "StartAddress": 378848,
     "EndAddress": 378902,
     "MaxLength": 55
   },
   {
-    "Text": "钻透泥土！\n使用<IB action=LSTICK scale=0.75/>顶着<1>软平面</1>来<1>钻</1>！",
+    "Text": "钻透泥土！\n使用<IB action=LSTICK scale=0.75/>移向<1>软平面</1>来<1>钻</1>！",
     "OriginalText": "Drill through the dirt!\nPress against a <1>SOFT SURFACE</1> with <IB action=LSTICK scale=0.75/> to <1>DRILL</1>!",
     "StartAddress": 378904,
     "EndAddress": 378998,
@@ -2534,14 +2534,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "从半空中下刷屏幕来从天上踩下来。也可以充值而释放 <I anim=ui_global:ios_button_attack.anb scale=0.15/>来执行有破坏性的<1>旋转快冲</1>！",
+    "Text": "从半空中下滑屏幕来从天上踩下来。也可以蓄力后释放 <I anim=ui_global:ios_button_attack.anb scale=0.15/>来执行破坏性的<1>旋转冲刺</1>！",
     "OriginalText": "Swipe down on the screen in air to STOMP from above. You can also charge up and release <I anim=ui_global:ios_button_attack.anb scale=0.15/> to perform a destructive <1>SPIN DASH</1>!",
     "StartAddress": 379016,
     "EndAddress": 379190,
     "MaxLength": 175
   },
   {
-    "Text": "从半空中按<IB action=Stomp scale=0.75/>来从天上<1>踩</1>下来。也可以充值而释放<IB action=Attack scale=0.75/>来执行有破坏性的<1>旋转快冲</1>！",
+    "Text": "从半空中按<IB action=Stomp scale=0.75/>来从天上<1>踩</1>下来。也可以蓄力后释放<IB action=Attack scale=0.75/>来执行破坏性的<1>旋转冲刺</1>！",
     "OriginalText": "Press <IB action=Stomp scale=0.75/> in air to <1>STOMP</1> from above. You can also charge up and release <IB action=Attack scale=0.75/> to perform a destructive <1>SPIN DASH</1>!",
     "StartAddress": 379192,
     "EndAddress": 379366,
@@ -2555,14 +2555,14 @@
     "MaxLength": 7
   },
   {
-    "Text": "在海底游泳！按住<I anim=ui_global:ios_button_attack.anb scale=0.15/>来游更慢！",
+    "Text": "在海底游泳！按住<I anim=ui_global:ios_button_attack.anb scale=0.15/>以游得更慢！",
     "OriginalText": "Swim underwater! Hold <I anim=ui_global:ios_button_attack.anb scale=0.15/> to swim more slowly!",
     "StartAddress": 379376,
     "EndAddress": 379470,
     "MaxLength": 95
   },
   {
-    "Text": "使用<IB action=LSTICK scale=0.75/>在海底移动！按住<IB action=Attack scale=0.75/>来游更慢！",
+    "Text": "使用<IB action=LSTICK scale=0.75/>在海底移动！按住<IB action=Attack scale=0.75/>以游得更慢！",
     "OriginalText": "Use <IB action=LSTICK scale=0.75/> to move underwater! Hold <IB action=Attack scale=0.75/> to swim more slowly!",
     "StartAddress": 379472,
     "EndAddress": 379582,
@@ -2590,21 +2590,21 @@
     "MaxLength": 39
   },
   {
-    "Text": "这娃娃的服装暗示它可能来自护甲村。",
+    "Text": "这娃娃的服装暗示它可能来自护甲镇。",
     "OriginalText": "This doll's clothes suggest that it's from Armor Town. ",
     "StartAddress": 379696,
     "EndAddress": 379750,
     "MaxLength": 55
   },
   {
-    "Text": "传奇的食物能恢复巨多力量。",
+    "Text": "传说食物能恢复极多健康。",
     "OriginalText": "Legendary food that restores massive amounts of health.",
     "StartAddress": 379752,
     "EndAddress": 379790,
     "MaxLength": 39
   },
   {
-    "Text": "看起来应该街上附近什么东西！",
+    "Text": "看起来应该连接着附近什么东西！",
     "OriginalText": "Looks like it attaches to something nearby! ",
     "StartAddress": 379792,
     "EndAddress": 379838,
@@ -2618,28 +2618,28 @@
     "MaxLength": 15
   },
   {
-    "Text": "在半空中按<I anim=ui_global:ios_button_jump.anb scale=0.15/>來<1>二段</1>或<1>三段</1>跳！",
+    "Text": "在半空中按<I anim=ui_global:ios_button_jump.anb scale=0.15/>来<1>二段</1>或<1>三段</1>跳！",
     "OriginalText": "Press <I anim=ui_global:ios_button_jump.anb scale=0.15/> in air to get a <1>DOUBLE</1> or <1>TRIPLE</1> jump!",
     "StartAddress": 379856,
     "EndAddress": 379958,
     "MaxLength": 103
   },
   {
-    "Text": "在半空中按<IB action=Jump scale=0.75/>來<1>二段</1>或<1>三段</1>跳！",
+    "Text": "在半空中按<IB action=Jump scale=0.75/>来<1>二段</1>或<1>三段</1>跳！",
     "OriginalText": "Press <IB action=Jump scale=0.75/> in air to get a <1>DOUBLE</1> or <1>TRIPLE</1> jump!",
     "StartAddress": 379960,
     "EndAddress": 380046,
     "MaxLength": 87
   },
   {
-    "Text": "使用这好用的神药充值<1>生命值</1>!",
+    "Text": "使用这便利的药水回复<1>生命值</1>!",
     "OriginalText": "Refill your <1>HEARTS</1> with this handy potion!",
     "StartAddress": 380048,
     "EndAddress": 380094,
     "MaxLength": 47
   },
   {
-    "Text": "生更多钱的超值包神药！",
+    "Text": "省钱的药水超值包！",
     "OriginalText": "A money-saving value pack of Potions!",
     "StartAddress": 380096,
     "EndAddress": 380134,
@@ -2660,21 +2660,21 @@
     "MaxLength": 39
   },
   {
-    "Text": "某种说明书。没有用的。",
+    "Text": "某种说明书。没什么用。",
     "OriginalText": "Some kind of instructional manual. Useless.",
     "StartAddress": 380208,
     "EndAddress": 380246,
     "MaxLength": 39
   },
   {
-    "Text": "喷上护甲让你减少百分之二十五的损害！",
+    "Text": "减少百分之二十五伤害得护甲喷雾！",
     "OriginalText": "Spray-on armor that lowers the amount of damage taken by 25%!",
     "StartAddress": 380248,
     "EndAddress": 380302,
     "MaxLength": 55
   },
   {
-    "Text": "用来开锁的门！",
+    "Text": "用来开有锁门！",
     "OriginalText": "Used to open locked doors!",
     "StartAddress": 380304,
     "EndAddress": 380326,
@@ -2695,21 +2695,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "使用这好用的神药充值<1>魔法值</1>!",
+    "Text": "使用这便利的药水恢复<1>魔法值</1>!",
     "OriginalText": "Refill your <1>MAGIC METER</1> with this handy potion!",
     "StartAddress": 380392,
     "EndAddress": 380438,
     "MaxLength": 47
   },
   {
-    "Text": "省宝石！大量购买！",
+    "Text": "节省宝石！批量购买！",
     "OriginalText": "Save your gems! Buy in volume!",
     "StartAddress": 380440,
     "EndAddress": 380470,
     "MaxLength": 31
   },
   {
-    "Text": "手工的软娃娃，上面有扣子。",
+    "Text": "手工制软娃娃，上面有扣子。",
     "OriginalText": "A soft, hand made doll with buttons on it.",
     "StartAddress": 380472,
     "EndAddress": 380510,
@@ -2723,42 +2723,42 @@
     "MaxLength": 31
   },
   {
-    "Text": "<1>薇拉</1>不是在找这种东西吗？",
+    "Text": "<1>薇拉</1>不是在找这类东西吗？",
     "OriginalText": "Wasn't <1>VERA</1> asking about something like this?",
     "StartAddress": 380544,
     "EndAddress": 380590,
     "MaxLength": 47
   },
   {
-    "Text": "带<1>六颗贝壳</1>给科学家！再收集五颗！",
+    "Text": "带<1>六颗贝壳</1>给科学家！还需要五颗！",
     "OriginalText": "Bring <1>SIX SHELLS</1> to the scientist! Collect 5 more!",
     "StartAddress": 380592,
     "EndAddress": 380646,
     "MaxLength": 55
   },
   {
-    "Text": "带<1>六颗贝壳</1>给科学家！再收集四颗！",
+    "Text": "带<1>六颗贝壳</1>给科学家！还需要四颗！",
     "OriginalText": "Bring <1>SIX SHELLS</1> to the scientist! Collect 4 more!",
     "StartAddress": 380648,
     "EndAddress": 380702,
     "MaxLength": 55
   },
   {
-    "Text": "带<1>六颗贝壳</1>给科学家！再收集三颗！",
+    "Text": "带<1>六颗贝壳</1>给科学家！还需要三颗！",
     "OriginalText": "Bring <1>SIX SHELLS</1> to the scientist! Collect 3 more!",
     "StartAddress": 380704,
     "EndAddress": 380758,
     "MaxLength": 55
   },
   {
-    "Text": "带<1>六颗贝壳</1>给科学家！再收集两颗！",
+    "Text": "带<1>六颗贝壳</1>给科学家！还需要两颗！",
     "OriginalText": "Bring <1>SIX SHELLS</1> to the scientist! Collect 2 more!",
     "StartAddress": 380760,
     "EndAddress": 380814,
     "MaxLength": 55
   },
   {
-    "Text": "带<1>六颗贝壳</1>给科学家！再收集一颗！",
+    "Text": "带<1>六颗贝壳</1>给科学家！还需要一颗！",
     "OriginalText": "Bring <1>SIX SHELLS</1> to the scientist! Collect 1 more!",
     "StartAddress": 380816,
     "EndAddress": 380870,
@@ -2772,21 +2772,21 @@
     "MaxLength": 63
   },
   {
-    "Text": "快冲水蜥",
+    "Text": "冲刺水蜥",
     "OriginalText": "Dash Newt",
     "StartAddress": 380936,
     "EndAddress": 380950,
     "MaxLength": 15
   },
   {
-    "Text": "变成水蜥来快冲和爬墙！\n在空中按<I anim=ui_global:ios_button_fusion.anb scale=0.25/>来<1>快冲</1>。",
+    "Text": "变成水蜥来冲刺和爬墙！\n在空中按<I anim=ui_global:ios_button_fusion.anb scale=0.25/>来<1>冲刺</1>。",
     "OriginalText": "Dash and climb walls as a newt!\nPress <I anim=ui_global:ios_button_fusion.anb scale=0.25/> in air to <1>DASH</1>.",
     "StartAddress": 380952,
     "EndAddress": 381070,
     "MaxLength": 119
   },
   {
-    "Text": "变成水蜥来快冲和爬墙！\n在空中按<IB action=Dash scale=0.75/>来<1>快冲</1>。",
+    "Text": "变成水蜥来冲刺和爬墙！\n在空中按<IB action=Dash scale=0.75/>来<1>冲刺</1>。",
     "OriginalText": "Dash and climb walls as a newt!\nPress <IB action=Dash scale=0.75/> in air to <1>DASH</1>.",
     "StartAddress": 381072,
     "EndAddress": 381166,
@@ -2800,70 +2800,70 @@
     "MaxLength": 31
   },
   {
-    "Text": "只有传奇之大王能找出<1>三个大哥龙珠</1>！专利申请中。",
+    "Text": "只有传说之勇士能集齐<1>三颗聋珠</1>！专利申请中。",
     "OriginalText": "Only the Champ of Legend can find all <1>THREE DAGRON BALLS</1>! Patent pending.",
     "StartAddress": 381200,
     "EndAddress": 381278,
     "MaxLength": 79
   },
   {
-    "Text": "好吃的食物能恢复力量。",
+    "Text": "能恢复健康的美味食物。",
     "OriginalText": "Tasty food that restores health.",
     "StartAddress": 381280,
     "EndAddress": 381318,
     "MaxLength": 39
   },
   {
-    "Text": "给阿谋尔男爵的金属矿石！他需要三块。",
+    "Text": "给护甲男爵的金属矿石！他需要三块。",
     "OriginalText": "Metal Ore for the Armor Baron! He needs three of these.",
     "StartAddress": 381320,
     "EndAddress": 381374,
     "MaxLength": 55
   },
   {
-    "Text": "精心準備的食物能恢复不少力量。",
+    "Text": "恢复大量健康的精心准备的食物。",
     "OriginalText": "Well-prepared food that restores a good amount of health.",
     "StartAddress": 381376,
     "EndAddress": 381422,
     "MaxLength": 47
   },
   {
-    "Text": "加强头发<1>损害力</1>!",
+    "Text": "加强头发的<1>伤害</1>!",
     "OriginalText": "Increase the <1>DAMAGE DEALT</1> by your hair!",
     "StartAddress": 381424,
     "EndAddress": 381454,
     "MaxLength": 31
   },
   {
-    "Text": "加强头发<1>损害力</1>!",
+    "Text": "加强头发的<1>伤害</1>!",
     "OriginalText": "Increase the <1>DAMAGE DEALT</1> by your hair!",
     "StartAddress": 381456,
     "EndAddress": 381486,
     "MaxLength": 31
   },
   {
-    "Text": "加强头发<1>损害力</1>!",
+    "Text": "加强头发的<1>伤害</1>!",
     "OriginalText": "Increase the <1>DAMAGE DEALT</1> by your hair!",
     "StartAddress": 381488,
     "EndAddress": 381518,
     "MaxLength": 31
   },
   {
-    "Text": "把这带去控制室。鬼狗知道路！",
+    "Text": "把它带去控制室。幽灵狗知道路！",
     "OriginalText": "Take this to the Control Room. Ghost Dog knows the way!",
     "StartAddress": 381520,
     "EndAddress": 381566,
     "MaxLength": 47
   },
   {
-    "Text": "扑鼻食物能恢复多量力量。",
+    "Text": "能恢复大量健康的扑鼻食物。",
     "OriginalText": "Tangy food that restores a lot of health.",
     "StartAddress": 381568,
     "EndAddress": 381606,
     "MaxLength": 39
   },
   {
-    "Text": "备件，能拿来修理故障的电机器。",
+    "Text": "备件，能拿来修理故障的电器。",
     "OriginalText": "Spare parts that can be used to repair a broken electric machine.",
     "StartAddress": 381608,
     "EndAddress": 381654,
@@ -2877,77 +2877,77 @@
     "MaxLength": 31
   },
   {
-    "Text": "恢复力量的好吃食物。",
+    "Text": "恢复力量的可口食物。",
     "OriginalText": "Tasty food that restores health.",
     "StartAddress": 381688,
     "EndAddress": 381718,
     "MaxLength": 31
   },
   {
-    "Text": "烧烤水果能恢复中度力量。",
+    "Text": "能恢复不少健康的烤水果。",
     "OriginalText": "Roasted fruit that restores a fair amount of health.",
     "StartAddress": 381720,
     "EndAddress": 381758,
     "MaxLength": 39
   },
   {
-    "Text": "上面刻写了“西舱口”。",
+    "Text": "上面刻着“西舱口”。",
     "OriginalText": "The words WEST HATCH are inscribed on it.",
     "StartAddress": 381760,
     "EndAddress": 381798,
     "MaxLength": 39
   },
   {
-    "Text": "专家准备的食物能恢复很多力量。",
+    "Text": "能恢复极多健康的美味佳肴。",
     "OriginalText": "Expertly-prepared food that restores a ton of health.",
     "StartAddress": 381800,
     "EndAddress": 381846,
     "MaxLength": 47
   },
   {
-    "Text": "加强头发<1>甩速度</1>!",
+    "Text": "加快头发<1>甩速度</1>!",
     "OriginalText": "Increase the <1>WHIPPING SPEED</1> of your hair!",
     "StartAddress": 381848,
     "EndAddress": 381878,
     "MaxLength": 31
   },
   {
-    "Text": "加强头发<1>甩速度</1>!",
+    "Text": "加快头发<1>甩速度</1>!",
     "OriginalText": "Increase the <1>WHIPPING SPEED</1> of your hair!",
     "StartAddress": 381880,
     "EndAddress": 381910,
     "MaxLength": 31
   },
   {
-    "Text": "加强头发<1>甩速度</1>!",
+    "Text": "加快头发<1>甩速度</1>!",
     "OriginalText": "Increase the <1>WHIPPING SPEED</1> of your hair!",
     "StartAddress": 381912,
     "EndAddress": 381942,
     "MaxLength": 31
   },
   {
-    "Text": "把这些带回去给城市里的鱿鱼匠！",
+    "Text": "把这些带回去给城镇里的鱿鱼匠！",
     "OriginalText": "Take these to the Squidsmith back in town!",
     "StartAddress": 381944,
     "EndAddress": 381990,
     "MaxLength": 47
   },
   {
-    "Text": "充值<1>生命值和魔法值</1>!真划算！",
+    "Text": "恢复<1>生命和魔法值</1>！真划算！",
     "OriginalText": "Refills <1>HEARTS AND MAGIC</1>! What a deal!",
     "StartAddress": 381992,
     "EndAddress": 382038,
     "MaxLength": 47
   },
   {
-    "Text": "大批购买！一口吞下去充值生命值和魔法值！",
+    "Text": "批量购买！恢复生命和魔法值，屯屯屯！",
     "OriginalText": "Buy in bulk! Refill Hearts and Magic with one gulp!",
     "StartAddress": 382040,
     "EndAddress": 382102,
     "MaxLength": 63
   },
   {
-    "Text": "被踩过的脆吐司。菠萝最喜欢的。",
+    "Text": "被踩过的烤脆吐司。波罗的最爱。",
     "OriginalText": "Crunchy toast that's been stepped on. Bolo's favorite.",
     "StartAddress": 382104,
     "EndAddress": 382150,
@@ -2996,7 +2996,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "赛莲男",
+    "Text": "海妖男",
     "OriginalText": "Siren Man",
     "StartAddress": 382248,
     "EndAddress": 382262,
@@ -3045,7 +3045,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "捏者",
+    "Text": "蝎钳",
     "OriginalText": "Pincher",
     "StartAddress": 382352,
     "EndAddress": 382358,
@@ -3255,42 +3255,42 @@
     "MaxLength": 15
   },
   {
-    "Text": "赛莲兵",
+    "Text": "海妖士兵",
     "OriginalText": "Siren Soldier",
     "StartAddress": 382768,
     "EndAddress": 382782,
     "MaxLength": 15
   },
   {
-    "Text": "莲花赛莲",
+    "Text": "莲花海妖",
     "OriginalText": "Water Lily Siren",
     "StartAddress": 382784,
     "EndAddress": 382798,
     "MaxLength": 15
   },
   {
-    "Text": "珊瑚赛莲",
+    "Text": "珊瑚海妖",
     "OriginalText": "Coral Siren",
     "StartAddress": 382800,
     "EndAddress": 382814,
     "MaxLength": 15
   },
   {
-    "Text": "管虫赛莲",
+    "Text": "管虫海妖",
     "OriginalText": "Tubeworm Siren",
     "StartAddress": 382816,
     "EndAddress": 382830,
     "MaxLength": 15
   },
   {
-    "Text": "𩽾𩾌目赛莲",
+    "Text": "𩽾𩾌目海妖",
     "OriginalText": "Angler Fish Siren",
     "StartAddress": 382832,
     "EndAddress": 382854,
     "MaxLength": 23
   },
   {
-    "Text": "八脚赛莲",
+    "Text": "八脚海妖",
     "OriginalText": "Octo Siren",
     "StartAddress": 382856,
     "EndAddress": 382870,
@@ -3304,28 +3304,28 @@
     "MaxLength": 7
   },
   {
-    "Text": "龙虾女",
+    "Text": "龙虾女孩",
     "OriginalText": "Lobster Girl",
     "StartAddress": 382880,
     "EndAddress": 382894,
     "MaxLength": 15
   },
   {
-    "Text": "装备之卡",
+    "Text": "装备的卡片",
     "OriginalText": "Equipped Cards",
     "StartAddress": 382896,
     "EndAddress": 382910,
     "MaxLength": 15
   },
   {
-    "Text": "收集之卡",
+    "Text": "收集的卡片",
     "OriginalText": "Cards Collected",
     "StartAddress": 382912,
     "EndAddress": 382926,
     "MaxLength": 15
   },
   {
-    "Text": "爬速度+",
+    "Text": "爬行速度+",
     "OriginalText": "Crawl Speed +",
     "StartAddress": 382928,
     "EndAddress": 382942,
@@ -3353,21 +3353,21 @@
     "MaxLength": 23
   },
   {
-    "Text": "绳速度＋",
+    "Text": "攀绳速度＋",
     "OriginalText": "Rope Speed +",
     "StartAddress": 383016,
     "EndAddress": 383030,
     "MaxLength": 15
   },
   {
-    "Text": "增加爬的速度！",
+    "Text": "增加攀绳速度！",
     "OriginalText": "Greatly increase your climbing speed!",
     "StartAddress": 383032,
     "EndAddress": 383054,
     "MaxLength": 23
   },
   {
-    "Text": "无洞损害",
+    "Text": "无坠落损害",
     "OriginalText": "No Pit Damage",
     "StartAddress": 383056,
     "EndAddress": 383070,
@@ -3381,14 +3381,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "无尖头损害",
+    "Text": "无尖刺伤害",
     "OriginalText": "No Spike Damage",
     "StartAddress": 383112,
     "EndAddress": 383126,
     "MaxLength": 15
   },
   {
-    "Text": "碰到尖头不受损害！",
+    "Text": "碰到尖刺不受伤害！",
     "OriginalText": "Take zero damage when destroyed by spikes!",
     "StartAddress": 383128,
     "EndAddress": 383158,
@@ -3402,49 +3402,49 @@
     "MaxLength": 15
   },
   {
-    "Text": "甩头发的攻击有更大的损害力！",
+    "Text": "甩头发攻击造成更多伤害！",
     "OriginalText": "Hair Whip attack deals even more damage than before!",
     "StartAddress": 383176,
     "EndAddress": 383222,
     "MaxLength": 47
   },
   {
-    "Text": "受损害－",
+    "Text": "受伤害－",
     "OriginalText": "Damage Taken -",
     "StartAddress": 383224,
     "EndAddress": 383238,
     "MaxLength": 15
   },
   {
-    "Text": "减少从敌人攻击收到的损害！",
+    "Text": "减少从敌人攻击受到的伤害！",
     "OriginalText": "Reduce the amount of damage taken from enemy attacks!",
     "StartAddress": 383240,
     "EndAddress": 383278,
     "MaxLength": 39
   },
   {
-    "Text": "魔法复生",
+    "Text": "魔法恢复",
     "OriginalText": "Magic Regen",
     "StartAddress": 383280,
     "EndAddress": 383294,
     "MaxLength": 15
   },
   {
-    "Text": "魔法值过久会充值！",
+    "Text": "魔法值会随时间恢复！",
     "OriginalText": "The Magic Meter will refill over time!",
     "StartAddress": 383296,
     "EndAddress": 383326,
     "MaxLength": 31
   },
   {
-    "Text": "食物能源＋",
+    "Text": "食物恢复＋",
     "OriginalText": "Food Power +",
     "StartAddress": 383328,
     "EndAddress": 383342,
     "MaxLength": 15
   },
   {
-    "Text": "所有吃下的食物恢复力量增加！",
+    "Text": "增加所有食物恢复的生命！",
     "OriginalText": "All food types gain an extra healing boost when consumed!",
     "StartAddress": 383344,
     "EndAddress": 383390,
@@ -3458,63 +3458,63 @@
     "MaxLength": 15
   },
   {
-    "Text": "宝物自动从更远距离拉入！",
+    "Text": "从更远的距离自动吸引宝物！",
     "OriginalText": "Loot will be automatically drawn in from a greater distance!",
     "StartAddress": 383408,
     "EndAddress": 383446,
     "MaxLength": 39
   },
   {
-    "Text": "快冲损害＋",
+    "Text": "冲刺伤害＋",
     "OriginalText": "Dash Damage +",
     "StartAddress": 383448,
     "EndAddress": 383462,
     "MaxLength": 15
   },
   {
-    "Text": "使用水蜥快冲时给出更大损害！",
+    "Text": "使用水蜥冲刺时造成更大伤害！",
     "OriginalText": "Inflict even more damage when using the Newt Dash!",
     "StartAddress": 383464,
     "EndAddress": 383510,
     "MaxLength": 47
   },
   {
-    "Text": "快冲距离＋",
+    "Text": "冲刺距离＋",
     "OriginalText": "Dash Distance +",
     "StartAddress": 383512,
     "EndAddress": 383526,
     "MaxLength": 15
   },
   {
-    "Text": "增加水蜥快冲能飞的距离！",
+    "Text": "增加水蜥冲刺能飞的距离！",
     "OriginalText": "Extend the reach of the Newt Dash and fly further!",
     "StartAddress": 383528,
     "EndAddress": 383566,
     "MaxLength": 39
   },
   {
-    "Text": "快冲速度＋",
+    "Text": "冲刺速度＋",
     "OriginalText": "Dash Speed +",
     "StartAddress": 383568,
     "EndAddress": 383582,
     "MaxLength": 15
   },
   {
-    "Text": "水蜥快冲时使用超级速度！",
+    "Text": "以极快的速度进行水蜥冲刺！",
     "OriginalText": "The Newt travels at super speed when dashing!",
     "StartAddress": 383584,
     "EndAddress": 383622,
     "MaxLength": 39
   },
   {
-    "Text": "水蜥爬＋",
+    "Text": "水蜥攀爬＋",
     "OriginalText": "Newt Climb +",
     "StartAddress": 383624,
     "EndAddress": 383638,
     "MaxLength": 15
   },
   {
-    "Text": "当水蜥时，肆无忌惮地冲上墙壁！",
+    "Text": "作为水蜥肆无忌惮地冲上墙壁！",
     "OriginalText": "Zip up walls with reckless abandon as the Newt!",
     "StartAddress": 383640,
     "EndAddress": 383686,
@@ -3535,42 +3535,42 @@
     "MaxLength": 39
   },
   {
-    "Text": "打砸损害＋",
+    "Text": "冲撞伤害＋",
     "OriginalText": "Bash Damage +",
     "StartAddress": 383744,
     "EndAddress": 383758,
     "MaxLength": 15
   },
   {
-    "Text": "乌龟打砸攻击损伤比之前更厉害！",
+    "Text": "乌龟冲撞攻击造成更多伤害！",
     "OriginalText": "The Tortoise's Bash attack causes higher damage than before!",
     "StartAddress": 383760,
     "EndAddress": 383806,
     "MaxLength": 47
   },
   {
-    "Text": "踩损害＋",
+    "Text": "踩伤害＋",
     "OriginalText": "Stomp Damage +",
     "StartAddress": 383808,
     "EndAddress": 383822,
     "MaxLength": 15
   },
   {
-    "Text": "使用超强乌龟踩跺给敌人更大损伤！",
+    "Text": "使用乌龟踩攻击时给敌人造成更大伤害！",
     "OriginalText": "Deal more damage to foes using super powerful Tortoise Stomps!",
     "StartAddress": 383824,
     "EndAddress": 383878,
     "MaxLength": 55
   },
   {
-    "Text": "充值时间－",
+    "Text": "蓄力时间－",
     "OriginalText": "Charge Time -",
     "StartAddress": 383880,
     "EndAddress": 383894,
     "MaxLength": 15
   },
   {
-    "Text": "乌龟充值时间减少！",
+    "Text": "乌龟蓄力时间减少！",
     "OriginalText": "The Tortoise Form will take less time to charge up!",
     "StartAddress": 383896,
     "EndAddress": 383926,
@@ -3584,14 +3584,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "青蛙速度激烈的增加速度！",
+    "Text": "极大增加青蛙游速！",
     "OriginalText": "Frog speed will drastically increase!",
     "StartAddress": 383944,
     "EndAddress": 383982,
     "MaxLength": 39
   },
   {
-    "Text": "先见者价－",
+    "Text": "先见消耗－",
     "OriginalText": "Seer Cost -",
     "StartAddress": 383984,
     "EndAddress": 383998,
@@ -3605,49 +3605,49 @@
     "MaxLength": 39
   },
   {
-    "Text": "刷新价－",
+    "Text": "刷新消耗－",
     "OriginalText": "Refresh Cost -",
     "StartAddress": 384040,
     "EndAddress": 384054,
     "MaxLength": 15
   },
   {
-    "Text": "使用刷新舞消耗更少魔法！",
+    "Text": "减少刷新舞消耗的魔法！",
     "OriginalText": "The Refresh Dance consumes less magic when used!",
     "StartAddress": 384056,
     "EndAddress": 384094,
     "MaxLength": 39
   },
   {
-    "Text": "刷新疗养＋",
+    "Text": "刷新疗伤＋",
     "OriginalText": "Refresh Healing +",
     "StartAddress": 384096,
     "EndAddress": 384110,
     "MaxLength": 15
   },
   {
-    "Text": "刷新舞恢复比之前多空心！",
+    "Text": "增加刷新舞恢复的生命！",
     "OriginalText": "The Refresh Dance restores more Empty Hearts than before!",
     "StartAddress": 384112,
     "EndAddress": 384150,
     "MaxLength": 39
   },
   {
-    "Text": "刷新损害＋",
+    "Text": "刷新伤害＋",
     "OriginalText": "Refresh Damage +",
     "StartAddress": 384152,
     "EndAddress": 384166,
     "MaxLength": 15
   },
   {
-    "Text": "刷新舞给病弱与未死的敌人更大的损伤！",
+    "Text": "增加刷新舞给病弱与不死人敌人的伤害！",
     "OriginalText": "The Refresh Dance does more damage to sickly or undead foes!",
     "StartAddress": 384168,
     "EndAddress": 384222,
     "MaxLength": 55
   },
   {
-    "Text": "电价－",
+    "Text": "电消耗－",
     "OriginalText": "Electric Cost -",
     "StartAddress": 384224,
     "EndAddress": 384238,
@@ -3661,21 +3661,21 @@
     "MaxLength": 39
   },
   {
-    "Text": "电力量＋",
+    "Text": "电力＋",
     "OriginalText": "Electric Power +",
     "StartAddress": 384280,
     "EndAddress": 384294,
     "MaxLength": 15
   },
   {
-    "Text": "火花舞给敌人更大的损伤！",
+    "Text": "增加火花舞给敌人的伤害！",
     "OriginalText": "The Spark Dance does more damage to foes!",
     "StartAddress": 384296,
     "EndAddress": 384334,
     "MaxLength": 39
   },
   {
-    "Text": "震撼价－",
+    "Text": "震撼消耗－",
     "OriginalText": "Quake Cost -",
     "StartAddress": 384336,
     "EndAddress": 384350,
@@ -3696,21 +3696,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "震撼舞给敌人更大的损伤！",
+    "Text": "增加震撼舞给敌人的伤害！",
     "OriginalText": "The Quake Dance does more damage to foes!",
     "StartAddress": 384408,
     "EndAddress": 384446,
     "MaxLength": 39
   },
   {
-    "Text": "火箭损害＋",
+    "Text": "火箭伤害＋",
     "OriginalText": "Rocket Damage +",
     "StartAddress": 384448,
     "EndAddress": 384462,
     "MaxLength": 15
   },
   {
-    "Text": "火箭舞给目标更大的损伤！",
+    "Text": "增加火箭给敌人的伤害！",
     "OriginalText": "Rockets inflict more damage to their targets!",
     "StartAddress": 384464,
     "EndAddress": 384502,
@@ -3724,14 +3724,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "火箭追赶目标的速度加快！",
+    "Text": "加快火箭追赶目标的速度！",
     "OriginalText": "Rockets travel much faster when chasing down their targets!",
     "StartAddress": 384520,
     "EndAddress": 384558,
     "MaxLength": 39
   },
   {
-    "Text": "火箭价－",
+    "Text": "火箭消耗－",
     "OriginalText": "Rocket Cost -",
     "StartAddress": 384560,
     "EndAddress": 384574,
@@ -3745,63 +3745,63 @@
     "MaxLength": 31
   },
   {
-    "Text": "超级球＋",
+    "Text": "弹球＋",
     "OriginalText": "Super Ball +",
     "StartAddress": 384608,
     "EndAddress": 384622,
     "MaxLength": 15
   },
   {
-    "Text": "增加拍超级球武器的损害！",
+    "Text": "增加弹球武器的伤害！",
     "OriginalText": "Increase the damage dealt by the bouncing Super Ball weapon!",
     "StartAddress": 384624,
     "EndAddress": 384662,
     "MaxLength": 39
   },
   {
-    "Text": "超级球速度＋",
+    "Text": "弹球速度＋",
     "OriginalText": "Super Ball Speed +",
     "StartAddress": 384664,
     "EndAddress": 384686,
     "MaxLength": 23
   },
   {
-    "Text": "超级球速度比之前更快！",
+    "Text": "增加弹球的速度！",
     "OriginalText": "The Super Ball travels much faster than before!",
     "StartAddress": 384688,
     "EndAddress": 384726,
     "MaxLength": 39
   },
   {
-    "Text": "超级球价－",
+    "Text": "弹球消耗－",
     "OriginalText": "Super Ball Cost -",
     "StartAddress": 384728,
     "EndAddress": 384742,
     "MaxLength": 15
   },
   {
-    "Text": "减少超级球消耗的魔法！",
+    "Text": "减少弹球消耗的魔法！",
     "OriginalText": "The Super Ball consumes less magic when used!",
     "StartAddress": 384744,
     "EndAddress": 384782,
     "MaxLength": 39
   },
   {
-    "Text": "火球损害＋",
+    "Text": "火球伤害＋",
     "OriginalText": "Fireball Damage +",
     "StartAddress": 384784,
     "EndAddress": 384798,
     "MaxLength": 15
   },
   {
-    "Text": "增加火球魔法给出的损伤！",
+    "Text": "增加火球魔法的伤害！",
     "OriginalText": "Increase the damage caused by Fireball magic!",
     "StartAddress": 384800,
     "EndAddress": 384838,
     "MaxLength": 39
   },
   {
-    "Text": "火球－",
+    "Text": "火球消耗－",
     "OriginalText": "Fireball Cost -",
     "StartAddress": 384840,
     "EndAddress": 384854,
@@ -3815,7 +3815,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "盾价－",
+    "Text": "盾消耗－",
     "OriginalText": "Shield Cost -",
     "StartAddress": 384888,
     "EndAddress": 384902,
@@ -3829,42 +3829,42 @@
     "MaxLength": 31
   },
   {
-    "Text": "回飞棒损害＋",
+    "Text": "回力镖伤害＋",
     "OriginalText": "Boomerang Damage +",
     "StartAddress": 384936,
     "EndAddress": 384958,
     "MaxLength": 23
   },
   {
-    "Text": "回飞棒比之前给出更大损伤！",
+    "Text": "增加回力镖的伤害！",
     "OriginalText": "The Boomerang does more damage than before!",
     "StartAddress": 384960,
     "EndAddress": 384998,
     "MaxLength": 39
   },
   {
-    "Text": "回飞棒速度＋",
+    "Text": "回力镖速度＋",
     "OriginalText": "Boomerang Speed +",
     "StartAddress": 385000,
     "EndAddress": 385022,
     "MaxLength": 23
   },
   {
-    "Text": "回飞棒丢着超快速度！",
+    "Text": "增加回力镖的速度！",
     "OriginalText": "Boomerangs are thrown with tremendous speed!",
     "StartAddress": 385024,
     "EndAddress": 385054,
     "MaxLength": 31
   },
   {
-    "Text": "回飞棒价－",
+    "Text": "飞镖消耗－",
     "OriginalText": "Boomerang Cost -",
     "StartAddress": 385056,
     "EndAddress": 385070,
     "MaxLength": 15
   },
   {
-    "Text": "减少回飞棒消耗的魔法！",
+    "Text": "减少回力镖消耗的魔法！",
     "OriginalText": "The Boomerang consumes less magic when used!",
     "StartAddress": 385072,
     "EndAddress": 385110,
@@ -3878,14 +3878,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "尖球武器分类给敌人更大的损伤！",
+    "Text": "增加尖球武器给敌人造成的伤害！",
     "OriginalText": "The Pike Ball weapon class deals even more damage to foes!",
     "StartAddress": 385128,
     "EndAddress": 385174,
     "MaxLength": 47
   },
   {
-    "Text": "尖球价－",
+    "Text": "尖球消耗－",
     "OriginalText": "Pike Ball Cost -",
     "StartAddress": 385176,
     "EndAddress": 385190,
@@ -3899,14 +3899,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "爱心幸运＋",
+    "Text": "心心幸运＋",
     "OriginalText": "Heart Luck +",
     "StartAddress": 385224,
     "EndAddress": 385238,
     "MaxLength": 15
   },
   {
-    "Text": "增加收集生命心的几率！",
+    "Text": "增加掉落心心的几率！",
     "OriginalText": "Increase the odds of collecting dropped Hearts!",
     "StartAddress": 385240,
     "EndAddress": 385278,
@@ -3920,7 +3920,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "增加收集食物的几率！",
+    "Text": "增加掉落食物的几率！",
     "OriginalText": "Increase the odds of collecting dropped Food!",
     "StartAddress": 385296,
     "EndAddress": 385326,
@@ -3934,7 +3934,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "增加收集宝石的几率！",
+    "Text": "增加掉落宝石的数量！",
     "OriginalText": "Increase the number of dropped Gems!",
     "StartAddress": 385344,
     "EndAddress": 385374,
@@ -3948,7 +3948,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "增加从打倒的敌人获得魔法的机会！",
+    "Text": "增加从打倒的敌人身上获得魔法的几率！",
     "OriginalText": "Increase the odds of collecting dropped Magic!",
     "StartAddress": 385392,
     "EndAddress": 385446,
@@ -3962,21 +3962,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "在任何商店获得折扣价钱。",
+    "Text": "在任何商店获得折扣价。",
     "OriginalText": "Get reduced prices at any Item Shop!",
     "StartAddress": 385464,
     "EndAddress": 385502,
     "MaxLength": 39
   },
   {
-    "Text": "捏者力量",
+    "Text": "蝎钳力量",
     "OriginalText": "Pincher Power",
     "StartAddress": 385504,
     "EndAddress": 385518,
     "MaxLength": 15
   },
   {
-    "Text": "获得裂贝壳力量能打败捏者怪兽！",
+    "Text": "获得能打碎蝎钳怪外壳的力量！",
     "OriginalText": "Gain Shell-cracking strength that can defeat even Pincher monsters!",
     "StartAddress": 385520,
     "EndAddress": 385566,
@@ -3990,7 +3990,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "走进壶自动打破！",
+    "Text": "走过壶时自动打破壶！",
     "OriginalText": "Automatically break jugs by walking into them!",
     "StartAddress": 385584,
     "EndAddress": 385614,
@@ -4004,7 +4004,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "使用甩头发能力把红宝石转换成生命心！",
+    "Text": "甩头发把红宝石转换成心心！",
     "OriginalText": "Use your Hair Whip to convert Red Gems into Hearts!",
     "StartAddress": 385632,
     "EndAddress": 385686,
@@ -4018,28 +4018,28 @@
     "MaxLength": 15
   },
   {
-    "Text": "使用甩头发能力把绿宝石转换成魔法！",
+    "Text": "甩头发把绿宝石转换成魔力！",
     "OriginalText": "Use your Hair Whip to convert Green Gems into Magic!",
     "StartAddress": 385704,
     "EndAddress": 385758,
     "MaxLength": 55
   },
   {
-    "Text": "目前无法辨认这卡！",
+    "Text": "目前无法辨认此卡片！",
     "OriginalText": "This card can't be identified at this time!",
     "StartAddress": 385760,
     "EndAddress": 385790,
     "MaxLength": 31
   },
   {
-    "Text": "这卡的能力仍然是奥秘！",
+    "Text": "此卡片的能力仍然是个谜！",
     "OriginalText": "This card's abilities remain a mystery!",
     "StartAddress": 385792,
     "EndAddress": 385830,
     "MaxLength": 39
   },
   {
-    "Text": "扫描舞",
+    "Text": "先见舞",
     "OriginalText": "Seer Dance",
     "StartAddress": 385832,
     "EndAddress": 385846,
@@ -4067,28 +4067,28 @@
     "MaxLength": 15
   },
   {
-    "Text": "这神秘的舞能显示肉眼看不见的东西！在不同地方使用看看!",
+    "Text": "这神秘的舞能显示肉眼看不见的东西！到处试试看看！",
     "OriginalText": "This mysterious dance can reveal things that are hidden from the naked eye! Try using it in a variety of places! ",
     "StartAddress": 385896,
     "EndAddress": 385974,
     "MaxLength": 79
   },
   {
-    "Text": "大自然的力量可以复兴疲劳和疗养病人，以及同时充值空的生命心！",
+    "Text": "自然的力量可以恢复疲劳和治疗疾病，同时填补空洞的心！",
     "OriginalText": "The power of nature can revive the weary and heal the sick - and restore Empty Hearts in the process!",
     "StartAddress": 385976,
     "EndAddress": 386070,
     "MaxLength": 95
   },
   {
-    "Text": "召唤出有力的震感把环境摇匀！这舞能给出重大的损伤，也能更改环境...",
+    "Text": "召唤出地动山摇的地震！此舞伤害巨大，甚至能更改周围的环境...",
     "OriginalText": "Shake things up by calling forth powerful tremors! This dance deals heavy damage, and can even alter your surroundings...",
     "StartAddress": 386072,
     "EndAddress": 386174,
     "MaxLength": 103
   },
   {
-    "Text": "使用这电力舞电击敌人。也可能影响到其他实物…",
+    "Text": "使用电击舞电击敌人。也可能影响到其他物体…",
     "OriginalText": "Shock your foes with the power of this electrical dance. It may affect other objects as well... ",
     "StartAddress": 386176,
     "EndAddress": 386246,
@@ -4151,119 +4151,119 @@
     "MaxLength": 15
   },
   {
-    "Text": "无敌性",
+    "Text": "无敌",
     "OriginalText": "Invincibility",
     "StartAddress": 386344,
     "EndAddress": 386358,
     "MaxLength": 15
   },
   {
-    "Text": "超级球一",
+    "Text": "弹球一",
     "OriginalText": "Super Ball 1",
     "StartAddress": 386360,
     "EndAddress": 386374,
     "MaxLength": 15
   },
   {
-    "Text": "超级球二",
+    "Text": "弹球二",
     "OriginalText": "Super Ball 2",
     "StartAddress": 386376,
     "EndAddress": 386390,
     "MaxLength": 15
   },
   {
-    "Text": "超级球三",
+    "Text": "弹球三",
     "OriginalText": "Super Ball 3",
     "StartAddress": 386392,
     "EndAddress": 386406,
     "MaxLength": 15
   },
   {
-    "Text": "导引火箭一",
+    "Text": "制导火箭一",
     "OriginalText": "Homing Rocket 1",
     "StartAddress": 386408,
     "EndAddress": 386422,
     "MaxLength": 15
   },
   {
-    "Text": "导引火箭二",
+    "Text": "制导火箭二",
     "OriginalText": "Homing Rocket 2",
     "StartAddress": 386424,
     "EndAddress": 386438,
     "MaxLength": 15
   },
   {
-    "Text": "导引火箭三",
+    "Text": "制导火箭三",
     "OriginalText": "Homing Rocket 3",
     "StartAddress": 386440,
     "EndAddress": 386454,
     "MaxLength": 15
   },
   {
-    "Text": "回飞棒",
+    "Text": "回力镖",
     "OriginalText": "Boomerang",
     "StartAddress": 386456,
     "EndAddress": 386470,
     "MaxLength": 15
   },
   {
-    "Text": "双倍回飞棒",
+    "Text": "双倍回力镖",
     "OriginalText": "Double Boomerang",
     "StartAddress": 386472,
     "EndAddress": 386486,
     "MaxLength": 15
   },
   {
-    "Text": "三倍回飞棒",
+    "Text": "三倍回力镖",
     "OriginalText": "Triple Boomerang",
     "StartAddress": 386488,
     "EndAddress": 386502,
     "MaxLength": 15
   },
   {
-    "Text": "使用<1>泡泡</1>盾保护自己防敌人抛体！",
+    "Text": "使用<1>泡泡</1>盾防御敌人的子弹！",
     "OriginalText": "Protect yourself from enemy projectiles with a <1>BUBBLE</1> shield! ",
     "StartAddress": 386504,
     "EndAddress": 386558,
     "MaxLength": 55
   },
   {
-    "Text": "花<1>魔法值</1>从<1>远程</1>烧烤敌人！",
+    "Text": "用<1>魔法</1>从<1>远距离</1>烤熟敌人！",
     "OriginalText": "Spend <1>MAGIC</1> to roast your foes from <1>LONG RANGE</1>!",
     "StartAddress": 386560,
     "EndAddress": 386614,
     "MaxLength": 55
   },
   {
-    "Text": "使用重型<1>火力</1>带来点<1>热量</1>！会消耗<1>魔法值</1>。",
+    "Text": "使用重型<1>火力</1>把敌人<1>烤焦</1>！会消耗<1>魔法值</1>。",
     "OriginalText": "Bring on the <1>SIZZLE</1> with heavy duty <1>FIREPOWER</1>! Consumes <1>MAGIC</1>.",
     "StartAddress": 386616,
     "EndAddress": 386694,
     "MaxLength": 79
   },
   {
-    "Text": "保护身体<1>围绕的球</1>！会消耗<1>魔法值</1>。",
+    "Text": "环绕着保护你的<1>球</1>！会消耗<1>魔法值</1>。",
     "OriginalText": "An <1>ORBITING BALL</1> protects your bod! Consumes <1>MAGIC</1>.",
     "StartAddress": 386696,
     "EndAddress": 386758,
     "MaxLength": 63
   },
   {
-    "Text": "三个<1>钢铁球</1>围绕着身体！会消耗<1>魔法值</1>。",
+    "Text": "环绕着你的三个<1>铁球</1>！会消耗<1>魔法值</1>。",
     "OriginalText": "Three <1>STEEL BALLS</1> orbit your body! Uses <1>MAGIC</1>.",
     "StartAddress": 386760,
     "EndAddress": 386830,
     "MaxLength": 71
   },
   {
-    "Text": "比之前<1>火球</1>覆盖率更多！会消耗<1>魔法值</1>。",
+    "Text": "比之前<1>火球</1>覆盖面更多！会消耗<1>魔法值</1>。",
     "OriginalText": "Even more <1>FIREBALL</1> coverage than before! Consumes <1>MAGIC</1>.",
     "StartAddress": 386832,
     "EndAddress": 386902,
     "MaxLength": 71
   },
   {
-    "Text": "使用围绕的<1>弯刀</1>神奇力量武装自己！",
+    "Text": "使用环绕<1>弯刀</1>的神奇力量武装自己！",
     "OriginalText": "Arm yourself with the mystical power of orbiting <1>SCIMITAR</1> blades!",
     "StartAddress": 386904,
     "EndAddress": 386958,
@@ -4277,77 +4277,77 @@
     "MaxLength": 39
   },
   {
-    "Text": "使用完全的无敌性摆脱敌人攻击！",
+    "Text": "完全无敌，摆脱敌人攻击！",
     "OriginalText": "Shrug off enemy attacks with total invincibility! ",
     "StartAddress": 387000,
     "EndAddress": 387046,
     "MaxLength": 47
   },
   {
-    "Text": "发射会反弹的抛体用异常角度打击敌人！啵嘤！",
+    "Text": "发射弹力球，从刁钻的角度打击敌人！啵嘤！",
     "OriginalText": "Launch a bouncing projectile to hit foes at awkward angles! Boing!",
     "StartAddress": 387048,
     "EndAddress": 387110,
     "MaxLength": 63
   },
   {
-    "Text": "一次丢两个强力、弹力的球！",
+    "Text": "一次丢两个弹力球！",
     "OriginalText": "Throw two of these powerful, rebounding balls at a time! ",
     "StartAddress": 387112,
     "EndAddress": 387150,
     "MaxLength": 39
   },
   {
-    "Text": "一次丢三个弹力球！敌人无处可逃！",
+    "Text": "一次丢三个弹力球！让敌人无处可逃！",
     "OriginalText": "Throw three bouncing balls! Enemies, there's no escape! ",
     "StartAddress": 387152,
     "EndAddress": 387206,
     "MaxLength": 55
   },
   {
-    "Text": "发射自动寻找目标的致死性抛体！",
+    "Text": "发射自动追踪目标的致命火箭！",
     "OriginalText": "Fire deadly projectiles that seek out targets on their own! ",
     "StartAddress": 387208,
     "EndAddress": 387254,
     "MaxLength": 47
   },
   {
-    "Text": "增加这寻热武器的数量、速度、以及损伤力！",
+    "Text": "增加这热导武器的数量、速度、和伤害！",
     "OriginalText": "Increase the number, speed, and damage of these heat-seeking beauties!",
     "StartAddress": 387256,
     "EndAddress": 387318,
     "MaxLength": 63
   },
   {
-    "Text": "使用火箭尽可能多的速度和损害！",
+    "Text": "最大化火箭的速度和伤害！",
     "OriginalText": "Max out your rockets with top tier speed and damage!",
     "StartAddress": 387320,
     "EndAddress": 387366,
     "MaxLength": 47
   },
   {
-    "Text": "丢出会回归的木头抛体！",
+    "Text": "丢出会飞回的木头飞镖！",
     "OriginalText": "Cast a wooden projectile that always comes back!",
     "StartAddress": 387368,
     "EndAddress": 387406,
     "MaxLength": 39
   },
   {
-    "Text": "一次广泛地丢出两个回飞棒。",
+    "Text": "一次丢出两个回力镖。",
     "OriginalText": "Cast two Boomerangs at a time, in a wide array.",
     "StartAddress": 387408,
     "EndAddress": 387446,
     "MaxLength": 39
   },
   {
-    "Text": "三倍娱乐！扫出一片回飞棒把敌人切成碎片！",
+    "Text": "三倍快乐！掷出一堆回力镖把敌人切成碎片！",
     "OriginalText": "Triple the fun! Cast a sweep of Boomerangs and slice your foes to bits!",
     "StartAddress": 387448,
     "EndAddress": 387510,
     "MaxLength": 63
   },
   {
-    "Text": "是否想扭曲到%s?",
+    "Text": "是否想传送到%s?",
     "OriginalText": "Would you like to warp to %s?",
     "StartAddress": 387512,
     "EndAddress": 387534,
@@ -4389,7 +4389,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "瑞士起靴子",
+    "Text": "靴子险险",
     "OriginalText": "RISKY BOOTS",
     "StartAddress": 387688,
     "EndAddress": 387702,
@@ -4403,35 +4403,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "莲花赛莲",
+    "Text": "莲花海妖",
     "OriginalText": "WATER LILY SIREN",
     "StartAddress": 387720,
     "EndAddress": 387734,
     "MaxLength": 15
   },
   {
-    "Text": "晒太阳之海藻",
+    "Text": "晒太阳的海藻",
     "OriginalText": "Sunbathing Seaweed",
     "StartAddress": 387736,
     "EndAddress": 387758,
     "MaxLength": 23
   },
   {
-    "Text": "管虫赛莲",
+    "Text": "管虫海妖",
     "OriginalText": "TUBEWORM SIREN",
     "StartAddress": 387760,
     "EndAddress": 387774,
     "MaxLength": 15
   },
   {
-    "Text": "爱宠寄生物公主",
+    "Text": "寄生挑逗公主",
     "OriginalText": "Parasite Petting Princess",
     "StartAddress": 387776,
     "EndAddress": 387798,
     "MaxLength": 23
   },
   {
-    "Text": "八脚赛莲",
+    "Text": "八脚海妖",
     "OriginalText": "OCTO SIREN",
     "StartAddress": 387800,
     "EndAddress": 387814,
@@ -4445,21 +4445,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "珊瑚赛莲",
+    "Text": "珊瑚海妖",
     "OriginalText": "CORAL SIREN",
     "StartAddress": 387832,
     "EndAddress": 387846,
     "MaxLength": 15
   },
   {
-    "Text": "专家钻者",
+    "Text": "钻透一切",
     "OriginalText": "Drills to the Gills ",
     "StartAddress": 387848,
     "EndAddress": 387862,
     "MaxLength": 15
   },
   {
-    "Text": "𩽾𩾌目赛莲",
+    "Text": "𩽾𩾌目海妖",
     "OriginalText": "ANGLER FISH SIREN",
     "StartAddress": 387864,
     "EndAddress": 387886,
@@ -4473,35 +4473,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "皇后赛莲",
+    "Text": "皇后海妖",
     "OriginalText": "EMPRESS SIREN",
     "StartAddress": 387904,
     "EndAddress": 387918,
     "MaxLength": 15
   },
   {
-    "Text": "七赛莲之女王",
+    "Text": "七海妖之女王",
     "OriginalText": "The Seventh Siren",
     "StartAddress": 387920,
     "EndAddress": 387942,
     "MaxLength": 23
   },
   {
-    "Text": "皇后赛莲",
+    "Text": "皇后海妖",
     "OriginalText": "ULTRA EMPRESS SIREN",
     "StartAddress": 387944,
     "EndAddress": 387958,
     "MaxLength": 15
   },
   {
-    "Text": "七赛莲之女王",
+    "Text": "七海妖之女王",
     "OriginalText": "Queen of the Seven Sirens",
     "StartAddress": 387960,
     "EndAddress": 387982,
     "MaxLength": 23
   },
   {
-    "Text": "瑞士起靴子！",
+    "Text": "靴子险险！",
     "OriginalText": "Risky Boots!",
     "StartAddress": 387984,
     "EndAddress": 388006,
@@ -4515,14 +4515,14 @@
     "MaxLength": 7
   },
   {
-    "Text": "场馆村",
+    "Text": "场馆镇",
     "OriginalText": "Arena Town",
     "StartAddress": 388016,
     "EndAddress": 388030,
     "MaxLength": 15
   },
   {
-    "Text": "护甲村",
+    "Text": "护甲镇",
     "OriginalText": "Armor Town",
     "StartAddress": 388032,
     "EndAddress": 388046,
@@ -4564,7 +4564,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "服务地区",
+    "Text": "服务区",
     "OriginalText": "Service Area",
     "StartAddress": 388136,
     "EndAddress": 388150,
@@ -4578,7 +4578,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "莲花窝",
+    "Text": "莲花洞",
     "OriginalText": "Water Lily's Den",
     "StartAddress": 388168,
     "EndAddress": 388182,
@@ -4592,7 +4592,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "海底热泉实验室",
+    "Text": "海底排气实验室",
     "OriginalText": "Sea Vent Lab",
     "StartAddress": 388200,
     "EndAddress": 388222,
@@ -4613,7 +4613,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "飞行堡",
+    "Text": "飞行堡垒",
     "OriginalText": "Flying Fortress",
     "StartAddress": 388248,
     "EndAddress": 388262,
@@ -4634,21 +4634,21 @@
     "MaxLength": 7
   },
   {
-    "Text": "树村",
+    "Text": "树镇",
     "OriginalText": "Tree Town",
     "StartAddress": 388280,
     "EndAddress": 388286,
     "MaxLength": 7
   },
   {
-    "Text": "第一段完成！",
+    "Text": "第一部分完成！",
     "OriginalText": "Part 1 Complete!",
     "StartAddress": 388288,
     "EndAddress": 388310,
     "MaxLength": 23
   },
   {
-    "Text": "树村",
+    "Text": "树镇",
     "OriginalText": "Tree Town",
     "StartAddress": 388312,
     "EndAddress": 388318,
@@ -4725,7 +4725,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "舞台上的困难",
+    "Text": "舞台上的麻烦",
     "OriginalText": "Trouble on Stage",
     "StartAddress": 388544,
     "EndAddress": 388566,
@@ -4739,35 +4739,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "莲花赛莲",
+    "Text": "莲花海妖",
     "OriginalText": "Water Lily Siren",
     "StartAddress": 388584,
     "EndAddress": 388598,
     "MaxLength": 15
   },
   {
-    "Text": "珊瑚赛莲",
+    "Text": "珊瑚海妖",
     "OriginalText": "Coral Siren",
     "StartAddress": 388600,
     "EndAddress": 388614,
     "MaxLength": 15
   },
   {
-    "Text": "管虫赛莲",
+    "Text": "管虫海妖",
     "OriginalText": "Tubeworm Siren",
     "StartAddress": 388616,
     "EndAddress": 388630,
     "MaxLength": 15
   },
   {
-    "Text": "𩽾𩾌鱼赛莲",
+    "Text": "𩽾𩾌鱼海妖",
     "OriginalText": "Angler Fish Siren",
     "StartAddress": 388632,
     "EndAddress": 388654,
     "MaxLength": 23
   },
   {
-    "Text": "八脚赛莲",
+    "Text": "八脚海妖",
     "OriginalText": "Octo Siren",
     "StartAddress": 388656,
     "EndAddress": 388670,
@@ -4809,14 +4809,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "控制器断线了。",
+    "Text": "手柄断线了。",
     "OriginalText": "Controller has been disconnected.",
     "StartAddress": 388744,
     "EndAddress": 388766,
     "MaxLength": 23
   },
   {
-    "Text": "请重新连线控制器。",
+    "Text": "请重新连线手柄。",
     "OriginalText": "Please re-connect the controller.",
     "StartAddress": 388768,
     "EndAddress": 388798,
@@ -4830,21 +4830,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "扭曲回场馆村？",
+    "Text": "传送回场馆镇？",
     "OriginalText": "Warp back to Arena Town?",
     "StartAddress": 388816,
     "EndAddress": 388838,
     "MaxLength": 23
   },
   {
-    "Text": "砸破在护甲村等着获取一个向这样的项目！",
+    "Text": "匝魄正在护甲镇等着这类东西！",
     "OriginalText": "Zapple is waiting in Armor Town for one of these!",
     "StartAddress": 388840,
     "EndAddress": 388902,
     "MaxLength": 63
   },
   {
-    "Text": "哈莫尼正在找这种东西！",
+    "Text": "哈莫尼正在找这类东西！",
     "OriginalText": "Harmony was looking for one of these!",
     "StartAddress": 388904,
     "EndAddress": 388942,
@@ -4865,21 +4865,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "导引火箭一",
+    "Text": "制导火箭一",
     "OriginalText": "Homing Rocket 1",
     "StartAddress": 388976,
     "EndAddress": 388990,
     "MaxLength": 15
   },
   {
-    "Text": "导引火箭二",
+    "Text": "制导火箭二",
     "OriginalText": "Homing Rocket 2",
     "StartAddress": 388992,
     "EndAddress": 389006,
     "MaxLength": 15
   },
   {
-    "Text": "导引火箭三",
+    "Text": "制导火箭三",
     "OriginalText": "Homing Rocket 3",
     "StartAddress": 389008,
     "EndAddress": 389022,
@@ -4900,28 +4900,28 @@
     "MaxLength": 15
   },
   {
-    "Text": "双倍回飞棒",
+    "Text": "双倍回力镖",
     "OriginalText": "Double Boomerang",
     "StartAddress": 389056,
     "EndAddress": 389070,
     "MaxLength": 15
   },
   {
-    "Text": "三倍回飞棒",
+    "Text": "三倍回力镖",
     "OriginalText": "Triple Boomerang",
     "StartAddress": 389072,
     "EndAddress": 389086,
     "MaxLength": 15
   },
   {
-    "Text": "极大吸引",
+    "Text": "最大吸引",
     "OriginalText": "Max Attract",
     "StartAddress": 389088,
     "EndAddress": 389102,
     "MaxLength": 15
   },
   {
-    "Text": "魔法值拯救",
+    "Text": "魔法节省器",
     "OriginalText": "MP Saver",
     "StartAddress": 389104,
     "EndAddress": 389118,
@@ -4942,7 +4942,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "在新游戏中完成游戏。",
+    "Text": "在新游戏+中完成游戏。",
     "OriginalText": "Complete the game in new game plus.",
     "StartAddress": 389144,
     "EndAddress": 389174,
@@ -4956,7 +4956,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "奖励图片-新游戏加！",
+    "Text": "奖励图片 - 新游戏+！",
     "OriginalText": "Bonus image - New Game Plus!",
     "StartAddress": 389208,
     "EndAddress": 389238,
