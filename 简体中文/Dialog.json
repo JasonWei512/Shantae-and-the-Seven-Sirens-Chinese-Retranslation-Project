@@ -2191,14 +2191,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "女孩子不应该就在一满场观众前消失！",
+    "Text": "女孩们不会在观众众目睽睽前凭空消失！",
     "OriginalText": "Girls don't just vanish in full view of an entire audience!",
     "StartAddress": 3857504,
     "EndAddress": 3857558,
     "MaxLength": 55
   },
   {
-    "Text": "这给岛屿隐藏着秘密。",
+    "Text": "这个岛屿隐藏着秘密。",
     "OriginalText": "This island is hiding a <1>SECRET</1>.",
     "StartAddress": 3857560,
     "EndAddress": 3857590,
