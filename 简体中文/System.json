@@ -2772,7 +2772,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "冲刺水蜥",
+    "Text": "快冲水蜥",
     "OriginalText": "Dash Newt",
     "StartAddress": 380936,
     "EndAddress": 380950,
@@ -3514,7 +3514,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "作为水蜥肆无忌惮地冲上墙壁！",
+    "Text": "作为水蜥肆无忌惮地攀上墙壁！",
     "OriginalText": "Zip up walls with reckless abandon as the Newt!",
     "StartAddress": 383640,
     "EndAddress": 383686,

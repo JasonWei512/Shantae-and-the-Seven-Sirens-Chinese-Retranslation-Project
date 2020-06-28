@@ -2030,14 +2030,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "让官员去解决！",
+    "Text": "让官方去解决！",
     "OriginalText": "Let the authorities handle this! ",
     "StartAddress": 3856632,
     "EndAddress": 3856654,
     "MaxLength": 23
   },
   {
-    "Text": "（赌气……喘气）",
+    "Text": "（气呼呼）",
     "OriginalText": "(steam... huff...)",
     "StartAddress": 3856656,
     "EndAddress": 3856686,
@@ -2051,28 +2051,28 @@
     "MaxLength": 39
   },
   {
-    "Text": "是为了你个人的安全！",
+    "Text": "这是为了你的安全！",
     "OriginalText": "It's for your own safety!",
     "StartAddress": 3856728,
     "EndAddress": 3856758,
     "MaxLength": 31
   },
   {
-    "Text": "你能想象你若是唯一被留下来的人吗？",
+    "Text": "你能想象孤身一人的感觉吗？",
     "OriginalText": "Can you imagine what it’s like being the only one left behind? ",
     "StartAddress": 3856760,
     "EndAddress": 3856814,
     "MaxLength": 55
   },
   {
-    "Text": "我不能躲在里头什么都不做啊！",
+    "Text": "我不能躲在屋里什么都不做啊！",
     "OriginalText": "I can’t hide indoors and do nothing!",
     "StartAddress": 3856816,
     "EndAddress": 3856862,
     "MaxLength": 47
   },
   {
-    "Text": "合理一点啦！",
+    "Text": "讲点道理！",
     "OriginalText": "Be reasonable!",
     "StartAddress": 3856864,
     "EndAddress": 3856886,
@@ -2128,7 +2128,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "好吧！管你怎么做！",
+    "Text": "好吧！随你怎么做！",
     "OriginalText": "Fine! Be that way!!",
     "StartAddress": 3857112,
     "EndAddress": 3857190,
@@ -2142,35 +2142,35 @@
     "MaxLength": 31
   },
   {
-    "Text": "而跟何况别说到叔叔和天天！",
+    "Text": "更别提叔叔和天天了！",
     "OriginalText": "And don't get me started about Uncle and Sky!",
     "StartAddress": 3857224,
     "EndAddress": 3857262,
     "MaxLength": 39
   },
   {
-    "Text": "甚至波罗也跟他们一国！",
+    "Text": "甚至波罗也跟他们一伙！",
     "OriginalText": "Even Bolo is on their side!",
     "StartAddress": 3857264,
     "EndAddress": 3857302,
     "MaxLength": 39
   },
   {
-    "Text": "我怎么可能安静的等着让市长去观察呢？",
+    "Text": "我怎么可能就这么等着让市长去调查呢？",
     "OriginalText": "How can I just lie low while the Mayor looks into this?",
     "StartAddress": 3857304,
     "EndAddress": 3857358,
     "MaxLength": 55
   },
   {
-    "Text": "我也许不是这岛屿的<1>守护精灵</1>……",
+    "Text": "我也许不是这个岛屿的<1>守护精灵</1>……",
     "OriginalText": "I may not be the <1>GUARDIAN GENIE</1> of this island...",
     "StartAddress": 3857360,
     "EndAddress": 3857414,
     "MaxLength": 55
   },
   {
-    "Text": "……但我是剩下最后一个！",
+    "Text": "……但我是剩下的最后一个！",
     "OriginalText": "...But I'm the only one left!",
     "StartAddress": 3857416,
     "EndAddress": 3857454,
@@ -2184,7 +2184,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "我不管其他人怎么解释！",
+    "Text": "我不管其他人怎么说！",
     "OriginalText": "I don’t care what anyone says!",
     "StartAddress": 3857464,
     "EndAddress": 3857502,
@@ -2198,14 +2198,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "这岛屿在藏个秘密。",
+    "Text": "这给岛屿隐藏着秘密。",
     "OriginalText": "This island is hiding a <1>SECRET</1>.",
     "StartAddress": 3857560,
     "EndAddress": 3857590,
     "MaxLength": 31
   },
   {
-    "Text": "...然后我会查出到最低！",
+    "Text": "...然后我会把它查个水落石出！",
     "OriginalText": "...And I'm going to get to the <1>VERY BOTTOM</1> of it!",
     "StartAddress": 3857592,
     "EndAddress": 3857646,
@@ -2226,14 +2226,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "我也该问你一样问题！",
+    "Text": "我也想问一样的问题！",
     "OriginalText": "I might ask you the same question!",
     "StartAddress": 3857696,
     "EndAddress": 3857726,
     "MaxLength": 31
   },
   {
-    "Text": "没有在找麻烦，我希望？",
+    "Text": "没有惹麻烦吧，我希望？",
     "OriginalText": "You're staying out of trouble, I hope?",
     "StartAddress": 3857728,
     "EndAddress": 3857766,
@@ -2247,14 +2247,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "啊，我想，我们反正卡在这里一会儿……",
+    "Text": "啊，我想我们反正被困了有一会儿了……",
     "OriginalText": "Well, I figured since we're stuck here for a while...",
     "StartAddress": 3857792,
     "EndAddress": 3857846,
     "MaxLength": 55
   },
   {
-    "Text": "为何不想受一下沉没城市游览呢？",
+    "Text": "为何不享受一下沉没城市游览呢？",
     "OriginalText": "Why not enjoy the Sunken City tour?",
     "StartAddress": 3857848,
     "EndAddress": 3857894,
@@ -2268,14 +2268,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "真可惜那么大一部分都被封闭掉了。",
+    "Text": "真可惜那么大一部分都被封住了。",
     "OriginalText": "It’s a shame that so much of it is sealed off!",
     "StartAddress": 3857936,
     "EndAddress": 3857990,
     "MaxLength": 55
   },
   {
-    "Text": "但我想到底还是安全为主。",
+    "Text": "但我想到底还是安全第一。",
     "OriginalText": "But I suppose safety must come first, after all. ",
     "StartAddress": 3857992,
     "EndAddress": 3858030,
@@ -2303,7 +2303,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "塌方吗？",
+    "Text": "塌方？",
     "OriginalText": "A cave in?",
     "StartAddress": 3858128,
     "EndAddress": 3858142,
@@ -2317,7 +2317,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "整个城市，就跌在我们头上！",
+    "Text": "整个城市，就塌在我们头上！",
     "OriginalText": "With the entire town, right above us!",
     "StartAddress": 3858152,
     "EndAddress": 3858190,
@@ -2338,14 +2338,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "怎么了，小子？",
+    "Text": "这都是什么情况？",
     "OriginalText": "Now what is all this now?",
     "StartAddress": 3858256,
     "EndAddress": 3858294,
     "MaxLength": 39
   },
   {
-    "Text": "哎哟，我大概撞伤了我屁股。",
+    "Text": "哎哟，我想我撞伤了我的屁股。",
     "OriginalText": "Ooof, I think I bruised my bum.",
     "StartAddress": 3858296,
     "EndAddress": 3858350,
@@ -2394,21 +2394,21 @@
     "MaxLength": 47
   },
   {
-    "Text": "比游览海深的！",
+    "Text": "比游览区还深！",
     "OriginalText": "Even deeper down than the tour!",
     "StartAddress": 3858552,
     "EndAddress": 3858574,
     "MaxLength": 23
   },
   {
-    "Text": "险险一定就使用了这些隧道把半精灵拐走！",
+    "Text": "险险一定就是用了这些隧道把半精灵拐走！",
     "OriginalText": "Risky must've used these tunnels to spirit the Half-Genies away!",
     "StartAddress": 3858576,
     "EndAddress": 3858638,
     "MaxLength": 63
   },
   {
-    "Text": "我得到处找暗示！",
+    "Text": "我得到处寻找线索！",
     "OriginalText": "I’d better search high and low for clues!",
     "StartAddress": 3858640,
     "EndAddress": 3858718,
@@ -2464,7 +2464,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "啊…",
+    "Text": "嘿…",
     "OriginalText": "Heh...",
     "StartAddress": 3858976,
     "EndAddress": 3858982,
@@ -2478,14 +2478,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "你也活不够久去打扰我的计划呢！",
+    "Text": "你也活不到干扰我的计划的那天了！",
     "OriginalText": "You won't live long enough to interfere with my plans!",
     "StartAddress": 3859008,
     "EndAddress": 3859078,
     "MaxLength": 71
   },
   {
-    "Text": "停住！",
+    "Text": "停！",
     "OriginalText": "Stop!",
     "StartAddress": 3859080,
     "EndAddress": 3859094,
@@ -2534,14 +2534,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "谁把你弄曾这样？",
+    "Text": "谁对你做了这些？",
     "OriginalText": "Who did this to you?",
     "StartAddress": 3859280,
     "EndAddress": 3859310,
     "MaxLength": 31
   },
   {
-    "Text": "你怎么来到这里呢？",
+    "Text": "你是怎么来到这里的？",
     "OriginalText": "How did you get down here?",
     "StartAddress": 3859312,
     "EndAddress": 3859342,
@@ -2562,7 +2562,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "哈？",
+    "Text": "嗯？",
     "OriginalText": "Huh?",
     "StartAddress": 3859384,
     "EndAddress": 3859390,
@@ -2583,7 +2583,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "哎呀，你感觉还好吗？",
+    "Text": "天哪，你感觉还好吗？",
     "OriginalText": "Gosh, are you feeling alright?",
     "StartAddress": 3859432,
     "EndAddress": 3859462,
@@ -2618,7 +2618,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "不管笼子啦...",
+    "Text": "不管笼子了...",
     "OriginalText": "Nevermind the cage... ",
     "StartAddress": 3859576,
     "EndAddress": 3859598,
@@ -2653,7 +2653,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "它会让你<1>马上变形</1>成新的形式！",
+    "Text": "它会让你<1>瞬间变形</1>成新的型态！",
     "OriginalText": "It will allow you to <1>TRANSFORM INSTANTLY</1> into a new form!",
     "StartAddress": 3859712,
     "EndAddress": 3859766,
@@ -2681,14 +2681,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "也许你就能使用它的能力去找出这地方<1>邪恶来源</1>！",
+    "Text": "也许你能使用它的能力去找出这地方的<1>邪恶之源</1>！",
     "OriginalText": "Using its abilities, you may be able to locate the <1>SOURCE OF EVIL</1> in this place!",
     "StartAddress": 3859888,
     "EndAddress": 3859966,
     "MaxLength": 79
   },
   {
-    "Text": "就交给我吧！",
+    "Text": "交给我吧！",
     "OriginalText": "Leave it to me!",
     "StartAddress": 3859968,
     "EndAddress": 3859990,
@@ -2709,7 +2709,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "若<1>快冲进墙壁</1>，可以粘住！",
+    "Text": "若<1>朝墙壁快冲</1>，可以粘住它！",
     "OriginalText": " If you <1>DASH INTO A WALL</1>, you can stick to it!",
     "StartAddress": 3860080,
     "EndAddress": 3860126,
@@ -2723,28 +2723,28 @@
     "MaxLength": 15
   },
   {
-    "Text": "点按 <I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来快冲！若快冲进墙壁，可以粘住！试试看！",
+    "Text": "点按 <I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来快冲！若朝墙壁快冲，可以粘住它！试试看！",
     "OriginalText": "Tap the  <I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> to <1>DASH</1>! If you <1>DASH INTO A WALL</1>, you can stick to it! Give it a shot!",
     "StartAddress": 3860144,
     "EndAddress": 3860342,
     "MaxLength": 199
   },
   {
-    "Text": "按 <IB action=Dash /><1>快冲</1>。在快冲中，甚至也可以<1>粘住墙壁</1>!",
+    "Text": "按 <IB action=Dash /><1>快冲</1>。在快冲时，甚至可以<1>粘住墙壁</1>!",
     "OriginalText": "Press <IB action=Dash /> to <1>DASH</1>. While dashing, you can even <1>STICK TO WALLS</1>!",
     "StartAddress": 3860344,
     "EndAddress": 3860438,
     "MaxLength": 95
   },
   {
-    "Text": "点按<I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来快冲！若快冲进墙壁，也可以粘住！试试看！",
+    "Text": "点按<I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来快冲！若朝墙壁快冲，可以粘住它！试试看！",
     "OriginalText": "Tap the  <I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> to <1>DASH</1>! If you <1>DASH INTO A WALL</1>, you can stick to it! Give it a shot!",
     "StartAddress": 3860440,
     "EndAddress": 3860630,
     "MaxLength": 191
   },
   {
-    "Text": "岛屿官员交代你要保持安全！",
+    "Text": "岛屿官方交代你要保持安全！",
     "OriginalText": "The island officials told you to stay safe!",
     "StartAddress": 3860632,
     "EndAddress": 3860670,
@@ -2779,7 +2779,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "哇，你讲那<1>水蜥</1>魔法真是对的！",
+    "Text": "哇，你关于<1>水蜥</1>魔法的说法是对的！",
     "OriginalText": "Boy, you sure were right about that <1>NEWT</1> magic!",
     "StartAddress": 3860808,
     "EndAddress": 3860862,
@@ -2821,14 +2821,14 @@
     "MaxLength": 7
   },
   {
-    "Text": "啊？",
+    "Text": "嗯？",
     "OriginalText": "Huh?",
     "StartAddress": 3861016,
     "EndAddress": 3861022,
     "MaxLength": 7
   },
   {
-    "Text": "什么事啊？",
+    "Text": "怎么了？",
     "OriginalText": "What is it?",
     "StartAddress": 3861024,
     "EndAddress": 3861038,
@@ -2856,7 +2856,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "结合我们魔法？",
+    "Text": "结合魔法？",
     "OriginalText": "Combine our magic?",
     "StartAddress": 3861144,
     "EndAddress": 3861166,
@@ -2898,21 +2898,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "融合石就来自我们这里岛屿。",
+    "Text": "融合石就来自这个岛屿。",
     "OriginalText": "Fusion Stones come from right here on the island.",
     "StartAddress": 3861280,
     "EndAddress": 3861318,
     "MaxLength": 39
   },
   {
-    "Text": "就那么一点，像拿块硬币里的，给了你水蜥的能力。",
+    "Text": "就那么一点，像那块硬币里的，给了你水蜥的能力。",
     "OriginalText": "A tiny amount, like what's in that coin, gave you the abilities of a newt.",
     "StartAddress": 3861320,
     "EndAddress": 3861390,
     "MaxLength": 71
   },
   {
-    "Text": "但假如我们有<1>一整块融合币</1>…",
+    "Text": "但假如我们有<1>一整块融合石</1>…",
     "OriginalText": "But if we had an <1>ENTIRE FUSION STONE</1>...",
     "StartAddress": 3861392,
     "EndAddress": 3861438,
@@ -2940,7 +2940,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "你不能就这样把你所有魔法给掉！",
+    "Text": "你不能就这样把你的魔法给我！",
     "OriginalText": "You can't just give your magic away!",
     "StartAddress": 3861528,
     "EndAddress": 3861574,
@@ -2961,7 +2961,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "我们就能把魔法合并成巨大…",
+    "Text": "我们把所有魔法融合成巨大…",
     "OriginalText": "We'll merge our magic into one big...",
     "StartAddress": 3861624,
     "EndAddress": 3861662,
@@ -2982,14 +2982,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "我们就能把这些妖怪毁灭掉…",
+    "Text": "我们把这些妖怪消灭掉…",
     "OriginalText": "We'll trash these monsters...",
     "StartAddress": 3861720,
     "EndAddress": 3861758,
     "MaxLength": 39
   },
   {
-    "Text": "...找出我们朋友…",
+    "Text": "...找出我们的朋友…",
     "OriginalText": "...Find our friends...",
     "StartAddress": 3861760,
     "EndAddress": 3861790,
@@ -3024,7 +3024,7 @@
     "MaxLength": 71
   },
   {
-    "Text": "记得哦，若你忘了接下去怎么走……",
+    "Text": "还有记住，如果你忘了接下去该去哪……",
     "OriginalText": "And remember... if you ever forget where to go next...",
     "StartAddress": 3861952,
     "EndAddress": 3862006,
@@ -3045,7 +3045,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "波罗！你怎么跑来这里呢？",
+    "Text": "波罗！你在这做什么呢？",
     "OriginalText": "Bolo! What are you doing all the way up here?",
     "StartAddress": 3862104,
     "EndAddress": 3862142,
@@ -3080,7 +3080,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "我们拿到这个地方！",
+    "Text": "拿到了这个！",
     "OriginalText": "We got this place!",
     "StartAddress": 3862264,
     "EndAddress": 3862294,
@@ -3094,35 +3094,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "真烂！",
+    "Text": "超烂！",
     "OriginalText": "It stinks!",
     "StartAddress": 3862312,
     "EndAddress": 3862326,
     "MaxLength": 15
   },
   {
-    "Text": "你知道你们游泳池里有什么？",
+    "Text": "你知道你们游泳池里游什么？",
     "OriginalText": "You know what swims in your pool?",
     "StartAddress": 3862328,
     "EndAddress": 3862366,
     "MaxLength": 39
   },
   {
-    "Text": "小姐！",
+    "Text": "小姐姐！",
     "OriginalText": "Ladies!",
     "StartAddress": 3862368,
     "EndAddress": 3862382,
     "MaxLength": 15
   },
   {
-    "Text": "你知道这里的游泳池有什么？",
+    "Text": "你知道这里游泳池里游什么？",
     "OriginalText": "You know what swims in the pool over here?",
     "StartAddress": 3862384,
     "EndAddress": 3862422,
     "MaxLength": 39
   },
   {
-    "Text": "小姐？",
+    "Text": "小姐姐？",
     "OriginalText": "Ladies?",
     "StartAddress": 3862424,
     "EndAddress": 3862438,
@@ -3143,14 +3143,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "水又浓又闻起来像芥末！",
+    "Text": "水又浑又闻起来像芥末！",
     "OriginalText": "The water is thick and smells like mustard!",
     "StartAddress": 3862512,
     "EndAddress": 3862550,
     "MaxLength": 39
   },
   {
-    "Text": "我刚去泡一泡，而出来后脚上就粘了个东西！",
+    "Text": "我刚去泡了泡，出来后发现脚上就粘了个东西！",
     "OriginalText": "I went for a dip, and when I got out there was a thing on my foot!",
     "StartAddress": 3862552,
     "EndAddress": 3862614,
@@ -3164,14 +3164,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "小姐好！",
+    "Text": "小姐您好！",
     "OriginalText": "Hello young miss!",
     "StartAddress": 3862664,
     "EndAddress": 3862678,
     "MaxLength": 15
   },
   {
-    "Text": "让我自我介绍。",
+    "Text": "自我介绍一下。",
     "OriginalText": "Allow me to introduce myself!",
     "StartAddress": 3862680,
     "EndAddress": 3862702,
@@ -3185,28 +3185,28 @@
     "MaxLength": 31
   },
   {
-    "Text": "我的任务是和我其他人员研究这岛屿的历史。",
+    "Text": "我的任务是和我的团队研究这岛屿的历史。",
     "OriginalText": "My mission is to study the history of this island with my crew.",
     "StartAddress": 3862736,
     "EndAddress": 3862798,
     "MaxLength": 63
   },
   {
-    "Text": "我们的船，<1>铁鱼</1>,是个深水<1>潜水器</1>。",
+    "Text": "我们的船，<1>铁鱼</1>，是个深海<1>潜水器</1>。",
     "OriginalText": "Our vessel, the <1>METAL FISH</1>, is a deep sea <1>SUBMERSIBLE</1>.",
     "StartAddress": 3862800,
     "EndAddress": 3862862,
     "MaxLength": 63
   },
   {
-    "Text": "它在岛屿东岸某个壕附近靠岸。",
+    "Text": "它在岛屿东岸某个海沟附近靠岸。",
     "OriginalText": "It's docked near a trench off the island's East side.",
     "StartAddress": 3862864,
     "EndAddress": 3862910,
     "MaxLength": 47
   },
   {
-    "Text": "我想学会沉没城市的<1>奥秘来源</1>！",
+    "Text": "我想了解沉没城市的<1>起源之谜</1>！",
     "OriginalText": "I want to learn the <1>SECRET ORIGINS</1> of the Sunken City!",
     "StartAddress": 3862912,
     "EndAddress": 3862966,
@@ -3220,7 +3220,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "为什么沉没？",
+    "Text": "为何沉没？",
     "OriginalText": "What made it sink?",
     "StartAddress": 3863000,
     "EndAddress": 3863022,
@@ -3234,7 +3234,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "<1>还能够有生物吗</1>？!",
+    "Text": "<1>它还栖息着生物吗</1>？!",
     "OriginalText": "<1>COULD IT STILL CONTAIN LIFE</1>?!",
     "StartAddress": 3863048,
     "EndAddress": 3863086,
@@ -3248,7 +3248,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "一只来自岛屿<1>西边</1>的高度粪凼…",
+    "Text": "一只来自岛屿<1>西边</1>高处的污水池…",
     "OriginalText": "One from the high elevation cesspools on the island's <1>WEST SIDE</1>...",
     "StartAddress": 3863152,
     "EndAddress": 3863206,
@@ -3262,14 +3262,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "你不用问我，我懂的分别东和西！",
+    "Text": "你不用问我，我懂的分辩东和西！",
     "OriginalText": "And before you ask, I do know my East from my West!",
     "StartAddress": 3863264,
     "EndAddress": 3863310,
     "MaxLength": 47
   },
   {
-    "Text": "若你能找出<1>两只节肢动物</1>，请带来给我！",
+    "Text": "如果你能找出<1>两只节肢动物</1>，请带来给我！",
     "OriginalText": "If you find <1>TWO ARTHROPOD LIFE FORMS</1>, please bring them to me!",
     "StartAddress": 3863312,
     "EndAddress": 3863390,
@@ -3283,7 +3283,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "一只来自岛屿<1>西边</1>的高度粪凼…",
+    "Text": "一只来自岛屿<1>西边</1>高处的污水池…",
     "OriginalText": "One from the high elevation cesspools on the island's <1>WEST SIDE</1>...",
     "StartAddress": 3863456,
     "EndAddress": 3863510,
