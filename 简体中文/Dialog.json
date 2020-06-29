@@ -3262,7 +3262,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "你不用问我，我懂的分辩东和西！",
+    "Text": "你不用问我，我分得清东和西！",
     "OriginalText": "And before you ask, I do know my East from my West!",
     "StartAddress": 3863264,
     "EndAddress": 3863310,
@@ -3297,7 +3297,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "若你找到了，带给我！",
+    "Text": "如果你找到了，带给我！",
     "OriginalText": "If you find them, bring them!",
     "StartAddress": 3863568,
     "EndAddress": 3863614,
@@ -3318,7 +3318,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "呸！可是我需要的！",
+    "Text": "擦！可是我需要它们！",
     "OriginalText": "Oh phoo! But I need them!",
     "StartAddress": 3863736,
     "EndAddress": 3863782,
@@ -3332,14 +3332,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "你只有带来一只！",
+    "Text": "你只带来了一只！",
     "OriginalText": "You have brought only one! ",
     "StartAddress": 3863800,
     "EndAddress": 3863830,
     "MaxLength": 31
   },
   {
-    "Text": "有<1>两只</1>之后请再回来！",
+    "Text": "请找到<1>两只</1>之后再回来！",
     "OriginalText": "Please return when you have <1>TWO OF THEM</1>!",
     "StartAddress": 3863832,
     "EndAddress": 3863886,
@@ -3353,49 +3353,49 @@
     "MaxLength": 15
   },
   {
-    "Text": "哇塞！真了不起！",
+    "Text": "老天！难以置信！",
     "OriginalText": "Oh my! This is incredible!",
     "StartAddress": 3863904,
     "EndAddress": 3863934,
     "MaxLength": 31
   },
   {
-    "Text": "怎么可能两只生物来自非常不同的高度...",
+    "Text": "两只来自非常不同的海拔的生物...",
     "OriginalText": "How could two creatures discovered at wildy different elevations...",
     "StartAddress": 3863936,
     "EndAddress": 3863990,
     "MaxLength": 55
   },
   {
-    "Text": "...同时有那么多的相似？",
+    "Text": "...怎么会有那么多相同点？",
     "OriginalText": "...have so many things in common?",
     "StartAddress": 3863992,
     "EndAddress": 3864030,
     "MaxLength": 39
   },
   {
-    "Text": "这提示出也许岛屿过去发生了变局情况！",
+    "Text": "这暗示了这岛屿过去发生过剧烈的变动！",
     "OriginalText": "It suggests that the island itself has suffered a turbulent past!",
     "StartAddress": 3864032,
     "EndAddress": 3864086,
     "MaxLength": 55
   },
   {
-    "Text": "也许是火山活动造成城市被沉没！",
+    "Text": "也许是火山活动造成了城市沉没！",
     "OriginalText": "Perhaps volcanic activity caused the city to sink!",
     "StartAddress": 3864088,
     "EndAddress": 3864134,
     "MaxLength": 47
   },
   {
-    "Text": "然后因此，这岛屿就被奇怪的石头撒过去…",
+    "Text": "然后因此，从地底喷出的奇异石头…",
     "OriginalText": "And as a result, the island was showered by strange rocks...",
     "StartAddress": 3864136,
     "EndAddress": 3864198,
     "MaxLength": 63
   },
   {
-    "Text": "...从地球深深的中心喷出来！",
+    "Text": "...像雨一样落在了岛屿上！",
     "OriginalText": "...which were belched skyward from deep within the belly of the Earth!",
     "StartAddress": 3864200,
     "EndAddress": 3864238,
@@ -3409,14 +3409,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "你干脆把那留住吧。",
+    "Text": "你留着那个吧。",
     "OriginalText": "You can go ahead and keep that.",
     "StartAddress": 3864272,
     "EndAddress": 3864302,
     "MaxLength": 31
   },
   {
-    "Text": "谢谢你给我研究的帮组！",
+    "Text": "谢谢你对我研究的帮助！",
     "OriginalText": "Thank you for helping me with my research!",
     "StartAddress": 3864304,
     "EndAddress": 3864342,
@@ -3437,21 +3437,21 @@
     "MaxLength": 55
   },
   {
-    "Text": "垃圾桶里什么都没有，出了橘子皮和口香糖。",
+    "Text": "垃圾桶里什么都没有，除了橘子皮和口香糖。",
     "OriginalText": "Nothing left in the trashcan but orange peels and gum.",
     "StartAddress": 3864456,
     "EndAddress": 3864534,
     "MaxLength": 79
   },
   {
-    "Text": "你若遇到医生，给他看那<1>垃圾桶检出的东西</1>!",
+    "Text": "你如果遇到医生，给他看<1>从垃圾桶捡出的东西</1>!",
     "OriginalText": "If you happen to see a doctor, show them that <1>THING FROM THE TRASHCAN</1>!",
     "StartAddress": 3864536,
     "EndAddress": 3864606,
     "MaxLength": 71
   },
   {
-    "Text": "希望我不会变成一个大脉动脓包！",
+    "Text": "希望我不会变成一个跳动的大脓包！",
     "OriginalText": "Hope I don't turn into a gigantic, throbbing pustule!",
     "StartAddress": 3864608,
     "EndAddress": 3864678,
@@ -3465,14 +3465,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "有找出了<1>融合石</1>吗？",
+    "Text": "找到<1>融合石</1>了吗？",
     "OriginalText": "Any luck finding a <1>FUSION STONE</1>?",
     "StartAddress": 3864696,
     "EndAddress": 3864734,
     "MaxLength": 39
   },
   {
-    "Text": "有了它，我们就能<1>结合我们魔法</1>而救出哈莫尼和其他人！",
+    "Text": "有了它，我们就能<1>结合我们的魔法</1>，救出哈莫尼和其他人！",
     "OriginalText": "With it, we'll be able to <1>COMBINE OUR MAGIC</1> and save Harmony and the others!",
     "StartAddress": 3864736,
     "EndAddress": 3864838,
@@ -3486,7 +3486,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "有了它，我们就能<1>结合我们魔法</1>而救出哈莫尼和其他人！",
+    "Text": "有了它，我们就能<1>结合我们的魔法</1>，救出哈莫尼和其他人！",
     "OriginalText": "With it, we'll be able to <1>COMBINE OUR MAGIC</1> and save Harmony and the others!",
     "StartAddress": 3864872,
     "EndAddress": 3864974,
@@ -3507,35 +3507,35 @@
     "MaxLength": 39
   },
   {
-    "Text": "我们刚好就需要这个！",
+    "Text": "我们就需要这个！",
     "OriginalText": "That's exactly what we needed!",
     "StartAddress": 3865032,
     "EndAddress": 3865078,
     "MaxLength": 47
   },
   {
-    "Text": "你准备好了<1>融合我们魔法</1>吗？",
+    "Text": "你准备好<1>融合我们的魔法</1>了吗？",
     "OriginalText": "Are you ready to try <1>MERGING OUR MAGIC</1>?",
     "StartAddress": 3865080,
     "EndAddress": 3865142,
     "MaxLength": 63
   },
   {
-    "Text": "请在考虑一下！",
+    "Text": "请再考虑一下！",
     "OriginalText": "Please reconsider!",
     "StartAddress": 3865144,
     "EndAddress": 3865182,
     "MaxLength": 39
   },
   {
-    "Text": "好吧…",
+    "Text": "好…",
     "OriginalText": "Ok...",
     "StartAddress": 3865184,
     "EndAddress": 3865198,
     "MaxLength": 15
   },
   {
-    "Text": "别动……来结合我们魔法吧！",
+    "Text": "别动……来结合我们的魔法吧！",
     "OriginalText": "Hold still... It's time to combine our magic!",
     "StartAddress": 3865200,
     "EndAddress": 3865262,
@@ -3549,35 +3549,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "我好想跳舞哦！",
+    "Text": "我好想跳舞！",
     "OriginalText": "I feel like dancing!",
     "StartAddress": 3865280,
     "EndAddress": 3865302,
     "MaxLength": 23
   },
   {
-    "Text": "我们能力被<1>结合了</1>!",
+    "Text": "我们的能力被<1>结合</1>了!",
     "OriginalText": "Our powers have <1>COMBINED</1>!",
     "StartAddress": 3865304,
     "EndAddress": 3865342,
     "MaxLength": 39
   },
   {
-    "Text": "<1>先见者舞</1>能显露出肉眼观察不到的东西！",
+    "Text": "<1>先见舞</1>能显现出肉眼观察不到的东西！",
     "OriginalText": "The <1>SEER DANCE</1> can reveal things that are otherwise invisible to the naked eye! ",
     "StartAddress": 3865344,
     "EndAddress": 3865406,
     "MaxLength": 63
   },
   {
-    "Text": "（跳到图标出现，再按<IB action=Left/>启动魔法！）",
+    "Text": "（跳舞直到图标出现，再按<IB action=Left/>启动魔法！）",
     "OriginalText": "(Dance until you see the icon appear, then press  <IB action=Left/> to activate the magic!) ",
     "StartAddress": 3865408,
     "EndAddress": 3865478,
     "MaxLength": 71
   },
   {
-    "Text": "（跳到看到图标出现，再点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_scan scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
+    "Text": "（跳舞直到图标出现，再点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_scan scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
     "OriginalText": "(Dance until you see the icon appear, then touch <I anim=ui_game:ios_dance_buttons.anb seq=icon_scan scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> to activate the magic!) ",
     "StartAddress": 3865480,
     "EndAddress": 3865638,
@@ -3598,28 +3598,28 @@
     "MaxLength": 55
   },
   {
-    "Text": "我确定<1>先见者舞</1>能帮组你的寻求！",
+    "Text": "我相信<1>先见舞</1>能帮助你的探险！",
     "OriginalText": "I'm certain that the <1>SEER DANCE</1> will help you on your quest!",
     "StartAddress": 3865720,
     "EndAddress": 3865774,
     "MaxLength": 55
   },
   {
-    "Text": "就是要记得到处试！",
+    "Text": "记得到处试试看！",
     "OriginalText": "Just remember to try it everywhere!",
     "StartAddress": 3865776,
     "EndAddress": 3865806,
     "MaxLength": 31
   },
   {
-    "Text": "（跳舞之中，按下<IB action=Left/>就能启动魔法！）",
+    "Text": "（跳舞时，按下<IB action=Left/>就能启动魔法！）",
     "OriginalText": "(While dancing, press  <IB action=Left/> to activate the magic!) ",
     "StartAddress": 3865808,
     "EndAddress": 3865878,
     "MaxLength": 71
   },
   {
-    "Text": "（跳舞中，点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_scan scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
+    "Text": "（跳舞时，点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_scan scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
     "OriginalText": "(While dancing, touch <I anim=ui_game:ios_dance_buttons.anb seq=icon_scan scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> to activate the magic!) ",
     "StartAddress": 3865880,
     "EndAddress": 3866022,
@@ -3640,28 +3640,28 @@
     "MaxLength": 55
   },
   {
-    "Text": "我确定<1>先见者舞</1>能帮组你的寻求！",
+    "Text": "我相信<1>先见舞</1>能帮助你的探险！",
     "OriginalText": "I'm certian that the <1>SEER DANCE</1> will help you on your quest!",
     "StartAddress": 3866104,
     "EndAddress": 3866158,
     "MaxLength": 55
   },
   {
-    "Text": "就是要记得到处试！",
+    "Text": "记得到处试试看！",
     "OriginalText": "Just remember to try it everywhere!",
     "StartAddress": 3866160,
     "EndAddress": 3866190,
     "MaxLength": 31
   },
   {
-    "Text": "（跳舞之中，按下<IB action=Left/>就能启动魔法！）",
+    "Text": "（跳舞时，按下<IB action=Left/>就能启动魔法！）",
     "OriginalText": "(While dancing, press  <IB action=Left/> to activate the magic!) ",
     "StartAddress": 3866192,
     "EndAddress": 3866262,
     "MaxLength": 71
   },
   {
-    "Text": "（跳舞中，点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_scan scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
+    "Text": "（跳舞时，点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_scan scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
     "OriginalText": "(While dancing, touch <I anim=ui_game:ios_dance_buttons.anb seq=icon_scan scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> to activate the magic!) ",
     "StartAddress": 3866264,
     "EndAddress": 3866430,
@@ -3682,7 +3682,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "是谁啊？",
+    "Text": "谁在那儿？",
     "OriginalText": "Who's there?",
     "StartAddress": 3866456,
     "EndAddress": 3866470,
@@ -3703,14 +3703,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "你怎么躲在墙壁后面呢？",
+    "Text": "你在墙壁后面做什么？",
     "OriginalText": "What are you doing behind the wall?",
     "StartAddress": 3866504,
     "EndAddress": 3866542,
     "MaxLength": 39
   },
   {
-    "Text": "我一直都在找你，自从你掉去不知道哪里呢！",
+    "Text": "自从你掉到不知道哪里去，我一直都在找你！",
     "OriginalText": " I've been looking for you ever since you fell from sight!",
     "StartAddress": 3866544,
     "EndAddress": 3866606,
@@ -3745,7 +3745,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "也许能帮组你找出那些女孩子。",
+    "Text": "也许能帮你找到那些女孩。",
     "OriginalText": "It might help you find those girls.",
     "StartAddress": 3866696,
     "EndAddress": 3866742,
@@ -3766,14 +3766,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "…傳過去。",
+    "Text": "…伸过去。",
     "OriginalText": "...Pass it through.",
     "StartAddress": 3866792,
     "EndAddress": 3866814,
     "MaxLength": 23
   },
   {
-    "Text": "这是什么啊？",
+    "Text": "这是什么？",
     "OriginalText": "What's this thing?",
     "StartAddress": 3866816,
     "EndAddress": 3866838,
@@ -3787,21 +3787,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "民间多年来都使用这工具解决水的谜题。",
+    "Text": "人们多年来都使用它来解决水的谜题。",
     "OriginalText": "Folks have been using them to solve water-themed puzzles for years.",
     "StartAddress": 3866872,
     "EndAddress": 3866926,
     "MaxLength": 55
   },
   {
-    "Text": "阀门手柄。很传统的。",
+    "Text": "阀门手柄。这是传统。",
     "OriginalText": "Valve handle. It's tradition. ",
     "StartAddress": 3866928,
     "EndAddress": 3866958,
     "MaxLength": 31
   },
   {
-    "Text": "若你这么说。",
+    "Text": "你说了算。",
     "OriginalText": "If you say so.",
     "StartAddress": 3866960,
     "EndAddress": 3866998,
@@ -3829,28 +3829,28 @@
     "MaxLength": 15
   },
   {
-    "Text": "是的，我还在。只是在开玩笑的。",
+    "Text": "是的，我还在。只是开个玩笑。",
     "OriginalText": "Yeah, I'm here. Just kidding with you.",
     "StartAddress": 3867064,
     "EndAddress": 3867110,
     "MaxLength": 47
   },
   {
-    "Text": "叔叔，你该回去水面，那儿比较安全。",
+    "Text": "叔叔，你该回到地面上，那里比较安全。",
     "OriginalText": "Uncle, you should go back up to the surface, where it's safe.",
     "StartAddress": 3867112,
     "EndAddress": 3867166,
     "MaxLength": 55
   },
   {
-    "Text": "若你这么想。",
+    "Text": "你说了算。",
     "OriginalText": "If you say so.",
     "StartAddress": 3867168,
     "EndAddress": 3867190,
     "MaxLength": 23
   },
   {
-    "Text": "可是首先，再看一次这洞里。",
+    "Text": "不过，你再看看这洞里。",
     "OriginalText": "But first, you should look through this hole again.",
     "StartAddress": 3867192,
     "EndAddress": 3867230,
@@ -3878,7 +3878,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "老爸幽默。",
+    "Text": "老爹幽默。",
     "OriginalText": "Dad humor.",
     "StartAddress": 3867320,
     "EndAddress": 3867334,
@@ -3892,7 +3892,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "来，若你看到哪里有卖吃的拿这去用。",
+    "Text": "来，如果你看到哪里有卖吃的拿这去用。",
     "OriginalText": "Here, use this to get lunch if you see a place.",
     "StartAddress": 3867352,
     "EndAddress": 3867406,
@@ -3906,7 +3906,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "那<1>阀门手柄</1>也許控制附近某个机构！",
+    "Text": "那<1>阀门手柄</1>也许能操纵附近的机关！",
     "OriginalText": "That <1>VALVE HANDLE</1> probably operates some mechanism nearby!",
     "StartAddress": 3867456,
     "EndAddress": 3867510,
@@ -3920,14 +3920,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "祝你追求好运！快去找出那四位消失的半精灵！",
+    "Text": "祝你探险好运！快去找出那四位消失的半精灵！",
     "OriginalText": "Good luck on your <1>QUEST</1>! Find those four missing Half-Genies!",
     "StartAddress": 3867560,
     "EndAddress": 3867638,
     "MaxLength": 79
   },
   {
-    "Text": "这是什么东西啊？",
+    "Text": "这是什么东西？",
     "OriginalText": "What is this thing?",
     "StartAddress": 3867640,
     "EndAddress": 3867670,
@@ -3948,14 +3948,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "你是谁啊？",
+    "Text": "你是谁？",
     "OriginalText": "Who are you? ",
     "StartAddress": 3867792,
     "EndAddress": 3867806,
     "MaxLength": 15
   },
   {
-    "Text": "你时怎么找到我们村的呢？",
+    "Text": "你是怎么找到我们村的？",
     "OriginalText": "How did you find our village?",
     "StartAddress": 3867808,
     "EndAddress": 3867846,
@@ -3983,7 +3983,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "我甜蜜的薇拉…",
+    "Text": "我可爱的薇拉…",
     "OriginalText": "My sweet Vera...",
     "StartAddress": 3867920,
     "EndAddress": 3867942,
