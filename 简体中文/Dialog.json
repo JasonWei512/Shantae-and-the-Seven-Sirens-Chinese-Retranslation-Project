@@ -784,7 +784,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "喔！",
+    "Text": "哦！",
     "OriginalText": "Oh!",
     "StartAddress": 3850480,
     "EndAddress": 3850486,
@@ -966,7 +966,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "喔！",
+    "Text": "哦！",
     "OriginalText": "Oh!",
     "StartAddress": 3851464,
     "EndAddress": 3851470,
@@ -1316,7 +1316,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "喔对了，不好意思。",
+    "Text": "哦对了，不好意思。",
     "OriginalText": "Oh, sorry. ",
     "StartAddress": 3853248,
     "EndAddress": 3853278,
@@ -1631,7 +1631,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "喔，那<1>清单</1>是给<1>市长</1>的。",
+    "Text": "哦，那<1>清单</1>是给<1>市长</1>的。",
     "OriginalText": "Oh, that <1>CHECKLIST</1> is for the <1>MAYOR</1>. ",
     "StartAddress": 3854960,
     "EndAddress": 3855022,
@@ -2814,7 +2814,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "喔！",
+    "Text": "哦！",
     "OriginalText": "OH!",
     "StartAddress": 3861008,
     "EndAddress": 3861014,
@@ -3304,7 +3304,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "喔！你把<1>两只节肢动物</1>带来给我了！",
+    "Text": "哦！你把<1>两只节肢动物</1>带来给我了！",
     "OriginalText": "Oh! You brought me <1>TWO ARTHROPOD LIFE FORMS</1>!",
     "StartAddress": 3863616,
     "EndAddress": 3863686,
@@ -3493,7 +3493,7 @@
     "MaxLength": 103
   },
   {
-    "Text": "喔，等等！",
+    "Text": "哦，等等！",
     "OriginalText": "Oh - hold on!",
     "StartAddress": 3864976,
     "EndAddress": 3864990,
@@ -3962,7 +3962,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "喔。",
+    "Text": "哦。",
     "OriginalText": "Oh.",
     "StartAddress": 3867848,
     "EndAddress": 3867854,
@@ -5082,7 +5082,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "啊。",
+    "Text": "哼。",
     "OriginalText": "Guh. ",
     "StartAddress": 3874280,
     "EndAddress": 3874286,
@@ -5096,7 +5096,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "躺在那儿。",
+    "Text": "就瘫在那。",
     "OriginalText": "Just lying about.",
     "StartAddress": 3874304,
     "EndAddress": 3874318,
@@ -5138,7 +5138,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "哇，你讲那<1>钻</1>魔法真标准！",
+    "Text": "哇，你那<1>钻</1>魔法真标准！",
     "OriginalText": "Boy, you were spot on about that <1>DRILL</1> magic!",
     "StartAddress": 3874472,
     "EndAddress": 3874518,
@@ -5152,7 +5152,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "哈莫尼说当我们一起合作，什么都能做得到！",
+    "Text": "哈莫尼说我们一起合作时，什么都能做得到！",
     "OriginalText": "Harmony says that when we work together, we can do anything!",
     "StartAddress": 3874568,
     "EndAddress": 3874630,
@@ -5194,21 +5194,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "感谢天！",
+    "Text": "感谢老天！",
     "OriginalText": "Thank goodness for that. ",
     "StartAddress": 3874744,
     "EndAddress": 3874758,
     "MaxLength": 15
   },
   {
-    "Text": "那哈莫尼呢？和其他？",
+    "Text": "那哈莫尼和其他人呢？",
     "OriginalText": "What about Harmony, and the others?",
     "StartAddress": 3874760,
     "EndAddress": 3874790,
     "MaxLength": 31
   },
   {
-    "Text": "...我…这…",
+    "Text": "...我…额…",
     "OriginalText": "...I ...well...",
     "StartAddress": 3874792,
     "EndAddress": 3874806,
@@ -5222,14 +5222,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "我们会找出她们的。",
+    "Text": "我们会找到她们的。",
     "OriginalText": "We'll find them. ",
     "StartAddress": 3874824,
     "EndAddress": 3874854,
     "MaxLength": 31
   },
   {
-    "Text": "我多希望我有我的<1>幸运护身符</1>。",
+    "Text": "我只希望有我的<1>幸运护身符</1>的帮助。",
     "OriginalText": "I only wish I had the help of my <1>LUCKY AMULET</1>.",
     "StartAddress": 3874856,
     "EndAddress": 3874910,
@@ -5257,7 +5257,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "...大海浪冲进来，然后…",
+    "Text": "...一个大浪过来，然后…",
     "OriginalText": "...a big wave came, and...",
     "StartAddress": 3874992,
     "EndAddress": 3875030,
@@ -5271,28 +5271,28 @@
     "MaxLength": 15
   },
   {
-    "Text": "听起来蛮不幸运的。",
+    "Text": "听起来蛮不幸的。",
     "OriginalText": "Sounds pretty UN-lucky to me.",
     "StartAddress": 3875048,
     "EndAddress": 3875078,
     "MaxLength": 31
   },
   {
-    "Text": "我若有我的<1>幸运护身符</1>，我就可以帮你找出其他人！",
+    "Text": "我如果有我的<1>幸运护身符</1>，我就可以帮你找出其他人！",
     "OriginalText": "If I had that <1>LUCKY AMULET</1>, I could help you find the others!",
     "StartAddress": 3875080,
     "EndAddress": 3875158,
     "MaxLength": 79
   },
   {
-    "Text": "若你找出来，把它带来<1>树村</1>给我。",
+    "Text": "如果你找到它，把它带到<1>树村</1>给我。",
     "OriginalText": "If you find it, bring it to me in <1>TREE TOWN</1>.",
     "StartAddress": 3875160,
     "EndAddress": 3875214,
     "MaxLength": 55
   },
   {
-    "Text": "加油。",
+    "Text": "靠你了，祝你好运！",
     "OriginalText": "It's all up to you now! Good luck!",
     "StartAddress": 3875216,
     "EndAddress": 3875246,
@@ -5313,14 +5313,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "我是科学家，来自<1>铁鱼</1>。",
+    "Text": "我是一名科学家，来自<1>铁鱼</1>。",
     "OriginalText": "I am a scientist from the <1>METAL FISH</1>.",
     "StartAddress": 3875296,
     "EndAddress": 3875342,
     "MaxLength": 47
   },
   {
-    "Text": "我目前在试一个理论。",
+    "Text": "我正在验证一个理论。",
     "OriginalText": "Right now I am testing a theory.",
     "StartAddress": 3875344,
     "EndAddress": 3875374,
@@ -5341,14 +5341,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "她的贝壳就落到海底。",
+    "Text": "她的贝壳会落到海底。",
     "OriginalText": "Its shells fall to the ocean floor.",
     "StartAddress": 3875424,
     "EndAddress": 3875454,
     "MaxLength": 31
   },
   {
-    "Text": "过久，这些贝壳<1>沉没进海底沙滩</1>而成为化石。",
+    "Text": "时间推移，这些贝壳<1>沉入海床</1>成为化石。",
     "OriginalText": "Over time, the shells <1>SINK INTO THE SEA BED</1> to become fossils.",
     "StartAddress": 3875456,
     "EndAddress": 3875526,
@@ -5362,7 +5362,7 @@
     "MaxLength": 87
   },
   {
-    "Text": "还是出生时就有的，像某种外骨骼。",
+    "Text": "还是出生时就有的，就像某种外骨骼。",
     "OriginalText": "Or are the shells part of a mermaid exoskeleton, there from birth?",
     "StartAddress": 3875616,
     "EndAddress": 3875670,
@@ -5376,14 +5376,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "你若能带给我<1>六颗美人鱼壳</1>...",
+    "Text": "你若能带来<1>六个美人鱼贝壳</1>...",
     "OriginalText": "If you can bring me <1>SIX MERMAID SHELLS</1>...",
     "StartAddress": 3875704,
     "EndAddress": 3875750,
     "MaxLength": 47
   },
   {
-    "Text": "...我就会有足够的资料证明我<1>非常重要的理论</1>。",
+    "Text": "...我就会有足够的数据证明我<1>非常重要的理论</1>。",
     "OriginalText": "...I will have the data I need to prove my <1>VERY IMPORTANT THEORY</1>.",
     "StartAddress": 3875752,
     "EndAddress": 3875822,
@@ -5397,14 +5397,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "我若像你一样有个<1>地图</1>，我会经常查看我的<1>子屏幕</1>!",
+    "Text": "我会在你的<1>地图</1>上标出位置!",
     "OriginalText": "I'll mark the locations on your <1>MAP</1>!",
     "StartAddress": 3875880,
     "EndAddress": 3875982,
     "MaxLength": 103
   },
   {
-    "Text": "带<1>六颗美人鱼壳</1>给我!",
+    "Text": "带<1>六个美人鱼贝壳</1>给我!",
     "OriginalText": "Bring me <1>SIX MERMAID SHELLS</1>!",
     "StartAddress": 3875984,
     "EndAddress": 3876022,
@@ -5418,21 +5418,21 @@
     "MaxLength": 47
   },
   {
-    "Text": "我若像你一样有个<1>地图</1>，我会经常查看我的<1>子屏幕</1>!",
+    "Text": "我会在你的<1>地图</1>上标出位置!",
     "OriginalText": "I'll mark the locations on your <1>MAP</1>!",
     "StartAddress": 3876072,
     "EndAddress": 3876174,
     "MaxLength": 103
   },
   {
-    "Text": "喔！你找到了<1>美人鱼壳</1>!",
+    "Text": "哦！你找到<1>美人鱼贝壳</1>了!",
     "OriginalText": "Oh! You've found <1>MERMAID SHELLS</1>!",
     "StartAddress": 3876176,
     "EndAddress": 3876230,
     "MaxLength": 55
   },
   {
-    "Text": "你有带<1>六</1>颗给我吗？",
+    "Text": "你有带<1>六</1>个给我吗？",
     "OriginalText": "Did you bring me <1>SIX</1> of them?",
     "StartAddress": 3876232,
     "EndAddress": 3876278,
@@ -5446,14 +5446,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "我看你<1>子屏幕</1>的<1>关键项目</1>部分就看得出来。",
+    "Text": "我从你的<1>子屏幕</1>的<1>关键道具</1>部分就看得出来。",
     "OriginalText": "I could tell just by looking at the <1>KEY ITEMS</1> portion of your <1>SUBSCREEN</1>.",
     "StartAddress": 3876312,
     "EndAddress": 3876398,
     "MaxLength": 87
   },
   {
-    "Text": "但我需要用在我研究上！",
+    "Text": "但我需要它们来进行我的研究！",
     "OriginalText": "But I need them for my research!",
     "StartAddress": 3876400,
     "EndAddress": 3876454,
@@ -5467,7 +5467,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "终于，我能用这些资料来试我的理论！",
+    "Text": "终于，我能用这些数据验证我的理论了！",
     "OriginalText": "At last, I can use this data to test my theory!",
     "StartAddress": 3876472,
     "EndAddress": 3876526,
@@ -5481,7 +5481,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "嗯，好。",
+    "Text": "嗯哼。",
     "OriginalText": "Uh, huh.",
     "StartAddress": 3876544,
     "EndAddress": 3876558,
@@ -5509,35 +5509,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "来了……",
+    "Text": "结果是…",
     "OriginalText": "aaaaannnnnnnddddddd.......",
     "StartAddress": 3876608,
     "EndAddress": 3876622,
     "MaxLength": 15
   },
   {
-    "Text": "哎呀！",
+    "Text": "该死！",
     "OriginalText": "BLAST IT!",
     "StartAddress": 3876624,
     "EndAddress": 3876638,
     "MaxLength": 15
   },
   {
-    "Text": "呸！",
+    "Text": "靠！",
     "OriginalText": "DRAT!",
     "StartAddress": 3876640,
     "EndAddress": 3876646,
     "MaxLength": 7
   },
   {
-    "Text": "这些贝壳来自一只<1>海牛</1>！",
+    "Text": "这些贝壳来自<1>海牛</1>！",
     "OriginalText": "These shells came from a <1>SEA COW</1>!",
     "StartAddress": 3876648,
     "EndAddress": 3876694,
     "MaxLength": 47
   },
   {
-    "Text": "然后看来…",
+    "Text": "而且看来…",
     "OriginalText": "And by the look of it....",
     "StartAddress": 3876696,
     "EndAddress": 3876710,
@@ -5558,7 +5558,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "麻烦你了，我还是应该给你点小东西吧。",
+    "Text": "麻烦你了，我还是给你点小谢礼吧。",
     "OriginalText": "I probably owe you something for your trouble. ",
     "StartAddress": 3876760,
     "EndAddress": 3876814,
@@ -5579,14 +5579,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "你把这<1>幸运护身符</1>拿去留着，谢谢你的麻烦。",
+    "Text": "你留着这个<1>幸运护身符</1>吧，麻烦你了。",
     "OriginalText": "You can keep that <1>LUCKY AMULET</1> for your troubles.",
     "StartAddress": 3876872,
     "EndAddress": 3876958,
     "MaxLength": 87
   },
   {
-    "Text": "你把这<1>幸运护身符</1>拿去留着，谢谢你的麻烦。",
+    "Text": "你留着这个<1>幸运护身符</1>吧，麻烦你了。",
     "OriginalText": "You can keep that <1>LUCKY AMULET</1> for your troubles.",
     "StartAddress": 3876960,
     "EndAddress": 3877046,
@@ -5621,14 +5621,14 @@
     "MaxLength": 71
   },
   {
-    "Text": "我可以自己找路回<1>场馆镇/1>。",
+    "Text": "好，好，我可以自己回到<1>场馆镇/1>。",
     "OriginalText": "Fine, fine. I can find my way back to <1>ARENA TOWN</1> from here.",
     "StartAddress": 3877216,
     "EndAddress": 3877278,
     "MaxLength": 63
   },
   {
-    "Text": "我可以自己找路回<1>场馆镇</1>。",
+    "Text": "我可以自己回到<1>场馆镇</1>。你继续吧。",
     "OriginalText": "I can find my way back to <1>ARENA TOWN</1> from here. You go on ahead. ",
     "StartAddress": 3877280,
     "EndAddress": 3877350,
@@ -5642,7 +5642,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我相信你能想象，我爸真是开心看见我。",
+    "Text": "你能想象到，我爸看到我真是高兴坏了。",
     "OriginalText": "As you can imagine, my father was overjoyed to see me.",
     "StartAddress": 3877368,
     "EndAddress": 3877422,
@@ -5663,7 +5663,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "但愿把它找回来，我就能帮你救出其他半精灵！",
+    "Text": "但愿能把它找回来，我就能帮你救出其他半精灵！",
     "OriginalText": "If only I had it back, I could help you rescue the others!",
     "StartAddress": 3877520,
     "EndAddress": 3877606,
@@ -5677,21 +5677,21 @@
     "MaxLength": 55
   },
   {
-    "Text": "但愿把它找回来，我就能帮你救出其他半精灵！",
+    "Text": "但愿能把它找回来，我就能帮你救出其他半精灵！",
     "OriginalText": "If only I had it back, I could help you rescue the others!",
     "StartAddress": 3877664,
     "EndAddress": 3877750,
     "MaxLength": 87
   },
   {
-    "Text": "等等，这是什么啊？",
+    "Text": "等等，这是什么？",
     "OriginalText": "Wait, what's this?",
     "StartAddress": 3877752,
     "EndAddress": 3877782,
     "MaxLength": 31
   },
   {
-    "Text": "你找到我的<1>幸运护身符</1>!",
+    "Text": "你找到我的<1>幸运护身符</1>了！",
     "OriginalText": "You found my <1>LUCKY AMULET</1>!",
     "StartAddress": 3877784,
     "EndAddress": 3877838,
@@ -5712,28 +5712,28 @@
     "MaxLength": 39
   },
   {
-    "Text": "我护身符就在岛上制造的。",
+    "Text": "我的护身符是在岛上制作的。",
     "OriginalText": "My amulet was crafted on this island.",
     "StartAddress": 3877920,
     "EndAddress": 3877958,
     "MaxLength": 39
   },
   {
-    "Text": "它完全用<1>融合石</1>造的！",
+    "Text": "它完全用<1>融合石</1>制作！",
     "OriginalText": "It's made entirely of  <1>FUSION STONE</1>!",
     "StartAddress": 3877960,
     "EndAddress": 3877998,
     "MaxLength": 39
   },
   {
-    "Text": "有了它，我们就能<1>融合我们魔法</1>而救出哈莫尼和其他的精灵！",
+    "Text": "有了它，我们就能<1>融合我们魔法</1>，救出哈莫尼和其他半精灵！",
     "OriginalText": "With it, we'll be able to <1>COMBINE OUR MAGIC</1> and save Harmony and the others!",
     "StartAddress": 3878000,
     "EndAddress": 3878118,
     "MaxLength": 119
   },
   {
-    "Text": "了不起！",
+    "Text": "不可思议！",
     "OriginalText": "Incredible!",
     "StartAddress": 3878120,
     "EndAddress": 3878134,
@@ -5768,14 +5768,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "（跳到看到图标出现，再按<IB action=Up/>启动魔法！）",
+    "Text": "（跳舞直到图标出现，再按<IB action=Up/>启动魔法！）",
     "OriginalText": "(Dance until you see the icon appear, then press  <IB action=Up/> to activate the magic!) ",
     "StartAddress": 3878304,
     "EndAddress": 3878374,
     "MaxLength": 71
   },
   {
-    "Text": "诶……",
+    "Text": "比如说…",
     "OriginalText": "Say...",
     "StartAddress": 3878376,
     "EndAddress": 3878390,
@@ -5789,14 +5789,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "（跳到看到图标出现，而再点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_refresh scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
+    "Text": "（跳舞直到图标出现，再点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_refresh scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
     "OriginalText": "(Dance until you see the icon appear, then touch <I anim=ui_game:ios_dance_buttons.anb seq=icon_refresh scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> to activate the magic!) ",
     "StartAddress": 3878432,
     "EndAddress": 3878598,
     "MaxLength": 167
   },
   {
-    "Text": "诶……",
+    "Text": "比如说…",
     "OriginalText": "Say...",
     "StartAddress": 3878600,
     "EndAddress": 3878614,
@@ -5810,28 +5810,28 @@
     "MaxLength": 55
   },
   {
-    "Text": "我确定<1>刷新舞</1>能帮你保持健康！",
+    "Text": "我相信<1>刷新舞</1>能帮你保持健康！",
     "OriginalText": "I'm certain that the <1>REFRESH DANCE</1> will keep you healthy!",
     "StartAddress": 3878672,
     "EndAddress": 3878726,
     "MaxLength": 55
   },
   {
-    "Text": "一定也要记得试在别的东西上！",
+    "Text": "记得也在别的东西上试试！",
     "OriginalText": "Be sure to try it on other things as well!",
     "StartAddress": 3878728,
     "EndAddress": 3878774,
     "MaxLength": 47
   },
   {
-    "Text": "（跳到看到图标出现，再按<IB action=Up/>启动魔法！）",
+    "Text": "（跳舞直到图标出现，再按<IB action=Up/>启动魔法！）",
     "OriginalText": "(Dance until you see the icon appear, then press  <IB action=Up/> to activate the magic!) ",
     "StartAddress": 3878776,
     "EndAddress": 3878846,
     "MaxLength": 71
   },
   {
-    "Text": "（跳舞直到看到图标出现，而再点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_refresh scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
+    "Text": "（跳舞直到图标出现，再点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_refresh scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
     "OriginalText": "(Dance until you see the icon appear, then touch <I anim=ui_game:ios_dance_buttons.anb seq=icon_refresh scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> to activate the magic!) ",
     "StartAddress": 3878848,
     "EndAddress": 3879046,
@@ -5845,7 +5845,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "...好累哦…",
+    "Text": "...好累啊…",
     "OriginalText": "...So sleepy…",
     "StartAddress": 3879088,
     "EndAddress": 3879102,
@@ -5859,14 +5859,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "...我还不够刷新。",
+    "Text": "...我还不够<1>刷新</1>。",
     "OriginalText": "...Not feeling <1>REFRESHED</1> yet.",
     "StartAddress": 3879136,
     "EndAddress": 3879182,
     "MaxLength": 47
   },
   {
-    "Text": "喔！",
+    "Text": "哦！",
     "OriginalText": "Oh!",
     "StartAddress": 3879184,
     "EndAddress": 3879190,
@@ -6923,7 +6923,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "喔，我知道了！",
+    "Text": "哦，我知道了！",
     "OriginalText": "Oh, I know!",
     "StartAddress": 3885296,
     "EndAddress": 3885318,
@@ -7308,7 +7308,7 @@
     "MaxLength": 79
   },
   {
-    "Text": "喔，你带了寻求的东西吗？",
+    "Text": "哦，你带了寻求的东西吗？",
     "OriginalText": "Oh, you brought quest stuff?",
     "StartAddress": 3887048,
     "EndAddress": 3887086,
@@ -7448,7 +7448,7 @@
     "MaxLength": 79
   },
   {
-    "Text": "喔！",
+    "Text": "哦！",
     "OriginalText": "Oh!",
     "StartAddress": 3887920,
     "EndAddress": 3887926,
@@ -8547,7 +8547,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "喔，还有一件事！",
+    "Text": "哦，还有一件事！",
     "OriginalText": "Oh, one more thing!",
     "StartAddress": 3894200,
     "EndAddress": 3894230,
@@ -8666,7 +8666,7 @@
     "MaxLength": 103
   },
   {
-    "Text": "喔！",
+    "Text": "哦！",
     "OriginalText": "Oooh!",
     "StartAddress": 3895040,
     "EndAddress": 3895046,
@@ -9086,7 +9086,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "喔，你好。拯救任务怎么样？",
+    "Text": "哦，你好。拯救任务怎么样？",
     "OriginalText": "Oh, hey. How's the rescue going?",
     "StartAddress": 3897520,
     "EndAddress": 3897558,
@@ -10738,7 +10738,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "喔，你有东西给我吗？",
+    "Text": "哦，你有东西给我吗？",
     "OriginalText": "Oh? You have something for me?",
     "StartAddress": 3905608,
     "EndAddress": 3905654,
@@ -11025,7 +11025,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "喔？地上这是什么啊？",
+    "Text": "哦？地上这是什么啊？",
     "OriginalText": "Oh? What's this on the ground?",
     "StartAddress": 3907216,
     "EndAddress": 3907262,
@@ -12971,7 +12971,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "喔！",
+    "Text": "哦！",
     "OriginalText": "Ooh!",
     "StartAddress": 3918184,
     "EndAddress": 3918190,
@@ -13174,7 +13174,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "喔，感谢！",
+    "Text": "哦，感谢！",
     "OriginalText": "Oh, thank goodness!",
     "StartAddress": 3919288,
     "EndAddress": 3919302,
@@ -13216,7 +13216,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "喔，我可以看看那无电的棒子吗？",
+    "Text": "哦，我可以看看那无电的棒子吗？",
     "OriginalText": "Oh! Can I see that unpowered <1>ROD</1>?",
     "StartAddress": 3919608,
     "EndAddress": 3919670,
@@ -13713,7 +13713,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "喔。",
+    "Text": "哦。",
     "OriginalText": "Oh.",
     "StartAddress": 3922480,
     "EndAddress": 3922486,
@@ -17227,7 +17227,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "喔！",
+    "Text": "哦！",
     "OriginalText": "Oh!",
     "StartAddress": 3941704,
     "EndAddress": 3941710,
@@ -17297,7 +17297,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "喔，担忧来，担忧去！",
+    "Text": "哦，担忧来，担忧去！",
     "OriginalText": "Oh, fuss and fret!",
     "StartAddress": 3942112,
     "EndAddress": 3942158,
@@ -17311,7 +17311,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "喔，嗨。",
+    "Text": "哦，嗨。",
     "OriginalText": "Oh hey.",
     "StartAddress": 3942176,
     "EndAddress": 3942190,
@@ -18368,7 +18368,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "喔，你好！",
+    "Text": "哦，你好！",
     "OriginalText": "Oh, hello!",
     "StartAddress": 3948320,
     "EndAddress": 3948334,
@@ -18452,7 +18452,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "喔，那很辣的一张！",
+    "Text": "哦，那很辣的一张！",
     "OriginalText": "Ohh! That's a spicy one!",
     "StartAddress": 3948712,
     "EndAddress": 3948758,
@@ -19810,7 +19810,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "喔，原来只是个小小的蝎子！",
+    "Text": "哦，原来只是个小小的蝎子！",
     "OriginalText": "Oh, he was just squashing a silly scorpion!  ",
     "StartAddress": 3957880,
     "EndAddress": 3957918,
@@ -19838,7 +19838,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "喔！",
+    "Text": "哦！",
     "OriginalText": "Oh!",
     "StartAddress": 3957976,
     "EndAddress": 3957982,
