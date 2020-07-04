@@ -3605,42 +3605,42 @@
     "MaxLength": 39
   },
   {
-    "Text": "刷新消耗－",
+    "Text": "恢复消耗－",
     "OriginalText": "Refresh Cost -",
     "StartAddress": 384040,
     "EndAddress": 384054,
     "MaxLength": 15
   },
   {
-    "Text": "减少刷新舞消耗的魔法！",
+    "Text": "减少恢复舞消耗的魔法！",
     "OriginalText": "The Refresh Dance consumes less magic when used!",
     "StartAddress": 384056,
     "EndAddress": 384094,
     "MaxLength": 39
   },
   {
-    "Text": "刷新疗伤＋",
+    "Text": "恢复疗伤＋",
     "OriginalText": "Refresh Healing +",
     "StartAddress": 384096,
     "EndAddress": 384110,
     "MaxLength": 15
   },
   {
-    "Text": "增加刷新舞恢复的生命！",
+    "Text": "增加恢复舞恢复的生命！",
     "OriginalText": "The Refresh Dance restores more Empty Hearts than before!",
     "StartAddress": 384112,
     "EndAddress": 384150,
     "MaxLength": 39
   },
   {
-    "Text": "刷新伤害＋",
+    "Text": "恢复伤害＋",
     "OriginalText": "Refresh Damage +",
     "StartAddress": 384152,
     "EndAddress": 384166,
     "MaxLength": 15
   },
   {
-    "Text": "增加刷新舞给病弱与不死人敌人的伤害！",
+    "Text": "增加恢复舞给病弱与不死人敌人的伤害！",
     "OriginalText": "The Refresh Dance does more damage to sickly or undead foes!",
     "StartAddress": 384168,
     "EndAddress": 384222,
@@ -4046,7 +4046,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "刷新舞",
+    "Text": "恢复舞",
     "OriginalText": "Refresh Dance",
     "StartAddress": 385848,
     "EndAddress": 385862,

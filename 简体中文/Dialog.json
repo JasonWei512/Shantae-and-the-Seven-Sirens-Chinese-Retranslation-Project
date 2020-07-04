@@ -1134,7 +1134,7 @@
     "MaxLength": 71
   },
   {
-    "Text": "但我想支持我的半精灵同伴们，好好使用我<1>刷新</1>魔法。",
+    "Text": "但我想支持我的半精灵同伴们，好好使用我<1>恢复</1>魔法。",
     "OriginalText": "But I wanted to support my fellow Half-Genies and put my <1>REFRESH</1> magic to good use. ",
     "StartAddress": 3852312,
     "EndAddress": 3852398,
@@ -5754,7 +5754,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "<1>刷新舞</1>能疗养伤口，但也可以为其他人<1>恢复生命</1>！",
+    "Text": "<1>恢复舞</1>能疗养伤口，但也可以为其他人<1>恢复生命</1>！",
     "OriginalText": "The <1>REFRESH DANCE</1> can heal your wounds, but it can also <1>BRING LIFE</1> to others! ",
     "StartAddress": 3878192,
     "EndAddress": 3878286,
@@ -5810,7 +5810,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "我相信<1>刷新舞</1>能帮你保持健康！",
+    "Text": "我相信<1>恢复舞</1>能帮你保持健康！",
     "OriginalText": "I'm certain that the <1>REFRESH DANCE</1> will keep you healthy!",
     "StartAddress": 3878672,
     "EndAddress": 3878726,
@@ -5859,7 +5859,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "...我还不够<1>刷新</1>。",
+    "Text": "...我还没完全<1>恢复</1>。",
     "OriginalText": "...Not feeling <1>REFRESHED</1> yet.",
     "StartAddress": 3879136,
     "EndAddress": 3879182,
@@ -17878,7 +17878,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "你有试过使用<1>刷新舞</1>在怪兽上吗？",
+    "Text": "你有试过使用<1>恢复舞</1>在怪兽上吗？",
     "OriginalText": "Have you tried using your <1>REFRESH DANCE</1> on monsters?",
     "StartAddress": 3945192,
     "EndAddress": 3945262,
@@ -19936,7 +19936,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "请再留住我刷新的能力久一点。",
+    "Text": "请再留住我恢复的能力久一点。",
     "OriginalText": "Please, keep my <1>REFRESH</1> powers a little longer.",
     "StartAddress": 3958472,
     "EndAddress": 3958518,
