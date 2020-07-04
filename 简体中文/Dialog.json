@@ -448,7 +448,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "半精灵宾客到了都得先跟市长报道。",
+    "Text": "半精灵客人到了都得先跟市长报道。",
     "OriginalText": "All Half-Genie guests must check in with the Mayor upon arrival!",
     "StartAddress": 3848640,
     "EndAddress": 3848694,
@@ -9919,7 +9919,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "啊？",
+    "Text": "嗯？",
     "OriginalText": "Eh?",
     "StartAddress": 3901584,
     "EndAddress": 3901590,
@@ -9947,7 +9947,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "你就是之前那一位！",
+    "Text": "你就是之前那位！",
     "OriginalText": "You’re that one from before!",
     "StartAddress": 3901656,
     "EndAddress": 3901702,
@@ -9975,7 +9975,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "但这不是第一次见到她！",
+    "Text": "但这不是我第一次见到她！",
     "OriginalText": "But this isn't the first time I've seen her!",
     "StartAddress": 3901760,
     "EndAddress": 3901798,
@@ -9996,7 +9996,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "要去哪儿啊？",
+    "Text": "去哪儿？",
     "OriginalText": "Where are we going?",
     "StartAddress": 3901864,
     "EndAddress": 3901886,
@@ -10010,14 +10010,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "我要用阿谋尔男爵自己的护甲把他打败掉。",
+    "Text": "我要用护甲男爵自己的护甲打他一顿。",
     "OriginalText": "I'm going to beat Armor Baron with his own armor.",
     "StartAddress": 3901928,
     "EndAddress": 3901990,
     "MaxLength": 63
   },
   {
-    "Text": "在顶面见。",
+    "Text": "在上面见。",
     "OriginalText": "Catch you topside.",
     "StartAddress": 3901992,
     "EndAddress": 3902030,
@@ -10031,21 +10031,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "谁～那是谁说的？",
+    "Text": "谁～谁在说话？",
     "OriginalText": "Wh- who said that?",
     "StartAddress": 3902064,
     "EndAddress": 3902102,
     "MaxLength": 39
   },
   {
-    "Text": "我才不怕你的！",
+    "Text": "我才不怕你！",
     "OriginalText": "I fear you, not!",
     "StartAddress": 3902104,
     "EndAddress": 3902126,
     "MaxLength": 23
   },
   {
-    "Text": "我已经没有生命可取了！",
+    "Text": "我已经没有生命能被剥夺了！",
     "OriginalText": "I have no life left to take!",
     "StartAddress": 3902128,
     "EndAddress": 3902166,
@@ -10059,7 +10059,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "什么回事啊？",
+    "Text": "怎么回事？",
     "OriginalText": "What is this?",
     "StartAddress": 3902176,
     "EndAddress": 3902198,
@@ -10101,7 +10101,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "还有你另一半呢？",
+    "Text": "还有你的另一半呢？",
     "OriginalText": "And where's your other half?",
     "StartAddress": 3902304,
     "EndAddress": 3902334,
@@ -10150,14 +10150,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "或是，也许你在说谎！",
+    "Text": "或者，也许你在说谎！",
     "OriginalText": "Or, perhaps you lie!",
     "StartAddress": 3902528,
     "EndAddress": 3902558,
     "MaxLength": 31
   },
   {
-    "Text": "海妖手段！",
+    "Text": "海妖把戏！",
     "OriginalText": "A Siren trick!",
     "StartAddress": 3902560,
     "EndAddress": 3902574,
@@ -10171,7 +10171,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "做个善事，只有精灵能做得出的！",
+    "Text": "做件善事，只有精灵能做得出的！",
     "OriginalText": "Do a good deed, as only a Genie would!",
     "StartAddress": 3902608,
     "EndAddress": 3902654,
@@ -10206,28 +10206,28 @@
     "MaxLength": 47
   },
   {
-    "Text": "宝贵的礼物，是我家传之宝！",
+    "Text": "宝贵的礼物，是我的传家宝！",
     "OriginalText": "A precious gift, a family keepsake it was!",
     "StartAddress": 3902776,
     "EndAddress": 3902814,
     "MaxLength": 39
   },
   {
-    "Text": "但被丢失了！",
+    "Text": "但我弄丢了！",
     "OriginalText": "But it was lost!",
     "StartAddress": 3902816,
     "EndAddress": 3902838,
     "MaxLength": 23
   },
   {
-    "Text": "好久以前掉的，当我撞上这诅咒的岛屿时！",
+    "Text": "很久以前，当我撞上这诅咒的岛屿时丢的！",
     "OriginalText": "Lost when I crashed on this accursed island long ago!",
     "StartAddress": 3902840,
     "EndAddress": 3902902,
     "MaxLength": 63
   },
   {
-    "Text": "守护精灵总是在值班！",
+    "Text": "守护精灵随时效劳！",
     "OriginalText": "A Guardian Genie is always on duty!",
     "StartAddress": 3902904,
     "EndAddress": 3902934,
@@ -10248,7 +10248,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "把这拿去！",
+    "Text": "把这拿去。",
     "OriginalText": "Take this.",
     "StartAddress": 3903008,
     "EndAddress": 3903030,
@@ -10262,14 +10262,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "是我保留的唯一值钱的东西。",
+    "Text": "这是我唯一值钱的东西。",
     "OriginalText": "It is the only thing of value I've managed to hold onto.",
     "StartAddress": 3903056,
     "EndAddress": 3903094,
     "MaxLength": 39
   },
   {
-    "Text": "把我<1>恐怖娃娃</1>带回来，而我就会帮你把朋友找出来！",
+    "Text": "把我的<1>恐怖娃娃</1>带回来，而我就会帮你找你的朋友！",
     "OriginalText": "Return my <1>SCARY DOLL</1>, and I will help you find your friends!",
     "StartAddress": 3903096,
     "EndAddress": 3903198,
@@ -10283,21 +10283,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "谁～那是谁说的？",
+    "Text": "谁～谁在说话？",
     "OriginalText": "Wh- who said that?",
     "StartAddress": 3903232,
     "EndAddress": 3903286,
     "MaxLength": 55
   },
   {
-    "Text": "我才不怕你的！",
+    "Text": "我才不怕你！",
     "OriginalText": "I fear you, not!",
     "StartAddress": 3903288,
     "EndAddress": 3903310,
     "MaxLength": 23
   },
   {
-    "Text": "我已经没有生命可取了！",
+    "Text": "我已经没有生命能被剥夺了！",
     "OriginalText": "I have no life left to take!",
     "StartAddress": 3903312,
     "EndAddress": 3903350,
@@ -10311,7 +10311,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "什么回事啊？",
+    "Text": "怎么回事？",
     "OriginalText": "What is this?",
     "StartAddress": 3903360,
     "EndAddress": 3903382,
@@ -10353,7 +10353,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "还有你另一半呢？",
+    "Text": "还有你的另一半呢？",
     "OriginalText": "And where's your other half?",
     "StartAddress": 3903488,
     "EndAddress": 3903518,
@@ -10402,14 +10402,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "或是，也许你在说谎！",
+    "Text": "或者，也许你在说谎！",
     "OriginalText": "Or, perhaps you lie!",
     "StartAddress": 3903712,
     "EndAddress": 3903742,
     "MaxLength": 31
   },
   {
-    "Text": "海妖手段！",
+    "Text": "海妖把戏！",
     "OriginalText": "A Siren trick!",
     "StartAddress": 3903744,
     "EndAddress": 3903758,
@@ -10423,7 +10423,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "做个善事，只有精灵能做得出的！",
+    "Text": "做件善事，只有精灵能做得出的！",
     "OriginalText": "Do a good deed, as only a Genie would!",
     "StartAddress": 3903792,
     "EndAddress": 3903838,
@@ -10458,28 +10458,28 @@
     "MaxLength": 47
   },
   {
-    "Text": "宝贵的礼物，是我家传之宝！",
+    "Text": "宝贵的礼物，是我的传家宝！",
     "OriginalText": "A precious gift, a family keepsake it was!",
     "StartAddress": 3903960,
     "EndAddress": 3903998,
     "MaxLength": 39
   },
   {
-    "Text": "但被丢失了！",
+    "Text": "但我弄丢了！",
     "OriginalText": "But it was lost!",
     "StartAddress": 3904000,
     "EndAddress": 3904022,
     "MaxLength": 23
   },
   {
-    "Text": "好久以前掉的，当我撞上这诅咒的岛屿时！",
+    "Text": "很久以前，当我撞上这诅咒的岛屿时丢的！",
     "OriginalText": "Lost when I crashed on this accursed island long ago!",
     "StartAddress": 3904024,
     "EndAddress": 3904086,
     "MaxLength": 63
   },
   {
-    "Text": "守护精灵总是在值班！",
+    "Text": "守护精灵随时效劳！",
     "OriginalText": "A Guardian Genie is always on duty!",
     "StartAddress": 3904088,
     "EndAddress": 3904118,
@@ -10500,7 +10500,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "把这拿去！",
+    "Text": "把这拿去。",
     "OriginalText": "Take this.",
     "StartAddress": 3904192,
     "EndAddress": 3904214,
@@ -10514,14 +10514,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "是我保留的唯一值钱的东西。",
+    "Text": "这是我唯一值钱的东西。",
     "OriginalText": "It is the only thing of value I've managed to hold onto.",
     "StartAddress": 3904240,
     "EndAddress": 3904278,
     "MaxLength": 39
   },
   {
-    "Text": "把我<1>恐怖娃娃</1>带回来，而我就会帮你把朋友找出来！",
+    "Text": "把我的<1>恐怖娃娃</1>带回来，而我就会帮你找你的朋友！",
     "OriginalText": "Return my <1>SCARY DOLL</1>, and I will help you find your friends!",
     "StartAddress": 3904280,
     "EndAddress": 3904382,
@@ -10535,21 +10535,21 @@
     "MaxLength": 23
   },
   {
-    "Text": "是我保留的唯一值钱的东西。",
+    "Text": "这是我唯一值钱的东西。",
     "OriginalText": "It is the only thing of value I've managed to hold onto.",
     "StartAddress": 3904408,
     "EndAddress": 3904446,
     "MaxLength": 39
   },
   {
-    "Text": "把我<1>恐怖娃娃</1>带回来，而我就会帮你把朋友找出来！",
+    "Text": "把我的<1>恐怖娃娃</1>带回来，而我就会帮你找你的朋友！",
     "OriginalText": "Return my <1>SCARY DOLL</1>, and I will help you find your friends!",
     "StartAddress": 3904448,
     "EndAddress": 3904542,
     "MaxLength": 95
   },
   {
-    "Text": "把我<1>恐怖娃娃</1>带回来，而我就会帮你把朋友找出来！",
+    "Text": "把我的<1>恐怖娃娃</1>带回来，而我就会帮你找你的朋友！",
     "OriginalText": "Return my <1>SCARY DOLL</1>, and I will help you find your friends!",
     "StartAddress": 3904544,
     "EndAddress": 3904622,
@@ -10570,28 +10570,28 @@
     "MaxLength": 79
   },
   {
-    "Text": "直到你把它交给我之前，你还不值得我信任！",
+    "Text": "在你把它交给我之前，你还不值得我信任！",
     "OriginalText": "Until you hand it over, your trust is not earned!",
     "StartAddress": 3904792,
     "EndAddress": 3904870,
     "MaxLength": 79
   },
   {
-    "Text": "我能看得出半精灵女儿效法她妈妈的脚步。",
+    "Text": "我能看得出半精灵女儿在追随她妈妈的脚步。",
     "OriginalText": "I see that the Half-Genie daughter follows in the footsteps of her Genie mother.",
     "StartAddress": 3904872,
     "EndAddress": 3904934,
     "MaxLength": 63
   },
   {
-    "Text": "当精灵离开时，我为了这世界害怕。",
+    "Text": "当精灵们离开时，我为这世界感到担忧。",
     "OriginalText": "When the Genies went away, I feared for this world.",
     "StartAddress": 3904936,
     "EndAddress": 3904990,
     "MaxLength": 55
   },
   {
-    "Text": "但也许半精灵能翻转邪恶的潮流。",
+    "Text": "但也许半精灵能逆转邪恶的潮流。",
     "OriginalText": "But perhaps the Half-Genies can turn the tides of evil.",
     "StartAddress": 3904992,
     "EndAddress": 3905038,
@@ -10605,7 +10605,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "在这门另外一边就是把我关在这儿的海妖之窝。",
+    "Text": "这扇门另一边就是把我困在这儿的海妖的巢穴。",
     "OriginalText": "Beyond this door you'll find the lair of the Siren who trapped me here.",
     "StartAddress": 3905048,
     "EndAddress": 3905110,
@@ -10626,7 +10626,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "而我只能在旁边看着它发生。无奈而无体。",
+    "Text": "而我只能眼睁睁地看着。无形无体而无奈。",
     "OriginalText": "All I could do was watch. Helpless and without form.",
     "StartAddress": 3905160,
     "EndAddress": 3905222,
@@ -10668,7 +10668,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "活着最好！",
+    "Text": "活着就是最好的！",
     "OriginalText": "Alive is better!",
     "StartAddress": 3905336,
     "EndAddress": 3905374,
@@ -10682,7 +10682,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "这惨了……",
+    "Text": "太糟了……",
     "OriginalText": "This is bad...",
     "StartAddress": 3905392,
     "EndAddress": 3905406,
@@ -10703,7 +10703,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "嗯……",
+    "Text": "额…",
     "OriginalText": "Errr...",
     "StartAddress": 3905464,
     "EndAddress": 3905478,
@@ -10745,7 +10745,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "若需要我，我就在这儿。",
+    "Text": "如果需要我，我就在这儿。",
     "OriginalText": "I'll be here if you need me.",
     "StartAddress": 3905656,
     "EndAddress": 3905710,
@@ -10766,28 +10766,28 @@
     "MaxLength": 47
   },
   {
-    "Text": "终于有点好消息。",
+    "Text": "终于有点好消息了。",
     "OriginalText": "Finally, some good news.",
     "StartAddress": 3905776,
     "EndAddress": 3905806,
     "MaxLength": 31
   },
   {
-    "Text": "沉没城市是个非常复杂的建筑物，而许多部分都被封闭掉。",
+    "Text": "沉没城市是个非常复杂的建筑物，而许多部分都被封住了。",
     "OriginalText": "The Sunken City is a complex structure, and much of it is sealed off. ",
     "StartAddress": 3905808,
     "EndAddress": 3905886,
     "MaxLength": 79
   },
   {
-    "Text": "我的希望是，若能更了解城市的建设方式……",
+    "Text": "我的希望是，如果能更了解城市的建设方式……",
     "OriginalText": "My hope is that with a better understanding of how the city was built...",
     "StartAddress": 3905888,
     "EndAddress": 3905950,
     "MaxLength": 63
   },
   {
-    "Text": "……我就能阻止那些怪兽的进行。",
+    "Text": "……我就能阻止那些怪兽前进。",
     "OriginalText": "...I can block the advance of those creatures.",
     "StartAddress": 3905952,
     "EndAddress": 3905998,
@@ -10829,21 +10829,21 @@
     "MaxLength": 39
   },
   {
-    "Text": "我把它买下来，是为了想创造最绝赞的度假地点。",
+    "Text": "我把它买下来，是为了想创造最顶级的度假圣地。",
     "OriginalText": "I purchased it in hopes of creating the ultimate vacation destination. ",
     "StartAddress": 3906144,
     "EndAddress": 3906214,
     "MaxLength": 71
   },
   {
-    "Text": "价钱低，而他们也真急切的想卖掉。",
+    "Text": "价格很低，而他们也真的急切地想卖掉。",
     "OriginalText": "The cost was low, and they were so eager to sell.",
     "StartAddress": 3906216,
     "EndAddress": 3906270,
     "MaxLength": 55
   },
   {
-    "Text": "我甚至把岛屿的名字改掉了。",
+    "Text": "我甚至把岛屿的名字都改了。",
     "OriginalText": "I even had the island renamed.",
     "StartAddress": 3906272,
     "EndAddress": 3906310,
@@ -10857,7 +10857,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "没人会想来海妖岛度假呢！",
+    "Text": "没人会想来海妖岛度假！",
     "OriginalText": "No one would want to spend their vacation on Siren Island!",
     "StartAddress": 3906336,
     "EndAddress": 3906374,
@@ -10878,7 +10878,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "但我不相信！",
+    "Text": "但我没相信！",
     "OriginalText": "But I didn't believe them!",
     "StartAddress": 3906424,
     "EndAddress": 3906446,
@@ -10920,7 +10920,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "……进去岛屿底下的沉没城市。",
+    "Text": "……到岛屿底下的沉没城市。",
     "OriginalText": "...Into the Sunken City beneath the island.",
     "StartAddress": 3906584,
     "EndAddress": 3906630,
@@ -10941,14 +10941,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "呵！",
+    "Text": "啊！",
     "OriginalText": "Gasp!",
     "StartAddress": 3906704,
     "EndAddress": 3906710,
     "MaxLength": 7
   },
   {
-    "Text": "但……你是怎么做得呢？",
+    "Text": "但……你是怎么做的呢？",
     "OriginalText": "But... How could you accomplish this?",
     "StartAddress": 3906712,
     "EndAddress": 3906750,
@@ -11004,7 +11004,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "不管使用什么手段，把那些女孩找出来而阻止那些海妖！",
+    "Text": "不管使用什么手段，把那些女孩找出来，并阻止那些海妖！",
     "OriginalText": "Do whatever it takes to find those girls and <1>STOP</1> those Sirens!",
     "StartAddress": 3907048,
     "EndAddress": 3907126,
@@ -11018,7 +11018,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "……预备岛屿疏散！",
+    "Text": "……准备疏散岛民！",
     "OriginalText": "...Prepare the island for evacuation!",
     "StartAddress": 3907168,
     "EndAddress": 3907214,
@@ -11032,7 +11032,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "掉的人一定肚子很饿！",
+    "Text": "掉的人一定饿肚子了！",
     "OriginalText": "Whoever dropped this must be awfully hungry!",
     "StartAddress": 3907264,
     "EndAddress": 3907318,
@@ -11053,7 +11053,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "你说你是来偷城市的！",
+    "Text": "你说你是来偷走城市的!",
     "OriginalText": "You said you came here to steal the city!",
     "StartAddress": 3907352,
     "EndAddress": 3907382,
@@ -11081,7 +11081,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "我警告你哦……",
+    "Text": "我警告你……",
     "OriginalText": "I'm warning you... ",
     "StartAddress": 3907448,
     "EndAddress": 3907470,
@@ -11095,14 +11095,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "不可能的！",
+    "Text": "不可能！",
     "OriginalText": "No way!",
     "StartAddress": 3907488,
     "EndAddress": 3907502,
     "MaxLength": 15
   },
   {
-    "Text": "那我就没有别的选择！",
+    "Text": "那我就没有别的选择了！",
     "OriginalText": "Then you leave me little choice!",
     "StartAddress": 3907504,
     "EndAddress": 3907558,
@@ -11130,7 +11130,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "感谢你没事！",
+    "Text": "你没事太好了！",
     "OriginalText": "Thank goodness you're ok!",
     "StartAddress": 3907648,
     "EndAddress": 3907670,
@@ -11151,28 +11151,28 @@
     "MaxLength": 15
   },
   {
-    "Text": "你也找到他们了吗？",
+    "Text": "你也找到她们了吗？",
     "OriginalText": "Did you find them, too?",
     "StartAddress": 3907736,
     "EndAddress": 3907766,
     "MaxLength": 31
   },
   {
-    "Text": "普林可、薇拉、和匝魄安心回到家了。",
+    "Text": "普林可、薇拉和匝魄安全回到家了。",
     "OriginalText": "Plink, Vera, and Zapple are home safe.",
     "StartAddress": 3907768,
     "EndAddress": 3907822,
     "MaxLength": 55
   },
   {
-    "Text": "我还得找出填。",
+    "Text": "还差布织稻。",
     "OriginalText": "I still need to find Fillin.",
     "StartAddress": 3907824,
     "EndAddress": 3907846,
     "MaxLength": 23
   },
   {
-    "Text": "填？",
+    "Text": "布…?",
     "OriginalText": "Fillin?",
     "StartAddress": 3907848,
     "EndAddress": 3907854,
@@ -11186,14 +11186,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "她跟我说她名字叫乖乖。",
+    "Text": "她跟我说她姓白。",
     "OriginalText": "She told me her name was Ima.",
     "StartAddress": 3907880,
     "EndAddress": 3907934,
     "MaxLength": 55
   },
   {
-    "Text": "乖乖女孩。",
+    "Text": "叫白付美。",
     "OriginalText": "Ima Goodgirl.",
     "StartAddress": 3907936,
     "EndAddress": 3907950,
@@ -11228,7 +11228,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "骗人……",
+    "Text": "爱撒谎……",
     "OriginalText": "Lying...",
     "StartAddress": 3908080,
     "EndAddress": 3908094,
@@ -11291,14 +11291,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "我该早点跟你说。",
+    "Text": "我该早点跟你说的。",
     "OriginalText": "I should have said something. ",
     "StartAddress": 3908280,
     "EndAddress": 3908310,
     "MaxLength": 31
   },
   {
-    "Text": "现在因为我，她也被混进这一堆乱。",
+    "Text": "现在因为我，她也被卷进这团乱麻。",
     "OriginalText": "Now because of me she's mixed up in this madness.",
     "StartAddress": 3908312,
     "EndAddress": 3908366,
@@ -11319,14 +11319,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "你会的……",
+    "Text": "用这个…",
     "OriginalText": "You will...",
     "StartAddress": 3908432,
     "EndAddress": 3908446,
     "MaxLength": 15
   },
   {
-    "Text": "使用着这一个！",
+    "Text": "你就能救出她！",
     "OriginalText": "By using this!",
     "StartAddress": 3908448,
     "EndAddress": 3908510,
