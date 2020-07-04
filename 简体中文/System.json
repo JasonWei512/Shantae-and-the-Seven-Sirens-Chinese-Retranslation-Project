@@ -1393,7 +1393,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "大头目",
+    "Text": "Boss",
     "OriginalText": "Boss",
     "StartAddress": 375232,
     "EndAddress": 375246,
@@ -2800,7 +2800,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "只有传说之勇士能集齐<1>三颗聋珠</1>！专利申请中。",
+    "Text": "只有传说之勇者能集齐<1>三颗聋珠</1>！专利申请中。",
     "OriginalText": "Only the Champ of Legend can find all <1>THREE DAGRON BALLS</1>! Patent pending.",
     "StartAddress": 381200,
     "EndAddress": 381278,
