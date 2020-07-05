@@ -35,7 +35,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "你收到了",
+    "Text": "你得到了",
     "OriginalText": "You got ",
     "StartAddress": 370968,
     "EndAddress": 370982,
@@ -763,7 +763,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "手柄配置",
+    "Text": "控制器配置",
     "OriginalText": "Controller Configuration",
     "StartAddress": 373776,
     "EndAddress": 373790,

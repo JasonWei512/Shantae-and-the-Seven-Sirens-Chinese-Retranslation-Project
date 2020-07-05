@@ -105,7 +105,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "好啦，快去认识其他的表演者吧！",
+    "Text": "好啦，快去见见其他的表演者吧！",
     "OriginalText": "Now hurry up and meet your fellow performers!",
     "StartAddress": 3846616,
     "EndAddress": 3846662,
@@ -147,7 +147,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "如果你跟着旅行团，请不要分开，小心脚步！",
+    "Text": "如果你跟着旅行团，请不要分开，小心脚下！",
     "OriginalText": "If you are with a tour group, please stick together and watch your step!",
     "StartAddress": 3846984,
     "EndAddress": 3847046,
@@ -553,14 +553,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "谢谢你来。",
+    "Text": "感谢你来。",
     "OriginalText": "Thank you for coming.",
     "StartAddress": 3849216,
     "EndAddress": 3849230,
     "MaxLength": 15
   },
   {
-    "Text": "我很开心主办这活动…",
+    "Text": "我很荣幸主办这活动…",
     "OriginalText": "It is my greatest pleasure to host this event...",
     "StartAddress": 3849232,
     "EndAddress": 3849262,
@@ -581,14 +581,14 @@
     "MaxLength": 87
   },
   {
-    "Text": "我想要世界各地的人都能亲自见证到这魔法！",
+    "Text": "我想要世界各地的人都能亲自目睹这份神奇！",
     "OriginalText": "I want people from all over the world to witness the magic firsthand!",
     "StartAddress": 3849392,
     "EndAddress": 3849454,
     "MaxLength": 63
   },
   {
-    "Text": "这样他们才能更了解他们的半人、半精灵邻居！",
+    "Text": "这样人们才能更了解他们的半人、半精灵邻居！",
     "OriginalText": "That way they can better understand their half-human, half-genie neighbors!",
     "StartAddress": 3849456,
     "EndAddress": 3849518,
@@ -714,7 +714,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "所以我想让你今晚上台参与试演活动！",
+    "Text": "所以，我想让你今晚就上台参与试演！",
     "OriginalText": "That's why I want you up on that stage for the sneak-peek preview event - tonight! ",
     "StartAddress": 3850208,
     "EndAddress": 3850270,
@@ -882,7 +882,7 @@
     "MaxLength": 71
   },
   {
-    "Text": "如果忘记要做什么，打开<1>子屏幕</1>翻看项目找出提示。",
+    "Text": "如果忘记要做什么，打开<1>子屏幕</1>翻看道具找出提示。",
     "OriginalText": "If you ever forget what to do, open the <1>SUBSCREEN</1> and browse through your items for hints.",
     "StartAddress": 3850976,
     "EndAddress": 3851054,
@@ -1001,7 +1001,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "但是认识薇拉之后，我半精灵感官开始乱七八糟了。",
+    "Text": "但是认识薇拉之后，我的半精灵感官开始混乱了。",
     "OriginalText": "But since meeting Vera, my Half-Genie senses keep going nuts.",
     "StartAddress": 3851600,
     "EndAddress": 3851670,
@@ -1134,7 +1134,7 @@
     "MaxLength": 71
   },
   {
-    "Text": "但我想支持我的半精灵同伴们，好好使用我<1>恢复</1>魔法。",
+    "Text": "但我想支持我的半精灵同伴们，让我的<1>恢复</1>魔法派上用场。",
     "OriginalText": "But I wanted to support my fellow Half-Genies and put my <1>REFRESH</1> magic to good use. ",
     "StartAddress": 3852312,
     "EndAddress": 3852398,
@@ -1379,7 +1379,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "<1>变形</1>!!!>",
+    "Text": "<1>变形</1>!!!",
     "OriginalText": "<1>TRAAAAAAANS-FORRRRM</1>!!!",
     "StartAddress": 3853496,
     "EndAddress": 3853518,
@@ -1561,7 +1561,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "所以呢，除非精灵有一天回来……",
+    "Text": "所以，除非精灵们有一天回来……",
     "OriginalText": "So unless the Genies return someday...",
     "StartAddress": 3854552,
     "EndAddress": 3854598,
@@ -1589,7 +1589,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "...我们一定得尽力去改变世界，你不觉得吗？",
+    "Text": "...我们得尽力去留下我们的印记，你不觉得吗？",
     "OriginalText": "...We must do our <1>VERY BEST</1> to make a difference in this world, don't you think?",
     "StartAddress": 3854712,
     "EndAddress": 3854774,
@@ -2002,7 +2002,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "全部五位都来了！",
+    "Text": "全部五位都齐了！",
     "OriginalText": "That's all five!",
     "StartAddress": 3856488,
     "EndAddress": 3856518,
@@ -2107,21 +2107,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "你随你便去做！",
+    "Text": "随你怎么做！",
     "OriginalText": "You do what you want! ",
     "StartAddress": 3857024,
     "EndAddress": 3857046,
     "MaxLength": 23
   },
   {
-    "Text": "我被保证了度假！",
+    "Text": "我是来度假的！",
     "OriginalText": "I was promised a vacation! ",
     "StartAddress": 3857048,
     "EndAddress": 3857078,
     "MaxLength": 31
   },
   {
-    "Text": "而我就是要度假！",
+    "Text": "我可要好好休息了！",
     "OriginalText": "And I'm going to get one!",
     "StartAddress": 3857080,
     "EndAddress": 3857110,
@@ -2205,7 +2205,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "...然后我会把它查个水落石出！",
+    "Text": "...而我会把它查个水落石出！",
     "OriginalText": "...And I'm going to get to the <1>VERY BOTTOM</1> of it!",
     "StartAddress": 3857592,
     "EndAddress": 3857646,
@@ -2219,7 +2219,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "你在下面做什么啊？",
+    "Text": "你在这下面做什么？",
     "OriginalText": "What are you doing down here?",
     "StartAddress": 3857664,
     "EndAddress": 3857694,
@@ -2275,14 +2275,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "但我想到底还是安全第一。",
+    "Text": "但我想毕竟还是安全第一。",
     "OriginalText": "But I suppose safety must come first, after all. ",
     "StartAddress": 3857992,
     "EndAddress": 3858030,
     "MaxLength": 39
   },
   {
-    "Text": "导游说了甚至拿起<1>一颗石头<1>就够引起塌方。",
+    "Text": "导游说即使拿起<1>一块石头</1>都能引起塌方。",
     "OriginalText": "The tour guide said that removing even a <1>SINGLE STONE BLOCK</1> could be enough to cause a cave in.",
     "StartAddress": 3858032,
     "EndAddress": 3858094,
@@ -2324,7 +2324,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "只要拿起一颗石头。",
+    "Text": "只要拿起一块石头。",
     "OriginalText": "Removing even one block. ",
     "StartAddress": 3858192,
     "EndAddress": 3858222,
@@ -2338,7 +2338,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "这都是什么情况？",
+    "Text": "什么情况？",
     "OriginalText": "Now what is all this now?",
     "StartAddress": 3858256,
     "EndAddress": 3858294,
@@ -2359,7 +2359,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "叔叔，你在那上面听得见我吗？",
+    "Text": "叔叔，你在上面听得见吗？",
     "OriginalText": "Uncle can you hear me up there?",
     "StartAddress": 3858368,
     "EndAddress": 3858430,
@@ -2380,14 +2380,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "嚇！",
+    "Text": "啊！",
     "OriginalText": "Gasp!",
     "StartAddress": 3858496,
     "EndAddress": 3858502,
     "MaxLength": 7
   },
   {
-    "Text": "我一定在沉没城市比较古老的区！",
+    "Text": "一定是沉没城市中更古老的那部分!",
     "OriginalText": "I must be in an older part of the Sunken City!",
     "StartAddress": 3858504,
     "EndAddress": 3858550,
@@ -2401,7 +2401,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "险险一定就是用了这些隧道把半精灵拐走！",
+    "Text": "险险一定就是用了这些隧道把半精灵拐走的！",
     "OriginalText": "Risky must've used these tunnels to spirit the Half-Genies away!",
     "StartAddress": 3858576,
     "EndAddress": 3858638,
@@ -2471,7 +2471,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "随你便去想。",
+    "Text": "随你怎么想。",
     "OriginalText": "Think what you like.",
     "StartAddress": 3858984,
     "EndAddress": 3859006,
@@ -2569,7 +2569,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "哪儿……",
+    "Text": "我……",
     "OriginalText": "Where...",
     "StartAddress": 3859392,
     "EndAddress": 3859406,
@@ -2674,7 +2674,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "快冲水蜥是住在岛上很少见的动物。",
+    "Text": "快冲水蜥是岛上的稀有生物。",
     "OriginalText": "Dash Newts are rare creatures that inhabit the island.",
     "StartAddress": 3859832,
     "EndAddress": 3859886,
@@ -2709,35 +2709,35 @@
     "MaxLength": 55
   },
   {
-    "Text": "若<1>朝墙壁快冲</1>，可以粘住它！",
+    "Text": "<1>朝墙壁快冲</1>可以粘在墙上！",
     "OriginalText": " If you <1>DASH INTO A WALL</1>, you can stick to it!",
     "StartAddress": 3860080,
     "EndAddress": 3860126,
     "MaxLength": 47
   },
   {
-    "Text": "试试看！",
+    "Text": "试试看吧！",
     "OriginalText": "Give it a shot!",
     "StartAddress": 3860128,
     "EndAddress": 3860142,
     "MaxLength": 15
   },
   {
-    "Text": "点按 <I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来快冲！若朝墙壁快冲，可以粘住它！试试看！",
+    "Text": "点按 <I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> 来快冲！若朝墙壁快冲，可以粘住它！试试看！",
     "OriginalText": "Tap the  <I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> to <1>DASH</1>! If you <1>DASH INTO A WALL</1>, you can stick to it! Give it a shot!",
     "StartAddress": 3860144,
     "EndAddress": 3860342,
     "MaxLength": 199
   },
   {
-    "Text": "按 <IB action=Dash /><1>快冲</1>。在快冲时，甚至可以<1>粘住墙壁</1>!",
+    "Text": "按 <IB action=Dash /> <1>快冲</1>。在快冲时，你甚至可以<1>粘住墙壁</1>!",
     "OriginalText": "Press <IB action=Dash /> to <1>DASH</1>. While dashing, you can even <1>STICK TO WALLS</1>!",
     "StartAddress": 3860344,
     "EndAddress": 3860438,
     "MaxLength": 95
   },
   {
-    "Text": "点按<I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来快冲！若朝墙壁快冲，可以粘住它！试试看！",
+    "Text": "点按 <I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> 来快冲！若朝墙壁快冲，可以粘住它！试试看！",
     "OriginalText": "Tap the  <I anim=ui_global:ios_button_fusion.anb seq=icon_spark scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> to <1>DASH</1>! If you <1>DASH INTO A WALL</1>, you can stick to it! Give it a shot!",
     "StartAddress": 3860440,
     "EndAddress": 3860630,
@@ -4368,14 +4368,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "那些场馆镇傻子若不愿意开这舱口…",
+    "Text": "如果那些场馆镇傻子不愿意开这舱口…",
     "OriginalText": "If those Arena Town fools won't open this hatch willingly...",
     "StartAddress": 3869952,
     "EndAddress": 3870006,
     "MaxLength": 55
   },
   {
-    "Text": "...我就来<1>爆破</1>进去！",
+    "Text": "...我就自己<1>炸</1>进去！",
     "OriginalText": "...I'll simply <1>BLAST</1> my way in!",
     "StartAddress": 3870008,
     "EndAddress": 3870062,
@@ -4396,7 +4396,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "怎么了？",
+    "Text": "哎！",
     "OriginalText": "Well?",
     "StartAddress": 3870192,
     "EndAddress": 3870206,
@@ -4417,7 +4417,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "不久，<1>绝对的力量</1>将会属于我！",
+    "Text": "<1>绝对的力量</1>马上就会属于我了！",
     "OriginalText": "It won't be long before <1>ABSOLUTE POWER</1> belongs to me!",
     "StartAddress": 3870296,
     "EndAddress": 3870366,
@@ -6377,7 +6377,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "棒克乌龟是住在岛上很少见的动物。",
+    "Text": "棒克乌龟是岛上的稀有生物。",
     "OriginalText": "Bonker Tortoises are rare creatures that inhabit this island.",
     "StartAddress": 3881592,
     "EndAddress": 3881646,
@@ -11354,7 +11354,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "海蛙是住在岛屿上很少见的生物。",
+    "Text": "海蛙是岛上的稀有生物。",
     "OriginalText": "Sea Frogs are rare creatures that inhabit this island.",
     "StartAddress": 3908584,
     "EndAddress": 3908630,
@@ -13804,7 +13804,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "喷射章鱼是住在岛屿上很少见的生物。",
+    "Text": "喷射章鱼是岛上的稀有生物。",
     "OriginalText": "Jet Octos are rare creatures that inhabit this island.",
     "StartAddress": 3922888,
     "EndAddress": 3922942,
@@ -23366,21 +23366,21 @@
     "MaxLength": 71
   },
   {
-    "Text": "这桥正在维修中。",
+    "Text": "该桥正在维修中。",
     "OriginalText": "The bridge is under repair.",
     "StartAddress": 3979112,
     "EndAddress": 3979142,
     "MaxLength": 31
   },
   {
-    "Text": "请注意脚部！",
+    "Text": "请注意脚下！",
     "OriginalText": "Please mind your step!",
     "StartAddress": 3979144,
     "EndAddress": 3979182,
     "MaxLength": 39
   },
   {
-    "Text": "这坑目前禁止通过，由于我们正在进行生活品质修理。",
+    "Text": "此坑由于正在进行修理，目前禁止入内。",
     "OriginalText": "This pit is strictly off limits while we conduct quality of life repairs.",
     "StartAddress": 3979184,
     "EndAddress": 3979262,
