@@ -119,7 +119,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "这城市里有<1>五个半精灵</1>，所以你得尽快找出她们。",
+    "Text": "这城市里有<1>五位半精灵</1>，所以你得尽快找出她们。",
     "OriginalText": "There are <1>FIVE HALF-GENIES</1> on this island, so you’d better find them fast.",
     "StartAddress": 3846720,
     "EndAddress": 3846814,
@@ -861,7 +861,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "找出其他<1>五个</1>半精灵！",
+    "Text": "找出其他<1>五位</1>半精灵！",
     "OriginalText": "Find the <1>FIVE</1> other Half-Genies for the Mayor!",
     "StartAddress": 3850816,
     "EndAddress": 3850854,
@@ -11361,14 +11361,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "它们能使用高速度游过咸水！",
+    "Text": "它们能在海中高速游泳！",
     "OriginalText": "They can swim through salt water at super high speeds!",
     "StartAddress": 3908632,
     "EndAddress": 3908670,
     "MaxLength": 39
   },
   {
-    "Text": "使用者它能力，你也许就能找出这地方<1>邪恶的的来源</1>！",
+    "Text": "也许你能使用它的能力去找出这地方的<1>邪恶之源</1>！",
     "OriginalText": "By using its abilities, you may be able to locate the <1>SOURCE OF EVIL</1> in this place!",
     "StartAddress": 3908672,
     "EndAddress": 3908750,
@@ -11403,14 +11403,14 @@
     "MaxLength": 111
   },
   {
-    "Text": "入侵者！",
+    "Text": "有入侵者！",
     "OriginalText": "INTRUDER ALERT!",
     "StartAddress": 3909152,
     "EndAddress": 3909166,
     "MaxLength": 15
   },
   {
-    "Text": "男人秘境里有女人！",
+    "Text": "男人洞穴里有女人！",
     "OriginalText": "WOMEN IN THE MAN CAVE!",
     "StartAddress": 3909168,
     "EndAddress": 3909198,
@@ -11431,7 +11431,7 @@
     "MaxLength": 79
   },
   {
-    "Text": "汪。往。",
+    "Text": "汪。汪。",
     "OriginalText": "Woof. Woof.",
     "StartAddress": 3909296,
     "EndAddress": 3909310,
@@ -11445,7 +11445,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "（呜咽）",
+    "Text": "（呜！）",
     "OriginalText": "(whimper!)",
     "StartAddress": 3909336,
     "EndAddress": 3909382,
@@ -11494,7 +11494,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "你怎么能那么确定呢？",
+    "Text": "你为什么那么确定呢？",
     "OriginalText": "What makes you so sure?",
     "StartAddress": 3909576,
     "EndAddress": 3909606,
@@ -11536,14 +11536,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "她们离开们回去她们的世界之前，每一位精灵都有留言。",
+    "Text": "在动身回到她们的世界之前，每位精灵都留下了一些话。",
     "OriginalText": "Before they left for their own realm, each Genie wrote something down.",
     "StartAddress": 3909736,
     "EndAddress": 3909814,
     "MaxLength": 79
   },
   {
-    "Text": "里面充满着回忆、指教……",
+    "Text": "里面充满着回忆、教导……",
     "OriginalText": "It's full of memories, bits of advice... ",
     "StartAddress": 3909816,
     "EndAddress": 3909854,
@@ -11557,14 +11557,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "她们就把书交给我因为我是最大的。",
+    "Text": "因为我是最大的，她们就把书交给了我。",
     "OriginalText": "Since I was the oldest, they left the book in my care.",
     "StartAddress": 3909904,
     "EndAddress": 3909958,
     "MaxLength": 55
   },
   {
-    "Text": "我是希望来到这岛屿……",
+    "Text": "我希望通过来到这个岛……",
     "OriginalText": "I'd hoped that by visiting this island...",
     "StartAddress": 3909960,
     "EndAddress": 3909998,
@@ -11578,7 +11578,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "……我就终于能跟你们其他半精灵分享呢！",
+    "Text": "……我就终于能跟你们其他半精灵一起分享它！",
     "OriginalText": "...I'd finally be able to share it with other Half-Genies like you!",
     "StartAddress": 3910032,
     "EndAddress": 3910094,
@@ -11599,7 +11599,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "<1>我精灵妈妈</1>的留言？",
+    "Text": "<1>我的精灵妈妈</1>的留言？",
     "OriginalText": "A message from <1>MY GENIE MOTHER</1>?",
     "StartAddress": 3910160,
     "EndAddress": 3910198,
@@ -11613,7 +11613,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "唉。有多么想要。",
+    "Text": "唉。当然想。",
     "OriginalText": "Sigh. More than anything.",
     "StartAddress": 3910216,
     "EndAddress": 3910246,
@@ -11641,7 +11641,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "若有任何我能帮的事，就请问！",
+    "Text": "如果有我能帮上忙的事，尽管问！",
     "OriginalText": "If there's anything I can do, just ask!",
     "StartAddress": 3910328,
     "EndAddress": 3910374,
@@ -11655,7 +11655,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "请教帮忙实在不简单……",
+    "Text": "请别人帮忙实在不简单……",
     "OriginalText": "Asking for help is kinda hard...",
     "StartAddress": 3910392,
     "EndAddress": 3910430,
@@ -11669,14 +11669,14 @@
     "MaxLength": 7
   },
   {
-    "Text": "普林可、薇拉、和匝魄都用了融合石跟我合并能力。",
+    "Text": "普林可、薇拉和匝魄都用了融合石跟我融合能力。",
     "OriginalText": "Plink, Vera, and Zapple used Fusion Stones to merge their powers with me.",
     "StartAddress": 3910440,
     "EndAddress": 3910510,
     "MaxLength": 71
   },
   {
-    "Text": "她们的魔法帮助我救出你。",
+    "Text": "她们的魔法帮我救出了你。",
     "OriginalText": "Their magic helped me rescue you.",
     "StartAddress": 3910512,
     "EndAddress": 3910550,
@@ -11711,7 +11711,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "请教帮忙一定才是最难的挑战。",
+    "Text": "请别人帮忙一定才是最难的挑战。",
     "OriginalText": "Asking for help must be the toughest challenge of all!",
     "StartAddress": 3910640,
     "EndAddress": 3910686,
@@ -11739,14 +11739,14 @@
     "MaxLength": 7
   },
   {
-    "Text": "那我们得开始找吧！",
+    "Text": "那我们开始找吧！",
     "OriginalText": "We'd better start searching for one!",
     "StartAddress": 3910800,
     "EndAddress": 3910830,
     "MaxLength": 31
   },
   {
-    "Text": "就跟着我！",
+    "Text": "跟着我！",
     "OriginalText": "Follow me!",
     "StartAddress": 3910832,
     "EndAddress": 3910870,
@@ -11760,56 +11760,56 @@
     "MaxLength": 15
   },
   {
-    "Text": "你的朋友很有趣呢。他说你的寻求需要精灵魔法。",
+    "Text": "你的朋友很有趣呢。她说你的任务需要精灵魔法。",
     "OriginalText": "Your friend here is very interesting. She says you need <1>GENIE MAGIC</1> for your quest.",
     "StartAddress": 3910888,
     "EndAddress": 3910958,
     "MaxLength": 71
   },
   {
-    "Text": "我个人是没有魔法，但再往更深下去，到海底有一位。",
+    "Text": "我个人是没有魔法，但在更深处的海底有一位。",
     "OriginalText": "I do not have any of my own, but there is someone deeper down, at the bottom of the sea.",
     "StartAddress": 3910960,
     "EndAddress": 3911038,
     "MaxLength": 79
   },
   {
-    "Text": "这邋遢的老鬼也许能帮助你。",
+    "Text": "这<1>邋遢的老鬼</1>也许能帮助你。",
     "OriginalText": "This <1>MANGY OLD GHOST</1> might be able to help you.",
     "StartAddress": 3911040,
     "EndAddress": 3911094,
     "MaxLength": 55
   },
   {
-    "Text": "走到<1>海底</1>，你很快就会找出你所寻找的。",
+    "Text": "前往<1>海底</1>，你很快就会找到你所寻找的。",
     "OriginalText": "Travel to the <1>OCEAN FLOOR</1>, and you will soon find that which you seek!",
     "StartAddress": 3911096,
     "EndAddress": 3911158,
     "MaxLength": 63
   },
   {
-    "Text": "你得走到更低！",
+    "Text": "你得去更深的地方！",
     "OriginalText": "Even lower, you must go!",
     "StartAddress": 3911160,
     "EndAddress": 3911214,
     "MaxLength": 55
   },
   {
-    "Text": "<1>狗颈圈</1>？我可以看吗？",
+    "Text": "<1>狗颈圈</1>？我可以看看吗？",
     "OriginalText": "A <1>DOG COLLAR</1>? May I see it?",
     "StartAddress": 3911216,
     "EndAddress": 3911270,
     "MaxLength": 55
   },
   {
-    "Text": "嗯！随你便！",
+    "Text": "哼！随你便！",
     "OriginalText": "Hmph! Suit yourself!",
     "StartAddress": 3911272,
     "EndAddress": 3911310,
     "MaxLength": 39
   },
   {
-    "Text": "嗯！",
+    "Text": "哼！",
     "OriginalText": "Hmph!",
     "StartAddress": 3911312,
     "EndAddress": 3911318,
@@ -11823,14 +11823,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "看起来像精灵的衣服！",
+    "Text": "看起来像精灵的饰品！",
     "OriginalText": "Looks like Genie clothing.",
     "StartAddress": 3911344,
     "EndAddress": 3911374,
     "MaxLength": 31
   },
   {
-    "Text": "这石垂饰是个<1>融合石</1>！",
+    "Text": "这石饰坠是个<1>融合石</1>！",
     "OriginalText": "The stone pendant is a <1>FUSION STONE</1>!",
     "StartAddress": 3911376,
     "EndAddress": 3911414,
@@ -11858,21 +11858,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "她到底去哪儿？",
+    "Text": "她到底去哪儿了?",
     "OriginalText": "Where did she go?",
     "StartAddress": 3911512,
     "EndAddress": 3911534,
     "MaxLength": 23
   },
   {
-    "Text": "呸！",
+    "Text": "切！",
     "OriginalText": "Phoo!",
     "StartAddress": 3911536,
     "EndAddress": 3911542,
     "MaxLength": 7
   },
   {
-    "Text": "我叫她不要随着声音呢！",
+    "Text": "我叫她不要循着声音走！",
     "OriginalText": "I told her not to follow voices.",
     "StartAddress": 3911544,
     "EndAddress": 3911582,
@@ -11907,14 +11907,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "去吧！去上面矿山找你朋友……",
+    "Text": "去吧！去上面的矿山找你朋友……",
     "OriginalText": "Go! Find your friend in the <1>MINES ABOVE</1>...",
     "StartAddress": 3911720,
     "EndAddress": 3911766,
     "MaxLength": 47
   },
   {
-    "Text": "……而给她你手上的融合石！",
+    "Text": "……然后给她你手上的融合石！",
     "OriginalText": "...and give her the <1>FUSION STONE</1> that you hold!",
     "StartAddress": 3911768,
     "EndAddress": 3911822,
@@ -11928,7 +11928,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "……而给她你手上的融合石！",
+    "Text": "……然后给她你手上的融合石！",
     "OriginalText": "...and give her the <1>FUSION STONE</1> that you hold!",
     "StartAddress": 3911872,
     "EndAddress": 3911926,
@@ -11942,7 +11942,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "你找到了<1>一个手环！</1>",
+    "Text": "你找到了<1>一个手镯！</1>",
     "OriginalText": "You found <1>ONE BRACELET</1>!",
     "StartAddress": 3911952,
     "EndAddress": 3911990,
@@ -11970,7 +11970,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "你有<1>两个手环</1>！",
+    "Text": "你有<1>两个手镯</1>！",
     "OriginalText": "You have <1>BOTH BRACELETS</1>!",
     "StartAddress": 3912104,
     "EndAddress": 3912134,
@@ -12005,7 +12005,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "你有<1>两个手环</1>！",
+    "Text": "你有<1>两个手镯</1>！",
     "OriginalText": "You have <1>BOTH BRACELETS</1>!",
     "StartAddress": 3912256,
     "EndAddress": 3912286,
@@ -12082,7 +12082,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "那癞皮狗想要手环啊？",
+    "Text": "那癞皮狗想要手镯啊？",
     "OriginalText": "That mangy dog wants <1>BRACELETS</1>?",
     "StartAddress": 3912752,
     "EndAddress": 3912782,
@@ -12383,21 +12383,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "很久以前，这岛屿的守护者藏了<1>两个手环</1>在上面的<1>矿山</1>。",
+    "Text": "很久以前，这岛屿的守护者藏了<1>两个手镯</1>在上面的<1>矿山</1>。",
     "OriginalText": "Long ago, the guardian of this island hid  <1>TWO BRACELETS</1> in the <1>MINES</1> up above.",
     "StartAddress": 3914080,
     "EndAddress": 3914174,
     "MaxLength": 95
   },
   {
-    "Text": "手环？",
+    "Text": "手镯？",
     "OriginalText": "Bracelets?",
     "StartAddress": 3914176,
     "EndAddress": 3914190,
     "MaxLength": 15
   },
   {
-    "Text": "这些手环就是把城市叫醒的<1>钥匙</1>。",
+    "Text": "这些手镯就是把城市叫醒的<1>钥匙</1>。",
     "OriginalText": "These bracelets are the <1>KEY</1> to waking the city.",
     "StartAddress": 3914192,
     "EndAddress": 3914246,
@@ -12467,7 +12467,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "若要叫醒城市，你得带来两个手环给我。",
+    "Text": "若要叫醒城市，你得带来两个手镯给我。",
     "OriginalText": "To wake the city, bring me <1>TWO BRACELETS</1>.",
     "StartAddress": 3914560,
     "EndAddress": 3914614,
@@ -12488,14 +12488,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "请使用你的能力帮我找出我主人的手环。",
+    "Text": "请使用你的能力帮我找出我主人的手镯。",
     "OriginalText": "Please use your power to find my master’s <1>BRACELETS</1>.",
     "StartAddress": 3914720,
     "EndAddress": 3914806,
     "MaxLength": 87
   },
   {
-    "Text": "你把手环带来了！我可以闻闻看吗？",
+    "Text": "你把手镯带来了！我可以闻闻看吗？",
     "OriginalText": "You brought the <1>BRACELETS</1>! May I sniff them?",
     "StartAddress": 3914808,
     "EndAddress": 3914878,
@@ -12649,7 +12649,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "现在，我会把<1>两个手环</1>并起来，重新构成<1>电棒</1>。",
+    "Text": "现在，我会把<1>两个手镯</1>并起来，重新构成<1>电棒</1>。",
     "OriginalText": "Now, I will combine the <1>TWO BRACELETS</1> to form the <1>POWER ROD</1> once more.",
     "StartAddress": 3915720,
     "EndAddress": 3915798,
@@ -12978,7 +12978,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "你找到<1>手环</1>了！",
+    "Text": "你找到<1>手镯</1>了！",
     "OriginalText": "You found the <1>BRACELETS</1>!",
     "StartAddress": 3918192,
     "EndAddress": 3918222,
@@ -13139,7 +13139,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "有人说这附近埋了<1>两个手环</1>。",
+    "Text": "有人说这附近埋了<1>两个手镯</1>。",
     "OriginalText": "It said there were <1>TWO BRACELETS</1> buried around here.",
     "StartAddress": 3919072,
     "EndAddress": 3919118,

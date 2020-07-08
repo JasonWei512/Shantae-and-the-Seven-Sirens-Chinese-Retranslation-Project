@@ -2030,7 +2030,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "融合手环",
+    "Text": "融合手镯",
     "OriginalText": "Fused Bracelet",
     "StartAddress": 377184,
     "EndAddress": 377198,
@@ -2128,14 +2128,14 @@
     "MaxLength": 7
   },
   {
-    "Text": "左手环",
+    "Text": "左手镯",
     "OriginalText": "Left Bracelet",
     "StartAddress": 377392,
     "EndAddress": 377406,
     "MaxLength": 15
   },
   {
-    "Text": "手环",
+    "Text": "手镯",
     "OriginalText": "Bracelets",
     "StartAddress": 377408,
     "EndAddress": 377414,
@@ -2275,7 +2275,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "右手环",
+    "Text": "右手镯",
     "OriginalText": "Right Bracelet",
     "StartAddress": 377728,
     "EndAddress": 377742,
@@ -2569,7 +2569,7 @@
     "MaxLength": 111
   },
   {
-    "Text": "融合手环",
+    "Text": "融合手镯",
     "OriginalText": "Fused Bracelet",
     "StartAddress": 379584,
     "EndAddress": 379598,
@@ -4312,7 +4312,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "增加这热导武器的数量、速度、和伤害！",
+    "Text": "增加这热导武器的数量、速度和伤害！",
     "OriginalText": "Increase the number, speed, and damage of these heat-seeking beauties!",
     "StartAddress": 387256,
     "EndAddress": 387318,
