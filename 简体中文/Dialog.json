@@ -11935,7 +11935,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "好的，好的！",
+    "Text": "好！",
     "OriginalText": "Well, well!",
     "StartAddress": 3911928,
     "EndAddress": 3911950,
@@ -11949,7 +11949,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "其他的还藏在矿山里！",
+    "Text": "另一个还藏在矿山里！",
     "OriginalText": "The other still hides in the mines!",
     "StartAddress": 3911992,
     "EndAddress": 3912022,
@@ -11963,7 +11963,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "那应该能帮你一些！",
+    "Text": "应该能帮上你！",
     "OriginalText": "That should do the trick!",
     "StartAddress": 3912056,
     "EndAddress": 3912102,
@@ -11998,7 +11998,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "回去你的<1>鬼狗</1>！",
+    "Text": "回到<1>鬼狗</1>那里！",
     "OriginalText": "Back to your <1>GHOST DOG</1>!",
     "StartAddress": 3912208,
     "EndAddress": 3912254,
@@ -12012,14 +12012,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "快回去<1>鬼狗</1>！",
+    "Text": "快回到<1>鬼狗</1>那里！",
     "OriginalText": "Back to the <1>GHOST DOG</1> with you!",
     "StartAddress": 3912288,
     "EndAddress": 3912334,
     "MaxLength": 47
   },
   {
-    "Text": "你把电源恢复到那<1>棒子</1>了吗？",
+    "Text": "你让<1>棒子</1>恢复电力了？",
     "OriginalText": "You've returned power to that <1>ROD</1>?",
     "StartAddress": 3912336,
     "EndAddress": 3912382,
@@ -12033,28 +12033,28 @@
     "MaxLength": 47
   },
   {
-    "Text": "来找我帮忙！",
+    "Text": "让我来帮忙！",
     "OriginalText": "Came to me for help!",
     "StartAddress": 3912432,
     "EndAddress": 3912454,
     "MaxLength": 23
   },
   {
-    "Text": "我处处都去过了，孩子？",
+    "Text": "岛上哪个地方我没有去过？",
     "OriginalText": "I've been everywhere, you know!",
     "StartAddress": 3912456,
     "EndAddress": 3912494,
     "MaxLength": 39
   },
   {
-    "Text": "<1>深海底</1>里的<1>控制室</1>是你的目标！",
+    "Text": "<1>深海</1>里的<1>控制室</1>就是你的目标！",
     "OriginalText": "The <1>CONTROL ROOM</1> in <1>DEEP SEA</1> is your goal!",
     "StartAddress": 3912496,
     "EndAddress": 3912558,
     "MaxLength": 63
   },
   {
-    "Text": "试试看往鬼狗<1>上面三楼</1>！",
+    "Text": "试试看鬼狗<1>上面三层</1>的地方！",
     "OriginalText": "Try <1>THREE FLOORS UP</1> from the Ghost Dog!",
     "StartAddress": 3912560,
     "EndAddress": 3912606,
@@ -12075,14 +12075,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "也许东边的实验室能服务你最好！",
+    "Text": "也许你该去<1>东边的实验室</1>！",
     "OriginalText": "Perhaps the <1>SCIENCE LAB</1> to the <1>EAST</1> will serve you best!",
     "StartAddress": 3912688,
     "EndAddress": 3912750,
     "MaxLength": 63
   },
   {
-    "Text": "那癞皮狗想要手镯啊？",
+    "Text": "那癞皮狗想要手镯？",
     "OriginalText": "That mangy dog wants <1>BRACELETS</1>?",
     "StartAddress": 3912752,
     "EndAddress": 3912782,
@@ -12103,21 +12103,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "<1>海底</1>欢迎你。",
+    "Text": "欢迎来到<1>海底</1>。",
     "OriginalText": "Welcome to the very <1>BOTTOM OF THE SEA</1>.",
     "StartAddress": 3912872,
     "EndAddress": 3912902,
     "MaxLength": 31
   },
   {
-    "Text": "你是谁啊？",
+    "Text": "你是谁？",
     "OriginalText": "Who are you?",
     "StartAddress": 3912904,
     "EndAddress": 3912918,
     "MaxLength": 15
   },
   {
-    "Text": "我是个低下的鬼狗。",
+    "Text": "我是只卑下的鬼狗。",
     "OriginalText": "I am a lowly ghost dog.",
     "StartAddress": 3912920,
     "EndAddress": 3912950,
@@ -12152,7 +12152,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我在拯救我朋友的寻求中。",
+    "Text": "我正在拯救我朋友的途中。",
     "OriginalText": "I'm on a quest to rescue my friend.",
     "StartAddress": 3913048,
     "EndAddress": 3913086,
@@ -12180,14 +12180,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "你的朋友一定在这封闭的门另外一边。",
+    "Text": "你的朋友一定在这封闭的门的另一边。",
     "OriginalText": "Your friend must be trapped beyond this seal.",
     "StartAddress": 3913152,
     "EndAddress": 3913206,
     "MaxLength": 55
   },
   {
-    "Text": "拯救是不可能的。",
+    "Text": "拯她是不可能的。",
     "OriginalText": "Rescue is impossible.",
     "StartAddress": 3913208,
     "EndAddress": 3913238,
@@ -12208,7 +12208,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "你若想开舱口……",
+    "Text": "你如果想开舱口……",
     "OriginalText": "In order to open the hatch...",
     "StartAddress": 3913272,
     "EndAddress": 3913302,
@@ -12222,7 +12222,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "那千万不行发生呢！",
+    "Text": "那绝对不行！",
     "OriginalText": "That must never happen!",
     "StartAddress": 3913344,
     "EndAddress": 3913374,
@@ -12243,7 +12243,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "我已经面对了四个～而且都胜利！",
+    "Text": "我已经面对了四个～而且都赢了！",
     "OriginalText": "I've already faced four of them - and won!",
     "StartAddress": 3913416,
     "EndAddress": 3913462,
@@ -12278,7 +12278,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "地下的海妖有<1>无尽的数量</1>！",
+    "Text": "地下的海妖<1>无穷无尽</1>！",
     "OriginalText": "The Sirens below are <1>ENDLESS IN NUMBER</1>!",
     "StartAddress": 3913552,
     "EndAddress": 3913598,
@@ -12306,7 +12306,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "……有可能会把全岛屿毁灭掉！",
+    "Text": "……有可能会把整个岛都毁掉！",
     "OriginalText": "...Could DESTROY THE ISLAND!",
     "StartAddress": 3913712,
     "EndAddress": 3913758,
@@ -12327,14 +12327,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "（呜咽）",
+    "Text": "（呜！）",
     "OriginalText": "(whimper!)",
     "StartAddress": 3913800,
     "EndAddress": 3913830,
     "MaxLength": 31
   },
   {
-    "Text": "你愿意风险所有，为了救出你朋友？",
+    "Text": "你愿意<1>冒一切风险</1>，救出你的朋友？",
     "OriginalText": "Would you risk <1>EVERYTHING</1> to save your friend?",
     "StartAddress": 3913832,
     "EndAddress": 3913910,
@@ -12376,14 +12376,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "这不简单的任务！",
+    "Text": "这可不容易！",
     "OriginalText": "This is no easy task!",
     "StartAddress": 3914048,
     "EndAddress": 3914078,
     "MaxLength": 31
   },
   {
-    "Text": "很久以前，这岛屿的守护者藏了<1>两个手镯</1>在上面的<1>矿山</1>。",
+    "Text": "很久以前，这岛屿的守护者在上面的<1>矿山</1>里藏了<1>两个手镯</1>。",
     "OriginalText": "Long ago, the guardian of this island hid  <1>TWO BRACELETS</1> in the <1>MINES</1> up above.",
     "StartAddress": 3914080,
     "EndAddress": 3914174,
@@ -12404,7 +12404,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "把它们找出来，而带来给我。",
+    "Text": "把它们找出来，并带来给我。",
     "OriginalText": "Find them, and bring them to me.",
     "StartAddress": 3914248,
     "EndAddress": 3914286,
@@ -12446,35 +12446,35 @@
     "MaxLength": 31
   },
   {
-    "Text": "右边有个扭曲房。",
+    "Text": "右边有个传送屋。",
     "OriginalText": "There is a <1>WARP ROOM</1> up above, to the right. ",
     "StartAddress": 3914440,
     "EndAddress": 3914470,
     "MaxLength": 31
   },
   {
-    "Text": "你可以使用来直接去到她那里！",
+    "Text": "你可以用它直接传送到她那里！",
     "OriginalText": "You can use it to reach her directly!",
     "StartAddress": 3914472,
     "EndAddress": 3914518,
     "MaxLength": 47
   },
   {
-    "Text": "加油，半精灵！",
+    "Text": "祝你好运，半精灵！",
     "OriginalText": "Good luck, Half-Genie!",
     "StartAddress": 3914520,
     "EndAddress": 3914558,
     "MaxLength": 39
   },
   {
-    "Text": "若要叫醒城市，你得带来两个手镯给我。",
+    "Text": "如果要叫醒城市，你得带两个手镯给我。",
     "OriginalText": "To wake the city, bring me <1>TWO BRACELETS</1>.",
     "StartAddress": 3914560,
     "EndAddress": 3914614,
     "MaxLength": 55
   },
   {
-    "Text": "鬼长辈可以帮你！",
+    "Text": "<1>鬼长辈</1>可以帮你！",
     "OriginalText": "The <1>GHOST ELDER</1> can help you!",
     "StartAddress": 3914616,
     "EndAddress": 3914662,
@@ -12502,21 +12502,21 @@
     "MaxLength": 71
   },
   {
-    "Text": "也许等一会儿。",
+    "Text": "也许以后吧。",
     "OriginalText": "Maybe later.",
     "StartAddress": 3914880,
     "EndAddress": 3914918,
     "MaxLength": 39
   },
   {
-    "Text": "闻起来没问题。",
+    "Text": "它闻着没问题。",
     "OriginalText": "They smell fine.",
     "StartAddress": 3914920,
     "EndAddress": 3914942,
     "MaxLength": 23
   },
   {
-    "Text": "但我闻起来全是谎言和欺骗。",
+    "Text": "可我闻起来满是谎言和欺骗。",
     "OriginalText": "But I reek of lies and deception.",
     "StartAddress": 3914944,
     "EndAddress": 3914982,
@@ -12537,21 +12537,21 @@
     "MaxLength": 47
   },
   {
-    "Text": "在人生中，我是个守护精灵。",
+    "Text": "我还活着时，是个守护精灵。",
     "OriginalText": "In life I was a Guardian Genie. ",
     "StartAddress": 3915056,
     "EndAddress": 3915094,
     "MaxLength": 39
   },
   {
-    "Text": "呵！不可能吧！",
+    "Text": "啊！不可能吧！",
     "OriginalText": "Gasp! No way!",
     "StartAddress": 3915096,
     "EndAddress": 3915118,
     "MaxLength": 23
   },
   {
-    "Text": "我的责任就是保护这岛屿。",
+    "Text": "我的职责就是保护这岛屿。",
     "OriginalText": "My job was to protect this island.",
     "StartAddress": 3915120,
     "EndAddress": 3915158,
@@ -12565,42 +12565,42 @@
     "MaxLength": 63
   },
   {
-    "Text": "我把海妖的船沉下去……",
+    "Text": "我沉了海妖的船……",
     "OriginalText": "I sank the Sirens' vessel... ",
     "StartAddress": 3915224,
     "EndAddress": 3915262,
     "MaxLength": 39
   },
   {
-    "Text": "而使用了我的魔法……",
+    "Text": "然后用我的魔法……",
     "OriginalText": "And using my magic...",
     "StartAddress": 3915264,
     "EndAddress": 3915294,
     "MaxLength": 31
   },
   {
-    "Text": "……把它埋在<1>岛屿深深的中心</1>。",
+    "Text": "……把它埋在<1>岛屿的深处</1>。",
     "OriginalText": "...Buried it <1>DEEP WITHIN THE ISLAND ITSELF</1>.",
     "StartAddress": 3915296,
     "EndAddress": 3915350,
     "MaxLength": 55
   },
   {
-    "Text": "我认为我把海妖永远关走了，所以我把她们的电棒折成两段。",
+    "Text": "我认为我把海妖永远关起来了，所以我把她们的电棒折成两段。",
     "OriginalText": "Thinking I’d trapped the Sirens for good, I took their <1>POWER ROD</1> and broke it into two parts.",
     "StartAddress": 3915352,
     "EndAddress": 3915438,
     "MaxLength": 87
   },
   {
-    "Text": "我把这两块藏在矿山里，只有我震撼魔法能把它们找出来。",
+    "Text": "我把它们藏在矿山里，只有我的震撼魔法能把它们找出来。",
     "OriginalText": "I hid the pieces in the mines where only my Quake Magic could find them. ",
     "StartAddress": 3915440,
     "EndAddress": 3915518,
     "MaxLength": 79
   },
   {
-    "Text": "这样，海妖从此以后就不再能开她们的船了。",
+    "Text": "这样，海妖从此以后就不能再开动她们的船了。",
     "OriginalText": "This way, the Sirens could never again <1>POWER THEIR VESSEL</1>.",
     "StartAddress": 3915520,
     "EndAddress": 3915582,
@@ -12642,77 +12642,77 @@
     "MaxLength": 15
   },
   {
-    "Text": "你学到岛屿的秘密了。",
+    "Text": "你掌握岛屿的秘密了。",
     "OriginalText": "You have learned the secret of this island.",
     "StartAddress": 3915688,
     "EndAddress": 3915718,
     "MaxLength": 31
   },
   {
-    "Text": "现在，我会把<1>两个手镯</1>并起来，重新构成<1>电棒</1>。",
+    "Text": "现在，我会把<1>两个手镯</1>合起来，重新组成<1>电棒</1>。",
     "OriginalText": "Now, I will combine the <1>TWO BRACELETS</1> to form the <1>POWER ROD</1> once more.",
     "StartAddress": 3915720,
     "EndAddress": 3915798,
     "MaxLength": 79
   },
   {
-    "Text": "拿去。",
+    "Text": "拿去吧。",
     "OriginalText": "Take it.",
     "StartAddress": 3915800,
     "EndAddress": 3915838,
     "MaxLength": 39
   },
   {
-    "Text": "虽然我把她们关注了，我不够强力打败掉那些海妖。",
+    "Text": "虽然我把她们关起来了，可我没强到打败那些海妖。",
     "OriginalText": "Though I had them trapped, I was not powerful enough to defeat the Sirens.",
     "StartAddress": 3915840,
     "EndAddress": 3915910,
     "MaxLength": 71
   },
   {
-    "Text": "我和她们队长，第七个海妖，战斗而输了。",
+    "Text": "我战斗输给了她们的头目，第七个海妖。",
     "OriginalText": "I battled their leader, the <1>SEVENTH SIREN</1> and lost.",
     "StartAddress": 3915912,
     "EndAddress": 3915974,
     "MaxLength": 63
   },
   {
-    "Text": "我跌下去之前唯一能做的是把她肉体形象偷走。",
+    "Text": "我掉下去之前唯一能做的是把她的肉体夺走。",
     "OriginalText": "All I could do is rob her of her physical form before I fell.",
     "StartAddress": 3915976,
     "EndAddress": 3916038,
     "MaxLength": 63
   },
   {
-    "Text": "许多年来，我留在这鬼的形象待在下面这里。",
+    "Text": "许多年来，我一直作为鬼魂待在这里。",
     "OriginalText": "For many years I have remained down below as a <1>GHOST</1>.",
     "StartAddress": 3916040,
     "EndAddress": 3916102,
     "MaxLength": 63
   },
   {
-    "Text": "经过了这些时间，我只能无奈地看海妖把我的人民引诱下去深处遇见命运。",
+    "Text": "在这期间，我只能无奈地看着海妖把我的人民诱向命运的深渊。",
     "OriginalText": "In all that time, I have watched helplessly as the Sirens lured my people down into the depths to meet their fate.",
     "StartAddress": 3916104,
     "EndAddress": 3916206,
     "MaxLength": 103
   },
   {
-    "Text": "我希望你能把这一切的乱象终止掉。",
+    "Text": "我希望你能终结这一切。",
     "OriginalText": "I want you to <1>PUT AN END</1> to this madness.",
     "StartAddress": 3916208,
     "EndAddress": 3916262,
     "MaxLength": 55
   },
   {
-    "Text": "把那电棒拿去，而重新启动海妖的船。把它航到遥远的地方。",
+    "Text": "把那电棒拿去，重新启动海妖的船。驾驶它航向遥远的地方。",
     "OriginalText": "Take that <1>POWER ROD</1>, and re-activate the Siren’s <1>VESSEL</1>. Sail it away.",
     "StartAddress": 3916264,
     "EndAddress": 3916350,
     "MaxLength": 87
   },
   {
-    "Text": "带去海妖无法伤害任何人的地方。",
+    "Text": "去往海妖无法伤害任何人的地方。",
     "OriginalText": "Take it someplace where the Sirens won’t be able to harm anyone ever again.",
     "StartAddress": 3916352,
     "EndAddress": 3916398,
@@ -12726,7 +12726,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "现在，我永远会继续做个癞皮狗。",
+    "Text": "现在，我会继续做条癞皮狗。",
     "OriginalText": "Now, I will remain a mangy dog.",
     "StartAddress": 3916432,
     "EndAddress": 3916494,
@@ -15701,7 +15701,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "海妖使用了她能力在半精灵节目中把半精灵扭曲走。",
+    "Text": "海妖使用了她能力在半精灵节目中把半精灵传送走。",
     "OriginalText": "The Sirens used her to warp away the Half-Genies during the Half-Genie Festival.  ",
     "StartAddress": 3932688,
     "EndAddress": 3932758,
@@ -18830,7 +18830,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "右边是我们新的<1>扭曲房</1>！",
+    "Text": "右边是我们新的<1>传送屋</1>！",
     "OriginalText": "To the right is our new <1>WARP ROOM</1>.",
     "StartAddress": 3951272,
     "EndAddress": 3951318,
@@ -18844,7 +18844,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "这岛屿上总共有<1>八间扭曲房</1>。",
+    "Text": "这岛屿上总共有<1>八间传送屋</1>。",
     "OriginalText": "There are a total of <1>8 WARP ROOMS</1> on this island.",
     "StartAddress": 3951384,
     "EndAddress": 3951430,
@@ -22750,21 +22750,21 @@
     "MaxLength": 63
   },
   {
-    "Text": "这是一间<1>扭曲房</1>！",
+    "Text": "这是一间<1>传送屋</1>！",
     "OriginalText": "This is a <1>WARP ROOM</1>!",
     "StartAddress": 3974736,
     "EndAddress": 3974766,
     "MaxLength": 31
   },
   {
-    "Text": "请踏上任何平台<1>扭曲走</1>!",
+    "Text": "请踏上任何平台<1>传送走</1>!",
     "OriginalText": "Please step on any platform to <1>WARP AWAY</1>!",
     "StartAddress": 3974768,
     "EndAddress": 3974822,
     "MaxLength": 55
   },
   {
-    "Text": "请踏上任何平台<1>扭曲走</1>!",
+    "Text": "请踏上任何平台<1>传送走</1>!",
     "OriginalText": "Please step on any platform to <1>WARP AWAY</1>!",
     "StartAddress": 3974824,
     "EndAddress": 3974886,
