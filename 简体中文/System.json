@@ -2352,14 +2352,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "充过电的棒子",
+    "Text": "充过电的电棒",
     "OriginalText": "Powered Up Rod",
     "StartAddress": 377888,
     "EndAddress": 377910,
     "MaxLength": 23
   },
   {
-    "Text": "没电的棒子",
+    "Text": "没电的电棒",
     "OriginalText": "Drained Power Rod",
     "StartAddress": 377912,
     "EndAddress": 377926,

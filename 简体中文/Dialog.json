@@ -12019,7 +12019,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "你让<1>棒子</1>恢复电力了？",
+    "Text": "你让<1>电棒</1>恢复电力了？",
     "OriginalText": "You've returned power to that <1>ROD</1>?",
     "StartAddress": 3912336,
     "EndAddress": 3912382,
@@ -12068,7 +12068,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "没电的棒子，是吗？",
+    "Text": "没电的电棒，是吗？",
     "OriginalText": "An <1>UNPOWERED ROD</1>, you say?",
     "StartAddress": 3912656,
     "EndAddress": 3912686,
@@ -12215,7 +12215,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "就得恢复整个城市的电源！",
+    "Text": "就得恢复整个城市的电力！",
     "OriginalText": "You would need to <1>RESTORE POWER</1> to the city!",
     "StartAddress": 3913304,
     "EndAddress": 3913342,
@@ -12733,35 +12733,35 @@
     "MaxLength": 63
   },
   {
-    "Text": "在目前的状态一下，电棒是没有用的……",
+    "Text": "以目前的状态，这电棒是没法用的……",
     "OriginalText": "In its current state, the <1>POWER ROD</1> is useless.",
     "StartAddress": 3916496,
     "EndAddress": 3916550,
     "MaxLength": 55
   },
   {
-    "Text": "你得想办法恢复棒子的电源……",
+    "Text": "你得想办法恢复电棒的电力……",
     "OriginalText": "You must <1>RESTORE POWER</1> to the rod somehow... ",
     "StartAddress": 3916552,
     "EndAddress": 3916598,
     "MaxLength": 47
   },
   {
-    "Text": "……而再带去我们上面的控制室！",
+    "Text": "…然后再带去我们上面的控制室！",
     "OriginalText": "...And then, take it to the <1>CONTROL ROOM</1> directly above us! ",
     "StartAddress": 3916600,
     "EndAddress": 3916646,
     "MaxLength": 47
   },
   {
-    "Text": "恢复棒子的能源？",
+    "Text": "恢复电棒的电力？",
     "OriginalText": "Restore the rod's power? ",
     "StartAddress": 3916648,
     "EndAddress": 3916678,
     "MaxLength": 31
   },
   {
-    "Text": "这要怎么做呢？",
+    "Text": "要怎么做呢？",
     "OriginalText": "How do I do that?",
     "StartAddress": 3916680,
     "EndAddress": 3916702,
@@ -12789,7 +12789,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "城市的电源<1>恢复了</1>！",
+    "Text": "城市的电力<1>恢复了</1>！",
     "OriginalText": "Power to the city is <1>RESTORED</1>!",
     "StartAddress": 3916808,
     "EndAddress": 3916846,
@@ -12803,21 +12803,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "没有办法知道真正有多少个海妖！",
+    "Text": "没有人知道那里到底有多少海妖！",
     "OriginalText": "There is no telling how many of the Sirens there truly are!",
     "StartAddress": 3916880,
     "EndAddress": 3916942,
     "MaxLength": 63
   },
   {
-    "Text": "你把<1>棒子</1>充电了！",
+    "Text": "你给<1>电棒</1>充电了！",
     "OriginalText": "You have powered up that <1>ROD</1>! ",
     "StartAddress": 3916944,
     "EndAddress": 3916974,
     "MaxLength": 31
   },
   {
-    "Text": "你的寻求快完成了。",
+    "Text": "你的任务快完成了。",
     "OriginalText": "Your quest is almost complete.",
     "StartAddress": 3916976,
     "EndAddress": 3917006,
@@ -12831,42 +12831,42 @@
     "MaxLength": 39
   },
   {
-    "Text": "按照你的<1>地图</1>，在我们上面三楼！",
+    "Text": "根据你的<1>地图</1>，它在我们上面三层！",
     "OriginalText": "According to your <1>MAP</1>, it is three decks above us!",
     "StartAddress": 3917048,
     "EndAddress": 3917118,
     "MaxLength": 71
   },
   {
-    "Text": "看来得先把电源开起来才能开这个。",
+    "Text": "看来得有电才能开这个。",
     "OriginalText": "Looks like the power has to be on before this thing will open.",
     "StartAddress": 3917120,
     "EndAddress": 3917198,
     "MaxLength": 79
   },
   {
-    "Text": "电源开了！",
+    "Text": "有电了！",
     "OriginalText": "The power is on!",
     "StartAddress": 3917200,
     "EndAddress": 3917214,
     "MaxLength": 15
   },
   {
-    "Text": "这现在应该可以使用了！",
+    "Text": "现在应该可以用了！",
     "OriginalText": "This ought to work now!",
     "StartAddress": 3917216,
     "EndAddress": 3917278,
     "MaxLength": 63
   },
   {
-    "Text": "他们走了……",
+    "Text": "他们消失了……",
     "OriginalText": "They're gone...",
     "StartAddress": 3917280,
     "EndAddress": 3917302,
     "MaxLength": 23
   },
   {
-    "Text": "谁走了？",
+    "Text": "谁消失了？",
     "OriginalText": "Who's gone?",
     "StartAddress": 3917304,
     "EndAddress": 3917318,
@@ -12880,14 +12880,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "我听到声音，隨着他们过来。",
+    "Text": "我听到声音，跟着他们过来。",
     "OriginalText": "I heard voices and followed them here.",
     "StartAddress": 3917352,
     "EndAddress": 3917390,
     "MaxLength": 39
   },
   {
-    "Text": "可是现在好像消失了。",
+    "Text": "可是他们现在好像消失了。",
     "OriginalText": "But they seem to have vanished.",
     "StartAddress": 3917392,
     "EndAddress": 3917438,
@@ -12915,7 +12915,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "我好想跳舞哦！",
+    "Text": "我好想跳舞！",
     "OriginalText": "I feel like dancing!",
     "StartAddress": 3917616,
     "EndAddress": 3917638,
@@ -12929,35 +12929,35 @@
     "MaxLength": 31
   },
   {
-    "Text": " <1>震撼舞</1>能<1>移动地</1>！也能给敌人重大的损害！",
+    "Text": " <1>震撼舞</1>能<1>撼动大地</1>！也能重创敌人！",
     "OriginalText": "The <1>QUAKE DANCE</1> can <1>SHIFT THE EARTH</1>! It also deals significant damage to enemies!",
     "StartAddress": 3917672,
     "EndAddress": 3917750,
     "MaxLength": 79
   },
   {
-    "Text": "（跳到图标出现，再按<IB action=Down/>来启动魔法！）",
+    "Text": "（跳舞至图标出现，再按<IB action=Down/>来启动魔法！）",
     "OriginalText": "(Dance until you see the icon appear, then press  <IB action=Down/> to activate the magic!) ",
     "StartAddress": 3917752,
     "EndAddress": 3917822,
     "MaxLength": 71
   },
   {
-    "Text": "（跳到图标出现，再点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_quake scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
+    "Text": "（跳舞至图标出现，再点按<I anim=ui_game:ios_dance_buttons.anb seq=icon_quake scale=0.5 width=0.7 offsetx=0.35 offsety=0.43>来启动魔法！）",
     "OriginalText": "(Dance until you see the icon appear, then touch <I anim=ui_game:ios_dance_buttons.anb seq=icon_quake scale=0.5 width=0.7 offsetx=0.35 offsety=0.43> to activate the magic!) ",
     "StartAddress": 3917824,
     "EndAddress": 3917998,
     "MaxLength": 175
   },
   {
-    "Text": "<1>震撼舞</1>能<1>移动地</1>！也能给敌人重大的损害！",
+    "Text": " <1>震撼舞</1>能<1>撼动大地</1>！也能重创敌人！",
     "OriginalText": "The <1>QUAKE DANCE</1> can <1>SHIFT THE EARTH</1>! It also deals significant damage to enemies!",
     "StartAddress": 3918000,
     "EndAddress": 3918070,
     "MaxLength": 71
   },
   {
-    "Text": "在这房间试试看吧！",
+    "Text": "在这房间里试试看吧！",
     "OriginalText": "Try using it in this room!",
     "StartAddress": 3918072,
     "EndAddress": 3918118,
@@ -12985,14 +12985,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "我想你该带去给那<1>鬼狗</1>！",
+    "Text": "我想你该把它们带给那只<1>鬼狗</1>！",
     "OriginalText": "I guess you should take them to that <1>GHOST DOG</1>!",
     "StartAddress": 3918224,
     "EndAddress": 3918286,
     "MaxLength": 63
   },
   {
-    "Text": "最好带去给那只癞皮狗！",
+    "Text": "你该把它们带给那只<1>癞皮鬼狗</1>！",
     "OriginalText": "Better take those to the <1>MANGY GHOST DOG</1>.",
     "StartAddress": 3918288,
     "EndAddress": 3918342,
@@ -13006,7 +13006,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "这神说她认识你！",
+    "Text": "这个灵魂说她认识你！",
     "OriginalText": "This spirit claims to know you!",
     "StartAddress": 3918360,
     "EndAddress": 3918390,
@@ -13020,14 +13020,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "就是她帮我找到你呢！",
+    "Text": "就是她帮我找到了你！",
     "OriginalText": "She's the one who helped me find you!",
     "StartAddress": 3918408,
     "EndAddress": 3918446,
     "MaxLength": 39
   },
   {
-    "Text": "老太太，我欠你我生命呢！",
+    "Text": "老太太，我欠你一条命！",
     "OriginalText": "Old one, it seems I owe you my very life!",
     "StartAddress": 3918448,
     "EndAddress": 3918486,
@@ -13048,14 +13048,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "其实我也许还能多帮助你们！",
+    "Text": "其实我也许还能再帮助你们！",
     "OriginalText": "In fact I may be of more use still!",
     "StartAddress": 3918528,
     "EndAddress": 3918566,
     "MaxLength": 39
   },
   {
-    "Text": "你说你还需要<1>最后一块融合石</1>啊？",
+    "Text": "你说你还需要<1>最后一块融合石</1>？",
     "OriginalText": "You say you need <1>ONE LAST FUSION STONE</1>?",
     "StartAddress": 3918568,
     "EndAddress": 3918622,
@@ -13097,14 +13097,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "往下到<1>海床</1>，而我确定你就能找出你寻找的。",
+    "Text": "前往<1>海底</1>，我确定你就能找到你所寻找的。",
     "OriginalText": "Travel to the <1>OCEAN FLOOR</1>, and I'm sure you'll find that which you seek.",
     "StartAddress": 3918768,
     "EndAddress": 3918862,
     "MaxLength": 95
   },
   {
-    "Text": "为何不试试看使用那<1>青蛙</1>能力潜得更深呢？",
+    "Text": "为何不试试用<1>海蛙</1>的能力潜到更深的地方呢？",
     "OriginalText": "Why not try using that <1>FROG</1> ability to dive even deeper?",
     "StartAddress": 3918864,
     "EndAddress": 3918950,
@@ -13118,7 +13118,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "但我又找出一块融合石！",
+    "Text": "但我又找到了一块融合石！",
     "OriginalText": "But I did manage to find a Fusion Stone!",
     "StartAddress": 3918984,
     "EndAddress": 3919022,
@@ -13146,14 +13146,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "那我知道我能怎么帮你。",
+    "Text": "那我知道我该怎么帮你了。",
     "OriginalText": "In that case I know just how to help.",
     "StartAddress": 3919120,
     "EndAddress": 3919158,
     "MaxLength": 39
   },
   {
-    "Text": "就是把我们魔法并起来！",
+    "Text": "把我们魔法合并起来！",
     "OriginalText": "By combining our magic!",
     "StartAddress": 3919160,
     "EndAddress": 3919214,
@@ -13174,98 +13174,98 @@
     "MaxLength": 23
   },
   {
-    "Text": "哦，感谢！",
+    "Text": "感谢老天！",
     "OriginalText": "Oh, thank goodness!",
     "StartAddress": 3919288,
     "EndAddress": 3919302,
     "MaxLength": 15
   },
   {
-    "Text": "我好像引起了某个安全装置。",
+    "Text": "我好像触发了某种安全装置。",
     "OriginalText": "I must have tripped some kind of security device.",
     "StartAddress": 3919304,
     "EndAddress": 3919342,
     "MaxLength": 39
   },
   {
-    "Text": "我是在随着奇怪的能源读数就带了我到这房间。",
+    "Text": "我是跟着一个奇怪的能源读数来到这房间的。",
     "OriginalText": "I was following a strange energy reading that lead me to this room.",
     "StartAddress": 3919344,
     "EndAddress": 3919406,
     "MaxLength": 63
   },
   {
-    "Text": "似乎是从墙壁里这小端口发出的。",
+    "Text": "似乎是来自从墙里的这个小端口。",
     "OriginalText": "It seems to be coming from this small port in the wall. ",
     "StartAddress": 3919408,
     "EndAddress": 3919454,
     "MaxLength": 47
   },
   {
-    "Text": "若有对的工具，我们也许能从这端口 <1>虹吸能源</1>出来！",
+    "Text": "如果有正确的工具，我们也许就能从这端口<1>虹吸能源</1>出来！",
     "OriginalText": "Huh. With the right tool, we could <1>SIPHON ENERGY</1> from here! ",
     "StartAddress": 3919456,
     "EndAddress": 3919550,
     "MaxLength": 95
   },
   {
-    "Text": "也许待一会儿。",
+    "Text": "也许待会儿吧。",
     "OriginalText": "Maybe later then.",
     "StartAddress": 3919552,
     "EndAddress": 3919606,
     "MaxLength": 55
   },
   {
-    "Text": "哦，我可以看看那无电的棒子吗？",
+    "Text": "哦，我可以看看那没电的电棒吗？",
     "OriginalText": "Oh! Can I see that unpowered <1>ROD</1>?",
     "StartAddress": 3919608,
     "EndAddress": 3919670,
     "MaxLength": 63
   },
   {
-    "Text": "若你需要我<1>科学头脑</1>就会来找我！",
+    "Text": "如果你需要我的<1>科学头脑</1>，尽管来找我！",
     "OriginalText": "Come see me if you need the help of my <1>SCIENTIFIC MIND</1>!",
     "StartAddress": 3919672,
     "EndAddress": 3919742,
     "MaxLength": 71
   },
   {
-    "Text": "这棒子看来刚好适合这端口呢！",
+    "Text": "这电棒看起来正好匹配这个端口！",
     "OriginalText": "This rod looks like it would fit perfectly!",
     "StartAddress": 3919744,
     "EndAddress": 3919790,
     "MaxLength": 47
   },
   {
-    "Text": "会不会是某种燃料容器呢？",
+    "Text": "这会不会是某种燃料容器呢？",
     "OriginalText": "Could it be some kind of fuel container? ",
     "StartAddress": 3919792,
     "EndAddress": 3919830,
     "MaxLength": 39
   },
   {
-    "Text": "我们插进去来看看，好吗？",
+    "Text": "我们插进去看看，好吗？",
     "OriginalText": "Let's plug it in and find out, shall we?",
     "StartAddress": 3919832,
     "EndAddress": 3919886,
     "MaxLength": 55
   },
   {
-    "Text": "有效了！",
+    "Text": "成功了！",
     "OriginalText": "It worked!",
     "StartAddress": 3919888,
     "EndAddress": 3919902,
     "MaxLength": 15
   },
   {
-    "Text": "那棒子现在脉动，传着非常多的能源！",
+    "Text": "电棒充满了能量，正在脉动着！",
     "OriginalText": "That rod is now pulsing with an enormous amount of power!",
     "StartAddress": 3919904,
     "EndAddress": 3919958,
     "MaxLength": 55
   },
   {
-    "Text": "我不骗你的。很多的电力！",
+    "Text": "不骗你。非常非常多能量！",
     "OriginalText": "I'm not kidding. That's a lot of juice!",
     "StartAddress": 3919960,
     "EndAddress": 3919998,
@@ -13279,7 +13279,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "我们扫描注意到了<1>深海底</1>有一间<1>控制室</1>。",
+    "Text": "我们扫描注意到了<1>深海区</1>有一间<1>控制室</1>。",
     "OriginalText": "Our scans picked up a <1>CONTROL ROOM</1> in the <1>DEEP SEA</1> zone.",
     "StartAddress": 3920032,
     "EndAddress": 3920102,
@@ -13293,14 +13293,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "我若像你一样有个<1>地图</1>，我会经常查看我的<1>子屏幕</1>!",
+    "Text": "我会在你的<1>地图</1>上标出位置!",
     "OriginalText": "I'll mark the locations on your <1>MAP</1>!",
     "StartAddress": 3920144,
     "EndAddress": 3920246,
     "MaxLength": 103
   },
   {
-    "Text": "我们扫描注意到了<1>深海底</1>有一间<1>控制室</1>。",
+    "Text": "我们扫描注意到了<1>深海区</1>有一间<1>控制室</1>。",
     "OriginalText": "Our scans picked up a <1>CONTROL ROOM</1> in the <1>DEEP SEA</1> zone.",
     "StartAddress": 3920248,
     "EndAddress": 3920318,
@@ -13314,14 +13314,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "救命！我好像引起了某种安全装置！我被卡住了！",
+    "Text": "救命！我好像触发了某种安全装置！我被困住了！",
     "OriginalText": "Help! I seem to have tripped some sort of security device! I'm stuck!",
     "StartAddress": 3920376,
     "EndAddress": 3920446,
     "MaxLength": 71
   },
   {
-    "Text": "别动！我会帮你的！",
+    "Text": "别动！我会救你出去的！",
     "OriginalText": "Stay put! I'll get you out!",
     "StartAddress": 3920448,
     "EndAddress": 3920494,
@@ -13335,7 +13335,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "没有很多时间了。",
+    "Text": "时间不多了。",
     "OriginalText": "There's not much time.",
     "StartAddress": 3920512,
     "EndAddress": 3920542,
@@ -13349,28 +13349,28 @@
     "MaxLength": 31
   },
   {
-    "Text": "当核心电力达到极大容量……",
+    "Text": "当核心电力达到最大容量时…",
     "OriginalText": "When the Core Power reaches its max capacity...",
     "StartAddress": 3920576,
     "EndAddress": 3920614,
     "MaxLength": 39
   },
   {
-    "Text": "……释放阀就得开着。",
+    "Text": "……释放阀必须开着。",
     "OriginalText": "...the release valve needs to be opened.",
     "StartAddress": 3920616,
     "EndAddress": 3920646,
     "MaxLength": 31
   },
   {
-    "Text": "这样，电源才能往城市继续流。",
+    "Text": "这样，电力才能往城市继续流。",
     "OriginalText": "That way the energy can flow out into the rest of the city. ",
     "StartAddress": 3920648,
     "EndAddress": 3920694,
     "MaxLength": 47
   },
   {
-    "Text": "若核心在紧要时间没有开……",
+    "Text": "若释放阀没有及时打开……",
     "OriginalText": "If the valve isn't opened by the time the Core goes critical...",
     "StartAddress": 3920696,
     "EndAddress": 3920734,
@@ -13384,7 +13384,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "哇塞！",
+    "Text": "呀！",
     "OriginalText": "Yikes!",
     "StartAddress": 3920744,
     "EndAddress": 3920758,
@@ -13398,21 +13398,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "你得找出那开关……",
+    "Text": "所以你得找到开关……",
     "OriginalText": "So you need to find that switch...",
     "StartAddress": 3920776,
     "EndAddress": 3920806,
     "MaxLength": 31
   },
   {
-    "Text": "抓好洛蒂……",
+    "Text": "找到烂脑瓜…",
     "OriginalText": "Grab Rotty...",
     "StartAddress": 3920808,
     "EndAddress": 3920830,
     "MaxLength": 23
   },
   {
-    "Text": "……而快逃出。",
+    "Text": "……然后快逃。",
     "OriginalText": "...and get out.",
     "StartAddress": 3920832,
     "EndAddress": 3920886,
@@ -13426,21 +13426,21 @@
     "MaxLength": 39
   },
   {
-    "Text": "好，准备好在说一声。",
+    "Text": "好，准备好就说一声。",
     "OriginalText": "Ok, let me know when you're ready.",
     "StartAddress": 3920928,
     "EndAddress": 3920974,
     "MaxLength": 47
   },
   {
-    "Text": "我和波罗会待在这里顾好电源流量。",
+    "Text": "我和波罗会在这里控制电流。",
     "OriginalText": "Bolo and I will stay here to regulate the energy flow.",
     "StartAddress": 3920976,
     "EndAddress": 3921030,
     "MaxLength": 55
   },
   {
-    "Text": "你时间目前……",
+    "Text": "预备……",
     "OriginalText": "Your time starts...",
     "StartAddress": 3921032,
     "EndAddress": 3921054,
@@ -13461,7 +13461,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "找出那控制开关，抓好洛蒂……",
+    "Text": "找到控制开关，找到烂脑瓜……",
     "OriginalText": "Find that control switch, grab Rotty...",
     "StartAddress": 3921112,
     "EndAddress": 3921158,
@@ -13475,14 +13475,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "这看起来就像天天再说的开关！",
+    "Text": "看起来这就是天天在说的开关！",
     "OriginalText": "This looks like the switch Sky was taking about!",
     "StartAddress": 3921200,
     "EndAddress": 3921246,
     "MaxLength": 47
   },
   {
-    "Text": "可是为什么不行用呢？",
+    "Text": "可是为什么用不了呢？",
     "OriginalText": "But why doesn't it work?!?",
     "StartAddress": 3921248,
     "EndAddress": 3921278,
@@ -13496,21 +13496,21 @@
     "MaxLength": 95
   },
   {
-    "Text": "启动核心电力阀门？",
+    "Text": "启动核心电力释放阀？",
     "OriginalText": "Activate the Power Core release valve?",
     "StartAddress": 3921376,
     "EndAddress": 3921422,
     "MaxLength": 47
   },
   {
-    "Text": "啊！",
+    "Text": "呼！",
     "OriginalText": "Phew!",
     "StartAddress": 3921424,
     "EndAddress": 3921430,
     "MaxLength": 7
   },
   {
-    "Text": "有效了！",
+    "Text": "成功了！",
     "OriginalText": "It worked!",
     "StartAddress": 3921432,
     "EndAddress": 3921446,
@@ -13524,14 +13524,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "我就知道你会来到这儿。",
+    "Text": "我就知道你会来。",
     "OriginalText": "I knew you'd come.",
     "StartAddress": 3921496,
     "EndAddress": 3921534,
     "MaxLength": 39
   },
   {
-    "Text": "险险！你该转回头去！",
+    "Text": "险险！你该收手了！",
     "OriginalText": "Risky! You need to turn back!",
     "StartAddress": 3921536,
     "EndAddress": 3921574,
@@ -13545,28 +13545,28 @@
     "MaxLength": 23
   },
   {
-    "Text": "才不可能！",
+    "Text": "没门！",
     "OriginalText": "Never!",
     "StartAddress": 3921600,
     "EndAddress": 3921614,
     "MaxLength": 15
   },
   {
-    "Text": "我目标已经这么近了！",
+    "Text": "我离目标已经这么近了！",
     "OriginalText": "Not when I'm this close!",
     "StartAddress": 3921616,
     "EndAddress": 3921670,
     "MaxLength": 55
   },
   {
-    "Text": "这是我最终警告……",
+    "Text": "这是我的最后警告…",
     "OriginalText": "This is my final warning...",
     "StartAddress": 3921672,
     "EndAddress": 3921702,
     "MaxLength": 31
   },
   {
-    "Text": "别挡住我路。",
+    "Text": "别挡我路。",
     "OriginalText": "Stay out of my way.",
     "StartAddress": 3921704,
     "EndAddress": 3921726,
@@ -13580,21 +13580,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "不久，我的工人就会修理完成。",
+    "Text": "我的人很快就会完成修理。",
     "OriginalText": "Soon my men will complete their repairs.",
     "StartAddress": 3921744,
     "EndAddress": 3921790,
     "MaxLength": 47
   },
   {
-    "Text": "而这城市完全的控制就会是我的！",
+    "Text": "而这城市的力量就会属于我！",
     "OriginalText": "And the power of this city will belong to me!",
     "StartAddress": 3921792,
     "EndAddress": 3921838,
     "MaxLength": 47
   },
   {
-    "Text": "我的！",
+    "Text": "我！",
     "OriginalText": "Me!",
     "StartAddress": 3921840,
     "EndAddress": 3921854,
@@ -13608,7 +13608,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "这一定不是好事！我得快想办法！",
+    "Text": "这下糟了！我得快想办法！",
     "OriginalText": "This can't be good! I've got to do something! ",
     "StartAddress": 3921920,
     "EndAddress": 3921990,
@@ -13629,7 +13629,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "谁是驼背求普斯？",
+    "Text": "老南瓜是谁？",
     "OriginalText": "Who's Rubby Chops?",
     "StartAddress": 3922024,
     "EndAddress": 3922054,
@@ -13650,7 +13650,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "你怎么来到这里呢？",
+    "Text": "你怎么来到这里的？",
     "OriginalText": "How did you get here?",
     "StartAddress": 3922112,
     "EndAddress": 3922142,
@@ -13671,14 +13671,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "你打算去度假把我留在家呢！",
+    "Text": "你打算丢下我去度假！",
     "OriginalText": "You planned to go on vacation and leave me behind!",
     "StartAddress": 3922208,
     "EndAddress": 3922246,
     "MaxLength": 39
   },
   {
-    "Text": "所以我藏在你的行李箱里偷渡来的！",
+    "Text": "所以我藏在你的行李箱里偷渡过来了！",
     "OriginalText": "So I hid in the luggage and stowed away!",
     "StartAddress": 3922248,
     "EndAddress": 3922302,
@@ -13699,14 +13699,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "我没邀请你是因为找不到你呢。",
+    "Text": "我没邀请你是因为找不到你。",
     "OriginalText": "I didn't invite you because I couldn't find you.",
     "StartAddress": 3922384,
     "EndAddress": 3922430,
     "MaxLength": 47
   },
   {
-    "Text": "大概是因为你你藏在我行李箱里。",
+    "Text": "大概就是因为你藏在我行李箱里！",
     "OriginalText": "Probably because you were hiding in the luggage!",
     "StartAddress": 3922432,
     "EndAddress": 3922478,
@@ -13720,7 +13720,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "那的确有点道理。",
+    "Text": "有点道理。",
     "OriginalText": "That does kind of make sense!",
     "StartAddress": 3922488,
     "EndAddress": 3922518,
@@ -13734,21 +13734,21 @@
     "MaxLength": 47
   },
   {
-    "Text": "是啊，不过……我以后可能会重新考虑呢！",
+    "Text": "是啊，不过……我以后可能会重新考虑一下了！",
     "OriginalText": "Yeah, well... I'll probably reconsider in the future!",
     "StartAddress": 3922568,
     "EndAddress": 3922630,
     "MaxLength": 63
   },
   {
-    "Text": "你干嘛嘟嘴！",
+    "Text": "你干嘛嘟着嘴！",
     "OriginalText": "Look at that fussy face!",
     "StartAddress": 3922632,
     "EndAddress": 3922654,
     "MaxLength": 23
   },
   {
-    "Text": "来啊。",
+    "Text": "来。",
     "OriginalText": "Here.",
     "StartAddress": 3922656,
     "EndAddress": 3922670,
@@ -13769,21 +13769,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "我会给你看。",
+    "Text": "等下给你看。",
     "OriginalText": "I'll show you.",
     "StartAddress": 3922736,
     "EndAddress": 3922758,
     "MaxLength": 23
   },
   {
-    "Text": "但得先换衣服。",
+    "Text": "我得先换衣服。",
     "OriginalText": "Just gotta change clothes first.",
     "StartAddress": 3922760,
     "EndAddress": 3922782,
     "MaxLength": 23
   },
   {
-    "Text": "就在这里～！！",
+    "Text": "别在这儿～！！",
     "OriginalText": "Not in front of - !!",
     "StartAddress": 3922784,
     "EndAddress": 3922822,
@@ -13811,14 +13811,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "他们不会游泳，但能使用着墨汽在空中里喷射。",
+    "Text": "他们不会游泳，但能喷射墨汽在空中飞翔。",
     "OriginalText": "They can’t swim, but they can boost through the air on jets of ink vapor.",
     "StartAddress": 3922944,
     "EndAddress": 3923006,
     "MaxLength": 63
   },
   {
-    "Text": "使用着它能力，你也许能找出这地方<1>邪恶的来源</1>！",
+    "Text": "也许你能使用它的能力去找出这地方的<1>邪恶之源</1>！",
     "OriginalText": "Using its abilities, you may be able to locate the <1>SOURCE OF EVIL</1> in this place!",
     "StartAddress": 3923008,
     "EndAddress": 3923086,
@@ -13853,14 +13853,14 @@
     "MaxLength": 135
   },
   {
-    "Text": "这是什么啊？看来好像缺了一块东西。",
+    "Text": "这是什么？看来好像缺了一块东西。",
     "OriginalText": "What is this? Looks like a piece is missing.",
     "StartAddress": 3923520,
     "EndAddress": 3923590,
     "MaxLength": 71
   },
   {
-    "Text": "这控制台有圆形的开口。",
+    "Text": "这控制台有个圆形的开口。",
     "OriginalText": "There is a circular opening in this panel.",
     "StartAddress": 3923592,
     "EndAddress": 3923646,
@@ -13874,7 +13874,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "也许待一会儿。",
+    "Text": "也许待会儿吧。",
     "OriginalText": "Maybe later.",
     "StartAddress": 3923704,
     "EndAddress": 3923742,
@@ -13888,21 +13888,21 @@
     "MaxLength": 39
   },
   {
-    "Text": "啊。没事发生。",
+    "Text": "啊。什么也没发生。",
     "OriginalText": "Huh. Nothing happened.",
     "StartAddress": 3923784,
     "EndAddress": 3923822,
     "MaxLength": 39
   },
   {
-    "Text": "有效了！",
+    "Text": "成功了！",
     "OriginalText": "It worked! ",
     "StartAddress": 3923824,
     "EndAddress": 3923838,
     "MaxLength": 15
   },
   {
-    "Text": "电源恢复了！",
+    "Text": "电力恢复了！",
     "OriginalText": "The power is restored!",
     "StartAddress": 3923840,
     "EndAddress": 3923862,
@@ -13916,7 +13916,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "啊？叔叔？",
+    "Text": "嗯？叔叔？",
     "OriginalText": "Huh? Uncle?",
     "StartAddress": 3923888,
     "EndAddress": 3923902,
@@ -13937,35 +13937,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "好奇怪的机器刚从地上升出来！",
+    "Text": "刚刚有奇怪的机器从地上升出来！",
     "OriginalText": "A strange machine just rose up from the ground!",
     "StartAddress": 3923960,
     "EndAddress": 3924006,
     "MaxLength": 47
   },
   {
-    "Text": "快把我撞倒了！",
+    "Text": "差点把我撞倒了!",
     "OriginalText": "Almost knocked me right off my feet!",
     "StartAddress": 3924008,
     "EndAddress": 3924030,
     "MaxLength": 23
   },
   {
-    "Text": "嗯……好想连到地下的城市。",
+    "Text": "嗯…它好像连着地下的城市。",
     "OriginalText": "Hmm... seems to be connected to the city below.",
     "StartAddress": 3924032,
     "EndAddress": 3924070,
     "MaxLength": 39
   },
   {
-    "Text": "有某种控制台，上面有圆形的显示屏。",
+    "Text": "某种控制台，上面有圆形的显示屏。",
     "OriginalText": "Some kind of control console with a round display.",
     "StartAddress": 3924072,
     "EndAddress": 3924126,
     "MaxLength": 55
   },
   {
-    "Text": "我正在使用着跟你联络呢。",
+    "Text": "我正在用它跟你联络。",
     "OriginalText": "I'm using it to communicate with you.",
     "StartAddress": 3924128,
     "EndAddress": 3924166,
@@ -13979,14 +13979,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "大概是吧！",
+    "Text": "应该是！",
     "OriginalText": "It must be!",
     "StartAddress": 3924192,
     "EndAddress": 3924206,
     "MaxLength": 15
   },
   {
-    "Text": "我在这下面也在看同类的东西！",
+    "Text": "我在这下面也看到类似的东西！",
     "OriginalText": "I'm looking at something similar down here!",
     "StartAddress": 3924208,
     "EndAddress": 3924254,
@@ -14000,14 +14000,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "这根本不是城市。",
+    "Text": "这城市根本不是城市。",
     "OriginalText": "The city isn't a city at all.",
     "StartAddress": 3924288,
     "EndAddress": 3924318,
     "MaxLength": 31
   },
   {
-    "Text": "是个船！",
+    "Text": "而是艘船！",
     "OriginalText": "It's a <1>SHIP</1>!",
     "StartAddress": 3924320,
     "EndAddress": 3924334,
@@ -14021,21 +14021,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "我猜这船就是险险一直以来的目标！",
+    "Text": "我猜这艘船就是险险一直以来的目标！",
     "OriginalText": "I think this ship is what Risky has been after all along!",
     "StartAddress": 3924352,
     "EndAddress": 3924406,
     "MaxLength": 55
   },
   {
-    "Text": "而不只是这样！",
+    "Text": "而且不仅如此！",
     "OriginalText": "And that's not all! ",
     "StartAddress": 3924408,
     "EndAddress": 3924430,
     "MaxLength": 23
   },
   {
-    "Text": "烂脑瓜也卡在这下面！",
+    "Text": "烂脑瓜也困在这下面！",
     "OriginalText": "Rottytops is trapped down here, too!",
     "StartAddress": 3924432,
     "EndAddress": 3924462,
@@ -14070,28 +14070,28 @@
     "MaxLength": 15
   },
   {
-    "Text": "你走以前……",
+    "Text": "在你走之前……",
     "OriginalText": "Before you go...",
     "StartAddress": 3924560,
     "EndAddress": 3924582,
     "MaxLength": 23
   },
   {
-    "Text": "我在我控制台上看得见气塞的图标。",
+    "Text": "我在我这的控制台上看到了气闸的图像。",
     "OriginalText": "I can see an image of an airlock on my panel. ",
     "StartAddress": 3924584,
     "EndAddress": 3924638,
     "MaxLength": 55
   },
   {
-    "Text": "也许能相办法来开它！",
+    "Text": "也许有办法能打开它！",
     "OriginalText": "Maybe there's a way to open it!",
     "StartAddress": 3924640,
     "EndAddress": 3924670,
     "MaxLength": 31
   },
   {
-    "Text": "你那边有没有开关或是杠杆？",
+    "Text": "你那有没有开关或者控制杆？",
     "OriginalText": "Is there a switch or lever on your side?",
     "StartAddress": 3924672,
     "EndAddress": 3924710,
@@ -14105,7 +14105,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "好的。你拉之前……",
+    "Text": "好。在你拉动它之前…",
     "OriginalText": "Ok. Now, before you pull it...",
     "StartAddress": 3924736,
     "EndAddress": 3924766,
@@ -14126,7 +14126,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "哇～～！",
+    "Text": "哇啊啊！！",
     "OriginalText": "WHOOAAAHH! IT IS CRUSHING MY BONES!",
     "StartAddress": 3924800,
     "EndAddress": 3924814,
@@ -14147,35 +14147,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "但是别再拉了！",
+    "Text": "不用再拉了。",
     "OriginalText": "So don't pull any more!",
     "StartAddress": 3924864,
     "EndAddress": 3924886,
     "MaxLength": 23
   },
   {
-    "Text": "我想我有办法送进人来帮你！",
+    "Text": "停泊口开了，我会送人过来。",
     "OriginalText": "According to my screen, you have just opened some sort of docking bay.",
     "StartAddress": 3924888,
     "EndAddress": 3924926,
     "MaxLength": 39
   },
   {
-    "Text": "往城市最低的地点去！",
+    "Text": "到城市的最低处去！",
     "OriginalText": "I will send help to you. Head to the city's lowest point!",
     "StartAddress": 3924928,
     "EndAddress": 3924958,
     "MaxLength": 31
   },
   {
-    "Text": "我该回去看那只狗。",
+    "Text": "我现在就去，叔叔！",
     "OriginalText": "I'll head there now, Uncle!",
     "StartAddress": 3924960,
     "EndAddress": 3925006,
     "MaxLength": 47
   },
   {
-    "Text": "这控制台从空中突然跑出来！",
+    "Text": "这控制台突然冒了出来！",
     "OriginalText": "This Control Panel popped up out of nowhere!",
     "StartAddress": 3925008,
     "EndAddress": 3925046,
@@ -14189,14 +14189,14 @@
     "MaxLength": 87
   },
   {
-    "Text": "看来电是开的！",
+    "Text": "看来有电了！",
     "OriginalText": "Looks like the power is on!",
     "StartAddress": 3925136,
     "EndAddress": 3925174,
     "MaxLength": 39
   },
   {
-    "Text": "到底什么～？",
+    "Text": "什～？",
     "OriginalText": "Wha - ?",
     "StartAddress": 3925176,
     "EndAddress": 3925198,
@@ -14217,7 +14217,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "科学人也来了？",
+    "Text": "科学家也来了？",
     "OriginalText": "Science people, too?!",
     "StartAddress": 3925232,
     "EndAddress": 3925254,
