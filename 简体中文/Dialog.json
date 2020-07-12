@@ -14245,7 +14245,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "你叔叔要求了我们马上把你朋友带来这里！",
+    "Text": "你叔叔请求我们立即把你的朋友带来这里！",
     "OriginalText": "Your uncle requested that we bring your friends here at once!",
     "StartAddress": 3925336,
     "EndAddress": 3925398,
@@ -14259,42 +14259,42 @@
     "MaxLength": 39
   },
   {
-    "Text": "对啊，按照你叔叔，秘密克先生说的……",
+    "Text": "是的，按照你叔叔，秘密克先生说的……",
     "OriginalText": "Yes, according to your uncle, Mister Mimic...",
     "StartAddress": 3925440,
     "EndAddress": 3925494,
     "MaxLength": 55
   },
   {
-    "Text": "你的动作把岛屿底下的<1>核心电力</1>重新启动了。",
+    "Text": "你把岛屿底下的<1>能量核心</1>重新启动了。",
     "OriginalText": "Whatever you did reactivated the <1>POWER CORE</1> beneath this island.",
     "StartAddress": 3925496,
     "EndAddress": 3925566,
     "MaxLength": 71
   },
   {
-    "Text": "很快就会热到危险的地步！",
+    "Text": "很快就会过热到危险的地步！",
     "OriginalText": "It will soon heat up to dangerous levels!",
     "StartAddress": 3925568,
     "EndAddress": 3925606,
     "MaxLength": 39
   },
   {
-    "Text": "对不起，我非得做的！",
+    "Text": "抱歉，但我必须这么做!",
     "OriginalText": "I'm sorry, but I had to!",
     "StartAddress": 3925608,
     "EndAddress": 3925638,
     "MaxLength": 31
   },
   {
-    "Text": "是我唯一能救出洛蒂的机会！",
+    "Text": "这是救出烂脑瓜的唯一机会！",
     "OriginalText": "It's my only chance to save Rotty!",
     "StartAddress": 3925640,
     "EndAddress": 3925678,
     "MaxLength": 39
   },
   {
-    "Text": "啊！别让我讲起烂脑瓜！",
+    "Text": "呃！别让我讲起烂脑瓜！",
     "OriginalText": "Ugh! Do not get me started about Rottytops!",
     "StartAddress": 3925680,
     "EndAddress": 3925718,
@@ -14308,21 +14308,21 @@
     "MaxLength": 39
   },
   {
-    "Text": "怎么会是？",
+    "Text": "怎么会？",
     "OriginalText": "How?",
     "StartAddress": 3925760,
     "EndAddress": 3925774,
     "MaxLength": 15
   },
   {
-    "Text": "就跟着我们吧，尽快！",
+    "Text": "别管了，快跟上我们吧！",
     "OriginalText": "Just follow us, and hurry!",
     "StartAddress": 3925776,
     "EndAddress": 3925822,
     "MaxLength": 47
   },
   {
-    "Text": "我很抱歉把你们三个人都混进这一托乱！",
+    "Text": "我很抱歉把你们三个拖进这团乱麻！",
     "OriginalText": "I'm sorry I got you three mixed up in all this!",
     "StartAddress": 3925824,
     "EndAddress": 3925878,
@@ -14343,7 +14343,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "光站在这里已经是梦想成真了！",
+    "Text": "光站在这里就已经是梦想成真了！",
     "OriginalText": "Just standing here is a dream come true!",
     "StartAddress": 3925960,
     "EndAddress": 3926022,
@@ -14378,21 +14378,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "幸好你们都安心的出来了！",
+    "Text": "幸好你们都安全出来了！",
     "OriginalText": "I'm so glad you all made it out safely!",
     "StartAddress": 3926136,
     "EndAddress": 3926174,
     "MaxLength": 39
   },
   {
-    "Text": "我想你们都想念了我，是吗？",
+    "Text": "我猜你们都想我了，是吗？",
     "OriginalText": "Bet you guys missed me, huh?",
     "StartAddress": 3926176,
     "EndAddress": 3926214,
     "MaxLength": 39
   },
   {
-    "Text": "呻吟……",
+    "Text": "哎…",
     "OriginalText": "Groan...",
     "StartAddress": 3926216,
     "EndAddress": 3926230,
@@ -14420,14 +14420,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "你得好好解释自己！！！",
+    "Text": "你得好好解释一下！！！",
     "OriginalText": "YOU'VE GOT SOME EXPLAINING TO DO!!!",
     "StartAddress": 3926320,
     "EndAddress": 3926382,
     "MaxLength": 63
   },
   {
-    "Text": "那是什么啊？",
+    "Text": "那是什么？！！",
     "OriginalText": "WHAT WAS THAT?!!",
     "StartAddress": 3926384,
     "EndAddress": 3926414,
@@ -14448,14 +14448,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "刚刚到底是在搞什么？",
+    "Text": "刚刚那到底是什么？！",
     "OriginalText": "WHAT EXACTLY WAS THAT BACK THERE?!!",
     "StartAddress": 3926440,
     "EndAddress": 3926470,
     "MaxLength": 31
   },
   {
-    "Text": "什么搞什么？",
+    "Text": "什么什么？",
     "OriginalText": "What was what?",
     "StartAddress": 3926472,
     "EndAddress": 3926494,
@@ -14469,21 +14469,21 @@
     "MaxLength": 23
   },
   {
-    "Text": "巨大章鱼大头目？！",
+    "Text": "巨大章鱼Boss？！",
     "OriginalText": "HUGE OCTOPUS BOSS?!",
     "StartAddress": 3926520,
     "EndAddress": 3926550,
     "MaxLength": 31
   },
   {
-    "Text": "超级正妹在脑海里待着？！？",
+    "Text": "在脑海里舒展着的大美女？！",
     "OriginalText": "RADICAL HOT BABE CHILLIN’ OUT IN THE BRAIN JUICE?!?",
     "StartAddress": 3926552,
     "EndAddress": 3926590,
     "MaxLength": 39
   },
   {
-    "Text": "令人分心的嘿宝贝？！？！",
+    "Text": "令人分心的“嘿宝贝”？！",
     "OriginalText": "DISTRACTING HEY BABY?!?!?",
     "StartAddress": 3926592,
     "EndAddress": 3926630,
@@ -14497,42 +14497,42 @@
     "MaxLength": 31
   },
   {
-    "Text": "你透了我游戏的主意！",
+    "Text": "你偷了我游戏的点子！",
     "OriginalText": "YOU STOLE MY GAME IDEA!",
     "StartAddress": 3926664,
     "EndAddress": 3926694,
     "MaxLength": 31
   },
   {
-    "Text": "主意偷者！",
+    "Text": "点子小偷！",
     "OriginalText": "IDEA STEALER!",
     "StartAddress": 3926696,
     "EndAddress": 3926710,
     "MaxLength": 15
   },
   {
-    "Text": "主意贼。",
+    "Text": "点子窃贼。",
     "OriginalText": "Idea thief.",
     "StartAddress": 3926712,
     "EndAddress": 3926726,
     "MaxLength": 15
   },
   {
-    "Text": "我什么都没偷呢！",
+    "Text": "嘿，我可什么都没偷！",
     "OriginalText": "Hey, I didn't steal anything!",
     "StartAddress": 3926728,
     "EndAddress": 3926758,
     "MaxLength": 31
   },
   {
-    "Text": "你有！",
+    "Text": "你偷了！",
     "OriginalText": "YOU DID!",
     "StartAddress": 3926760,
     "EndAddress": 3926774,
     "MaxLength": 15
   },
   {
-    "Text": "我主意现在完蛋了！",
+    "Text": "我的点子被毁了！",
     "OriginalText": "My idea is RUINED now!",
     "StartAddress": 3926776,
     "EndAddress": 3926806,
@@ -14546,42 +14546,42 @@
     "MaxLength": 31
   },
   {
-    "Text": "你为何不就直爆炸破成那种巨大、白色……",
+    "Text": "你怎么不炸成那种你最喜欢的……",
     "OriginalText": "Why don't you just explode into one of those huge, white...",
     "StartAddress": 3926840,
     "EndAddress": 3926902,
     "MaxLength": 63
   },
   {
-    "Text": "…….清屏幕的爆破，你既然那么爱！",
+    "Text": "…….巨大、白色、全屏的爆炸呢？！",
     "OriginalText": "...screen clearing blasts that you love so much!",
     "StartAddress": 3926904,
     "EndAddress": 3926958,
     "MaxLength": 55
   },
   {
-    "Text": "说实在，你为何不就跟清屏幕爆破结婚呢！",
+    "Text": "说实在的，你怎么不跟全屏爆炸结婚呢！",
     "OriginalText": "In fact, why don't you and the Screen Clearing Blast get married!",
     "StartAddress": 3926960,
     "EndAddress": 3927022,
     "MaxLength": 63
   },
   {
-    "Text": "所以你就能生出清屏幕爆破娃娃！",
+    "Text": "这样你就能生出全屏爆炸娃娃来！",
     "OriginalText": "So you can have Screen Clearing Blast BABIES!",
     "StartAddress": 3927024,
     "EndAddress": 3927070,
     "MaxLength": 47
   },
   {
-    "Text": "而且去住农场，不断的爆炸……",
+    "Text": "然后去一个永远在全屏爆炸的…",
     "OriginalText": "And go live on a farm that's constantly EXPLODING...",
     "StartAddress": 3927072,
     "EndAddress": 3927118,
     "MaxLength": 47
   },
   {
-    "Text": "……在清屏幕爆破当中！",
+    "Text": "……农场里过幸福的生活！",
     "OriginalText": "...in a HUGE SCREEN CLEARING BLAST! ",
     "StartAddress": 3927120,
     "EndAddress": 3927158,
@@ -14595,7 +14595,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "这不是最后一次见面的，小姐！",
+    "Text": "这不是最后一次见面，小姐！",
     "OriginalText": "You haven't seen the last of me, lady!",
     "StartAddress": 3927168,
     "EndAddress": 3927214,
@@ -14623,28 +14623,28 @@
     "MaxLength": 7
   },
   {
-    "Text": "好吧，我得去接我姐姐的孩子。",
+    "Text": "好吧，我得去接我姐姐的孩子了。",
     "OriginalText": "Anyhoo, I gotta go pick up my sister's kids.",
     "StartAddress": 3927272,
     "EndAddress": 3927318,
     "MaxLength": 47
   },
   {
-    "Text": "若你看到他们，请告诉我！",
+    "Text": "如果你看到他们，请告诉我！",
     "OriginalText": "Let me know if you see any of 'em!",
     "StartAddress": 3927320,
     "EndAddress": 3927358,
     "MaxLength": 39
   },
   {
-    "Text": "错不过的。",
+    "Text": "很显眼的。",
     "OriginalText": "You can't miss 'em.",
     "StartAddress": 3927360,
     "EndAddress": 3927374,
     "MaxLength": 15
   },
   {
-    "Text": "他们是爱心形状的。",
+    "Text": "他们是爱心形的。",
     "OriginalText": "They're heart-shaped.",
     "StartAddress": 3927376,
     "EndAddress": 3927406,
@@ -14658,7 +14658,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我要留住玩具！",
+    "Text": "玩具由我来管！",
     "OriginalText": "I'm keeping the toys!",
     "StartAddress": 3927424,
     "EndAddress": 3927478,
@@ -14693,14 +14693,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "趁海妖还没发现她们主要的控制系统已经上线了！",
+    "Text": "趁海妖还没发现她们主要控制系统已经恢复上线了！",
     "OriginalText": "Before those Sirens realize that their main control systems are back on line!",
     "StartAddress": 3927560,
     "EndAddress": 3927630,
     "MaxLength": 71
   },
   {
-    "Text": "来啊！",
+    "Text": "走吧！",
     "OriginalText": "C'mon!",
     "StartAddress": 3927632,
     "EndAddress": 3927662,
@@ -14728,14 +14728,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "我应该知道你会邀请我的。",
+    "Text": "我早该知道你会邀请我的。",
     "OriginalText": "I should have known you'd invite me. ",
     "StartAddress": 3927752,
     "EndAddress": 3927790,
     "MaxLength": 39
   },
   {
-    "Text": "你可以待会儿在道歉啊，洛蒂。",
+    "Text": "你可以待会儿再道歉，烂脑瓜。",
     "OriginalText": "You can apologize later, Rotty.",
     "StartAddress": 3927792,
     "EndAddress": 3927838,
@@ -14749,21 +14749,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "啊？",
+    "Text": "嗯？",
     "OriginalText": "Huh?",
     "StartAddress": 3927872,
     "EndAddress": 3927878,
     "MaxLength": 7
   },
   {
-    "Text": "那是什么噪音呢？",
+    "Text": "那是什么声音？",
     "OriginalText": "What's that rumbling?",
     "StartAddress": 3927880,
     "EndAddress": 3927926,
     "MaxLength": 47
   },
   {
-    "Text": "我们被封闭在里面了！",
+    "Text": "我们被封在里面了！",
     "OriginalText": "We're sealed in!",
     "StartAddress": 3927928,
     "EndAddress": 3927958,
@@ -14784,21 +14784,21 @@
     "MaxLength": 23
   },
   {
-    "Text": "我几乎听不见你们！",
+    "Text": "我听不清你们！",
     "OriginalText": "I can barely hear you!",
     "StartAddress": 3928008,
     "EndAddress": 3928038,
     "MaxLength": 31
   },
   {
-    "Text": "道路被挡住了！",
+    "Text": "道路被封住了！",
     "OriginalText": "The path is blocked!",
     "StartAddress": 3928040,
     "EndAddress": 3928062,
     "MaxLength": 23
   },
   {
-    "Text": "你能使用你进来的方式出去吗？",
+    "Text": "你能从你进来的路出去吗？",
     "OriginalText": "Can you get out the way you came in?",
     "StartAddress": 3928064,
     "EndAddress": 3928110,
@@ -14812,7 +14812,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "你们搭着铁鱼快逃出去吧！",
+    "Text": "你们快搭上铁鱼逃出去吧！",
     "OriginalText": "You guys take the Metal Fish and get out of here!",
     "StartAddress": 3928128,
     "EndAddress": 3928166,
@@ -14847,7 +14847,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "感谢你们都没事！",
+    "Text": "感谢老天你们都没事！",
     "OriginalText": "Thank goodness you're all safe!",
     "StartAddress": 3928272,
     "EndAddress": 3928302,
@@ -14861,21 +14861,21 @@
     "MaxLength": 23
   },
   {
-    "Text": "那些塔从地上直接升起来！",
+    "Text": "那些塔从地上升了起来！",
     "OriginalText": "Those towers rose up right out of the ground!",
     "StartAddress": 3928328,
     "EndAddress": 3928366,
     "MaxLength": 39
   },
   {
-    "Text": "而这是我之前在讲的控制台！",
+    "Text": "这就是我之前在讲的控制台！",
     "OriginalText": "And this is the control panel I was talking about before!",
     "StartAddress": 3928368,
     "EndAddress": 3928406,
     "MaxLength": 39
   },
   {
-    "Text": "我按了上面每一个按钮，但没有任何事情发生！",
+    "Text": "我按了上面每一个按钮，但什么也发生！",
     "OriginalText": "I pushed every button on it, but nothing happened!",
     "StartAddress": 3928408,
     "EndAddress": 3928470,
@@ -14896,14 +14896,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "她骗了我来恢复控制系统的电力。",
+    "Text": "她利用我恢复了控制系统的电力。",
     "OriginalText": "She tricked me into restoring power to the control systems.",
     "StartAddress": 3928552,
     "EndAddress": 3928598,
     "MaxLength": 47
   },
   {
-    "Text": "而现在她使用这些<1>塔</1>来发电给<1>引擎</1>！",
+    "Text": "而她现在在用这些<1>塔</1>来为<1>引擎</1>充电！",
     "OriginalText": "And now she's using these <1>TOWERS</1> to power up the <1>ENGINES</1>!",
     "StartAddress": 3928600,
     "EndAddress": 3928662,
@@ -14924,14 +14924,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "因为这城市根本不是城市呢！",
+    "Text": "因为这根本不是一座城市！",
     "OriginalText": "Because this city isn't a city at all!",
     "StartAddress": 3928720,
     "EndAddress": 3928758,
     "MaxLength": 39
   },
   {
-    "Text": "是个船。",
+    "Text": "而是艘船。",
     "OriginalText": "It's a ship.",
     "StartAddress": 3928760,
     "EndAddress": 3928774,
@@ -14945,14 +14945,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "是的！而靴子险险想把它充电起来启航走！",
+    "Text": "是的！而靴子险险想给它充电把它开走！",
     "OriginalText": "Yes! And <1>RISKY BOOTS</1> is trying to power it up and sail away with it!",
     "StartAddress": 3928792,
     "EndAddress": 3928854,
     "MaxLength": 63
   },
   {
-    "Text": "真不可思议！船怎么会卡在岛屿底下呢？",
+    "Text": "难以置信！岛屿底下怎么有一艘船呢？",
     "OriginalText": "Unthinkable! How would a ship come to be stuck beneath the island?",
     "StartAddress": 3928856,
     "EndAddress": 3928910,
@@ -14966,63 +14966,63 @@
     "MaxLength": 15
   },
   {
-    "Text": "不管原来是怎么卡在那儿，移动这船对这岛屿来说不可能是好事。",
+    "Text": "不管它是怎么到那的，开动这艘船对这岛屿来说可不是好事。",
     "OriginalText": "However it got there, moving this ship can't be good for the health of this island.",
     "StartAddress": 3928928,
     "EndAddress": 3929014,
     "MaxLength": 87
   },
   {
-    "Text": "这船从土地撕开时……",
+    "Text": "当这艘船撕开大地时…",
     "OriginalText": "When the ship tears free of the earth...",
     "StartAddress": 3929016,
     "EndAddress": 3929046,
     "MaxLength": 31
   },
   {
-    "Text": "我的家就会被破坏掉了！",
+    "Text": "我的家园就会被毁了！",
     "OriginalText": "My home will be destroyed!",
     "StartAddress": 3929048,
     "EndAddress": 3929086,
     "MaxLength": 39
   },
   {
-    "Text": "按照这控制台……",
+    "Text": "根据这控制台……",
     "OriginalText": "According to this panel...",
     "StartAddress": 3929088,
     "EndAddress": 3929118,
     "MaxLength": 31
   },
   {
-    "Text": "……不久，船就会<1>充满电</1>了。",
+    "Text": "……船马上就会<1>充满电</1>了。",
     "OriginalText": "...it won't be long before the ship reaches <1>FULL POWER</1>.",
     "StartAddress": 3929120,
     "EndAddress": 3929166,
     "MaxLength": 47
   },
   {
-    "Text": "在危机中……",
+    "Text": "在危机中…",
     "OriginalText": "In a time of crisis...",
     "StartAddress": 3929168,
     "EndAddress": 3929190,
     "MaxLength": 23
   },
   {
-    "Text": "只有半精灵……",
+    "Text": "只有团结协作…",
     "OriginalText": "Only the Half-Genies...",
     "StartAddress": 3929192,
     "EndAddress": 3929214,
     "MaxLength": 23
   },
   {
-    "Text": "……合作成一队……",
+    "Text": "…的半精灵们…",
     "OriginalText": "...working as a team...",
     "StartAddress": 3929216,
     "EndAddress": 3929246,
     "MaxLength": 31
   },
   {
-    "Text": "…….能救出大家！",
+    "Text": "…….才能拯救大家！",
     "OriginalText": "...can save the day!",
     "StartAddress": 3929248,
     "EndAddress": 3929278,
@@ -15050,7 +15050,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "目前，香缇一个人有我们全部的魔法能力！",
+    "Text": "现状是，香缇一个人有我们全部的魔法能力！",
     "OriginalText": "As it stands, Shantae carries <1>ALL</1> of our magical powers!",
     "StartAddress": 3929328,
     "EndAddress": 3929390,
@@ -15064,7 +15064,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我就把魔法恢复给你们，而我们就能一起对战！",
+    "Text": "我把魔法还给你们，然后我们一起战斗！",
     "OriginalText": "I'll just return your magic, and we can all fight together!",
     "StartAddress": 3929408,
     "EndAddress": 3929470,
@@ -15078,21 +15078,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "直到目前，你的本能已经都帮助了我们了很多。",
+    "Text": "直到目前，你的本能已经帮助了我们很多。",
     "OriginalText": "Your instincts have served us well to this point!",
     "StartAddress": 3929504,
     "EndAddress": 3929566,
     "MaxLength": 63
   },
   {
-    "Text": "这任务是要给壮观半精灵超级明星！",
+    "Text": "这任务该交给<1>半精灵超级明星</1>！",
     "OriginalText": "This is a job for a <1>SPECTACULAR HALF-GENIE SUPERSTAR</1>!",
     "StartAddress": 3929568,
     "EndAddress": 3929622,
     "MaxLength": 55
   },
   {
-    "Text": "这是你闪光的机会！",
+    "Text": "这是你闪耀的机会！",
     "OriginalText": "It's your time to shine!",
     "StartAddress": 3929624,
     "EndAddress": 3929670,
@@ -15106,7 +15106,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "啊？",
+    "Text": "嗯？",
     "OriginalText": "Huh?",
     "StartAddress": 3929680,
     "EndAddress": 3929686,
@@ -15120,14 +15120,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "她在穿什么？",
+    "Text": "她穿的是什么？",
     "OriginalText": "And what is she wearing?",
     "StartAddress": 3929704,
     "EndAddress": 3929726,
     "MaxLength": 23
   },
   {
-    "Text": "而我能在哪里买呢？",
+    "Text": "我能在哪里买到呢？",
     "OriginalText": "And where can I get one?",
     "StartAddress": 3929728,
     "EndAddress": 3929758,
@@ -15141,14 +15141,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "那是海妖啊？",
+    "Text": "那是海妖？",
     "OriginalText": "That’s a <1>SIREN</1>?",
     "StartAddress": 3929776,
     "EndAddress": 3929798,
     "MaxLength": 23
   },
   {
-    "Text": "这是在恐吓我乡村的怪兽？",
+    "Text": "这就是我的村民惧怕的生物？",
     "OriginalText": "This is the creature that's been terrifying my village?",
     "StartAddress": 3929800,
     "EndAddress": 3929838,
@@ -15162,7 +15162,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "不是这一位。",
+    "Text": "她不是。",
     "OriginalText": "Not this one.",
     "StartAddress": 3929856,
     "EndAddress": 3929878,
@@ -15190,7 +15190,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "她好像想说话呢！",
+    "Text": "她好像想说话！",
     "OriginalText": "I think she's trying to speak!",
     "StartAddress": 3929968,
     "EndAddress": 3929998,
@@ -15211,7 +15211,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "不！把她破皮吃掉！",
+    "Text": "不！把她剥皮吃掉！",
     "OriginalText": "No! Peel and eat her!",
     "StartAddress": 3930064,
     "EndAddress": 3930094,
@@ -15225,14 +15225,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "别这样，洛蒂！",
+    "Text": "别这样，烂脑瓜!",
     "OriginalText": "Stop it, Rotty!",
     "StartAddress": 3930128,
     "EndAddress": 3930150,
     "MaxLength": 23
   },
   {
-    "Text": "你在吓她！",
+    "Text": "她吓到了！",
     "OriginalText": "You're scaring her!",
     "StartAddress": 3930152,
     "EndAddress": 3930166,
@@ -15260,14 +15260,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "除非她知道怎么把那些能源塔停机……",
+    "Text": "她帮不上什么忙了，而且也太迟了！",
     "OriginalText": "Unless she knows how to shut down those energy towers...",
     "StartAddress": 3930240,
     "EndAddress": 3930294,
     "MaxLength": 55
   },
   {
-    "Text": "……她所能帮的也太少了，太晚！",
+    "Text": "除非她知道怎么关掉那些能源塔…",
     "OriginalText": "...any help from her is too little, too late!",
     "StartAddress": 3930296,
     "EndAddress": 3930342,
@@ -15281,35 +15281,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "天天！那很不礼貌呢！",
+    "Text": "天天！那太不礼貌了！",
     "OriginalText": "Sky! That's mean!",
     "StartAddress": 3930360,
     "EndAddress": 3930390,
     "MaxLength": 31
   },
   {
-    "Text": "我去跟她谈一谈。",
+    "Text": "我会跟她谈一谈。",
     "OriginalText": "I will talk with her. ",
     "StartAddress": 3930392,
     "EndAddress": 3930422,
     "MaxLength": 31
   },
   {
-    "Text": "与此同时，你的任务很清楚呢……",
+    "Text": "与此同时，你的任务很清楚……",
     "OriginalText": "Meanwhile, your mission is clear...",
     "StartAddress": 3930424,
     "EndAddress": 3930470,
     "MaxLength": 47
   },
   {
-    "Text": "把<1>全部四塔</1>关机，趁还有时间时！",
+    "Text": "趁还有时间，关掉<1>全部四座塔</1>！",
     "OriginalText": "Shut down <1>ALL FOUR TOWERS</1> while there's still time!",
     "StartAddress": 3930472,
     "EndAddress": 3930526,
     "MaxLength": 55
   },
   {
-    "Text": "好的，马上去！",
+    "Text": "好的，我马上去！",
     "OriginalText": "Ok, I’m on it!",
     "StartAddress": 3930528,
     "EndAddress": 3930574,
@@ -15323,7 +15323,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "释放那些怪兽根本一直就是你的目标！",
+    "Text": "你一直都计划着释放那些怪兽！",
     "OriginalText": "Releasing those creatures was part of your plan all along!",
     "StartAddress": 3930600,
     "EndAddress": 3930654,
@@ -15344,7 +15344,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "一点都不是！",
+    "Text": "大错特错！",
     "OriginalText": "Not at all.",
     "StartAddress": 3930688,
     "EndAddress": 3930710,
@@ -15372,28 +15372,28 @@
     "MaxLength": 23
   },
   {
-    "Text": "这些<1>能源收集塔</1>将会收集<1>太阳光</1>……",
+    "Text": "这些<1>能源收集塔</1>将会收集<1>阳光</1>…",
     "OriginalText": "These <1>ENERGY COLLECTOR TOWERS</1> will collect the <1>SUN'S RAYS</1>...",
     "StartAddress": 3930784,
     "EndAddress": 3930846,
     "MaxLength": 63
   },
   {
-    "Text": "……而把它转换成<1>燃料</1>给<1>船的引擎</1>！",
+    "Text": "…然后把它转换成<1>船的引擎</1>的<1>燃料</1>！",
     "OriginalText": "...And convert them to <1>FUEL</1> for the the <1>SHIP'S ENGINES</1>!",
     "StartAddress": 3930848,
     "EndAddress": 3930910,
     "MaxLength": 63
   },
   {
-    "Text": "而七海妖曾经掌握过的能力……",
+    "Text": "而七海妖曾经掌握过的力量……",
     "OriginalText": "The Power that once belonged to the <1>SEVEN SIRENS</1>...",
     "StartAddress": 3930912,
     "EndAddress": 3930958,
     "MaxLength": 47
   },
   {
-    "Text": "会是靴子险险的！",
+    "Text": "将会属于靴子险险！",
     "OriginalText": "Will now belong to <1>RISKY BOOTS</1>!",
     "StartAddress": 3930960,
     "EndAddress": 3930990,
@@ -15414,7 +15414,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "险险，停住！",
+    "Text": "险险，快停下！",
     "OriginalText": "Risky, stop!",
     "StartAddress": 3931032,
     "EndAddress": 3931054,
@@ -15428,14 +15428,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "洛蒂！",
+    "Text": "烂脑瓜！",
     "OriginalText": "Rotty!",
     "StartAddress": 3931088,
     "EndAddress": 3931102,
     "MaxLength": 15
   },
   {
-    "Text": "那些能源收集塔听起来很糟糕呢！",
+    "Text": "那些能源收集塔真是个坏消息！",
     "OriginalText": "Those <1>ENERGY COLLECTOR TOWERS</1> sound like real bad news!",
     "StartAddress": 3931104,
     "EndAddress": 3931150,
@@ -15456,14 +15456,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "那我们尽快回到水面！",
+    "Text": "那我们马上回到水面！",
     "OriginalText": "Then let's get <1>BACK TO THE SURFACE</1>, fast!!",
     "StartAddress": 3931224,
     "EndAddress": 3931278,
     "MaxLength": 55
   },
   {
-    "Text": "你得趁还有时间快毁灭掉<1>全部四座塔</1>！",
+    "Text": "你得趁还有时间尽快毁掉<1>全部四座塔</1>！",
     "OriginalText": "You must destroy <1>ALL FOUR TOWERS</1> while there's still time!",
     "StartAddress": 3931280,
     "EndAddress": 3931358,
@@ -15491,7 +15491,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "尽力<1>毁灭掉那飞船</1>，防止它<1>射击</1>！",
+    "Text": "尽一切手段<1>毁掉那艘飞船</1>，防止它<1>开火</1>！",
     "OriginalText": "Do whatever it takes to <1>DESTROY THAT AIRSHIP</1> before it can <1>FIRE</1>!",
     "StartAddress": 3931528,
     "EndAddress": 3931606,
@@ -15505,7 +15505,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "现在来<1>第二个能源收集器</1>！",
+    "Text": "该去解决<1>第二个能源收集器</1>了！",
     "OriginalText": "Now for that <1>SECOND ENERGY COLLECTOR</1>!",
     "StartAddress": 3931624,
     "EndAddress": 3931686,
@@ -15519,7 +15519,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "现在来<1>第三个能源收集器</1>！",
+    "Text": "该去解决<1>第三个能源收集器</1>了！",
     "OriginalText": "Now for that <1>THIRD TOWER</1>!",
     "StartAddress": 3931728,
     "EndAddress": 3931790,
@@ -15547,35 +15547,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "我们都知道你做得到！啊，你成功了吗？",
+    "Text": "我就知道你能成功！额，你成功了吗？",
     "OriginalText": "I knew you could do it! Um, did you?",
     "StartAddress": 3931896,
     "EndAddress": 3931950,
     "MaxLength": 55
   },
   {
-    "Text": "嗯。全部四个能源收集器都拆下了。",
+    "Text": "嗯。全部四个能源收集器都毁了。",
     "OriginalText": "Yeah. All four energy collectors are down for the count.",
     "StartAddress": 3931952,
     "EndAddress": 3932006,
     "MaxLength": 55
   },
   {
-    "Text": "那应该就会停住能源往城市的流量。",
+    "Text": "那应该就会阻止能量流往城市。",
     "OriginalText": "That should stop the flow of power into the city.",
     "StartAddress": 3932008,
     "EndAddress": 3932062,
     "MaxLength": 55
   },
   {
-    "Text": "若是真的，那这怎么解释？",
+    "Text": "如果是真的，那这怎么解释？",
     "OriginalText": "If that’s true, then how do you explain this?",
     "StartAddress": 3932064,
     "EndAddress": 3932118,
     "MaxLength": 55
   },
   {
-    "Text": "哇塞，是真的！",
+    "Text": "天哪，是真的！",
     "OriginalText": "My word, it’s true!",
     "StartAddress": 3932120,
     "EndAddress": 3932142,
@@ -15589,7 +15589,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "而不是随便任何船……",
+    "Text": "而且不是一般的船……",
     "OriginalText": "And not just any ship....",
     "StartAddress": 3932168,
     "EndAddress": 3932198,
@@ -15603,21 +15603,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "由险险开船舵！",
+    "Text": "由靴子险险掌舵！",
     "OriginalText": "With Risky Boots at the helm!",
     "StartAddress": 3932216,
     "EndAddress": 3932246,
     "MaxLength": 31
   },
   {
-    "Text": "她火炮直接对着这岛屿！",
+    "Text": "她的火炮直接对准了这岛屿！",
     "OriginalText": "Her cannon's aimed right at the island!",
     "StartAddress": 3932248,
     "EndAddress": 3932286,
     "MaxLength": 39
   },
   {
-    "Text": "我们能怎么办？",
+    "Text": "我们该怎么办？",
     "OriginalText": "What’ll we do?",
     "StartAddress": 3932288,
     "EndAddress": 3932310,
@@ -15631,7 +15631,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "我们得把香缇放进那船里面。",
+    "Text": "我们得让香缇上到那艘船里面。",
     "OriginalText": "We've got to get Shantae inside that ship.",
     "StartAddress": 3932344,
     "EndAddress": 3932398,
@@ -15645,7 +15645,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "啊？",
+    "Text": "嗯？",
     "OriginalText": "Huh?",
     "StartAddress": 3932440,
     "EndAddress": 3932446,
@@ -15659,7 +15659,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "好啊，显示给我们看你能做些什么！",
+    "Text": "好啊，让我们看看你的能耐！",
     "OriginalText": "Ok, show us what you can do!",
     "StartAddress": 3932464,
     "EndAddress": 3932534,
@@ -15673,7 +15673,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "她召唤出了某种运输器。",
+    "Text": "她召唤出了某种传送器。",
     "OriginalText": "She's summoned some sort of <1>TRANSPORT DEVICE</1>.",
     "StartAddress": 3932560,
     "EndAddress": 3932598,
@@ -15694,14 +15694,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "她能够瞬间移动东西！",
+    "Text": "她的能力是传送东西！",
     "OriginalText": "She has the ability to teleport things!",
     "StartAddress": 3932656,
     "EndAddress": 3932686,
     "MaxLength": 31
   },
   {
-    "Text": "海妖使用了她能力在半精灵节目中把半精灵传送走。",
+    "Text": "海妖用她的能力在半精灵庆典中把半精灵传送走。",
     "OriginalText": "The Sirens used her to warp away the Half-Genies during the Half-Genie Festival.  ",
     "StartAddress": 3932688,
     "EndAddress": 3932758,
@@ -15715,7 +15715,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "你光听着她吵闹尖叫就了解了这么多啊？",
+    "Text": "你光靠听她的尖叫就能了解这么多啊？",
     "OriginalText": "You got all that from a few annoying screeches? ",
     "StartAddress": 3932816,
     "EndAddress": 3932870,
@@ -15729,14 +15729,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "到该去面对靴子险险的时间了！",
+    "Text": "该去面对靴子险险了！",
     "OriginalText": "It's time for you to go and confront Risky Boots!",
     "StartAddress": 3932912,
     "EndAddress": 3932958,
     "MaxLength": 47
   },
   {
-    "Text": "你得尽力<1>毁灭那飞船</1>防止它<1>射击</1>！",
+    "Text": "尽一切手段<1>毁掉飞船</1>，防止它<1>开火</1>！",
     "OriginalText": "You must do whatever it takes to <1>DESTROY THAT AIRSHIP</1> before it can <1>FIRE</1>!",
     "StartAddress": 3932960,
     "EndAddress": 3933022,
@@ -15792,14 +15792,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "把自己顾好就好了！",
+    "Text": "还是先担心你自己吧！",
     "OriginalText": "Worry about yourselves!",
     "StartAddress": 3933248,
     "EndAddress": 3933278,
     "MaxLength": 31
   },
   {
-    "Text": "他们释放了海妖官兵！",
+    "Text": "她们释放了海妖官兵！",
     "OriginalText": "They've let loose their <1>SIREN MEN</1>!",
     "StartAddress": 3933280,
     "EndAddress": 3933326,
@@ -15848,7 +15848,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "那是全部四个。该回场馆镇了！",
+    "Text": "全部四个都解决了。该回场馆镇了！",
     "OriginalText": "That's all four. Time to get back to Arena Town!",
     "StartAddress": 3933576,
     "EndAddress": 3933646,
@@ -15862,21 +15862,21 @@
     "MaxLength": 23
   },
   {
-    "Text": "不只这样！而且她也救了靴子险险。",
+    "Text": "不只这样！她还救了靴子险险。",
     "OriginalText": "Not only that! She saved Risky Boots as well.",
     "StartAddress": 3933672,
     "EndAddress": 3933726,
     "MaxLength": 55
   },
   {
-    "Text": "哎呀。",
+    "Text": "哎。",
     "OriginalText": "Ugh.",
     "StartAddress": 3933728,
     "EndAddress": 3933742,
     "MaxLength": 15
   },
   {
-    "Text": "为什么花了这力气呢？",
+    "Text": "何苦呢？",
     "OriginalText": "Why bother?",
     "StartAddress": 3933744,
     "EndAddress": 3933774,
@@ -15946,7 +15946,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "是啊，我们每一位都恢复像新一样！",
+    "Text": "是的，我们每一位都完全恢复了！",
     "OriginalText": "Yes, every one of us is fully restored and good as new!",
     "StartAddress": 3933992,
     "EndAddress": 3934046,
@@ -15967,7 +15967,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我找到她就是这样。",
+    "Text": "我找到她时就是这样。",
     "OriginalText": "I found her like this.",
     "StartAddress": 3934088,
     "EndAddress": 3934118,
@@ -15988,7 +15988,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "别拿你肮脏的手来碰我！",
+    "Text": "别拿你的脏手来碰我！",
     "OriginalText": "Get your filthy hands off me!",
     "StartAddress": 3934176,
     "EndAddress": 3934230,
@@ -16016,14 +16016,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "你们大家最好退后！",
+    "Text": "你们最好全都退后！",
     "OriginalText": "And all of you better back off right now!",
     "StartAddress": 3934288,
     "EndAddress": 3934318,
     "MaxLength": 31
   },
   {
-    "Text": "安静下来，姐！",
+    "Text": "冷静，大姐！",
     "OriginalText": "Simmer down, sister!",
     "StartAddress": 3934320,
     "EndAddress": 3934342,
@@ -16044,21 +16044,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "甚至你试着把我们都爆炸之后。",
+    "Text": "即使你想把我们都炸了。",
     "OriginalText": "Even after you tried to blow all of us up.",
     "StartAddress": 3934392,
     "EndAddress": 3934438,
     "MaxLength": 47
   },
   {
-    "Text": "嘘。",
+    "Text": "切。",
     "OriginalText": "Pshh.",
     "StartAddress": 3934440,
     "EndAddress": 3934446,
     "MaxLength": 7
   },
   {
-    "Text": "她只是在扮演她的角色而已。",
+    "Text": "她只是在扮演我给她的角色。",
     "OriginalText": "The runt was just playing the part I gave her.",
     "StartAddress": 3934448,
     "EndAddress": 3934486,
@@ -16072,28 +16072,28 @@
     "MaxLength": 23
   },
   {
-    "Text": "我建设半精灵節慶是为了把你们全部都带来……",
+    "Text": "我创立半精灵庆典是为了把你们引诱过来……",
     "OriginalText": "I created the Half-Genie festival to lure you all here...",
     "StartAddress": 3934512,
     "EndAddress": 3934574,
     "MaxLength": 63
   },
   {
-    "Text": "……好让皇后以这五位傻瓜为食。",
+    "Text": "…好让皇后以你们五个傻瓜为食。",
     "OriginalText": "...so that the Empress could feed on those other five fools.",
     "StartAddress": 3934576,
     "EndAddress": 3934622,
     "MaxLength": 47
   },
   {
-    "Text": "我说服了她说你的生命力是抵挡的。",
+    "Text": "我骗她说你的生命力量是次等、腐化的。",
     "OriginalText": "I'd convinced her that the runt's life force was inferior and tainted.",
     "StartAddress": 3934624,
     "EndAddress": 3934678,
     "MaxLength": 55
   },
   {
-    "Text": "看你舞台上的表演，这的确一点都不难相信。",
+    "Text": "看你舞台上的表演，这确实一点都不难相信。",
     "OriginalText": "Not a difficult task given her performance on stage. ",
     "StartAddress": 3934680,
     "EndAddress": 3934742,
@@ -16107,7 +16107,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "别想的那么美呢。",
+    "Text": "别想的那么美。",
     "OriginalText": "Don't flatter yourself.",
     "StartAddress": 3934776,
     "EndAddress": 3934806,
@@ -16121,35 +16121,35 @@
     "MaxLength": 31
   },
   {
-    "Text": "只是为了以防皇后试着用诡计占上风。",
+    "Text": "只是为了防止皇后耍什么花招。",
     "OriginalText": "I kept you nearby in case the Empress tried to pull a fast one.",
     "StartAddress": 3934840,
     "EndAddress": 3934894,
     "MaxLength": 55
   },
   {
-    "Text": "但你像个幼稚的孩子一样，一直打扰了我！",
+    "Text": "但你却像个幼稚的孩子一样，一直在妨碍我！",
     "OriginalText": "But like a childish oaf you kept getting in my way!",
     "StartAddress": 3934896,
     "EndAddress": 3934958,
     "MaxLength": 63
   },
   {
-    "Text": "我需要把这些笨蛋关在笼子够久好让我能能吸收全部五位适合分量的生命！",
+    "Text": "我需要把这些笨蛋关在笼子里足够久，来汲取<1>五人份</1>的生命力量！",
     "OriginalText": "I needed to keep these fools caged long enough to drain <1>ALL FIVE</1> in the proper amounts!",
     "StartAddress": 3934960,
     "EndAddress": 3935062,
     "MaxLength": 103
   },
   {
-    "Text": "五滴纯粹的半精灵生命力，他真的就会变所向无敌。",
+    "Text": "如果是五个<1>真的</1>半精灵，那皇后就真的无敌了。",
     "OriginalText": "Five <1>ACTUAL</1> drops of Half-Genie Life Force, and she really <1>WOULD</1> have become invincible. ",
     "StartAddress": 3935064,
     "EndAddress": 3935134,
     "MaxLength": 71
   },
   {
-    "Text": "嘿！那表示我是英雄！",
+    "Text": "嘿！那说明我是英雄！",
     "OriginalText": "Hey! That makes me a hero!",
     "StartAddress": 3935136,
     "EndAddress": 3935166,
@@ -16163,7 +16163,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "我就能把那皇后和剩下海妖爆炸成果冻潭。",
+    "Text": "我就能把那皇后和剩下的海妖轰成渣。",
     "OriginalText": "I'd blast the Empress and whatever's left of those Sirens into quivering puddles of jelly.",
     "StartAddress": 3935208,
     "EndAddress": 3935270,
@@ -16177,7 +16177,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "何不？",
+    "Text": "为什么不？",
     "OriginalText": "And why NOT?",
     "StartAddress": 3935320,
     "EndAddress": 3935334,
@@ -16191,7 +16191,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "我值得拥有最佳的所有！",
+    "Text": "我值得拥有最好的东西！",
     "OriginalText": "I deserve the very best!",
     "StartAddress": 3935368,
     "EndAddress": 3935406,
@@ -16226,7 +16226,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "上面千万不准有任何刮伤，要不然你们大家都得付出代价！",
+    "Text": "上面千万不准有任何刮伤，要不然你们都得付出代价！",
     "OriginalText": "There had better not be a <1>SCRATCH</1> on it or you'll ALL pay dearly!",
     "StartAddress": 3935536,
     "EndAddress": 3935614,
@@ -16254,7 +16254,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "而不知何故，我们能想办法当作一队来合作！",
+    "Text": "这样某天我们可以<1>并肩作战</1>！",
     "OriginalText": "That someday we can work together as a <1>TEAM</1>!!",
     "StartAddress": 3935720,
     "EndAddress": 3935782,
@@ -16268,7 +16268,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我们刚就是这么做！",
+    "Text": "我们刚就是这么做的！",
     "OriginalText": "That's exactly what we did!",
     "StartAddress": 3935800,
     "EndAddress": 3935830,
@@ -16282,7 +16282,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "兄弟们！",
+    "Text": "伙计们！",
     "OriginalText": "Men!",
     "StartAddress": 3935864,
     "EndAddress": 3935878,
@@ -16296,7 +16296,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "准备好我的澡盆！",
+    "Text": "给我备好洗澡水！",
     "OriginalText": "Ready my bath!",
     "StartAddress": 3935888,
     "EndAddress": 3935918,
@@ -16310,7 +16310,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "妈妈头疼！",
+    "Text": "妈咪头疼！",
     "OriginalText": "Mommy has a headache!",
     "StartAddress": 3935952,
     "EndAddress": 3935982,
@@ -16324,7 +16324,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "别离开我！",
+    "Text": "别丢下我！",
     "OriginalText": "Don't you dare leave without me!",
     "StartAddress": 3936000,
     "EndAddress": 3936030,
@@ -16359,7 +16359,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "那既然解决了，我们现在应该确认大家没事。",
+    "Text": "结束了，我们现在应该确认一下大家都没事。",
     "OriginalText": "With that behind us, we should make sure everyone's alright.",
     "StartAddress": 3936152,
     "EndAddress": 3936214,
@@ -16373,28 +16373,28 @@
     "MaxLength": 39
   },
   {
-    "Text": "可是还有时间找别的场地主办半精灵节！",
+    "Text": "不过还有时间找别的场地举办半精灵庆典!",
     "OriginalText": "But there’s still time to host the Half-Genie Festival somewhere else!",
     "StartAddress": 3936256,
     "EndAddress": 3936310,
     "MaxLength": 55
   },
   {
-    "Text": "你真的想重新开始节庆？",
+    "Text": "你真的想继续庆典？",
     "OriginalText": "You seriously want to resume the festival?",
     "StartAddress": 3936312,
     "EndAddress": 3936350,
     "MaxLength": 39
   },
   {
-    "Text": "何不？",
+    "Text": "为什么不？",
     "OriginalText": "Why not?",
     "StartAddress": 3936352,
     "EndAddress": 3936366,
     "MaxLength": 15
   },
   {
-    "Text": "我们可以把节庆移到树你！",
+    "Text": "我们可以把庆典移到树村！",
     "OriginalText": "We could move the festival to Tree Town!",
     "StartAddress": 3936368,
     "EndAddress": 3936406,
@@ -16408,21 +16408,21 @@
     "MaxLength": 15
   },
   {
-    "Text": "为何不两场地都有？",
+    "Text": "为何不全都办？",
     "OriginalText": "How about both?",
     "StartAddress": 3936424,
     "EndAddress": 3936454,
     "MaxLength": 31
   },
   {
-    "Text": "我们可以白天在护甲镇表演……",
+    "Text": "我们可以白天在护甲镇表演…",
     "OriginalText": "We could perform days at Armor Town...",
     "StartAddress": 3936456,
     "EndAddress": 3936502,
     "MaxLength": 47
   },
   {
-    "Text": "……而傍晚照着火炬光在树村表演！",
+    "Text": "…然后晚上照着火光在树村表演！",
     "OriginalText": "...And evenings by torchlight in Tree Town!",
     "StartAddress": 3936504,
     "EndAddress": 3936558,
@@ -16443,35 +16443,35 @@
     "MaxLength": 15
   },
   {
-    "Text": "我也要！我准备享受真正的度假！",
+    "Text": "我也要！我要享受真正的度假！",
     "OriginalText": "I'm in! I’m ready for a real vacation!",
     "StartAddress": 3936592,
     "EndAddress": 3936638,
     "MaxLength": 47
   },
   {
-    "Text": "而也许这一次我能有个合适的房间！",
+    "Text": "也许这次我能有个像样的房间！",
     "OriginalText": "And maybe I can get a decent room this time!",
     "StartAddress": 3936640,
     "EndAddress": 3936694,
     "MaxLength": 55
   },
   {
-    "Text": "有我上台一定会很受欢迎的！",
+    "Text": "有我上台我们会大受好评的！",
     "OriginalText": "With me on stage we'll be a sure fire hit!",
     "StartAddress": 3936696,
     "EndAddress": 3936734,
     "MaxLength": 39
   },
   {
-    "Text": "我的确想跟那些科学家继续聊聊！",
+    "Text": "我想跟那些科学家们好好聊聊！",
     "OriginalText": "I'd like to spend some time with those scientists!",
     "StartAddress": 3936736,
     "EndAddress": 3936782,
     "MaxLength": 47
   },
   {
-    "Text": "我们再次度假吧……",
+    "Text": "那我们就开始度假吧…",
     "OriginalText": "Let's take this vacation again...",
     "StartAddress": 3936784,
     "EndAddress": 3936814,
