@@ -693,7 +693,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "…<1>半精灵奇观秀</1>！",
+    "Text": "…<1>半精灵巨星秀</1>！",
     "OriginalText": "...the <1>HALF-GENIE SUPERSTAR SPECTACULAR</1>!",
     "StartAddress": 3850104,
     "EndAddress": 3850142,
@@ -2961,21 +2961,21 @@
     "MaxLength": 23
   },
   {
-    "Text": "我们把所有魔法融合成巨大…",
+    "Text": "我们把所有魔法融合成一个…",
     "OriginalText": "We'll merge our magic into one big...",
     "StartAddress": 3861624,
     "EndAddress": 3861662,
     "MaxLength": 39
   },
   {
-    "Text": "...强力…",
+    "Text": "...强大的…",
     "OriginalText": "...powerful...",
     "StartAddress": 3861664,
     "EndAddress": 3861678,
     "MaxLength": 15
   },
   {
-    "Text": "…<1>壮观明星超级精灵</1>!",
+    "Text": "…<1>闪亮巨星半精灵</1>!",
     "OriginalText": "...<1>SPECTACULAR SUPERSTAR SUPER GENIE</1>!",
     "StartAddress": 3861680,
     "EndAddress": 3861718,
@@ -12894,7 +12894,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "有了这最终的能力，你就会成为<1>壮观超级星光超精灵</1>！",
+    "Text": "有了这最终的能力，你就会成为<1>闪亮巨星半精灵</1>！",
     "OriginalText": "With this final power, you'll become a <1>SPECTACULAR SUPERSTAR SUPER GENIE</1>!",
     "StartAddress": 3917440,
     "EndAddress": 3917518,
@@ -15085,14 +15085,14 @@
     "MaxLength": 63
   },
   {
-    "Text": "这任务该交给<1>半精灵超级明星</1>！",
+    "Text": "这任务该交给<1>闪亮半精灵巨星</1>！",
     "OriginalText": "This is a job for a <1>SPECTACULAR HALF-GENIE SUPERSTAR</1>!",
     "StartAddress": 3929568,
     "EndAddress": 3929622,
     "MaxLength": 55
   },
   {
-    "Text": "这是你闪耀的机会！",
+    "Text": "是你闪耀的时候了！",
     "OriginalText": "It's your time to shine!",
     "StartAddress": 3929624,
     "EndAddress": 3929670,
@@ -16457,7 +16457,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "有我上台我们会大受好评的！",
+    "Text": "有我上台，我们一定能火！",
     "OriginalText": "With me on stage we'll be a sure fire hit!",
     "StartAddress": 3936696,
     "EndAddress": 3936734,
@@ -16485,42 +16485,42 @@
     "MaxLength": 63
   },
   {
-    "Text": "我坐上了太空船！",
+    "Text": "我乘上飞船了！",
     "OriginalText": "I got to ride on an airship!",
     "StartAddress": 3936880,
     "EndAddress": 3936910,
     "MaxLength": 31
   },
   {
-    "Text": "他们还给了我们用餐和送了免费小包包！",
+    "Text": "他们请我们用餐，还送了免费的小包包！",
     "OriginalText": "They gave us a meal and a free little bag!",
     "StartAddress": 3936912,
     "EndAddress": 3936966,
     "MaxLength": 55
   },
   {
-    "Text": "我爸包包没了。",
+    "Text": "我爸爸的包包用完了。",
     "OriginalText": "My dad ran out of bags.",
     "StartAddress": 3936968,
     "EndAddress": 3937006,
     "MaxLength": 39
   },
   {
-    "Text": "爸说海底有一艘泡泡铁船。",
+    "Text": "爸爸说海底有一艘铁泡泡船。",
     "OriginalText": "Dad said there is a metal bubble boat deep under the sea.",
     "StartAddress": 3937008,
     "EndAddress": 3937046,
     "MaxLength": 39
   },
   {
-    "Text": "是那往上下的船。",
+    "Text": "是那种上下开的船。",
     "OriginalText": "It is an up-and-down kind of boat.",
     "StartAddress": 3937048,
     "EndAddress": 3937078,
     "MaxLength": 31
   },
   {
-    "Text": "不是往前后的船。",
+    "Text": "不是那种前后开的船。",
     "OriginalText": "Not a back-and-forth kind of boat.",
     "StartAddress": 3937080,
     "EndAddress": 3937126,
@@ -16541,14 +16541,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "它像是水中的爸妈房间一样神奇。",
+    "Text": "它就像水里的爸爸妈妈的房间。",
     "OriginalText": "It's the Mom and Dad's room of water.",
     "StartAddress": 3937184,
     "EndAddress": 3937246,
     "MaxLength": 63
   },
   {
-    "Text": "海滩上的老先生…",
+    "Text": "海滩上的老爷爷…",
     "OriginalText": "The old man on the beach...",
     "StartAddress": 3937248,
     "EndAddress": 3937278,
@@ -16562,14 +16562,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "妈妈海鸥喜欢喂他。",
+    "Text": "海鸥妈妈喜欢喂他。",
     "OriginalText": "The mommy seagull likes to feed him.",
     "StartAddress": 3937320,
     "EndAddress": 3937366,
     "MaxLength": 47
   },
   {
-    "Text": "我读了一本关于大自然的书，提到乌龟！",
+    "Text": "我读了一本关于乌龟的自然书！",
     "OriginalText": "I read a nature book about turtles!",
     "StartAddress": 3937368,
     "EndAddress": 3937422,
@@ -16597,77 +16597,77 @@
     "MaxLength": 55
   },
   {
-    "Text": "它们捕爱吃<1>巨大、裂缝的方块</1>。",
+    "Text": "它们捕食<1>巨大、有裂缝的方块</1>。",
     "OriginalText": "They prey upon <1>LARGE, CRACKED BLOCKS</1>. ",
     "StartAddress": 3937528,
     "EndAddress": 3937598,
     "MaxLength": 71
   },
   {
-    "Text": "我读了一本关于大自然的书，提到青蛙！",
+    "Text": "我读了一本关于青蛙的自然书！",
     "OriginalText": "I read a nature book about frogs!",
     "StartAddress": 3937600,
     "EndAddress": 3937654,
     "MaxLength": 55
   },
   {
-    "Text": "青蛙是咸水爬虫类。",
+    "Text": "青蛙是咸水爬行动物。",
     "OriginalText": "Frogs are saltwater reptiles.",
     "StartAddress": 3937656,
     "EndAddress": 3937686,
     "MaxLength": 31
   },
   {
-    "Text": "青蛙一次只能转九十度的弯。",
+    "Text": "青蛙只能转九十度的弯。",
     "OriginalText": "Frogs can only make 90 degree turns.",
     "StartAddress": 3937688,
     "EndAddress": 3937726,
     "MaxLength": 39
   },
   {
-    "Text": "它们也有办法切换游泳速度。",
+    "Text": "它们还能切换游泳速度。",
     "OriginalText": "They can also toggle their swimming speed somehow.",
     "StartAddress": 3937728,
     "EndAddress": 3937766,
     "MaxLength": 39
   },
   {
-    "Text": "书里没有很仔细地解释这一点。",
+    "Text": "书里没有详细解释这一点。",
     "OriginalText": "The book was not specific on this point.",
     "StartAddress": 3937768,
     "EndAddress": 3937830,
     "MaxLength": 63
   },
   {
-    "Text": "我读了一本关于大自然的书，提到章鱼！",
+    "Text": "我读了一本关于章鱼的自然书！",
     "OriginalText": "I read a nature book about octopi!",
     "StartAddress": 3937832,
     "EndAddress": 3937886,
     "MaxLength": 55
   },
   {
-    "Text": "章鱼有四只脚，而不会游泳。",
+    "Text": "章鱼有四只脚，不会游泳。",
     "OriginalText": "Octopi have four legs, and can not swim.",
     "StartAddress": 3937888,
     "EndAddress": 3937926,
     "MaxLength": 39
   },
   {
-    "Text": "它们利用喷射墨水的方式在空中飞。",
+    "Text": "它们用喷射墨水的方式在空中飞。",
     "OriginalText": "They fly through the air by firing ink.",
     "StartAddress": 3937928,
     "EndAddress": 3937982,
     "MaxLength": 55
   },
   {
-    "Text": "它们可以在天空飞两次，而之后得触碰地上。",
+    "Text": "它们可以在空中飞两次，之后必须回到地上。",
     "OriginalText": "They can fly exacty two times before they must touch the ground again.",
     "StartAddress": 3937984,
     "EndAddress": 3938046,
     "MaxLength": 63
   },
   {
-    "Text": "若章鱼跌下岩边，他不算在天空中。",
+    "Text": "如果章鱼跌下悬崖，那就不算在空中。",
     "OriginalText": "If an octopus falls off a ledge, it is not considered to be in the air.",
     "StartAddress": 3938048,
     "EndAddress": 3938102,
@@ -16681,7 +16681,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "自然法真奇怪！",
+    "Text": "自然法则真奇怪！",
     "OriginalText": "The laws of nature are super weird!",
     "StartAddress": 3938112,
     "EndAddress": 3938150,
@@ -16709,35 +16709,35 @@
     "MaxLength": 39
   },
   {
-    "Text": "当你按住<1>跳舞按钮</1>……",
+    "Text": "当你按住<1>跳舞按钮</1>时…",
     "OriginalText": "When you hold the <1>DANCE BUTTON</1>...",
     "StartAddress": 3938288,
     "EndAddress": 3938326,
     "MaxLength": 39
   },
   {
-    "Text": "你就能吸起遥远的战利品！",
+    "Text": "你就能吸起远处的战利品！",
     "OriginalText": "You can suck up loot that's far away!",
     "StartAddress": 3938328,
     "EndAddress": 3938366,
     "MaxLength": 39
   },
   {
-    "Text": "那到底是咋么做的啊？",
+    "Text": "那到底是怎么做到的啊？",
     "OriginalText": "How do you even do that?",
     "StartAddress": 3938368,
     "EndAddress": 3938414,
     "MaxLength": 47
   },
   {
-    "Text": "那包包辫子的女孩回来了！",
+    "Text": "那个蓬松辫子的女孩回来了！",
     "OriginalText": "The girl with poofy pigtails came back!",
     "StartAddress": 3938416,
     "EndAddress": 3938470,
     "MaxLength": 55
   },
   {
-    "Text": "你身上的味道好像海滩日子哦！",
+    "Text": "你闻起来就像海滩！",
     "OriginalText": "You smell like beach day!",
     "StartAddress": 3938472,
     "EndAddress": 3938534,
@@ -16751,42 +16751,42 @@
     "MaxLength": 23
   },
   {
-    "Text": "我看到你跟一位男孩。",
+    "Text": "你跟一个男孩在一起。",
     "OriginalText": "I saw you with a boy.",
     "StartAddress": 3938560,
     "EndAddress": 3938590,
     "MaxLength": 31
   },
   {
-    "Text": "那男孩有来这里找点心吃。",
+    "Text": "那个男孩有来这里找点心吃。",
     "OriginalText": "That same boy came here looking for snacks. ",
     "StartAddress": 3938592,
     "EndAddress": 3938630,
     "MaxLength": 39
   },
   {
-    "Text": "可是他又离开往<1>树村</1>去了。",
+    "Text": "可是他又马上往<1>树村</1>去了。",
     "OriginalText": "But then he left for <1>TREE TOWN</1>.",
     "StartAddress": 3938632,
     "EndAddress": 3938678,
     "MaxLength": 47
   },
   {
-    "Text": "你该注意你男朋友的下落。",
+    "Text": "你得看好你男朋友。",
     "OriginalText": "Keep better tabs on your boyfriend.",
     "StartAddress": 3938680,
     "EndAddress": 3938734,
     "MaxLength": 55
   },
   {
-    "Text": " <1>科学人</1>往下去了！",
+    "Text": " <1>科学家</1>往下面去了！",
     "OriginalText": "The <1>SCIENCE MAN</1> went down below! ",
     "StartAddress": 3938736,
     "EndAddress": 3938790,
     "MaxLength": 55
   },
   {
-    "Text": "危险度假！",
+    "Text": "危险假期！",
     "OriginalText": "Danger vacation!",
     "StartAddress": 3938792,
     "EndAddress": 3938822,
@@ -16800,14 +16800,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "我想摸摸它头！",
+    "Text": "我想摸摸它的头！",
     "OriginalText": "I want to pat its head!",
     "StartAddress": 3938840,
     "EndAddress": 3938878,
     "MaxLength": 39
   },
   {
-    "Text": "这里的商店卖很多常见的项目。",
+    "Text": "这里的商店卖很多常见的道具。",
     "OriginalText": "The shops here sell many familiar items.",
     "StartAddress": 3938880,
     "EndAddress": 3938926,
@@ -16821,7 +16821,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "若你买个东西，我也来买个东西！",
+    "Text": "如果你买东西，那我也买！",
     "OriginalText": "I'll buy something if you do!",
     "StartAddress": 3938984,
     "EndAddress": 3939030,
@@ -16842,21 +16842,21 @@
     "MaxLength": 39
   },
   {
-    "Text": "可不可能消失的女孩就在那里？",
+    "Text": "有没有可能消失的女孩就在那里？",
     "OriginalText": "Could the missing girls be down there?",
     "StartAddress": 3939104,
     "EndAddress": 3939150,
     "MaxLength": 47
   },
   {
-    "Text": "想到就让我发鸡皮疙瘩！",
+    "Text": "想想让我起鸡皮疙瘩！",
     "OriginalText": "The very thought of it gives me chills!",
     "StartAddress": 3939152,
     "EndAddress": 3939206,
     "MaxLength": 55
   },
   {
-    "Text": "有人说先见者被古老生物拐走了！",
+    "Text": "有人说先见者被古代生物拐走了！",
     "OriginalText": "They say that the Seer was taken by ancient creatures!",
     "StartAddress": 3939208,
     "EndAddress": 3939270,
@@ -16870,7 +16870,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "要探险那么深进未知的地方…",
+    "Text": "要在那么深的地方探索未知…",
     "OriginalText": "To travel so deep into the unknown...",
     "StartAddress": 3939328,
     "EndAddress": 3939382,
@@ -16884,14 +16884,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "他试着想让节目继续演下去……",
+    "Text": "他想让庆典继续下去…",
     "OriginalText": "He has tried to keep the show going...",
     "StartAddress": 3939408,
     "EndAddress": 3939454,
     "MaxLength": 47
   },
   {
-    "Text": "……但我觉得他已经找不出新人才。",
+    "Text": "……但我觉得他已经找不到新人了。",
     "OriginalText": "...But I think he's finally run out of new talent.",
     "StartAddress": 3939456,
     "EndAddress": 3939510,
@@ -16940,14 +16940,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "我非常期待看半精灵准备给我们的表演！",
+    "Text": "我等不及看半精灵为我们准备的表演了！",
     "OriginalText": "I can't wait to see what kind of show the Half-Genies have in store for us!",
     "StartAddress": 3939800,
     "EndAddress": 3939870,
     "MaxLength": 71
   },
   {
-    "Text": "我认为市长知道比他显示的多。",
+    "Text": "我认为市长知道的远不止于此。",
     "OriginalText": "I think the Mayor knows more than he's letting on.",
     "StartAddress": 3939872,
     "EndAddress": 3939918,
@@ -16968,35 +16968,35 @@
     "MaxLength": 31
   },
   {
-    "Text": "今天早上我看到真难过的植物呢！",
+    "Text": "今天早上我看到一株超难过的植物！",
     "OriginalText": "This morning I saw such a sad plant!",
     "StartAddress": 3940000,
     "EndAddress": 3940062,
     "MaxLength": 63
   },
   {
-    "Text": "沉没城市里每一个<1>迷宫</1>里都藏了<1>三只爱心鱿鱼</1>，至少我是这么听说的！",
+    "Text": "沉没城市的每一个<1>迷宫</1>里都藏了<1>三只爱心鱿鱼</1>，至少我是这么听说的！",
     "OriginalText": "Each <1>LABYRINTH</1> in the Sunken City hides <1>THREE HEART SQUIDS</1>, or so I'm told!",
     "StartAddress": 3940064,
     "EndAddress": 3940190,
     "MaxLength": 127
   },
   {
-    "Text": "啊！",
+    "Text": "呼！",
     "OriginalText": "Phew!",
     "StartAddress": 3940192,
     "EndAddress": 3940198,
     "MaxLength": 7
   },
   {
-    "Text": "我累得要命了！",
+    "Text": "累死我了！",
     "OriginalText": "I'm so exhausted!",
     "StartAddress": 3940200,
     "EndAddress": 3940222,
     "MaxLength": 23
   },
   {
-    "Text": "我刚才在头上顶了超过二十罐水壶！",
+    "Text": "我刚才在头上顶了二十多个水壶！",
     "OriginalText": "I just balanced over twenty jugs on my head!",
     "StartAddress": 3940224,
     "EndAddress": 3940278,
@@ -17010,28 +17010,28 @@
     "MaxLength": 39
   },
   {
-    "Text": "我想我就是没有台风。",
+    "Text": "我想我还是没有台风。",
     "OriginalText": "I guess I just don't have stage presence. ",
     "StartAddress": 3940320,
     "EndAddress": 3940366,
     "MaxLength": 47
   },
   {
-    "Text": "若你<1>震撼</1>个空房间，也许会有松的东西掉出来！",
+    "Text": "如果你<1>震动</1>一个空房间，也许就会有松动的东西掉出来！",
     "OriginalText": "If you <1>SHAKE</1> an empty room, something loose might become dislodged!",
     "StartAddress": 3940368,
     "EndAddress": 3940454,
     "MaxLength": 87
   },
   {
-    "Text": "那是什么轰隆的声音呢？",
+    "Text": "那轰隆隆的声音是什么？",
     "OriginalText": "What was all that rumbling?",
     "StartAddress": 3940456,
     "EndAddress": 3940510,
     "MaxLength": 55
   },
   {
-    "Text": "若你需要，干脆把全店买下来！",
+    "Text": "如果你需要的话，把整个店都买下来！",
     "OriginalText": "Buy everything in the store if you have to!",
     "StartAddress": 3940512,
     "EndAddress": 3940574,
@@ -17045,7 +17045,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "踏进水里把烦恼泡走！",
+    "Text": "走进水里把烦恼泡走！",
     "OriginalText": "Step into the water and soak your worries away!",
     "StartAddress": 3940608,
     "EndAddress": 3940654,
@@ -17059,28 +17059,28 @@
     "MaxLength": 31
   },
   {
-    "Text": "踏进水里…",
+    "Text": "走进水里…",
     "OriginalText": "Step into the water and...",
     "StartAddress": 3940688,
     "EndAddress": 3940702,
     "MaxLength": 15
   },
   {
-    "Text": "我不行！",
+    "Text": "我做不到！",
     "OriginalText": "I can't!",
     "StartAddress": 3940704,
     "EndAddress": 3940718,
     "MaxLength": 15
   },
   {
-    "Text": "从昨天晚上之后，我太害怕做任何东西！",
+    "Text": "昨晚之后，我就吓得不敢做任何事情。",
     "OriginalText": "After last night, I'm too scared to do anything!",
     "StartAddress": 3940720,
     "EndAddress": 3940774,
     "MaxLength": 55
   },
   {
-    "Text": "...甚至讨论泡澡水。",
+    "Text": "...即使是讨论泡澡水。",
     "OriginalText": "...Even discuss bath water.",
     "StartAddress": 3940776,
     "EndAddress": 3940822,
@@ -17094,7 +17094,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "这药草温泉会让你感觉跟新的一样！",
+    "Text": "这药草温泉会让你焕然一新！",
     "OriginalText": "These herbal springs will make you feel good as new!",
     "StartAddress": 3940856,
     "EndAddress": 3940926,
@@ -17129,28 +17129,28 @@
     "MaxLength": 31
   },
   {
-    "Text": "在这舒缓的水里回复你的力气，好吗？",
+    "Text": "在这舒缓的水里恢复你的体力，好吗？",
     "OriginalText": "Recover your strength in these soothing waters, ok?",
     "StartAddress": 3941088,
     "EndAddress": 3941158,
     "MaxLength": 71
   },
   {
-    "Text": "市长想大家准备好随时能疏散。",
+    "Text": "市长想让大家随时准备好疏散。",
     "OriginalText": "The mayor wants us all ready to evacuate at a moment's notice. ",
     "StartAddress": 3941160,
     "EndAddress": 3941206,
     "MaxLength": 47
   },
   {
-    "Text": "所以趁还有机会快享受个热乎乎的澡！",
+    "Text": "所以趁还有机会赶快泡个热乎乎的澡！",
     "OriginalText": "So enjoy a hot bath while you can!",
     "StartAddress": 3941208,
     "EndAddress": 3941278,
     "MaxLength": 71
   },
   {
-    "Text": "哇塞！",
+    "Text": "天哪！",
     "OriginalText": "Oh, my!",
     "StartAddress": 3941280,
     "EndAddress": 3941294,
@@ -17164,7 +17164,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "快把身体灌进水里！",
+    "Text": "快把身体泡进水里！",
     "OriginalText": "Dunk that filthy bod!",
     "StartAddress": 3941352,
     "EndAddress": 3941398,
@@ -17185,28 +17185,28 @@
     "MaxLength": 47
   },
   {
-    "Text": "烦忧，烦忧！真的没人能救我们吗？",
+    "Text": "烦，烦！真的没人能救我们了吗？",
     "OriginalText": "Fret, fret! Can no one save us?",
     "StartAddress": 3941480,
     "EndAddress": 3941558,
     "MaxLength": 79
   },
   {
-    "Text": "半精灵壮观完蛋了！",
+    "Text": "半精灵巨星秀完蛋了！",
     "OriginalText": "The Half-Genie Spectacular is ruined!",
     "StartAddress": 3941560,
     "EndAddress": 3941590,
     "MaxLength": 31
   },
   {
-    "Text": "而我若退回大家的钱……",
+    "Text": "而我如果把钱退给大家……",
     "OriginalText": "And if I refund all these people's money...",
     "StartAddress": 3941592,
     "EndAddress": 3941630,
     "MaxLength": 39
   },
   {
-    "Text": "……我会也完蛋了！",
+    "Text": "……那我也完蛋了！",
     "OriginalText": "...I'll be ruined!",
     "StartAddress": 3941632,
     "EndAddress": 3941662,
@@ -17234,7 +17234,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "我求你待在村里！",
+    "Text": "我求你待在镇里！",
     "OriginalText": "I beg you to remain in town!",
     "StartAddress": 3941712,
     "EndAddress": 3941742,
@@ -17248,7 +17248,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "（听来好像市长烦恼可多了！）",
+    "Text": "（听起来市长烦恼可多了！）",
     "OriginalText": "(Sounds like the Mayor is in over his head!)",
     "StartAddress": 3941808,
     "EndAddress": 3941870,
@@ -17290,7 +17290,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "至少直到节目回复起来。",
+    "Text": "至少直到节目恢复。",
     "OriginalText": "At least until the scheduled pick up.",
     "StartAddress": 3942056,
     "EndAddress": 3942110,
@@ -17360,7 +17360,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "她像从来没有过的大姐姐。",
+    "Text": "她就像我从来没有过的姐姐。",
     "OriginalText": "She seems like the big sister I never had.",
     "StartAddress": 3942360,
     "EndAddress": 3942398,
@@ -17402,7 +17402,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "我救了其他人会再回来的！",
+    "Text": "我救了其他人后会再回来的！",
     "OriginalText": "I'll be back after I've rescued the others!",
     "StartAddress": 3942488,
     "EndAddress": 3942542,
