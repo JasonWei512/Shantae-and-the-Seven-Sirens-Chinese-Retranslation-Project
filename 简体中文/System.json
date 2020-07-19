@@ -1253,7 +1253,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "遗迹",
+    "Text": "遗物",
     "OriginalText": "Relics",
     "StartAddress": 374944,
     "EndAddress": 374950,
@@ -2233,7 +2233,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "夏威夷腌生鱼拌饭",
+    "Text": "腌生鱼拌饭",
     "OriginalText": "Poke Bowl",
     "StartAddress": 377600,
     "EndAddress": 377630,
@@ -2261,7 +2261,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "烟熏手撕猪肉三明治",
+    "Text": "手撕猪肉三明治",
     "OriginalText": "Pulled Pork Sandwich",
     "StartAddress": 377680,
     "EndAddress": 377710,
@@ -2632,7 +2632,7 @@
     "MaxLength": 87
   },
   {
-    "Text": "使用这便利的药水回复<1>生命值</1>!",
+    "Text": "方便的药水，恢复<1>生命值</1>!",
     "OriginalText": "Refill your <1>HEARTS</1> with this handy potion!",
     "StartAddress": 380048,
     "EndAddress": 380094,
@@ -2667,7 +2667,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "减少百分之二十五伤害得护甲喷雾！",
+    "Text": "减少百分之二十五伤害的护甲喷雾！",
     "OriginalText": "Spray-on armor that lowers the amount of damage taken by 25%!",
     "StartAddress": 380248,
     "EndAddress": 380302,
@@ -2695,7 +2695,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "使用这便利的药水恢复<1>魔法值</1>!",
+    "Text": "方便的药水，恢复<1>魔法值</1>!",
     "OriginalText": "Refill your <1>MAGIC METER</1> with this handy potion!",
     "StartAddress": 380392,
     "EndAddress": 380438,
@@ -2905,21 +2905,21 @@
     "MaxLength": 47
   },
   {
-    "Text": "加快头发<1>甩速度</1>!",
+    "Text": "<1>更快地</1>甩动头发!",
     "OriginalText": "Increase the <1>WHIPPING SPEED</1> of your hair!",
     "StartAddress": 381848,
     "EndAddress": 381878,
     "MaxLength": 31
   },
   {
-    "Text": "加快头发<1>甩速度</1>!",
+    "Text": "<1>更快地</1>甩动头发!",
     "OriginalText": "Increase the <1>WHIPPING SPEED</1> of your hair!",
     "StartAddress": 381880,
     "EndAddress": 381910,
     "MaxLength": 31
   },
   {
-    "Text": "加快头发<1>甩速度</1>!",
+    "Text": "<1>更快地</1>甩动头发!",
     "OriginalText": "Increase the <1>WHIPPING SPEED</1> of your hair!",
     "StartAddress": 381912,
     "EndAddress": 381942,
@@ -3514,7 +3514,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "作为水蜥肆无忌惮地攀上墙壁！",
+    "Text": "水蜥形态时更快地攀上墙壁！",
     "OriginalText": "Zip up walls with reckless abandon as the Newt!",
     "StartAddress": 383640,
     "EndAddress": 383686,
@@ -3640,7 +3640,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "增加恢复舞给病弱与不死人敌人的伤害！",
+    "Text": "增加恢复舞给病弱与不死族敌人的伤害！",
     "OriginalText": "The Refresh Dance does more damage to sickly or undead foes!",
     "StartAddress": 384168,
     "EndAddress": 384222,

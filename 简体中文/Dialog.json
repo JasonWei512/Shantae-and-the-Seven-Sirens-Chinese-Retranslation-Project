@@ -1848,7 +1848,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "请存档后请再来跟我谈话。",
+    "Text": "请存档后再来跟我谈话。",
     "OriginalText": "Please come talk to me after you've saved.",
     "StartAddress": 3855928,
     "EndAddress": 3855990,
@@ -4872,7 +4872,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "以后再回来，好吗？",
+    "Text": "以后再来，好吗？",
     "OriginalText": "Come back later, ok?",
     "StartAddress": 3872776,
     "EndAddress": 3872830,
@@ -18137,7 +18137,7 @@
     "MaxLength": 71
   },
   {
-    "Text": "我们会在这站住脚！",
+    "Text": "我们不会退缩！",
     "OriginalText": "We'll make our stand here!",
     "StartAddress": 3946920,
     "EndAddress": 3946966,
@@ -18347,14 +18347,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "可是那错了。",
+    "Text": "可那是错的。",
     "OriginalText": "But that's wrong.",
     "StartAddress": 3948216,
     "EndAddress": 3948238,
     "MaxLength": 23
   },
   {
-    "Text": "只有对身体好。",
+    "Text": "那只对身体好。",
     "OriginalText": "It's only good for your body.",
     "StartAddress": 3948240,
     "EndAddress": 3948262,
@@ -19243,7 +19243,7 @@
     "MaxLength": 79
   },
   {
-    "Text": "我们大家都得逃到安全的地方！",
+    "Text": "我们都应该逃到安全的地方！",
     "OriginalText": "We should all get to safety!",
     "StartAddress": 3954032,
     "EndAddress": 3954086,
@@ -19593,7 +19593,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "我从来没感受过那种震颤！",
+    "Text": "我从来没感受过那种震动！",
     "OriginalText": "I've never felt tremors like that before! ",
     "StartAddress": 3956544,
     "EndAddress": 3956582,
@@ -20034,7 +20034,7 @@
     "MaxLength": 79
   },
   {
-    "Text": "所以如何？给我<1>十个金块</1>来交换这张<1>奇怪的卡牌</1>？",
+    "Text": "所以如何？用<1>十个金块</1>来交换这张<1>奇怪的卡牌</1>？",
     "OriginalText": "How about it? Give <1>10 NUGGETS</1> for this <1>ODD CARD</1>?",
     "StartAddress": 3959064,
     "EndAddress": 3959166,
@@ -21301,7 +21301,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "我想试试油炸蘸巧克力大蒜手指炸弹！",
+    "Text": "我想试试炸巧克力大蒜手指炸弹！",
     "OriginalText": "I want to try the deep fried choco-dipped garlic finger bombs!",
     "StartAddress": 3966904,
     "EndAddress": 3966982,
@@ -21623,7 +21623,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "不过…你到底是怎么来的呢？",
+    "Text": "不过…你到底是怎么来这的？",
     "OriginalText": "But... how in the world did you get up here?",
     "StartAddress": 3969248,
     "EndAddress": 3969286,
@@ -22596,7 +22596,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "...来增加你的生命值。",
+    "Text": "...来增加你的生命槽。",
     "OriginalText": "...to make more health for you!",
     "StartAddress": 3973784,
     "EndAddress": 3973822,
@@ -22666,7 +22666,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "来这里找有用的东西！",
+    "Text": "看看有什么能派上用场的东西吧！",
     "OriginalText": "A place to peruse for things you can use!",
     "StartAddress": 3974216,
     "EndAddress": 3974262,
