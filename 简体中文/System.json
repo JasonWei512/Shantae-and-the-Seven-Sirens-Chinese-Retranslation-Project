@@ -3591,14 +3591,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "先见消耗－",
+    "Text": "扫描消耗－",
     "OriginalText": "Seer Cost -",
     "StartAddress": 383984,
     "EndAddress": 383998,
     "MaxLength": 15
   },
   {
-    "Text": "减少先见者舞消耗的魔法！",
+    "Text": "减少扫描舞消耗的魔法！",
     "OriginalText": "The Seer Dance consumes less magic when used!",
     "StartAddress": 384000,
     "EndAddress": 384038,
@@ -4039,7 +4039,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "先见舞",
+    "Text": "扫描舞",
     "OriginalText": "Seer Dance",
     "StartAddress": 385832,
     "EndAddress": 385846,

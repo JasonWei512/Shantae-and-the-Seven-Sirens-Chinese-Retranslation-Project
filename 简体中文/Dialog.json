@@ -3563,7 +3563,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "<1>先见舞</1>能显现出肉眼观察不到的东西！",
+    "Text": "<1>扫描舞</1>能显现出肉眼观察不到的东西！",
     "OriginalText": "The <1>SEER DANCE</1> can reveal things that are otherwise invisible to the naked eye! ",
     "StartAddress": 3865344,
     "EndAddress": 3865406,
@@ -3598,7 +3598,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "我相信<1>先见舞</1>能帮助你的探险！",
+    "Text": "我相信<1>扫描舞</1>能帮助你的探险！",
     "OriginalText": "I'm certain that the <1>SEER DANCE</1> will help you on your quest!",
     "StartAddress": 3865720,
     "EndAddress": 3865774,
@@ -3640,7 +3640,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "我相信<1>先见舞</1>能帮助你的探险！",
+    "Text": "我相信<1>扫描舞</1>能帮助你的探险！",
     "OriginalText": "I'm certian that the <1>SEER DANCE</1> will help you on your quest!",
     "StartAddress": 3866104,
     "EndAddress": 3866158,
@@ -5880,7 +5880,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "我完完全全清醒了，我好想骑着儿童车一路滑到星星上！",
+    "Text": "我完完全全清醒了。我好想骑着儿童车一路滑到星星上！",
     "OriginalText": "I'm so completely awake, I feel like waterskiing on a baby’s bicycle straight to the stars!",
     "StartAddress": 3879240,
     "EndAddress": 3879318,
@@ -5922,7 +5922,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "尽快点！",
+    "Text": "快一点！",
     "OriginalText": "Lickety split!",
     "StartAddress": 3879504,
     "EndAddress": 3879518,
@@ -5936,7 +5936,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "不要经过乔也不要收集房租，俗话说！",
+    "Text": "十万火急，火烧眉毛，迫在眉睫！",
     "OriginalText": "Do not pass Joe do not collect rent as they say!",
     "StartAddress": 3879536,
     "EndAddress": 3879590,
@@ -5950,7 +5950,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "为何不进去看看那些孩子们儿还好不好…",
+    "Text": "为何不进去看看那些孩子们还好不好…",
     "OriginalText": "Whyn’cha get in there and see if the lads and lass are their right selves...",
     "StartAddress": 3879624,
     "EndAddress": 3879686,
@@ -17318,7 +17318,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我希望你有在好好使用我 <1>先见者魔法</1> 。",
+    "Text": "我希望你有在好好使用我 <1>扫描魔法</1> 。",
     "OriginalText": "I hope you're putting my <1>SEER MAGIC</1> to good use.",
     "StartAddress": 3942192,
     "EndAddress": 3942254,

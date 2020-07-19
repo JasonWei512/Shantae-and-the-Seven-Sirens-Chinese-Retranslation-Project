@@ -1,6 +1,14 @@
+# 汉化补丁下载
+
+[0.1.0 测试版下载](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.1.0/localization.pak.zip)
+
+解压后覆盖 ```游戏目录/data/localization.pak```。
+
+通关后凭印象对着文本盲翻的，尚未润色，尚未在游戏内测试过。
+
 # 简介
 
-Shantae and the Seven Sirens 的中文机翻过于严重，计划重翻一遍（大概率摸了）。
+Shantae and the Seven Sirens 的中文机翻过于严重，计划重翻一遍。
 
 To WayForward: A big part of Shantae and the Seven Sirens' Chinese translation looks like 
 machine translation. And there're some garbled texts like 🖾 (maybe because of the Chinese font used). So I plan to retranslate it.
