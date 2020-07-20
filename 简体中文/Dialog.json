@@ -16331,7 +16331,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "不要这样！",
+    "Text": "不是这样！",
     "OriginalText": "Not like this!",
     "StartAddress": 3936032,
     "EndAddress": 3936046,
@@ -16366,7 +16366,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "城市里的场馆多半都毁了。",
+    "Text": "城镇里的场馆多半都毁了。",
     "OriginalText": "The arena back in town is pretty much ruined.",
     "StartAddress": 3936216,
     "EndAddress": 3936254,
@@ -21861,7 +21861,7 @@
     "MaxLength": 79
   },
   {
-    "Text": "所以我跟她提出了一项交易！",
+    "Text": "所以我跟她提出了一桩交易！",
     "OriginalText": "So, I offered her a deal!",
     "StartAddress": 3970368,
     "EndAddress": 3970406,
@@ -21903,7 +21903,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "那个鬼精灵的魔咒被破了吗?",
+    "Text": "那个鬼精灵的魔咒失效了吗?",
     "OriginalText": "I take it that Ghost Genie's <1>SPELL IS BROKEN</1>?",
     "StartAddress": 3970592,
     "EndAddress": 3970630,
@@ -22274,7 +22274,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "糟糕了。",
+    "Text": "哦哦。",
     "OriginalText": "Uh oh.",
     "StartAddress": 3972304,
     "EndAddress": 3972318,
@@ -22316,7 +22316,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "<1>用你的魔法</1>把她偷走的<1>生命力</1>夺回来！",
+    "Text": "<1>用你们的魔法</1>把她偷走的<1>生命力</1>夺回来！",
     "OriginalText": "...<1>USE YOUR MAGIC</1> to call back the <1>LIFE FORCE</1> she stole from you!",
     "StartAddress": 3972472,
     "EndAddress": 3972558,

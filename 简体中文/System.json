@@ -1505,7 +1505,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "道具收藏",
+    "Text": "道具收集",
     "OriginalText": "Item Collection",
     "StartAddress": 375528,
     "EndAddress": 375542,
@@ -1820,7 +1820,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "…….情况被拯救了！",
+    "Text": "…危机结束了。",
     "OriginalText": "...The day was saved.",
     "StartAddress": 376720,
     "EndAddress": 376750,
