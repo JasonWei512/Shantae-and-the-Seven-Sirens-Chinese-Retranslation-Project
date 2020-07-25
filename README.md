@@ -6,7 +6,9 @@
 
 通关后凭印象对着文本盲翻的，尚未润色，尚未在游戏内测试过。
 
-# 简介
+# 概述
+
+[![生成汉化补丁](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/workflows/%E7%94%9F%E6%88%90%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E3%80%80%E3%80%80/badge.svg)](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/actions?query=workflow%3A%E7%94%9F%E6%88%90%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E3%80%80%E3%80%80)
 
 Shantae and the Seven Sirens 的中文机翻过于严重，计划重翻一遍。
 
