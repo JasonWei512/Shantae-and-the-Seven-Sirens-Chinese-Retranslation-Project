@@ -77,7 +77,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "在子屏幕上能<1>查看</1>收藏，\n或<1>装备</1>卡牌！",
+    "Text": "在子屏幕上能<1>查看</1>卡组，\n或<1>装备</1>卡牌！",
     "OriginalText": "You can <1>VIEW</1> your collection,\n or <1>EQUIP</1> cards on your <1>SUBSCREEN</1>!",
     "StartAddress": 371104,
     "EndAddress": 371174,
@@ -1463,7 +1463,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "购买 <I anim=ui_game:hud.anb seq=gem scale=0.75f offsety=0.3f offsetx=0.2f width=0.5f/>%03d ?",
+    "Text": "用 <I anim=ui_game:hud.anb seq=gem scale=0.75f offsety=0.3f offsetx=0.2f width=0.5f/>%03d 买?",
     "OriginalText": "Purchase for <I anim=ui_game:hud.anb seq=gem scale=0.75f offsety=0.3f offsetx=0.2f width=0.5f/>%03d ?",
     "StartAddress": 375368,
     "EndAddress": 375462,
@@ -1582,7 +1582,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "全通过！获得%s奖励宝石",
+    "Text": "全清！获得%s奖励宝石",
     "OriginalText": "ALL CLEAR! YOU GET %s BONUS GEMS",
     "StartAddress": 375832,
     "EndAddress": 375870,
@@ -2653,7 +2653,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "带这去你附近的<1>鱿鱼匠</1>!",
+    "Text": "带它去你附近的<1>鱿鱼匠</1>!",
     "OriginalText": "Take these to your local <1>SQUIDSMITH</1>!",
     "StartAddress": 380168,
     "EndAddress": 380206,
@@ -3262,7 +3262,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "莲花海妖",
+    "Text": "睡莲海妖",
     "OriginalText": "Water Lily Siren",
     "StartAddress": 382784,
     "EndAddress": 382798,
@@ -4403,14 +4403,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "莲花海妖",
+    "Text": "睡莲海妖",
     "OriginalText": "WATER LILY SIREN",
     "StartAddress": 387720,
     "EndAddress": 387734,
     "MaxLength": 15
   },
   {
-    "Text": "晒太阳的海藻",
+    "Text": "晒太阳的海草",
     "OriginalText": "Sunbathing Seaweed",
     "StartAddress": 387736,
     "EndAddress": 387758,
@@ -4578,7 +4578,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "莲花洞",
+    "Text": "睡莲洞",
     "OriginalText": "Water Lily's Den",
     "StartAddress": 388168,
     "EndAddress": 388182,
@@ -4739,7 +4739,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "莲花海妖",
+    "Text": "睡莲海妖",
     "OriginalText": "Water Lily Siren",
     "StartAddress": 388584,
     "EndAddress": 388598,

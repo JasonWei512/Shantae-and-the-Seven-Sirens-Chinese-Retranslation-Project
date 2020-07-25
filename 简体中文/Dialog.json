@@ -161,7 +161,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "留心在这安家的调皮的小虫和蝙蝠！",
+    "Text": "留心在这安家的调皮小虫和蝙蝠！",
     "OriginalText": "Mind the playful bugs and bats who call this place their home!",
     "StartAddress": 3847104,
     "EndAddress": 3847158,
@@ -1281,7 +1281,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "对啊，怎么会是假的呢？",
+    "Text": "当然了，怎么会是假的呢？",
     "OriginalText": "Sure, why wouldn't it be?",
     "StartAddress": 3853056,
     "EndAddress": 3853094,
@@ -1358,7 +1358,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "Get不到。",
+    "Text": "我没明白。",
     "OriginalText": "I don't get it.",
     "StartAddress": 3853408,
     "EndAddress": 3853422,
@@ -2653,14 +2653,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "它会让你<1>瞬间变形</1>成新的形态！",
+    "Text": "它能让你<1>瞬间变形</1>成新的形态！",
     "OriginalText": "It will allow you to <1>TRANSFORM INSTANTLY</1> into a new form!",
     "StartAddress": 3859712,
     "EndAddress": 3859766,
     "MaxLength": 55
   },
   {
-    "Text": "这块上有<1>快冲水蜥</1>的符号！",
+    "Text": "这枚上有<1>快冲水蜥</1>的符号！",
     "OriginalText": "This one bears the mark of a <1>DASH NEWT</1>!",
     "StartAddress": 3859768,
     "EndAddress": 3859814,
@@ -2772,7 +2772,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "你没事...那就好。",
+    "Text": "你没事…太好了。",
     "OriginalText": "You made it… good.",
     "StartAddress": 3860776,
     "EndAddress": 3860806,
@@ -2793,7 +2793,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "哈莫尼说我们一起合作时，什么都能做得到！",
+    "Text": "哈莫尼说当我们一起合作时，什么都能做得到！",
     "OriginalText": "Harmony says that when we work together, we can do anything!",
     "StartAddress": 3860904,
     "EndAddress": 3860966,
@@ -3017,7 +3017,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "去找出一块<1>融合石</1>然后在去<1>场馆镇</1>找我。",
+    "Text": "找到一块<1>融合石</1>然后去<1>场馆镇</1>找我。",
     "OriginalText": "Find a <1>FUSION STONE</1> and meet me in <1>ARENA TOWN</1>.",
     "StartAddress": 3861880,
     "EndAddress": 3861950,
@@ -3094,7 +3094,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "超烂！",
+    "Text": "太烂了！",
     "OriginalText": "It stinks!",
     "StartAddress": 3862312,
     "EndAddress": 3862326,
@@ -3157,7 +3157,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "我把它丢到垃圾桶。",
+    "Text": "我把它丢到垃圾桶了。",
     "OriginalText": "I put it in the <1>TRASHCAN</1>.",
     "StartAddress": 3862616,
     "EndAddress": 3862662,
@@ -3213,14 +3213,14 @@
     "MaxLength": 55
   },
   {
-    "Text": "是谁建设的？为什么？",
+    "Text": "它是谁建的？为什么？",
     "OriginalText": "Who built it? And why?",
     "StartAddress": 3862968,
     "EndAddress": 3862998,
     "MaxLength": 31
   },
   {
-    "Text": "为何沉没？",
+    "Text": "它为何沉没？",
     "OriginalText": "What made it sink?",
     "StartAddress": 3863000,
     "EndAddress": 3863022,
@@ -3269,7 +3269,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "如果你能找出<1>两只节肢动物</1>，请带来给我！",
+    "Text": "如果你能找到<1>两只节肢动物</1>，请带来给我！",
     "OriginalText": "If you find <1>TWO ARTHROPOD LIFE FORMS</1>, please bring them to me!",
     "StartAddress": 3863312,
     "EndAddress": 3863390,
@@ -3297,7 +3297,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "如果你找到了，带给我！",
+    "Text": "如果你找到了，请带给我！",
     "OriginalText": "If you find them, bring them!",
     "StartAddress": 3863568,
     "EndAddress": 3863614,
@@ -3444,7 +3444,7 @@
     "MaxLength": 79
   },
   {
-    "Text": "你如果遇到医生，给他看<1>从垃圾桶捡出的东西</1>!",
+    "Text": "你如果遇到医生，给他看<1>垃圾桶里的那个东西</1>!",
     "OriginalText": "If you happen to see a doctor, show them that <1>THING FROM THE TRASHCAN</1>!",
     "StartAddress": 3864536,
     "EndAddress": 3864606,
@@ -4088,7 +4088,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "我开了间<1>舞堂</1>。",
+    "Text": "我开放<1>舞堂</1>了。",
     "OriginalText": "I have opened the <1>DANCE PARLOR</1>.",
     "StartAddress": 3868376,
     "EndAddress": 3868406,
@@ -4137,7 +4137,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "她奇异、扭动的动作显出一种<1>特别的快乐</1>！",
+    "Text": "她奇异、扭动的动作显示出一种<1>特别的快乐</1>！",
     "OriginalText": "There is a <1>SPECIAL JOY</1> to be found in her strange, wiggly movements!",
     "StartAddress": 3868648,
     "EndAddress": 3868718,
@@ -4172,7 +4172,7 @@
     "MaxLength": 79
   },
   {
-    "Text": "…和用<1>粗体</1>说话的勇气!",
+    "Text": "…和用<1>黄字</1>说话的勇气!",
     "OriginalText": "...and speak in <1>BOLD TEXT</1>! ",
     "StartAddress": 3868944,
     "EndAddress": 3868982,
@@ -4774,7 +4774,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "它会让你<1>瞬间变形</1>成新的形态！",
+    "Text": "它能让你<1>瞬间变形</1>成新的形态！",
     "OriginalText": "It will allow you to <1>TRANSFORM INSTANTLY</1> into a new form!",
     "StartAddress": 3872008,
     "EndAddress": 3872062,
@@ -4851,7 +4851,7 @@
     "MaxLength": 87
   },
   {
-    "Text": "不好意思！镇长命令把<1>舞堂</1>关了！",
+    "Text": "不好意思！村长命令把<1>舞堂</1>关了！",
     "OriginalText": "I'm sorry! The <1>DANCE PARLOR</1> is closed by order of the <1>CHIEF</1>!",
     "StartAddress": 3872632,
     "EndAddress": 3872694,
@@ -4900,7 +4900,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "准备",
+    "Text": "准备好了吗？",
     "OriginalText": "READY?",
     "StartAddress": 3873008,
     "EndAddress": 3873030,
@@ -5068,7 +5068,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "啊～～欠…",
+    "Text": "哈～～欠…",
     "OriginalText": "YAWN...",
     "StartAddress": 3874248,
     "EndAddress": 3874262,
@@ -6356,14 +6356,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "它会让你<1>瞬间变形</1>成新形态！",
+    "Text": "它能让你<1>瞬间变形</1>成新形态！",
     "OriginalText": "It will allow you to <1>TRANSFORM INSTANTLY</1> into a new form!",
     "StartAddress": 3881480,
     "EndAddress": 3881526,
     "MaxLength": 47
   },
   {
-    "Text": "这块上有<1>棒克乌龟</1>的符号！",
+    "Text": "这枚上有<1>棒克乌龟</1>的符号！",
     "OriginalText": "This one bears the mark of a <1>BONKER TORTOISE</1>!",
     "StartAddress": 3881528,
     "EndAddress": 3881574,
@@ -7070,7 +7070,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "啊～～～欠。",
+    "Text": "哈～～～欠。",
     "OriginalText": "YAWWWWN.",
     "StartAddress": 3885880,
     "EndAddress": 3885902,
@@ -11340,7 +11340,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "这块上有<1>海蛙</1>的符号！",
+    "Text": "这枚上有<1>海蛙</1>的符号！",
     "OriginalText": "It bears the marking of a <1>SEA FROG</1>!",
     "StartAddress": 3908528,
     "EndAddress": 3908566,
@@ -16849,7 +16849,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "想想让我起鸡皮疙瘩！",
+    "Text": "想想就让我起鸡皮疙瘩！",
     "OriginalText": "The very thought of it gives me chills!",
     "StartAddress": 3939152,
     "EndAddress": 3939206,
@@ -19397,7 +19397,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "这些疗伤水来自高高的悬崖。",
+    "Text": "这些治疗水来自高高的悬崖。",
     "OriginalText": "These healing waters come from the cliffs high above.",
     "StartAddress": 3955232,
     "EndAddress": 3955270,
@@ -19642,7 +19642,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "莲花海妖、珊瑚海妖、还有管虫海妖？",
+    "Text": "睡莲海妖、珊瑚海妖、还有管虫海妖？",
     "OriginalText": "A Water Lilly Siren, a Coral Siren, and a Tubeworm Siren? ",
     "StartAddress": 3956872,
     "EndAddress": 3956926,
@@ -20419,14 +20419,14 @@
     "MaxLength": 47
   },
   {
-    "Text": "它会恢复你所有空的心，让你焕然一新！",
+    "Text": "它会恢复你所有空的心心，让你焕然一新！",
     "OriginalText": "It will refill all of your empty hearts, and make you feel as good as new!",
     "StartAddress": 3961376,
     "EndAddress": 3961454,
     "MaxLength": 79
   },
   {
-    "Text": "有一位奇特的小姐刚来到城市里！",
+    "Text": "有一位奇特的小姐刚来到镇里！",
     "OriginalText": "An unusual woman just arrived in town!",
     "StartAddress": 3961456,
     "EndAddress": 3961502,
@@ -20909,7 +20909,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "我想我年轻的时候能<1>快冲</1>过去！",
+    "Text": "我想我年轻的时候能<1>冲</1>过去！",
     "OriginalText": "In my younger days, I bet I could've <1>DASHED</1> across!",
     "StartAddress": 3964424,
     "EndAddress": 3964494,
@@ -21308,7 +21308,7 @@
     "MaxLength": 79
   },
   {
-    "Text": "我如果像你一样有个<1>地图</1>，我会经常查看我的<1>子屏幕</1>！",
+    "Text": "我如果像你一样有个<1>地图</1>，我就会经常查看我的<1>子屏幕</1>！",
     "OriginalText": "If I had a <1>MAP</1> like yours, I'd be checking the <1>SUBSCREEN</1> all the time!",
     "StartAddress": 3966984,
     "EndAddress": 3967086,
@@ -22694,7 +22694,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "啊！看来像这玩意没电了。",
+    "Text": "啊！看来这玩意没电了。",
     "OriginalText": "Huh! Looks like this doo-hickey is out of power. ",
     "StartAddress": 3974400,
     "EndAddress": 3974454,

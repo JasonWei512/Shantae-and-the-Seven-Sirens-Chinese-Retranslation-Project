@@ -1,6 +1,6 @@
 # 汉化补丁下载
 
-[0.1.0 测试版下载](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.1.0/localization.pak.zip)
+[0.1.0 测试版下载](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.1.0/localization.pak.zip) | [国内镜像](http://github.strcpy.cn/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.1.0/localization.pak.zip)
 
 解压后覆盖 ```游戏目录/data/localization.pak```。
 
