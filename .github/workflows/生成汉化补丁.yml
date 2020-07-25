@@ -1,0 +1,32 @@
+name: 生成汉化补丁　　
+
+on:
+  push:
+    branches: [ translation ]
+  pull_request:
+    branches: [ translation ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: 生成 localization.pak
+      run: |
+        cd ..
+        wget -q https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/files/4966753/Shantae5PakPacker.zip
+        unzip Shantae5PakPacker.zip
+        chmod +x ./Shantae5PakPacker
+        ./Shantae5PakPacker
+        if [ -f localization.pak ]; then
+          mv localization.pak ~
+        else
+          exit 1
+        fi
+        
+    - uses: actions/upload-artifact@v2
+      with:
+        name: localization.pak
+        path: ~/localization.pak
