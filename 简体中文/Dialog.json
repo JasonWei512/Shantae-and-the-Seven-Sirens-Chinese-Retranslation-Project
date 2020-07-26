@@ -5138,7 +5138,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "哇，你那<1>钻</1>魔法真标准！",
+    "Text": "哇，你对<1>钻</1>魔法的说法是对的!",
     "OriginalText": "Boy, you were spot on about that <1>DRILL</1> magic!",
     "StartAddress": 3874472,
     "EndAddress": 3874518,
@@ -5152,7 +5152,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "哈莫尼说我们一起合作时，什么都能做得到！",
+    "Text": "哈莫尼说当我们一起合作时，什么都能做得到！",
     "OriginalText": "Harmony says that when we work together, we can do anything!",
     "StartAddress": 3874568,
     "EndAddress": 3874630,
@@ -5208,7 +5208,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "...我…额…",
+    "Text": "…我…额…",
     "OriginalText": "...I ...well...",
     "StartAddress": 3874792,
     "EndAddress": 3874806,
@@ -5572,7 +5572,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "是我在海底找到的东西。",
+    "Text": "这是我在海底找到的东西。",
     "OriginalText": "Something I found on the ocean floor.",
     "StartAddress": 3876824,
     "EndAddress": 3876870,
@@ -5649,7 +5649,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "我从来没看过他那么开心！",
+    "Text": "我从来没看他那么开心过！",
     "OriginalText": "I've honestly never seen him so happy!",
     "StartAddress": 3877424,
     "EndAddress": 3877462,
@@ -5922,21 +5922,21 @@
     "MaxLength": 31
   },
   {
-    "Text": "快一点！",
+    "Text": "十万火急！",
     "OriginalText": "Lickety split!",
     "StartAddress": 3879504,
     "EndAddress": 3879518,
     "MaxLength": 15
   },
   {
-    "Text": "再快一点！",
+    "Text": "火烧眉毛！",
     "OriginalText": "On the double!",
     "StartAddress": 3879520,
     "EndAddress": 3879534,
     "MaxLength": 15
   },
   {
-    "Text": "十万火急，火烧眉毛，迫在眉睫！",
+    "Text": "迫在眉睫！",
     "OriginalText": "Do not pass Joe do not collect rent as they say!",
     "StartAddress": 3879536,
     "EndAddress": 3879590,
@@ -6111,7 +6111,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "若你能把我打败……",
+    "Text": "你如果能打败我…",
     "OriginalText": "If you can beat me...",
     "StartAddress": 3880464,
     "EndAddress": 3880494,
@@ -6510,7 +6510,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "我们才正要把<1>铁鱼</1>潜入更深的地方！",
+    "Text": "我们正要把<1>铁鱼</1>潜到更深的地方！",
     "OriginalText": "We were just about to take the <1>METAL FISH</1> even deeper!",
     "StartAddress": 3882904,
     "EndAddress": 3882966,
@@ -6972,7 +6972,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "我就想这方法一定行的！",
+    "Text": "我就知道这方法一定行的！",
     "OriginalText": "I had a feeling that might do the trick!",
     "StartAddress": 3885552,
     "EndAddress": 3885590,
@@ -7028,7 +7028,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "是的！",
+    "Text": "真的！",
     "OriginalText": "Yes!",
     "StartAddress": 3885752,
     "EndAddress": 3885766,
@@ -7322,7 +7322,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "你能否把<1>聋珠</1>带来给我呢？",
+    "Text": "你能否把<1>聋珠</1>给我呢？",
     "OriginalText": "Will you deliver the <1>DAGRON BALLS</1> unto me?",
     "StartAddress": 3887104,
     "EndAddress": 3887198,
@@ -7392,7 +7392,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "等等～你没有取回全部道具！",
+    "Text": "等等～你没有找到所有聋珠！",
     "OriginalText": "Wait - you didn't get all of the items!",
     "StartAddress": 3887560,
     "EndAddress": 3887622,
@@ -7441,7 +7441,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "麻烦帮个忙来检查船体有没有收到损害，好吗？",
+    "Text": "麻烦帮个忙来检查船体有没有受到损害，好吗？",
     "OriginalText": "Be a dear and check the hull for damage, would you?",
     "StartAddress": 3887840,
     "EndAddress": 3887918,
@@ -17318,7 +17318,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我希望你有在好好使用我 <1>扫描魔法</1> 。",
+    "Text": "我希望你有在好好使用我的<1>扫描魔法</1>。",
     "OriginalText": "I hope you're putting my <1>SEER MAGIC</1> to good use.",
     "StartAddress": 3942192,
     "EndAddress": 3942254,
