@@ -8113,7 +8113,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "护甲男爵有个哥!",
+    "Text": "弹药男爵有个哥!",
     "OriginalText": "Ammo Baron has a brother!",
     "StartAddress": 3891824,
     "EndAddress": 3891846,
@@ -8372,7 +8372,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "……来打造极致<1>半精灵护甲</1>……",
+    "Text": "……来打造极致的<1>半精灵护甲</1>……",
     "OriginalText": "...to create the ultimate <1>HALF-GENIE ARMOR</1>...",
     "StartAddress": 3893184,
     "EndAddress": 3893238,
@@ -8463,7 +8463,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "但我们无法自己完成这任务……",
+    "Text": "但我们无法自己完成这项任务……",
     "OriginalText": "But we can not accomplish this task on our own..",
     "StartAddress": 3893680,
     "EndAddress": 3893726,
@@ -8491,7 +8491,7 @@
     "MaxLength": 71
   },
   {
-    "Text": "带给我<1>三块矿石</1>",
+    "Text": "带给我<1>三块矿石</1>…",
     "OriginalText": "Bring me <1>THREE ORE CHUNKS</1>...",
     "StartAddress": 3893904,
     "EndAddress": 3893934,
@@ -8589,7 +8589,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "加上一点运气，他就能永久地把那些海妖封印！",
+    "Text": "加上一点运气，他就能永远地封住那些海妖！",
     "OriginalText": "With luck, he'll be able to seal those nasty Sirens away for good!",
     "StartAddress": 3894424,
     "EndAddress": 3894486,
@@ -10556,7 +10556,7 @@
     "MaxLength": 79
   },
   {
-    "Text": "也许 <1>水面上的孩子</1>把它拿去了！",
+    "Text": "也许<1>地面上的孩子</1>把它拿去了！",
     "OriginalText": "Perhaps a <1>CHILD FROM THE SURFACE</1> has claimed it!",
     "StartAddress": 3904624,
     "EndAddress": 3904710,
@@ -10836,7 +10836,7 @@
     "MaxLength": 71
   },
   {
-    "Text": "价格很低，而他们也真的急切地想卖掉。",
+    "Text": "价格很低，而他们也真的急着想卖掉。",
     "OriginalText": "The cost was low, and they were so eager to sell.",
     "StartAddress": 3906216,
     "EndAddress": 3906270,
@@ -10906,7 +10906,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我知道你不想我去乱找麻烦……",
+    "Text": "我知道你不想让我去乱找麻烦……",
     "OriginalText": "I know you wanted me to stay out of trouble...",
     "StartAddress": 3906504,
     "EndAddress": 3906550,
@@ -17430,7 +17430,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "她被缠着的大海蛇海妖抓住了。",
+    "Text": "她被一团大海蛇海妖抓住了。",
     "OriginalText": "She was being held by a big tangled-up sea serpent Siren.",
     "StartAddress": 3942632,
     "EndAddress": 3942678,
@@ -18340,7 +18340,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "有人说，每日洗个热澡能舒缓灵魂！",
+    "Text": "有人说，每天洗个热澡能舒缓灵魂！",
     "OriginalText": "They say that a hot bath every day soothes the soul!",
     "StartAddress": 3948160,
     "EndAddress": 3948214,
@@ -18662,7 +18662,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "要不要交换<1>六个金块</1>来获取独一无二的<1>海妖卡</1>呢？",
+    "Text": "要不要用<1>六个金块</1>来交换独一无二的<1>海妖卡</1>呢？",
     "OriginalText": "How 'bout <1>6 NUGS</1> for a one-of-a-kind <1>SIREN CARD</1>?",
     "StartAddress": 3950032,
     "EndAddress": 3950126,
@@ -19642,7 +19642,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "睡莲海妖、珊瑚海妖、还有管虫海妖？",
+    "Text": "睡莲海妖、珊瑚海妖，还有管虫海妖？",
     "OriginalText": "A Water Lilly Siren, a Coral Siren, and a Tubeworm Siren? ",
     "StartAddress": 3956872,
     "EndAddress": 3956926,
@@ -20489,7 +20489,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "真的有沉船在<1>西岸海床</1>吗？",
+    "Text": "<1>西岸海床</1>真的有沉船吗？",
     "OriginalText": "Could there really be a sunken wreck on the <1>WESTERN SEA FLOOR</1>?",
     "StartAddress": 3961832,
     "EndAddress": 3961902,
@@ -21364,7 +21364,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "有人该跟他说一声。",
+    "Text": "该有人跟他说一声。",
     "OriginalText": "Someone should say something.",
     "StartAddress": 3967392,
     "EndAddress": 3967438,
@@ -21525,7 +21525,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "你可以1>电击</1>机器来启动它！",
+    "Text": "你可以<1>电击</1>机器来启动它！",
     "OriginalText": "You could activate a machine by giving it an electric <1>SHOCK</1>!",
     "StartAddress": 3968552,
     "EndAddress": 3968630,
@@ -23037,21 +23037,21 @@
     "MaxLength": 47
   },
   {
-    "Text": "如果你有看到，请还给我。",
+    "Text": "如果你有看到，请交给我。",
     "OriginalText": "If you see it, please return it.",
     "StartAddress": 3976840,
     "EndAddress": 3976878,
     "MaxLength": 39
   },
   {
-    "Text": "虽然我一点也都不需要它！",
+    "Text": "虽然我一点也不需要它！",
     "OriginalText": "Not that I need it at all!",
     "StartAddress": 3976880,
     "EndAddress": 3976934,
     "MaxLength": 55
   },
   {
-    "Text": "我<1>猛男娃娃</1>不见了！",
+    "Text": "我的<1>猛男娃娃</1>不见了！",
     "OriginalText": "My <1>RUGGED MANLY PLUSH</1> is missing!",
     "StartAddress": 3976936,
     "EndAddress": 3977006,
