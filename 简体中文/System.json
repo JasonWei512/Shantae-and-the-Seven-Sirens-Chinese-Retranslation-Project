@@ -2051,7 +2051,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "被口水沾到的娃娃",
+    "Text": "沾口水的娃娃",
     "OriginalText": "Drool-Stained Doll",
     "StartAddress": 377216,
     "EndAddress": 377246,
@@ -2849,7 +2849,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "把它带去控制室。幽灵狗知道路！",
+    "Text": "把它带去控制室。鬼狗知道路！",
     "OriginalText": "Take this to the Control Room. Ghost Dog knows the way!",
     "StartAddress": 381520,
     "EndAddress": 381566,
@@ -3283,7 +3283,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "𩽾𩾌目海妖",
+    "Text": "𩽾𩾌鱼海妖",
     "OriginalText": "Angler Fish Siren",
     "StartAddress": 382832,
     "EndAddress": 382854,
@@ -4459,7 +4459,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "𩽾𩾌目海妖",
+    "Text": "𩽾𩾌鱼海妖",
     "OriginalText": "ANGLER FISH SIREN",
     "StartAddress": 387864,
     "EndAddress": 387886,

@@ -847,7 +847,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "哇塞！",
+    "Text": "哇！",
     "OriginalText": "Oh, boy!",
     "StartAddress": 3850752,
     "EndAddress": 3850766,
@@ -1414,7 +1414,7 @@
     "MaxLength": 71
   },
   {
-    "Text": "额，我通常会变成猴子爬来爬去。",
+    "Text": "呃，我通常会变成猴子爬来爬去。",
     "OriginalText": "Um, usually I turn into a monkey and climb around. ",
     "StartAddress": 3853704,
     "EndAddress": 3853750,
@@ -5208,7 +5208,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "…我…额…",
+    "Text": "…我…呃…",
     "OriginalText": "...I ...well...",
     "StartAddress": 3874792,
     "EndAddress": 3874806,
@@ -7042,7 +7042,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "哇塞！",
+    "Text": "哇！",
     "OriginalText": "I'll be doggone.",
     "StartAddress": 3885784,
     "EndAddress": 3885798,
@@ -8197,7 +8197,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "额……",
+    "Text": "呃……",
     "OriginalText": "Uhh...",
     "StartAddress": 3892288,
     "EndAddress": 3892302,
@@ -8736,14 +8736,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "我将为你做一套……",
+    "Text": "我会为你造一套护甲…",
     "OriginalText": "I will craft armor for you...",
     "StartAddress": 3895536,
     "EndAddress": 3895566,
     "MaxLength": 31
   },
   {
-    "Text": "……也为天天造一套顶级、极致、强力、未经授权的<1>战鸟训练师护甲</1>！",
+    "Text": "……也会为天天造一套顶级、极致、强力、未经授权的<1>战鸟训练师护甲</1>！",
     "OriginalText": "...and also ultimate, xtreme, powers unleashed, unauthorized <1>WAR BIRD TRAINER ARMOR</1> for Sky as well!",
     "StartAddress": 3895568,
     "EndAddress": 3895686,
@@ -8841,7 +8841,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "全新的状态。",
+    "Text": "崭新状态。",
     "OriginalText": "Mint condition.",
     "StartAddress": 3896256,
     "EndAddress": 3896294,
@@ -8876,7 +8876,7 @@
     "MaxLength": 71
   },
   {
-    "Text": "你们小姐们得留在卡片上……",
+    "Text": "你们二位将会留在卡片上…",
     "OriginalText": "You ladies will need to remain on the card...",
     "StartAddress": 3896520,
     "EndAddress": 3896558,
@@ -8939,7 +8939,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "我真的不敢相信你会想把人当成儿童玩具卖掉！",
+    "Text": "我真不敢相信你会想把活人当成儿童玩具卖掉！",
     "OriginalText": "I can't believe you'd try to pass off real people as kids toys!",
     "StartAddress": 3896800,
     "EndAddress": 3896862,
@@ -8960,7 +8960,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "收藏手办。",
+    "Text": "是手办。",
     "OriginalText": "Collectable figures.",
     "StartAddress": 3896912,
     "EndAddress": 3896926,
@@ -9499,7 +9499,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "我不行！",
+    "Text": "绝对不行！",
     "OriginalText": "I MUSTN'T!",
     "StartAddress": 3899736,
     "EndAddress": 3899750,
@@ -9709,7 +9709,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "它会是个史诗级冒险，主角是我！",
+    "Text": "它会是场史诗级冒险，主角是我！",
     "OriginalText": "It will be an <1>EPIC ADVENTURE</1> starring <1>ME</1>!",
     "StartAddress": 3900712,
     "EndAddress": 3900758,
@@ -9828,7 +9828,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "我的！",
+    "Text": "我！",
     "OriginalText": "I DID!",
     "StartAddress": 3901216,
     "EndAddress": 3901230,
@@ -9849,7 +9849,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "…….惊人的……",
+    "Text": "……惊人的……",
     "OriginalText": "…just… ",
     "StartAddress": 3901336,
     "EndAddress": 3901358,
@@ -10703,7 +10703,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "额…",
+    "Text": "呃…",
     "OriginalText": "Errr...",
     "StartAddress": 3905464,
     "EndAddress": 3905478,
@@ -11137,7 +11137,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "我会帮你逃出来的。",
+    "Text": "我会救你出来的。",
     "OriginalText": "I'll get you out of there.",
     "StartAddress": 3907672,
     "EndAddress": 3907718,
@@ -11410,7 +11410,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "男人洞穴里有女人！",
+    "Text": "男洞穴里有女人！",
     "OriginalText": "WOMEN IN THE MAN CAVE!",
     "StartAddress": 3909168,
     "EndAddress": 3909198,
@@ -11571,7 +11571,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "…….参加表演……",
+    "Text": "……参加表演……",
     "OriginalText": "...and taking part in the performance...",
     "StartAddress": 3910000,
     "EndAddress": 3910030,
@@ -12187,7 +12187,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "拯她是不可能的。",
+    "Text": "拯救她是不可能的。",
     "OriginalText": "Rescue is impossible.",
     "StartAddress": 3913208,
     "EndAddress": 3913238,
@@ -12516,7 +12516,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "可我闻起来满是谎言和欺骗。",
+    "Text": "可我却散发着谎言的味道。",
     "OriginalText": "But I reek of lies and deception.",
     "StartAddress": 3914944,
     "EndAddress": 3914982,
@@ -12558,7 +12558,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "但七海妖来的时候，我无法拯救我的人民。",
+    "Text": "但七海妖来的时候，我却无法拯救我的人民。",
     "OriginalText": "But when the <1>SEVEN SIRENS</1> came, I was unable to save my people.",
     "StartAddress": 3915160,
     "EndAddress": 3915222,
@@ -13195,7 +13195,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "似乎是来自从墙里的这个小端口。",
+    "Text": "似乎是来自墙里的这个小端口。",
     "OriginalText": "It seems to be coming from this small port in the wall. ",
     "StartAddress": 3919408,
     "EndAddress": 3919454,
@@ -13370,7 +13370,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "若释放阀没有及时打开……",
+    "Text": "如果释放阀没有及时打开……",
     "OriginalText": "If the valve isn't opened by the time the Core goes critical...",
     "StartAddress": 3920696,
     "EndAddress": 3920734,
@@ -13587,7 +13587,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "而这城市的力量就会属于我！",
+    "Text": "然后这城市的力量就会属于我！",
     "OriginalText": "And the power of this city will belong to me!",
     "StartAddress": 3921792,
     "EndAddress": 3921838,
@@ -14406,7 +14406,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "哇，那章鱼形式真是有用！",
+    "Text": "哇，那章鱼形态可有用！",
     "OriginalText": "Boy, that <1>OCTO FORM</1> sure came in handy! ",
     "StartAddress": 3926248,
     "EndAddress": 3926286,
@@ -14476,7 +14476,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "在脑海里舒展着的大美女？！",
+    "Text": "在脑液里舒展着的大美女？！",
     "OriginalText": "RADICAL HOT BABE CHILLIN’ OUT IN THE BRAIN JUICE?!?",
     "StartAddress": 3926552,
     "EndAddress": 3926590,
@@ -14504,14 +14504,14 @@
     "MaxLength": 31
   },
   {
-    "Text": "点子小偷！",
+    "Text": "点子窃贼！",
     "OriginalText": "IDEA STEALER!",
     "StartAddress": 3926696,
     "EndAddress": 3926710,
     "MaxLength": 15
   },
   {
-    "Text": "点子窃贼。",
+    "Text": "点子小偷。",
     "OriginalText": "Idea thief.",
     "StartAddress": 3926712,
     "EndAddress": 3926726,
@@ -14553,7 +14553,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "…….巨大、白色、全屏的爆炸呢？！",
+    "Text": "……巨大、白色、全屏的爆炸呢？！",
     "OriginalText": "...screen clearing blasts that you love so much!",
     "StartAddress": 3926904,
     "EndAddress": 3926958,
@@ -14693,7 +14693,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "趁海妖还没发现她们主要控制系统已经恢复上线了！",
+    "Text": "趁海妖还没发现她们的主控系统已经恢复上线了！",
     "OriginalText": "Before those Sirens realize that their main control systems are back on line!",
     "StartAddress": 3927560,
     "EndAddress": 3927630,
@@ -15022,7 +15022,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "…….才能拯救大家！",
+    "Text": "……才能拯救大家！",
     "OriginalText": "...can save the day!",
     "StartAddress": 3929248,
     "EndAddress": 3929278,
@@ -15323,7 +15323,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "你一直都计划着释放那些怪兽！",
+    "Text": "从一开始你的计划就是释放那些怪兽！",
     "OriginalText": "Releasing those creatures was part of your plan all along!",
     "StartAddress": 3930600,
     "EndAddress": 3930654,
@@ -15456,7 +15456,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "那我们马上回到水面！",
+    "Text": "那我们马上回到地面！",
     "OriginalText": "Then let's get <1>BACK TO THE SURFACE</1>, fast!!",
     "StartAddress": 3931224,
     "EndAddress": 3931278,
@@ -15505,28 +15505,28 @@
     "MaxLength": 15
   },
   {
-    "Text": "该去解决<1>第二个能源收集器</1>了！",
+    "Text": "该去解决<1>第二个能源收集塔</1>了！",
     "OriginalText": "Now for that <1>SECOND ENERGY COLLECTOR</1>!",
     "StartAddress": 3931624,
     "EndAddress": 3931686,
     "MaxLength": 63
   },
   {
-    "Text": "两个能源收集器解决了！",
+    "Text": "两个能源收集塔解决了！",
     "OriginalText": "Two energy collectors down!",
     "StartAddress": 3931688,
     "EndAddress": 3931726,
     "MaxLength": 39
   },
   {
-    "Text": "该去解决<1>第三个能源收集器</1>了！",
+    "Text": "该去解决<1>第三个能源收集塔</1>了！",
     "OriginalText": "Now for that <1>THIRD TOWER</1>!",
     "StartAddress": 3931728,
     "EndAddress": 3931790,
     "MaxLength": 63
   },
   {
-    "Text": "还剩下一个<1>能源收集器</1>！",
+    "Text": "还剩下一个<1>能源收集塔</1>！",
     "OriginalText": "One more <1>ENERGY COLLECTOR TOWER</1> to go!",
     "StartAddress": 3931792,
     "EndAddress": 3931838,
@@ -15547,14 +15547,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "我就知道你能成功！额，你成功了吗？",
+    "Text": "我就知道你能成功！呃，你成功了吗？",
     "OriginalText": "I knew you could do it! Um, did you?",
     "StartAddress": 3931896,
     "EndAddress": 3931950,
     "MaxLength": 55
   },
   {
-    "Text": "嗯。全部四个能源收集器都毁了。",
+    "Text": "嗯。全部四个能源收集塔都毁了。",
     "OriginalText": "Yeah. All four energy collectors are down for the count.",
     "StartAddress": 3931952,
     "EndAddress": 3932006,
@@ -17570,7 +17570,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "来求我指教吗？",
+    "Text": "来听我的建议吗?",
     "OriginalText": "Here for my advice?",
     "StartAddress": 3943336,
     "EndAddress": 3943358,
@@ -17906,7 +17906,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "但也有某种特殊食物能补充魔法！",
+    "Text": "但也有某些特别的食物能补充魔法！",
     "OriginalText": "But there are special kinds of food that also refill magic!",
     "StartAddress": 3945392,
     "EndAddress": 3945454,
@@ -18200,7 +18200,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "我听说你修好了我的一个风机！",
+    "Text": "我听说你修好了我的风机！",
     "OriginalText": "I heard that you repaired one of my fans!",
     "StartAddress": 3947288,
     "EndAddress": 3947334,
@@ -18438,14 +18438,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "请来把你东西拿走。",
+    "Text": "请来把你的东西拿走。",
     "OriginalText": "Please come pick up your box of stuff.",
     "StartAddress": 3948640,
     "EndAddress": 3948670,
     "MaxLength": 31
   },
   {
-    "Text": "否则我就得丢到垃圾桶里。",
+    "Text": "否则我就丢到垃圾桶里了。",
     "OriginalText": "Otherwise I'll be forced to toss it in the trash.",
     "StartAddress": 3948672,
     "EndAddress": 3948710,
@@ -18592,7 +18592,7 @@
     "MaxLength": 31
   },
   {
-    "Text": "可是……你还没结束呢。",
+    "Text": "可是……还没结束呢。",
     "OriginalText": "But... you ain't done yet.",
     "StartAddress": 3949672,
     "EndAddress": 3949710,
@@ -19915,7 +19915,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "（唱着奇妙的冒险歌曲）",
+    "Text": "（唱起了奇妙的冒险歌曲）",
     "OriginalText": "(sings bizarre, yet adventurous song)",
     "StartAddress": 3958280,
     "EndAddress": 3958350,
@@ -20097,7 +20097,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "……额……",
+    "Text": "……呃……",
     "OriginalText": "...uh...",
     "StartAddress": 3959624,
     "EndAddress": 3959638,
@@ -21441,7 +21441,7 @@
     "MaxLength": 47
   },
   {
-    "Text": "想要用<1>七个金块</1>来交换鮟鱇鱼海妖吗？",
+    "Text": "想要用<1>七个金块</1>来交换𩽾𩾌鱼海妖吗？",
     "OriginalText": "Want to trade me <1>7 NUGGETS</1> for the Angler Siren?",
     "StartAddress": 3967952,
     "EndAddress": 3968038,
@@ -22736,7 +22736,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "跟新一样！",
+    "Text": "完好如新！",
     "OriginalText": "Good as new!",
     "StartAddress": 3974656,
     "EndAddress": 3974670,
