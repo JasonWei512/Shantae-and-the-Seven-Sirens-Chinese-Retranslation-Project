@@ -2408,7 +2408,7 @@
     "MaxLength": 79
   },
   {
-    "Text": "证明...某某东西的科学证据！",
+    "Text": "证明…某某东西的科学证据！",
     "OriginalText": "Scientific evidence that proves... something!",
     "StartAddress": 378264,
     "EndAddress": 378302,
@@ -4081,7 +4081,7 @@
     "MaxLength": 95
   },
   {
-    "Text": "召唤出地动山摇的地震！此舞伤害巨大，甚至能更改周围的环境...",
+    "Text": "召唤出地动山摇的地震！此舞伤害巨大，甚至能更改周围的环境…",
     "OriginalText": "Shake things up by calling forth powerful tremors! This dance deals heavy damage, and can even alter your surroundings...",
     "StartAddress": 386072,
     "EndAddress": 386174,
