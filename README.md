@@ -1,6 +1,6 @@
 # 汉化补丁下载
 
-[0.2.1 先行版下载](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.2.1/localization.pak.zip) | [国内镜像](http://github.strcpy.cn/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.2.1/localization.pak.zip)
+[0.2.2 先行版下载](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.2.2/localization.pak.zip) | [国内镜像](http://github.strcpy.cn/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.2.2/localization.pak.zip)
 
 解压后覆盖 ```游戏目录/data/localization.pak```。
 
@@ -32,7 +32,7 @@ google translation, which is mentioned in many reviews. And there're some garble
 
 At the moment this translation patch is basically finished and being tested by Chinese gamers. Hope this can be the official simplified Chinese translation of Shantae and the Seven Sirens.
 
-[Here](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.2.1/localization.pak.zip) is the translation patch (replacing ```{Game Folder}/data/localization.pak```). 
+[Here](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.2.2/localization.pak.zip) is the translation patch (replacing ```{Game Folder}/data/localization.pak```). 
 
 [Here](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/tree/translation/简体中文) are the translation texts. (And [here](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/tree/translation/English) are the original English texts.)
 

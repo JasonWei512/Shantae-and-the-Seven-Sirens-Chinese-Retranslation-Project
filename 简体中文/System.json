@@ -3367,14 +3367,14 @@
     "MaxLength": 23
   },
   {
-    "Text": "无坠落损害",
+    "Text": "无坠落伤害",
     "OriginalText": "No Pit Damage",
     "StartAddress": 383056,
     "EndAddress": 383070,
     "MaxLength": 15
   },
   {
-    "Text": "掉进洞时不受任何损害！",
+    "Text": "掉进洞时不受任何伤害！",
     "OriginalText": "Take no damage when destroyed by a pit!",
     "StartAddress": 383072,
     "EndAddress": 383110,
@@ -3871,7 +3871,7 @@
     "MaxLength": 39
   },
   {
-    "Text": "尖球损害＋",
+    "Text": "尖球伤害＋",
     "OriginalText": "Pike Ball Damage +",
     "StartAddress": 385112,
     "EndAddress": 385126,
