@@ -2947,7 +2947,7 @@
     "MaxLength": 63
   },
   {
-    "Text": "被踩过的烤脆吐司。波罗的最爱。",
+    "Text": "被踩过的烤脆面包。波罗的最爱。",
     "OriginalText": "Crunchy toast that's been stepped on. Bolo's favorite.",
     "StartAddress": 382104,
     "EndAddress": 382150,
@@ -3031,7 +3031,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "老鹰人炸弹杀手",
+    "Text": "老鹰投弹手",
     "OriginalText": "Eagle Man Bomber",
     "StartAddress": 382312,
     "EndAddress": 382334,
@@ -3115,7 +3115,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "龙虾慢跑者",
+    "Text": "慢跑龙虾",
     "OriginalText": "Lobster Jogger",
     "StartAddress": 382472,
     "EndAddress": 382486,
@@ -3157,7 +3157,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "阶段强快冲者",
+    "Text": "相位墙壁冲刺者",
     "OriginalText": "Phase Wall Dasher",
     "StartAddress": 382560,
     "EndAddress": 382582,
@@ -3171,7 +3171,7 @@
     "MaxLength": 7
   },
   {
-    "Text": "泥土爬者",
+    "Text": "泥土爬行者",
     "OriginalText": "Dirt Crawler",
     "StartAddress": 382592,
     "EndAddress": 382606,
@@ -3185,7 +3185,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "恶魔",
+    "Text": "幽灵",
     "OriginalText": "Spectre",
     "StartAddress": 382624,
     "EndAddress": 382630,
@@ -3227,7 +3227,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "墙壁快冲者",
+    "Text": "墙壁冲刺者",
     "OriginalText": "Wall Dasher",
     "StartAddress": 382704,
     "EndAddress": 382718,
@@ -3241,14 +3241,14 @@
     "MaxLength": 15
   },
   {
-    "Text": "拾荒人",
+    "Text": "破布烂骨头",
     "OriginalText": "Rag and Bones",
     "StartAddress": 382736,
     "EndAddress": 382750,
     "MaxLength": 15
   },
   {
-    "Text": "铁熔渣",
+    "Text": "金属渣",
     "OriginalText": "Metal Slag",
     "StartAddress": 382752,
     "EndAddress": 382766,
