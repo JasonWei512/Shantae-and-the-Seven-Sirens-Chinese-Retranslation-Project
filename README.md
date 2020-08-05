@@ -28,7 +28,7 @@ Shantae and the Seven Sirens 的中文机翻过于严重，所以我重新翻译
 # To WayForward
 
 A big part of Shantae and the Seven Sirens' simplified Chinese translation looks like 
-google translation, which is mentioned in many reviews. And there're some garbled texts like 🖾 (maybe because of the Chinese font used). So I retranslated all texts and made a translation patch.
+google translation, which is mentioned in many reviews. And there're some garbled texts like 🖾 (because some Chinese characters in game are not in the Chinese font). So I retranslated all texts and made a translation patch.
 
 At the moment this translation patch is basically finished and being tested by Chinese gamers. Hope this can be the official simplified Chinese translation of Shantae and the Seven Sirens.
 
