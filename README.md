@@ -2,7 +2,7 @@
 
 [0.2.2 先行版下载](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.2.2/localization.pak.zip) | [国内镜像](http://github.strcpy.cn/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.2.2/localization.pak.zip)
 
-解压后覆盖 ```游戏目录/data/localization.pak```。
+适用于 [Steam 版](https://store.steampowered.com/app/1191630/Shantae_and_the_Seven_Sirens/)，解压后覆盖 ```游戏目录/data/localization.pak```。
 
 基本可用于游玩。已在游戏内测试过一轮，修改了部分语句的翻译，统一了部分标点。可能仍有极少数没被测试到的文本翻译和显示错误。
 
