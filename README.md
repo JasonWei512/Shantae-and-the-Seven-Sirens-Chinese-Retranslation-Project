@@ -6,6 +6,8 @@
 
 基本可用于游玩。已在游戏内测试过一轮，修改了部分语句的翻译，统一了部分标点。可能仍有极少数没被测试到的文本翻译和显示错误。
 
+⚠注意：[有用户反映用了以后不能解锁成就。](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/issues/3)
+
 # 概述
 
 [![生成汉化补丁](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/workflows/%E7%94%9F%E6%88%90%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E3%80%80%E3%80%80/badge.svg)](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/actions?query=workflow%3A%E7%94%9F%E6%88%90%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81%E3%80%80%E3%80%80)
