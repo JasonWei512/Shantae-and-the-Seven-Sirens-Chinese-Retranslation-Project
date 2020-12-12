@@ -4256,7 +4256,7 @@
     "MaxLength": 15
   },
   {
-    "Text": "谢谢你给了我这<1>希望</1>的礼物！",
+    "Text": "谢谢你给了我<1>希望</1>这份礼物！",
     "OriginalText": "Thank you for this gift of <1>HOPE</1>!",
     "StartAddress": 3869304,
     "EndAddress": 3869350,
@@ -4879,7 +4879,7 @@
     "MaxLength": 55
   },
   {
-    "Text": "以后还会有时间继续跳舞！",
+    "Text": "以后有的是时间跳舞！",
     "OriginalText": "There will be time for more dancing later!",
     "StartAddress": 3872832,
     "EndAddress": 3872870,
