@@ -3976,7 +3976,7 @@
     "MaxLength": 23
   },
   {
-    "Text": "跟我<1>女儿，薇拉</1>,一样。",
+    "Text": "跟我<1>女儿，薇拉</1>，一样.",
     "OriginalText": "Same as my <1>DAUGHTER, VERA</1>.",
     "StartAddress": 3867880,
     "EndAddress": 3867918,
@@ -3997,14 +3997,14 @@
     "MaxLength": 39
   },
   {
-    "Text": "许多年来，我的人民都得躲起来。",
+    "Text": "多年来，我的人民都不得不躲起来.",
     "OriginalText": "For years, my people have been forced to hide.",
     "StartAddress": 3867984,
     "EndAddress": 3868030,
     "MaxLength": 47
   },
   {
-    "Text": "那些东西，来自<1>下方</1>…",
+    "Text": "那些来自<1>下方</1>的东西…",
     "OriginalText": "The things from <1>DOWN BELOW</1>...",
     "StartAddress": 3868032,
     "EndAddress": 3868070,
