@@ -1,3 +1,7 @@
+# 注意
+
+2021年3月5日，官方更新了 Steam 版，大幅改进了中文翻译，所以你不再需要这个补丁了。（而且这个补丁应该和新版游戏不兼容）
+
 # 汉化补丁下载
 
 [0.2.2 先行版下载](https://github.com/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.2.2/localization.pak.zip) | [国内镜像](http://github.strcpy.cn/JasonWei512/Shantae-and-the-Seven-Sirens-Chinese-Retranslation-Project/releases/download/0.2.2/localization.pak.zip)
